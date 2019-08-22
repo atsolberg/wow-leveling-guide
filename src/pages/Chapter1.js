@@ -195,9 +195,10 @@ function Chapter1() {
         raceway, do long circles all around it and kill everything on the way.
         <br /> If you have troubles finding buzzards, there is a nice spot with
         10 of them at (87,66).
-        <br /> Keep doing this until you complete all the quests, get 10 Turtle
-        Meat and hit level 32. Grind on turtles in particular, they drop scales
-        which sell nicely. Don't sell the Turtle Meat, put them in bank or
+        <br /> Keep doing this until you complete all the quests, get 10{' '}
+        <span className="item">Turtle Meat</span> and hit level 32. Grind on
+        turtles in particular, they drop scales which sell nicely. Don't sell
+        the <span className="item">Turtle Meat</span>, put them in bank or
         somewhere in your inventory.
       </p>
       <p>Turn in all the quests and get the follow up quests : </p>
