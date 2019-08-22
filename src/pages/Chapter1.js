@@ -335,7 +335,7 @@ function Chapter1() {
       </p>
       <p>
         Step 1: Kill River Crocolisks which can be found all along the river in
-        northern Stranglethorn Vale until you find 2 Large Crocolisk Skins.
+        northern Stranglethorn Vale until you find 2 <span className="item">Large Crocolisk Skins</span>.
         While you search for crocs you can also kill Young Tigers close to the
         river for Tiger Mastery.
       </p>
@@ -350,7 +350,7 @@ function Chapter1() {
       <p>
         Step 4: Go further northeast to the Kurzen Camp (44,11) and kill 15
         Kurzen Jungle Fighters as well as Kurzen Medecine Men until you get 7
-        Jungle Remedies (might take a while). Also you'll need a Fern Extract
+        <span className="item">Jungle Remedies</span> (might take a while). Also you'll need a <span className="item">Fern Extract</span>
         from one of the piles of crates scattered around the Kurzen Compound.
       </p>
       <p>
@@ -383,7 +383,7 @@ function Chapter1() {
       <p>
         Step 9: Go south and down the plateau until you find the troll camp at
         Bal'lal Ruins (29,20)
-        <br /> It should take a while to get 15 bloodscalp ears but it is a nice
+        <br /> It should take a while to get 15 <span className="item">Bloodscalp Ears</span> but it is a nice
         grinding spot anyway. So grind at this spot until you hit level 33. If
         you don't have enough trolls there is another camp northeast at the
         Tkashi Ruins (33,15).
@@ -395,7 +395,7 @@ function Chapter1() {
         Basilisks. If you run short on Basilisks, there is more on the lower
         plateau to the east along the shore. If there aren't any basilisks just
         go kill some trolls until they respawn. Kill basilisks until you get 10
-        Singing Crystal Shards.
+        <span className="item">Singing Crystal Shards</span>.
       </p>
       <p>
         Step 11: After that, take a swim westwards until you hit the island at
@@ -563,7 +563,7 @@ function Chapter1() {
       <p>
         Step 8: Once Sin'dall is dead, head west until you hit the island you
         discovered before (21,22), and kill Water Elementals there until you get
-        6 Water Elemental Bracers.
+        6 <span className="item">Water Elemental Bracers</span>.
       </p>
       <p>
         Step 9: At this point you should be getting close to level 35. If you
@@ -595,7 +595,7 @@ function Chapter1() {
           (Leather-and-hide shop),
         </li>
       </ul>
-      Don't get the follow up. Go to the bank and get the 10 Turtle meat you
+      Don't get the follow up. Go to the bank and get the 10 <span className="item">Turtle Meat</span> you
       saved since Thousand Needles, and make space in your bags in case you
       still have Stranglethorn pages.
       <p>Time to travel!</p>
@@ -636,7 +636,7 @@ function Chapter1() {
       </ul>
       <p>
         And <span className="quest">[31] Soothing Turtle Bisque</span> which you
-        can complete immediately because you already got 10 Turtle Meat. You can
+        can complete immediately because you already got 10 <span className="item">Turtle Meat</span>. You can
         buy the soothing spices from the trade goods merchant in the first house
         to the right when entering Southshore from the north.
       </p>
@@ -644,7 +644,7 @@ function Chapter1() {
         Don't bother with{' '}
         <span className="quest">[34] Bartolo's Yeti Fur Cloak</span> unless you
         are a Leatherworker or got a Leatherworker friend who can make a
-        Hillman's cloak. You can buy a Bolt of Woolen Cloth at the auction house
+        <span className="item">Hillman's Cloak</span>. You can buy a <span className="item">Bolt of Woolen Cloth</span> at the auction house
         or ask a tailor.
       </p>
       <h6>Level 35</h6>
@@ -655,7 +655,7 @@ function Chapter1() {
       </p>
       <p>
         Step 2: Go turn it in and get the follow up. Go back and kill more
-        murlocs until you get 10 Murloc Heads.{' '}
+        murlocs until you get 10 <span className="item">Murloc Heads</span>.{' '}
       </p>
       <p>
         Step 3: Go turn in the quest, get the follow up. Speak with Marshal
@@ -685,7 +685,7 @@ function Chapter1() {
         the NPC named Quae, she is looking over the Go'Shek Farm from the
         northwest edge. Talk to her and take the follow up quest{' '}
         <span className="quest">[36] Hints of a new Plague?</span>. You need to
-        find and kill a Forsaken Courier and loot a Sealed Folder from him.
+        find and kill a Forsaken Courier and loot <span className="item">A Sealed Folder</span> from him.
       </p>
       <p>
         <strong>In Short</strong>: The Forsaken Courier roams from the Go'Shek
@@ -737,7 +737,7 @@ function Chapter1() {
         it, try to get a partner to duo it.
       </p>
       <p>
-        Step 7: Once you got the Sealed Folder from the Forsaken Courier, go
+        Step 7: Once you got the <span className="item">Sealed Folder</span> from the Forsaken Courier, go
         back to Quae (60,53). Turn in and get the follow up{' '}
         <span className="quest">[37] Hints of a new Plague?</span>, where you
         have to escort Kinelory.
@@ -754,10 +754,10 @@ function Chapter1() {
         southeast of Go'Shek Farm to the troll village (63,65).
       </p>
       <p>
-        Kill trolls until you get 10 Tusks. Kill Witch Doctors until you get 4
-        Medicine Pouches. Further inside the village and to the south (68,75)
+        Kill trolls until you get 10 <span className="item">Tusks</span>. Kill Witch Doctors until you get 4
+        <span className="item">Medicine Pouches</span>. Further inside the village and to the south (68,75)
         you will find a cave. Inside the cave you will find Witherbark Shadow
-        Hunters and get the Hunter Knife you miss to complete the quest.
+        Hunters and get the <span className="item">Hunter Knife</span> you miss to complete the quest.
       </p>
       <p>
         Step 9: Once completed, run back to Refuge Pointe in Arathi and turn in
@@ -779,7 +779,7 @@ function Chapter1() {
       </p>
       <p>
         Then go northwest towards the snowy mountains where you will find
-        Crushridge Ogres, they drop the Dirty Knucklebones you need. <br /> When
+        Crushridge Ogres, they drop the <span className="item">Dirty Knucklebones</span> you need. <br /> When
         you run short on ogres, you can go to the southwest where you will find
         the area called "Corrahn's Dagger" (47,76). There you can kill Syndicate
         Footpads and Syndicate Thieves as well as Mountain Lions and Hulking
@@ -889,9 +889,9 @@ function Chapter1() {
           Hatefury Satyrs in Sargeron, southeast of Nigel's Point (75,20).
         </li>
         <li>
-          When you got 10 Hatefury Claws and 10 Hatefury Horns go west to the
+          When you got 10 <span className="item">Hatefury Claws</span> and 10 <span className="item">Hatefury Horns</span> go west to the
           area just north of Thunder Axe Fortress (56,17) you will find a ruined
-          caravan there. Look for Malem Chest. It's not actually a chest, rather
+          caravan there. Look for <span className="item">Malem Chest</span>. It's not actually a chest, rather
           a crate. Open it, get the follow up.
         </li>
         <li>
@@ -910,8 +910,7 @@ function Chapter1() {
           the mast of a sunken ship. The Ravnitol Chest is on the shore at
           (36,30). Open it, and get the follow up quest. Right next to the chest
           is a black book named "Rackmore's Log". Click it and get the quest{' '}
-          <span className="quest">[36] Claim Rackmore's Treasure</span>. The
-          Silver Key drops from Drysnap Pincer or Crawler. The Gold Key drops
+          <span className="quest">[36] Claim Rackmore's Treasure</span>. <span className="item">Rackmore's Silver Key</span> drops from Drysnap Pincer or Crawler. <span className="item">Rackmore's Gold Key</span> drops
           from any Slitherblade Naga. Take a swim and kill Drysnaps around the
           ship until you get a Silver Key. It takes about 10 kills on average.
           Then further north go kill Siltherblade Nagas until you get a gold
@@ -972,15 +971,15 @@ function Chapter1() {
           statue on the northwestern part of the isle (28,6). Clear the way
           around the statue, get full health/mana and go click the statue twice.
           Lord Kragaru will spawn, a lvl 38 Naga. Kill it (soloable at 36) and
-          loot the Book of the Ancients. Before you go, kill Slitherblade
+          loot the <span className="item">Book of the Ancients</span>. Before you go, kill Slitherblade
           Tidehunters and Slitherblade Sea Witches until one of them drops
-          Karnitol's Satchel. Takes 15 kills on average (Took me only 4 once,
+          <span className="item">Karnitol's Satchel</span>. Takes 15 kills on average (Took me only 4 once,
           and another time it took 29 kills).
         </li>
         <li>Swim back to Azore Aldamort get your rewards.</li>
         <li>
-          Now go southeast towards the Kodo Graveyard (48,55). Gather 10 kodo
-          bones there, kill the Carrion Vultures if they are in the way. When
+          Now go southeast towards the Kodo Graveyard (48,55). Gather 10 <span className="item">Kodo
+          Bone</span>s there, kill the Carrion Vultures if they are in the way. When
           you loot a bone there's a 50% chance a lvl 37-38 Kodo Apparition will
           pop up and attack you. You can run away or deal with it, up to you,
           they disappear after about 10 minutes.
@@ -999,7 +998,7 @@ function Chapter1() {
           Kills, 46 if you are human). You can check your reputation with the
           Gelkis Centaur Clan by opening your character panel ("C" key) and
           clicking on the reputation tab or just directly press "U" key. After
-          those 50 Kills you should also have 15 Centaur Ears by now, if you
+          those 50 Kills you should also have 15 <span className="item">Centaur Ear</span>s by now, if you
           don't, just kill some more centaurs.
         </li>
       </ol>
@@ -1098,8 +1097,8 @@ function Chapter1() {
       <ol>
         <li>
           You should be in <strong>Ironforge</strong>, if not, use Hearthstone,
-          as you should still be bound there. Get the Patterned Bronze Bracers,
-          the Frost Oil and the Gyrocronatom from your bank (or buy them now if
+          as you should still be bound there. Get the <span className="item">Patterned Bronze Bracers</span>,
+          the <span className="item">Frost Oil</span> and the <span className="item">Gyrocronatom</span> from your bank (or buy them now if
           you didn't yet). I suggest you buy 4 stacks of food/drink at least
           before leaving.
         </li>
@@ -1167,7 +1166,7 @@ function Chapter1() {
           stones which you can stack up and sell to merchants for nice cash.
           (However, you should try to AH Solid stones, deeprock salt and
           Elemental Earth, they sell fairly nice at the Auction house). Stay at
-          this spot until you get 10 Small Stone Shard and hit level 39. If you
+          this spot until you get 10 <span className="item">Small Stone Shard</span> and hit level 39. If you
           don't like elementals, or if the spot is already overcrowded, go east
           to Angor Fortress, and kill Dwarves. For those who didn't go to
           Scarlet Monastery this will mean a long grinding session, but this
@@ -1182,13 +1181,13 @@ function Chapter1() {
         <li>
           Go east and a bit to the north to Hammertoe's Digsite.
           <br />
-          At (53,34) under a tent next to a big keg you will find a Crumpled Map
+          At (53,34) under a tent next to a big keg you will find a <span className="item">Crumpled Map</span>{' '}
           on the floor. Click it and get the quest{' '}
           <span className="quest">[35] A Sign of Hope</span>. Then keep on
           killing Dark Dwarves until you get Ryedol's Lucky Pick.
         </li>
         <li>
-          Then go northeast to Camp Kosh where you can find the Supply Crate.
+          Then go northeast to Camp Kosh where you can find the <span className="item">Supply Crate</span>.
           (67,22)
           <p>
             When you got the crate, go back to Prospector Ryedol south of
@@ -1205,15 +1204,15 @@ function Chapter1() {
         <li>
           Kill 12 Stonevault Bonesnapper and Murdaloc, you can find him inside
           the camp next to the Dwarven Corpse. Keep killing those Troggs until
-          you get 10 Indurium Flakes as well.
+          you get 10 <span className="item">Indurium Flakes</span> as well.
         </li>
         <li>
           Once both quests complete go south into the mountains and kill Rock
-          Elementals at (40,73) until you get 3 Large Stone Slabs.
+          Elementals at (40,73) until you get 3 <span className="item">Large Stone Slab</span>s.
         </li>
         <li>
           Go west to the ogre area named Camp Cagg (10,72), kill ogres there
-          until you get 7 Scrap Metal. This may take a while.
+          until you get 7 <span className="item">Scrap Metal</span>. This may take a while.
         </li>
         <li>
           Go north to Apocryphan's Rest (16,60) and kill Buzzards / Coyotes
@@ -1276,7 +1275,7 @@ function Chapter1() {
         </li>
         <li>
           Go to the southwestern part of the map (17, 83) and kill Greater Rock
-          Elementals until you get 5 Bracers of Rock Binding. There's another
+          Elementals until you get 5 <span className="item">Bracers of Rock Binding</span>. There's another
           camp of Greater Rock Elementals further to the west past the Ogres
           (6,83). This will be hard because some of the elementals are level 44.
           Try to find level 42 or 43 ones if the level 44 are too hard for you.
