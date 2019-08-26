@@ -26,6 +26,7 @@ const styles = css`
 
   h1 {
     color: #999;
+    font-size: 2rem;
   }
   h2,
   h3,
@@ -50,6 +51,7 @@ const styles = css`
   }
   .quest {
     color: #ffcc00;
+    font-weight: bold;
   }
 `;
 

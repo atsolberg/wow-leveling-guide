@@ -13,7 +13,15 @@ function Header() {
         <Navbar.Brand href="#home">Jame's Leveling Guide</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
-          <Nav className="ml-auto">
+          <Nav className="mr-auto">
+            <Nav.Link eventKey={1} href="/1">
+              Ch 1
+            </Nav.Link>
+            <Nav.Link eventKey={2} href="/2">
+              Ch 2
+            </Nav.Link>
+          </Nav>
+          <Nav>
             <Nav.Link
               eventKey={1}
               href="//github.com/atsolberg/wow-leveling-guide"
