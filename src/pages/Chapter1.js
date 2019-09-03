@@ -116,9 +116,8 @@ function Chapter1() {
         </li>
         <li>
           <strong>In Details</strong>: From <strong>Ironforge</strong>, take a
-          flight path to
-          <strong>Menethil Harbor</strong>, if you don't have that flight path,
-          you'll have to go to wetlands and then run to{' '}
+          flight path to <strong>Menethil Harbor</strong>, if you don't have
+          that flight path, you'll have to go to wetlands and then run to{' '}
           <strong>Menethil Harbor</strong>. In <strong>Menethil Harbor</strong>{' '}
           take the boat to <strong>Theramore</strong> (It is the boat that stops
           at the southern peer). When in <strong>Theramore</strong>, find the
@@ -215,19 +214,27 @@ function Chapter1() {
         talk to the Gryphon master on the other side of the town to get the new
         flight path. Hearthstone to <strong>Theramore</strong>, sell junk and
         repair.
-        <br /> Get out of <strong>Theramore</strong> and follow the road
-        northwest and then south to the Barrens. In the Barrens go north then
-        east to Ratchet. Talk to Gazlowe in Ratchet, get the follow up{' '}
+      </p>
+      <p>
+        Get out of <strong>Theramore</strong> and follow the road northwest and
+        then south to the Barrens. In the Barrens go north then east to Ratchet.
+        Talk to Gazlowe in Ratchet, get the follow up{' '}
         <span className="quest">[37] Goblin Sponsorship</span>. Also talk to
         Wharfmaster Dizzywig on the docks and get the follow up{' '}
         <span className="quest">[36] Parts for Kravel</span>
-        <br /> Take the boat to <strong>Booty Bay</strong>. In{' '}
-        <strong>Booty Bay</strong> on the docks, talk to Wharfmaster Lozgil and
-        get the follow up. Then go to the Inn in <strong>Booty Bay</strong> and
-        make it your home location. Then go train new skills in Stormwind by
-        gryphon ride (for rogues, there's a trainer on the 1st floor of booty
-        bay inn). Visit the Auction house, repair, sell, buy 4 stacks of
-        food/drink (of course don't buy drinks if you aren't a class with mana).
+        <br /> Take the boat to <strong>Booty Bay</strong>.{' '}
+      </p>
+      <p>
+        In <strong>Booty Bay</strong> on the docks, talk to Wharfmaster Lozgil
+        and get the follow up. Get all the quests you can in
+        <strong>Booty Bay</strong>. Then go to the Inn in{' '}
+        <strong>Booty Bay</strong> and make it your home location.{' '}
+      </p>
+      <p>
+        Then go train new skills in Stormwind by gryphon ride (for rogues,
+        there's a trainer on the 1st floor of booty bay inn). Visit the Auction
+        house, repair, sell, buy 4 stacks of food/drink (of course don't buy
+        drinks if you aren't a class with mana).
       </p>
       <h6>Level 32</h6>
       <p>At level 32 the zone we will be aiming for is Stranglethorn Vale. </p>
@@ -235,10 +242,10 @@ function Chapter1() {
       <br />
       <ul>
         <li>
-          First of all get all the quests you can from{' '}
-          <strong>Booty Bay</strong>.
+          Fly to <strong>Darkshire</strong> and run west/south to{' '}
+          <strong>Stranglethorn Vale</strong>. Get the quests in the Rebel Camp
+          in Strangelthorn Vale (37,3).
         </li>
-        <li>Get the quests in the Rebel Camp in Strangelthorn Vale (37,3).</li>
         <li>
           Then go to the Nesingwary's Camp (35,10). Turn in{' '}
           <span className="quest">[31] Hemet Nesingwary Jr</span>. Get the quest{' '}
@@ -348,10 +355,10 @@ function Chapter1() {
       </p>
       <p>
         Step 4: Go further northeast to the Kurzen Camp (44,11) and kill 15
-        Kurzen Jungle Fighters as well as Kurzen Medecine Men until you get 7
+        Kurzen Jungle Fighters as well as Kurzen Medecine Men until you get 7{' '}
         <span className="item">Jungle Remedies</span> (might take a while). Also
-        you'll need a <span className="item">Fern Extract</span>
-        from one of the piles of crates scattered around the Kurzen Compound.
+        you'll need a <span className="item">Fern Extract</span> from one of the
+        piles of crates scattered around the Kurzen Compound.
       </p>
       <p>
         Step 5: Once all 4 quests are done go turn them in (besides Supply and
@@ -363,7 +370,7 @@ function Chapter1() {
           <span className="quest">[38] Special Forces</span>.
         </li>
       </ul>
-      <p>Step 6:And at the Nesingwary camp where you get the follow ups:</p>
+      <p>Step 6: And at the Nesingwary camp where you get the follow ups:</p>
       <ul>
         <li>
           <span className="quest">[33] Tiger Mastery</span>
@@ -395,7 +402,7 @@ function Chapter1() {
         along the shore towards the north until you find Crystal Spine
         Basilisks. If you run short on Basilisks, there is more on the lower
         plateau to the east along the shore. If there aren't any basilisks just
-        go kill some trolls until they respawn. Kill basilisks until you get 10
+        go kill some trolls until they respawn. Kill basilisks until you get 10{' '}
         <span className="item">Singing Crystal Shards</span>.
       </p>
       <p>
