@@ -3,7 +3,7 @@ import React from 'react';
 function Chapter1() {
   return (
     <div>
-      <h1>Jame's Alliance Leveling Guide - Chapter I (30-41) [old version]</h1>
+      <h2>Chapter 1 (30-41) [old version]</h2>
       <h3>Introduction:</h3>
       <p>
         This guide starts at{' '}

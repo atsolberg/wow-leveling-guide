@@ -1,6 +1,5 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
-import axios from 'axios';
 import { Router } from '@reach/router';
 import { Global } from '@emotion/core';
 
@@ -10,6 +9,7 @@ import Footer from './components/footer/Footer';
 
 import Chapter1 from './pages/Chapter1';
 import Chapter2 from './pages/Chapter2';
+import Chapter3 from './pages/Chapter3';
 
 import styles from './styles/global-styles';
 
@@ -26,6 +26,7 @@ function App() {
           <Chapter1 path="/" />
           <Chapter1 path="/1" />
           <Chapter2 path="/2" />
+          <Chapter3 path="/3" />
         </Router>
       </Main>
       <Footer />

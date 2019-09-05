@@ -20,6 +20,9 @@ function Header() {
             <Nav.Link eventKey={2} href="/2">
               Ch 2
             </Nav.Link>
+            <Nav.Link eventKey={3} href="/3">
+              Ch 3
+            </Nav.Link>
           </Nav>
           <Nav>
             <Nav.Link

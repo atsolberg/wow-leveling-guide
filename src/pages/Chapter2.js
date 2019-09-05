@@ -3,9 +3,7 @@ import React from 'react';
 function Chapter2() {
   return (
     <div>
-      <h1 className="title">
-        Jame's Alliance leveling guide - Chapter 2 (41-50) [old version]
-      </h1>
+      <h2>Chapter 2 (41-50) [old version]</h2>
       <h3>Introduction:</h3>
       <p>
         This guide will take you from level 41 to level 50 in a breeze, but you
