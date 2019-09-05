@@ -801,14 +801,18 @@ function Chapter1() {
         you run short on ogres, you can go to the southwest where you will find
         the area called "Corrahn's Dagger" (47,76). There you can kill Syndicate
         Footpads and Syndicate Thieves as well as Mountain Lions and Hulking
-        Mountain Lions. I suggest you go back and forth from this spot to the
-        ogres whenever you run short on mobs. Do this until the Ogre and
-        Syndicate quests are completed. Then there's more Lions further to the
-        west at "The Headland" (38,55).
-        <br /> You should keep going westwards while killing lions until you
-        complete your quest. At this point you should be close to level 36, if
-        not, grind on ogres / syndicates until you are about 2 bubbles away from
-        level up.
+        Mountain Lions.
+      </p>
+      <p>
+        I suggest you go back and forth from this spot to the ogres whenever you
+        run short on mobs. Do this until the Ogre and Syndicate quests are
+        completed. Then there's more Lions further to the west at "The Headland"
+        (38,55).
+      </p>
+      <p>
+        You should keep going westwards while killing lions until you complete
+        your quest. At this point you should be close to level 36, if not, grind
+        on ogres / syndicates until you are about 2 bubbles away from level up.
       </p>
       <p>
         Step 11: Go northwest towards Dalaran until you reach Archmage Ansirem
@@ -828,16 +832,17 @@ function Chapter1() {
         Step 1: Take a gryphon ride to <strong>Ironforge</strong>, go to the
         hall of explorers northeast of the Gryphon master and get the quest from
         Roetten Stonehammer{' '}
-        <span className="quest">[33] Reclaimers' Business</span> in Desolace.
+        <span className="quest">[33] Reclaimers' Business in Desolace</span>.
         Also turn in the quest{' '}
         <span className="quest">[34] Letter to Stormpike</span> at Prospector
         Stormpike in the Hall of Explorers, don't get the follow up. Then go to
         the inn of <strong>Ironforge</strong> and bind yourself there.
       </p>
       <p>
-        Step 2: Fly to Stormwind. Repair, sell stuff and train new skills. Also,
-        go turn in <span className="quest">[32] Reassignment</span>, at Major
-        Samuelson in Stormwind Keep. (72,16)
+        Step 2: Fly to <strong>Stormwind</strong>. Repair, sell stuff and train
+        new skills. Also, go turn in{' '}
+        <span className="quest">[32] Reassignment</span>, at Major Samuelson in
+        Stormwind Keep. (72,16)
       </p>
       <p>
         Step 3: Fly to <strong>Booty Bay</strong>. In <strong>Booty Bay</strong>
