@@ -769,7 +769,7 @@ function Chapter1() {
       </p>
       <p>
         Kill trolls until you get 10 <span className="item">Tusks</span>. Kill
-        Witch Doctors until you get 4
+        Witch Doctors until you get 4{' '}
         <span className="item">Medicine Pouches</span>. Further inside the
         village and to the south (68,75) you will find a cave. Inside the cave
         you will find Witherbark Shadow Hunters and get the{' '}
@@ -946,7 +946,7 @@ function Chapter1() {
           one guard) on top of the 1st watch tower to the left past the gates.
           Loot the Sceptre of Light.
           <br />
-          >Then go in the big building and talk to Dalinda, get the follow up
+          Then go in the big building and talk to Dalinda, get the follow up
           quest <span className="quest">[33] Search for Tyranis</span>. Tyranis
           is in the other building (the smaller of the two), southwest of the
           main one. Kill Tyranis and loot the pendant.
@@ -996,7 +996,7 @@ function Chapter1() {
           Lord Kragaru will spawn, a lvl 38 Naga. Kill it (soloable at 36) and
           loot the <span className="item">Book of the Ancients</span>. Before
           you go, kill Slitherblade Tidehunters and Slitherblade Sea Witches
-          until one of them drops
+          until one of them drops{' '}
           <span className="item">Karnitol's Satchel</span>. Takes 15 kills on
           average (Took me only 4 once, and another time it took 29 kills).
         </li>
