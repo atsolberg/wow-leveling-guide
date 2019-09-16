@@ -1366,8 +1366,8 @@ function Chapter1() {
         as well as potions. Loot "Lotwil's Shackles of Elemental Binding" from
         the Fam'retor Elemental and go turn in the quest to Lotwil.
         Congratulations, you are done with Badlands and with the first Chapter
-        of this leveling guide! Warp to
-        <strong>Ironforge</strong> and sell / repair / auction etc.
+        of this leveling guide! Warp to <strong>Ironforge</strong> and sell /
+        repair / auction etc.
       </p>
       <p>-Jame</p>
     </div>

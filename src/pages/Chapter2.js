@@ -12,7 +12,7 @@ function Chapter2() {
         <span className="text-success">
           <strong>basic rules</strong>
         </span>{' '}
-        and
+        and{' '}
         <span className="text-success">
           <strong>recommendations</strong>
         </span>{' '}
@@ -42,11 +42,11 @@ function Chapter2() {
             <em>(63,24)</em>.
           </p>
           <p>
-            Next go to just south of the entrance of The Stockades and talk to
-            <span className="person">>Mazen Mac'Nadir</span> and get the quest{' '}
+            Next go to just south of the entrance of The Stockades and talk to{' '}
+            <span className="person">Mazen Mac'Nadir</span> and get the quest{' '}
             <span className="quest">[41] Mazen's Behest</span>
-            <em>(40,63)</em>. Walk upstairs and get the follow-up quest from
-            <span className="person">>Acolyte Dellis</span>.
+            <em>(40,63)</em>. Walk upstairs and get the follow-up quest from{' '}
+            <span className="person">Acolyte Dellis</span>.
           </p>
         </li>
         <li>
@@ -55,29 +55,34 @@ function Chapter2() {
             your home point and get the quests:
             <ul>
               <li>
-                <span className="quest">[37] Goblin Sponsorship</span> from
-                Baron Revilgaz in Booty Bay Inn (Top Floor)
+                <span className="quest">[43] Zanzil's Secret</span> from Crank
+                Fizzlebub inside the Booty Bay Inn.
               </li>
-              <li>
-                <span className="quest">[41] The Bloodsail Buccaneers</span>{' '}
-                from First Mate Crazz just past the "Old Port Authority"
-                building (First big building when getting off the Boat).
-              </li>
+
               <li>
                 <span className="quest">[42] Skullsplitter Tusks</span> from
                 Kebok in the Booty Bay inn (2nd Floor).
               </li>
+
+              <li>
+                <span className="quest">[45] Tran'Rek</span> from Krazek in
+                Booty Bay Inn (2nd Floor).
+              </li>
+
+              <li>
+                <span className="quest">[37] Goblin Sponsorship</span> from
+                Baron Revilgaz in Booty Bay Inn (Top Floor)
+              </li>
+
               <li>
                 <span className="quest">[43] Akiris by the Bundle</span> from
                 Privateer Bloads next to the Bank.
               </li>
+
               <li>
-                <span className="quest">[43] Zanzil's Secret</span> from Crank
-                Fizzlebub inside the Booty Bay Inn.
-              </li>
-              <li>
-                <span className="quest">[45] Tran'Rek</span> from Krazek in
-                Booty Bay Inn (2nd Floor).
+                <span className="quest">[41] The Bloodsail Buccaneers</span>{' '}
+                from First Mate Crazz just past the "Old Port Authority"
+                building (First big building when getting off the Boat).
               </li>
             </ul>
           </p>
@@ -87,18 +92,23 @@ function Chapter2() {
               <li>
                 <span className="quest">[38] Kurzen's Mystery</span>
               </li>
+
               <li>
                 <span className="quest">[38] Panther Mastery</span>
               </li>
+
               <li>
                 <span className="quest">[39] "Pretty Boy" Duncan</span>
               </li>
+
               <li>
                 <span className="quest">[41] Raptor Mastery</span>
               </li>
+
               <li>
                 <span className="quest">[41] Scaring Shaky</span>
               </li>
+
               <li>
                 <span className="quest">[41] Venture Company Mining</span>
               </li>
@@ -259,7 +269,7 @@ function Chapter2() {
             Bloodsail Charts and Orders can spawn at any of the two camps or at
             the boat. So check all three until you got both. Then wander up and
             down the shore where you came from and kill{' '}
-            <strong>Bloodsails</strong> until you get :
+            <strong>Bloodsails</strong> until you get:
           </p>
           <p>
             <ul>
@@ -322,19 +332,18 @@ function Chapter2() {
             clear the camp of trolls. Be careful to avoid the patrols.{' '}
           </p>
           <p>
-            When it's cleared, follow the little path northeast until you reach
+            When it's cleared, follow the little path northeast until you reach{' '}
             <strong>Balia'mah Ruins</strong> <em>(45,33)</em>. Kill all the
             trolls there as well. When this camp is clear, follow the path
             southeast and then south until you reach the ruins of{' '}
-            <strong>Zul'Mamwe</strong>
-            <em>(47,38 )</em> and kill all the trolls you find in the ruins
-            (Though avoid the southernmost one up the plateau, the trolls there
-            are higher level)
+            <strong>Zul'Mamwe</strong> <em>(47,38 )</em> and kill all the trolls
+            you find in the ruins (Though avoid the southernmost one up the
+            plateau, the trolls there are higher level)
           </p>
           <p>
-            If you run out of trolls go back to the first ruins of
-            <strong>Ziata'Jai</strong> and repeat this cycle until you get
-            <span className="item">18 Skullsplitter Tusk</span> and
+            If you run out of trolls go back to the first ruins of{' '}
+            <strong>Ziata'Jai</strong> and repeat this cycle until you get{' '}
+            <span className="item">18 Skullsplitter Tusk</span> and{' '}
             <em>
               <strong>level 42</strong>
             </em>
@@ -487,8 +496,8 @@ function Chapter2() {
         <li>
           <p>
             <strong>Circuit 3: </strong>
-            <em>(No map needed, it's pretty simple)</em>
-            Fly back to Booty Bay, go out and ride north until you reach the{' '}
+            <em>(No map needed, it's pretty simple)</em> Fly back to Booty Bay,
+            go out and ride north until you reach the{' '}
             <strong>Ruins of Jubuwal</strong> <em>(33,51)</em>.
           </p>
           <p>
@@ -512,7 +521,7 @@ function Chapter2() {
             Go back on the road and just a bit south until <em>(33,53)</em>, go
             east through a breached wall and keep going until you hit the{' '}
             <strong>Ruins of Aboraz</strong> <em>(40,57)</em> and kill{' '}
-            <strong>Zanzil Minions</strong> there until you find
+            <strong>Zanzil Minions</strong> there until you find{' '}
             <strong>Chucky "Ten Thumbs"</strong> inside the ruins and loot{' '}
             <span className="item">"Chucky's Huge Ring"</span> from him.
           </p>
@@ -560,8 +569,8 @@ function Chapter2() {
         </div>
         <div>
           <em>Note:</em> This one without any XP bonus, and it could have been
-          better, I died twice stupidly at Jon-Jon the crow. :roll: Repair, sell
-          and refill up to 3 stacks of food/drink.
+          better, I died twice stupidly at Jon-Jon the crow. Repair, sell and
+          refill up to 3 stacks of food/drink.
         </div>
         <li>
           <p>
@@ -594,9 +603,8 @@ function Chapter2() {
             .
           </p>
           <p>
-            Go north to the Misty Valley <em>(13,35)</em>
-            Kill <span className="item">Swampwalker Elders</span> until you
-            complete{' '}
+            Go north to the Misty Valley <em>(13,35)</em>. Kill{' '}
+            <span className="item">Swampwalker Elders</span> until you complete{' '}
             <span className="quest">
               <strong>[41] Mazen's Behest</strong>
             </span>
@@ -702,14 +710,15 @@ function Chapter2() {
           <p>
             Go to the Blasted Lands (follow the road east and then south). In
             Blasted Lands go immediately east to Nethergarde Keep. In
-            Nethergarde keep, find Quartermaster Lungertz and turn in
+            Nethergarde keep, find Quartermaster Lungertz and turn in{' '}
             <span className="quest">
-              <strong>
-                [40] The Lost Supplies
-                <br />
-                [42] Deliver the Shipment
-              </strong>
-            </span>
+              <strong>[40] The Lost Supplies</strong>
+            </span>{' '}
+            and{' '}
+            <span className="quest">
+              <strong>[42] Deliver the Shipment</strong>
+            </span>{' '}
+            if you got it.
           </p>
           <p>
             Find Watcher Mahar Ba and turn in{' '}
@@ -750,7 +759,7 @@ function Chapter2() {
           <a href="https://web.archive.org/web/20101208214225/http://www.wow-pro.com/node/587">
             Uldaman Instance Guide
           </a>{' '}
-          for maximum XP rate. Try to finish the whole instance ,and especially
+          for maximum XP rate. Try to finish the whole instance, and especially
           completing the quest{' '}
           <span className="quest">
             <strong>[47] The Platinum Discs</strong>
@@ -798,19 +807,23 @@ function Chapter2() {
         <li>
           <p>
             <strong>Then fly to Gadgetzan</strong>
-            In Gadgetzan: Turn in <span className="quest">[45] Tran'Rek</span>
-            , don't get the follow up. Get quests:
-            <br />
+          </p>
+          <p>
+            In Gadgetzan: Turn in <span className="quest">[45] Tran'Rek</span>,
+            don't get the follow up.{' '}
+          </p>
+          <p>
+            Get quests:
             <ul>
               <li>
-                <span className="quest">[43] Wastewander Justice</span>
+                <span className="quest">[47] Handle with Care</span> from Curgle
+                Cranklehop
               </li>
               <li>
                 <span className="quest">[44] Water Pouch Bounty</span>
               </li>
               <li>
-                <span className="quest">[47] Handle with Care</span> from Curgle
-                Cranklehop
+                <span className="quest">[43] Wastewander Justice</span>
               </li>
             </ul>
           </p>
@@ -907,7 +920,7 @@ function Chapter2() {
             from Wizzle Brassbolts.
           </p>
           <p>
-            Turn in <span className="quest">[36] Part for Kravel</span> at
+            Turn in <span className="quest">[36] Parts for Kravel</span> at
             Kravel Koalbeard, don't get the follow up.
           </p>
           <p>
@@ -1188,8 +1201,13 @@ function Chapter2() {
           </p>
           <p>
             Kill <strong>ogres</strong> there until you have killed{' '}
-            <strong>8 Brutes and 8 Warlocks</strong>.<strong>2.</strong> Then
-            for the <strong>Ogre Shamans</strong> you will have to go much
+            <strong>8 Brutes and 8 Warlocks</strong>.
+          </p>
+        </li>
+        <li>
+          <p>
+            {' '}
+            Then for the <strong>Ogre Shamans</strong> you will have to go much
             further south to the big temple at <em>(59,73)</em>.
           </p>
           <p>
@@ -1327,12 +1345,7 @@ function Chapter2() {
         </li>
         <li>
           <p>
-            <strong>Fly to Auberdine</strong> (Darkshore), takes about 7
-            minutes.
-          </p>
-          <p>
-            In Auberdine go on the peer and take the boat to the right, it will
-            take you to Rut'theran Village outside of Darnassus.
+            <strong>Fly to Rut'theran Village</strong> (Darnassus)
           </p>
           <p>
             Turn in the quest{' '}
@@ -1347,7 +1360,7 @@ function Chapter2() {
             <span className="quest">[47] In Search of Knowledge</span>.
           </p>
           <p>
-            Go luck for a green book on the floor, next to the little bookshelf
+            Go look for a green book on the floor, next to the little bookshelf
             to the north <em>(55,91)</em>. Get the quest and talk again to Daryn
             and get the follow up{' '}
             <span className="quest">[48] The Borrower</span>.
@@ -1428,9 +1441,8 @@ function Chapter2() {
             numerous <strong>Wastewander</strong> camps there.
           </p>
           <p>
-            Kill <strong>Wastewander Rogues</strong>
-            <em>(stealthers)</em>, <strong>Assassins</strong> and{' '}
-            <strong>Shadow Mages</strong>.
+            Kill <strong>Wastewander Rogues</strong> <em>(stealthers)</em>,{' '}
+            <strong>Assassins</strong> and <strong>Shadow Mages</strong>.
           </p>
           <p>
             You can also find <strong>Caliph Scorpidsting</strong>, he wanders
