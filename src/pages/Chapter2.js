@@ -2547,8 +2547,7 @@ function Chapter2() {
           </p>
           <p>
             Get out of Aerie Peak by the small path to the east and go to
-            Rhapsody Shindigger. <em>(26,48)</em>
-            Turn in{' '}
+            Rhapsody Shindigger. <em>(26,48)</em> Turn in{' '}
             <span className="quest">
               <strong>[43] Rhapsody's Kalimdor Kocktail</strong>
             </span>
@@ -2701,8 +2700,7 @@ function Chapter2() {
           </p>
           <p>
             It took me just 2 Hours with a crapy pick-up group for a huge XP
-            boost.
-            <em>If you really don't want to go to Zul'Farrak:</em>
+            boost. <em>If you really don't want to go to Zul'Farrak:</em>
           </p>
         </li>
         <li>
@@ -2773,10 +2771,8 @@ function Chapter2() {
           <p>
             Fly to Stormwind, go to the Mage District, then go on top of the
             Wizard's Tower <em>(37,81)</em>. Get the quest{' '}
-            <span className="quest">
-              [45] Vital Supplies from High Sorcerer Andromath
-            </span>
-            .
+            <span className="quest">[45] Vital Supplies</span> from High
+            Sorcerer Andromath .
           </p>
         </li>
         <li>
@@ -2796,7 +2792,7 @@ function Chapter2() {
           </p>
           <p>
             Turn in <span className="quest">[47] Nekrum's Medaillon</span> at
-            Thadius Grimshade, he'sinside the big tower, on the highest floor.
+            Thadius Grimshade, he's inside the big tower, on the highest floor.
             Get the follow up <span className="quest">[47] The Divination</span>
             . Turn it in, get the follow up{' '}
             <span className="quest">
@@ -3032,10 +3028,9 @@ function Chapter2() {
             or be very close, and you can go kill some trolls next to the Altar
             of Zul to finish your level, or some ogres in Tanaris. For those who
             didn't do Zul'Farrak: <em>Time to grind!</em>
-            <em>
-              <strong>Ding level 50</strong>
-            </em>
-            , and end of Chapter II.
+          </p>
+          <p>
+            <strong>Ding level 50</strong>, and end of Chapter II.
           </p>
         </li>
       </ol>
