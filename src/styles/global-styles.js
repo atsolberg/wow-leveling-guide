@@ -40,12 +40,15 @@ const styles = css`
     font-size: 1.8rem;
   }
 
+  .em,
   em {
     font-style: italic;
   }
+  .strong,
   strong {
     font-weight: bold;
   }
+
   hr {
     border-top: 1px solid #ccc;
   }
@@ -56,6 +59,10 @@ const styles = css`
   .quest {
     color: #ffcc00;
     font-weight: bold;
+  }
+
+  .small {
+    font-size: 15px;
   }
 `;
 
