@@ -75,14 +75,14 @@ function Chapter3() {
         </p>
         <ul className="bb-list">
           <li>
-            <span className="strong">Before level 54</span>
-            1X <span className="item">Mithril Casing</span> (about 70-90silver
-            at the AH)<p></p>
+            <span className="strong">Before level 54</span> 1 x{' '}
+            <span className="item">Mithril Casing</span> (about 70-90silver at
+            the AH)<p></p>
             <p></p>
           </li>
           <li>
             <span className="strong">Before level 58</span> (but can equip it at
-            level 52): 1X{' '}
+            level 52): 1 x{' '}
             <span className="item">
               Your class{' '}
               <a
@@ -102,8 +102,8 @@ function Chapter3() {
             <p></p>
           </li>
           <li>
-            <span className="strong">The sooner the better</span>
-            3X <span className="item">Traveller backpacks</span> (those 16 Slot
+            <span className="strong">The sooner the better</span> 3 x{' '}
+            <span className="item">Traveller backpacks</span> (those 16 Slot
             backpacks). They go for 5g-8g at the auction house. Hunters and
             warlock should just buy two, since one of their bag slots is
             reserved for quiver or soul bag. <br />
@@ -177,7 +177,7 @@ function Chapter3() {
             </p>
             <p>
               Go a bit further west and you should find a path going up the
-              mountain to <span className="strong">Thorium Point</span>
+              mountain to <span className="strong">Thorium Point</span>{' '}
               <span className="em">(32,33)</span>.
             </p>
             <p>
@@ -254,9 +254,10 @@ function Chapter3() {
               className="bb-image"
             />
             <br />
-            note: You should have [49] Rise of the Silithid instead of March of
-            the Silithid, which is the follow up. We will get it later in the
-            guide.
+            Note: You should have{' '}
+            <span className="quest">[49] Rise of the Silithid</span> instead of{' '}
+            <span className="quest">[53] March of the Silithid</span>, which is
+            the follow up. We will get it later in the guide.
           </p>
           <p>
             <span className="strong">Start of Searing Gorge circuit #1</span>
@@ -346,7 +347,7 @@ function Chapter3() {
             <p></p>
           </li>
           <li>
-            Ride southwest to the entrance of The Cauldron{' '}
+            Ride north to the entrance of The Cauldron{' '}
             <span className="em">(63,38)</span>. Inside the Cauldron, kill all
             the <span className="strong">Dark Iron dwarves</span> and{' '}
             <span className="strong">Elementals</span> you find.{' '}
