@@ -891,7 +891,7 @@ function Chapter3() {
               </span>
               . Also get{' '}
               <span className="quest">
-                <span className="strong">[54] Super Sticky from Tran'rek.</span>
+                <span className="strong">[54] Super Sticky</span> from Tran'rek.
               </span>
             </p>
             <p></p>
