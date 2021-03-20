@@ -74,10 +74,12 @@ function Chapter1() {
         <li>Try to always log out in an Inn when you take a break.</li>
         <li>
           If I don't mention a quest, it means I consider it a waste of time, so
-          don't take it thinking I forgot a quest here and there, I didn't.{' '}
+          don't take it thinking I forgot a quest here and there, I
+          didn't.&nbsp;
           <span role="img" aria-label="smile">
             🙂
           </span>
+          <br />
           Also don't abandon a quest unless I say you should.
         </li>
         <li>
