@@ -70,7 +70,7 @@ puppeteer
     await page.setRequestInterception(true);
     page.on('request', ignoreGarbage);
 
-    scrapeItemIds(page);
+    await scrapeItemIds(page);
   })
   .catch(function(err) {
     //handle error
