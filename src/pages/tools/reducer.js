@@ -1,6 +1,6 @@
 export const initialState = {
   search: '',
-  results: []
+  results: [],
 };
 
 function reducer(draft, action) {

@@ -70,10 +70,10 @@ function client({
   params = {},
   customConfig = {},
   asXhr = true,
-  asJson = true
+  asJson = true,
 }) {
   const headers = {
-    Accept: 'application/json'
+    Accept: 'application/json',
   };
 
   if (asXhr) headers['X-Requested-With'] = 'XMLHttpRequest';
@@ -85,8 +85,8 @@ function client({
     ...customConfig,
     headers: {
       ...headers,
-      ...customConfig.headers
-    }
+      ...customConfig.headers,
+    },
   };
 
   if (body) config.body = JSON.stringify(body);

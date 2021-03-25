@@ -13,6 +13,8 @@
     "now": "^16.2.0",
     "prettier": "1.18.2",
     "react": "16.8.6",
+    "react-app-rewire-eslint": "^0.2.3",
+    "react-app-rewired": "^2.1.8",
     "react-bootstrap": "^1.5.2",
     "react-dom": "16.8.6",
     "react-scripts": "4.0.3",
@@ -26,7 +28,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "lint:errors": "eslint src --cache --quiet",
+    "lint:fix": "eslint src --fix",
+    "prettier:check": "prettier --list-different 'src/**/*.{js,jsx}'",
+    "prettier:fix": "prettier --write 'src/**/*.{js,jsx}'"
   },
   "browserslist": [
     ">0.2%",

@@ -14,7 +14,7 @@ function Tools() {
     dispatch({ type: 'search', payload: value });
     if (value?.length > 2)
       client({
-        endpoint: `https://classicdb.com/opensearch.php?search=${value}`
+        endpoint: `https://classicdb.com/opensearch.php?search=${value}`,
       }).then(resp => {});
   }
 
