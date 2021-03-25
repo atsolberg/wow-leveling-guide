@@ -63,7 +63,9 @@ export async function parsePageForItems(page) {
       if (nextLink) {
         console.log('\nfetch next results for page', i);
 
-        await page.click('.listview-nav a:nth-of-type(4)');
+        // Clicks off screen can hang...
+        // https://github.com/puppeteer/puppeteer/issues/3535#issuecomment-439220220
+        await page.$eval('.listview-nav a:nth-of-type(4)', n => n.click());
 
         const next_nav = await page.$('.listview-nav');
         const start = await next_nav.$eval('span b:nth-child(1)', text);

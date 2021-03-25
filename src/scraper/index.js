@@ -8,17 +8,51 @@ function filterRange(from, to) {
   return `${items_url}?filter=151:151;2:4;${from}:${to}`;
 }
 
+/**
+ * Without aborting some requests that are 'pending' forever,
+ * some page actions will hang forever.
+ */
+function ignoreGarbage(request) {
+  const url = request.url();
+  const filters = [
+    'livefyre',
+    'moatad',
+    'analytics',
+    'controltag',
+    'chartbeat',
+    'id5-sync.com',
+    'googlesyndication',
+    '2mdn.net',
+    'omweb',
+    'anyclip',
+    'pagead'
+  ];
+  const shouldAbort = filters.some(urlPart => url.indexOf(urlPart) !== -1);
+  if (shouldAbort) request.abort();
+  else request.continue();
+}
+
 puppeteer
-  .launch()
+  .launch({
+    defaultViewport: {
+      width: 1200,
+      height: 900
+    }
+    // headless: false,
+    // devtools: true
+  })
   .then(browser => browser.newPage())
   .then(async function(page) {
+    await page.setRequestInterception(true);
+    page.on('request', ignoreGarbage);
+
     let items = [];
 
     let from = 1;
     let to = 1000;
-    for (let i = 1; i <= 4; i++) {
+    for (let i = 1; i <= 25; i++) {
       const url = filterRange(from, to);
-      console.log(`navigating to: `, url);
+      console.log(`navigating to: `, url, '\n');
       await page.goto(url);
       const rowData = await parsePageForItems(page);
       items = [...items, ...rowData];
