@@ -49,7 +49,7 @@ function ignoreGarbage(request) {
     '2mdn.net',
     'omweb',
     'anyclip',
-    'pagead'
+    'pagead',
   ];
   const shouldAbort = filters.some(urlPart => url.indexOf(urlPart) !== -1);
   if (shouldAbort) request.abort();
@@ -60,10 +60,10 @@ puppeteer
   .launch({
     defaultViewport: {
       width: 1200,
-      height: 900
-    }
+      height: 900,
+    },
     // headless: false,
-    // devtools: true
+    // devtools: true,
   })
   .then(browser => browser.newPage())
   .then(async function(page) {

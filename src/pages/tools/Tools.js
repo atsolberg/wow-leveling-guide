@@ -4,6 +4,7 @@ import { useImmerReducer } from 'use-immer';
 
 import client from '../../utils/client';
 import reducer, { initialState } from './reducer';
+import WowIcon from '../../components/icons/wow-icon/WowIcon';
 
 function Tools() {
   const [state, dispatch] = useImmerReducer(reducer, initialState);
@@ -19,7 +20,10 @@ function Tools() {
 
   return (
     <div>
-      <h1>Tools</h1>
+      <h1>
+        Tools{' '}
+        <WowIcon src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gear_03.jpg" />
+      </h1>
       TODO
       <div>
         <Form.Group controlId="search-field">
@@ -33,7 +37,7 @@ function Tools() {
         <Form.Group controlId="results-field">
           <Form.Label>Results</Form.Label>
           <pre>
-            <code dangerouslySetInnerHTML={{ __html: results }}></code>
+            <code dangerouslySetInnerHTML={{ __html: results }} />
           </pre>
         </Form.Group>
       </div>

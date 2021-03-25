@@ -9,7 +9,6 @@
   "author": "Aaron Solberg",
   "license": "ISC",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.5",
     "puppeteer": "^8.0.0"
   },
   "type": "module"

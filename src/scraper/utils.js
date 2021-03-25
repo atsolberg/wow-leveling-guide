@@ -1,45 +1,57 @@
 const item_url_rgx = /\/item=(\d+)\/(.+)$/;
-const wh_url = 'https://classic.wowhead.com';
 
 function text(node) {
   return node.innerText;
 }
 
 /**
- * Returns an object with item id and slug from the item url
- * @param {string} url - the item url, i.e. "/item=123/rusty-dagger"
- * @return {null|{ id: string, slug: string }}
- */
-function getDataFromUrl(url) {
-  let data = null;
-
-  const match = new RegExp(item_url_rgx, 'gi').exec(url) || [];
-  if (match.length > 2) {
-    const [, id, slug] = match;
-    data = { id, slug };
-  } else {
-    console.log(`no data found for href: `, url, ' and match: ', match);
-  }
-
-  return data;
-}
-
-/**
  * Returns an array of item data for each row
- * @param {string[]} urls
- * @return {[null|{ id: string, slug: string }]}
+ * @param {[{ name: string,  url: string }]} data
+ * @return {[{ name: string, url: string, id: string, slug: string }]}
  */
-function getRowData(urls) {
-  const items = urls
-    .filter(Boolean)
-    .map(url => getDataFromUrl(url.replace(wh_url, '')))
-    .filter(Boolean);
+function parseData(data) {
+  const items = data
+    .filter(data => !!data.url)
+    .map(data => {
+      let item = { ...data };
+
+      const match = new RegExp(item_url_rgx, 'gi').exec(data.url) || [];
+      if (match.length > 2) {
+        const [, id, slug] = match;
+        item.id = id;
+        item.slug = slug;
+      } else {
+        console.log(
+          `no data found for href: `,
+          data.url,
+          ' and match: ',
+          match
+        );
+      }
+
+      return item;
+    });
 
   return items;
 }
 
-function getUrlsFromRows(rows) {
-  return rows.map(r => r.querySelector('td:nth-of-type(3) a').href);
+function scrapeRows(rows) {
+  const wh_url = 'https://classic.wowhead.com';
+  const row_data = rows.map(r => {
+    const data = {};
+    const nameAnchor = r.querySelector('td:nth-of-type(4) a');
+    data.url = (nameAnchor.href || '').replace(wh_url, '');
+    data.name = nameAnchor.innerText;
+
+    const ins = r.querySelector('td:nth-child(3) ins');
+    const bg = ins.style.backgroundImage || '';
+    const img = new RegExp(/url\("(.+[^"])"/, 'g').exec(bg);
+    if (img) data.image = img[1];
+
+    return data;
+  });
+
+  return row_data;
 }
 
 export async function parsePageForItems(page) {
@@ -53,8 +65,8 @@ export async function parsePageForItems(page) {
   console.log(`pages: `, pages);
 
   let items = [];
-  const urls = await page.$$eval('#tab-items tbody tr', getUrlsFromRows);
-  const data = getRowData(urls);
+  const urls = await page.$$eval('#tab-items tbody tr', scrapeRows);
+  const data = parseData(urls);
   items = [...items, ...data];
 
   if (pages > 1) {
@@ -74,8 +86,8 @@ export async function parsePageForItems(page) {
 
         console.log(`paging: ${start} to ${to} of ${of}`);
 
-        const urls = await page.$$eval('#tab-items tbody tr', getUrlsFromRows);
-        const data = getRowData(urls);
+        const urls = await page.$$eval('#tab-items tbody tr', scrapeRows);
+        const data = parseData(urls);
         items = [...items, ...data];
       }
     }
