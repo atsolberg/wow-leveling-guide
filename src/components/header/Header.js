@@ -1,8 +1,8 @@
 // this comment tells babel to convert jsx to calls to a function called jsx instead of React.createElement
 /** @jsx jsx */
 import { jsx } from '@emotion/core';
-import Navbar from 'react-bootstrap/es/Navbar';
-import Nav from 'react-bootstrap/es/Nav';
+import Navbar from 'react-bootstrap/Navbar';
+import Nav from 'react-bootstrap/Nav';
 
 import styles from './styles';
 
