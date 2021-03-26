@@ -1,5 +1,11 @@
 import React from 'react';
+import { number, string } from 'prop-types';
 
+ExternalLinkIcon.propTypes = {
+  width: number,
+  height: number,
+  color: string,
+};
 function ExternalLinkIcon({
   width = 15,
   height = 15,

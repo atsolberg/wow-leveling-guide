@@ -1,9 +1,125 @@
 {
   "parser": "babel-eslint",
-  "plugins": [
-    "react"
-  ],
+  "env": {
+    "browser": true,
+    "jest": true,
+    "node": true
+  },
+  "extends": ["airbnb", "prettier"],
+  "plugins": ["react", "react-hooks", "jest", "testing-library"],
   "rules": {
-    "no-shadow": [ "off" ]
+    // React recommends using JSX only in .jsx files.
+    // This allows it in .js files
+    "react/jsx-filename-extension": ["error", { "extensions": [".js"] }],
+
+    // Let prettier manage jsx styling
+    "react/jsx-closing-tag-location": "off",
+    "react/jsx-one-expression-per-line": "off",
+    "react/jsx-wrap-multilines": ["error", { "prop": "ignore" }],
+
+    "react/require-default-props": "off",
+
+    "no-plusplus": ["error", { "allowForLoopAfterthoughts": true }],
+
+    "arrow-body-style": "off",
+    "prefer-arrow-callback": ["warn", { "allowNamedFunctions": true }],
+
+    // Allow modifying `draft` state. This is idiomatic in immer.
+    // See https://github.com/mweststrate/immer
+    "no-param-reassign": [
+      "error",
+      { "ignorePropertyModificationsFor": ["draft", "sum"] }
+    ],
+
+    // Allow html
+    "react/no-danger": "off",
+
+    // Allow multiple components per file
+    "react/no-multi-comp": "off",
+
+    // Allow returning assignments when parens are used.
+    "no-return-assign": ["error", "except-parens"],
+
+    // Allow unused if prefixed with _
+    "no-underscore-dangle": "off",
+    "no-unused-vars": [
+      "error",
+      {
+        "argsIgnorePattern": "^_",
+        "varsIgnorePattern": "[iI]gnored|React|^_.*$"
+      }
+    ],
+
+    // We know how hoisting works
+    "no-use-before-define": ["error", { "functions": false }],
+    // We also know how scope works
+    "no-shadow": "off",
+
+    // Chill dude.
+    "lines-between-class-members": "off",
+    "camelcase": "off",
+
+    // Play hooky. Probs a part of the main react plugin eventually.
+    "react-hooks/rules-of-hooks": "error",
+    "react-hooks/exhaustive-deps": "warn",
+
+    // Deprecated rule
+    "jsx-a11y/label-has-for": "off",
+
+    "import/no-extraneous-dependencies": [
+      "error",
+      { "devDependencies": ["**/*.test.js", "**/*.stories.js"] }
+    ],
+
+    // Don't require an extension for imported files
+    "import/extensions": ["off"],
+
+    // Jest
+    "jest/no-disabled-tests": "warn",
+    "jest/no-focused-tests": "error",
+    "jest/no-identical-title": "error",
+    "jest/prefer-to-have-length": "warn",
+    "jest/valid-expect": "error",
+
+    "import/no-mutable-exports": ["warn"],
+    "prefer-const": ["warn"],
+    "react/no-find-dom-node": ["warn"],
+    "react/no-string-refs": ["warn"],
+    "react/jsx-no-bind": ["warn"],
+    "react/no-array-index-key": ["warn"],
+    "prefer-rest-params": ["warn"],
+    "react/destructuring-assignment": ["off"],
+    "prefer-destructuring": ["off"],
+    "import/order": ["warn"],
+    "no-extra-boolean-cast": ["warn"],
+    "no-nested-ternary": ["warn"],
+    "no-multi-assign": ["warn"],
+    "object-shorthand": ["warn"],
+    "react/sort-comp": ["warn"],
+    "react/prefer-es6-class": ["warn"],
+    "react/prefer-stateless-function": ["warn"],
+    "react/prop-types": ["warn"],
+    "react/forbid-prop-types": ["warn"],
+    "no-lonely-if": ["warn"],
+    "consistent-return": ["warn"],
+    "no-prototype-builtins": ["warn"],
+    "no-script-url": ["warn"],
+    "no-useless-escape": ["warn"],
+    "radix": ["warn"],
+    "react/jsx-pascal-case": ["warn"],
+    "default-case": ["warn"],
+    "guard-for-in": ["warn"],
+    "no-bitwise": ["warn"],
+    "no-cond-assign": ["warn"],
+    "no-new": ["warn"],
+    "no-restricted-globals": ["warn"],
+    "no-restricted-syntax": ["warn"],
+    "no-unused-expressions": ["warn"],
+    "react/no-access-state-in-setstate": ["warn"],
+    "import/no-cycle": ["warn"],
+    "import/prefer-default-export": ["warn"],
+    "react/no-unescaped-entities": ["error"],
+    "jsx-a11y/anchor-has-content": ["warn"],
+    "jsx-a11y/anchor-is-valid": ["off"]
   }
 }

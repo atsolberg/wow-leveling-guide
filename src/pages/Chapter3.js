@@ -30,7 +30,7 @@ function Chapter3() {
           <li>
             <span className="quest">
               <span className="strong">
-                [50] Into the Temple of Atal'Hakkar (Dungeon)
+                [50] Into the Temple of Atal&apos;Hakkar (Dungeon)
               </span>
             </span>
           </li>
@@ -46,25 +46,28 @@ function Chapter3() {
           </li>
         </ul>
         However, if at any moment in the guide you lack quest log space (because
-        of a class quest you don't want to abandon for exemple), then abandon{' '}
+        of a class quest you don&apos;t want to abandon for exemple), then
+        abandon{' '}
         <span className="quest">
-          <span className="strong">[50] Into the Temple of Atal'Hakkar</span>
+          <span className="strong">
+            [50] Into the Temple of Atal&apos;Hakkar
+          </span>
         </span>
         , you can easily get it back later on in Stormwind right before you go
-        to the <span className="strong">Sunken Temple</span>.<p></p>
+        to the <span className="strong">Sunken Temple</span>.<p />
         <p>
-          Also, this guide doesn't take into account tradeskills, class specific
-          quests or PvP.{' '}
+          Also, this guide doesn&apos;t take into account tradeskills, class
+          specific quests or PvP.{' '}
           <span className="em">
-            It's 100% focused on getting the most experience possible in the
-            shortest possible time
+            It&apos;s 100% focused on getting the most experience possible in
+            the shortest possible time
           </span>{' '}
           while doing a lot of quests and enjoying as much content as possible,
           any race/class combination can do this guide. The most part of the
-          guide is doable solo, when it's not it will be mentioned. The guide
-          has been tested with four different characters, non twinked, played by
-          the wow-pro team: a warrior, a mage, a rogue and a hunter to ensure
-          that the guide is accessible for any class.{' '}
+          guide is doable solo, when it&apos;s not it will be mentioned. The
+          guide has been tested with four different characters, non twinked,
+          played by the wow-pro team: a warrior, a mage, a rogue and a hunter to
+          ensure that the guide is accessible for any class.{' '}
           <span className="em">Enjoy!</span>
         </p>
         <p>
@@ -77,8 +80,9 @@ function Chapter3() {
           <li>
             <span className="strong">Before level 54</span> 1 x{' '}
             <span className="item">Mithril Casing</span> (about 70-90silver at
-            the AH)<p></p>
-            <p></p>
+            the AH)
+            <p />
+            <p />
           </li>
           <li>
             <span className="strong">Before level 58</span> (but can equip it at
@@ -89,17 +93,18 @@ function Chapter3() {
                 href="http://www.worldofwarcraft.com/info/items/armorsets/"
                 className="bb-url"
               >
-                "Dungeon Set 1"
+                &quot;Dungeon Set 1&quot;
               </a>{' '}
               bracers
             </span>
             .<br />
             Example:
             <br />
-            Mages should buy Magister's Bindings.
+            Mages should buy Magister&apos;s Bindings.
             <br />
-            Druids should buy Wildheart Bracers.<p></p>
-            <p></p>
+            Druids should buy Wildheart Bracers.
+            <p />
+            <p />
           </li>
           <li>
             <span className="strong">The sooner the better</span> 3 x{' '}
@@ -115,7 +120,7 @@ function Chapter3() {
             line named{' '}
             <span className="strong">
               <span className="quest">
-                [60] You Are Rakh'likh, Demon (Elite)
+                [60] You Are Rakh&apos;likh, Demon (Elite)
               </span>
             </span>
             , and one of the rewards is a 16-slot bag, so no need to waste money
@@ -123,7 +128,7 @@ function Chapter3() {
             <br />
           </li>
         </ul>
-        <p></p>
+        <p />
         <p>
           <span className="small">
             <span className="strong">Level 50</span>
@@ -137,20 +142,22 @@ function Chapter3() {
               follow this guide I wrote about Maraudon
             </a>
             . Doing all the quests (or at least the main ones) shoud get you
-            about 75% done in level 50. Don't turn in the quest{' '}
+            about 75% done in level 50. Don&apos;t turn in the quest{' '}
             <span className="quest">
               <span className="strong">[51] Seed of Life</span>
             </span>{' '}
-            though, it's in Moonglade and we'll make a stop there later on in
-            the chapter.<p></p>
-            <p></p>
+            though, it&apos;s in Moonglade and we&apos;ll make a stop there
+            later on in the chapter.
+            <p />
+            <p />
           </li>
           <li>
             Time to explore new areas! Repair, resupply food and drink (3
             stacks), check the AH.{' '}
             <span className="strong">Make Ironforge your homepoint</span>. Buy
-            15 silk cloth if you don't have that on you already. You'll need
-            them for a searing gorge quest.<p></p>
+            15 silk cloth if you don&apos;t have that on you already.
+            You&apos;ll need them for a searing gorge quest.
+            <p />
             <p>
               <span className="em">In short:</span> Go to{' '}
               <span className="strong">Searing Gorge</span>.<br />
@@ -162,8 +169,8 @@ function Chapter3() {
             </p>
             <p>Inside Searing Gorge:</p>
             <p>
-              Follow the trail north and then west around the area named "The
-              Cauldron" and find Kalaran Windblade{' '}
+              Follow the trail north and then west around the area named
+              &quot;The Cauldron&quot; and find Kalaran Windblade{' '}
               <span className="em">(38,39)</span>. Get the quest{' '}
               <span className="quest">
                 <span className="strong">[48] Divine Retribution</span>
@@ -197,7 +204,7 @@ function Chapter3() {
               <li>
                 <span className="quest">
                   <span className="strong">
-                    [48] STOLEN: Smithing Tuyere and Lookout's Spyglass
+                    [48] STOLEN: Smithing Tuyere and Lookout&apos;s Spyglass
                   </span>
                 </span>
               </li>
@@ -209,7 +216,7 @@ function Chapter3() {
                 </span>
               </li>
             </ul>
-            <p></p>
+            <p />
             <p>
               Get the 3 quests from Hansel Heavyhands:
               <br />
@@ -238,7 +245,8 @@ function Chapter3() {
           <span className="quest">
             <span className="strong">[50] What the Flux?</span>
           </span>{' '}
-          from Master Smith Burninate.<p></p>
+          from Master Smith Burninate.
+          <p />
           <p>
             <span className="em">Note:</span> If you ever need to sell and
             repair, you should go to this NPC.
@@ -269,24 +277,25 @@ function Chapter3() {
               className="bb-image"
             />
           </p>
-          <p></p>
+          <p />
           <li>
-            First, go south where you'll find a big wheel (its part of a dark
-            iron dwarven forge) and kill all the{' '}
+            First, go south where you&apos;ll find a big wheel (its part of a
+            dark iron dwarven forge) and kill all the{' '}
             <span className="strong">Dark Iron Steamsmith</span> you find there{' '}
             <span className="em">(39,50)</span>, there should be 5 or 6 around
             here. Hopefully one of them will drop the{' '}
             <span className="item">smithing tuyere</span> you need. If not, lets
-            just go on, we'll come back here later.<p></p>
-            <p></p>
+            just go on, we&apos;ll come back here later.
+            <p />
+            <p />
           </li>
           <li>
             Start heading east and kill any{' '}
             <span className="strong">elemental</span> or{' '}
             <span className="strong">Heavy War Golem</span> you find on the way.
             Also kill <span className="strong">Dark Iron Taskmasters</span> and{' '}
-            <span className="strong">Dark Iron Slavers</span> on your way. Don't
-            wait for respawns, just kill them while going east. At{' '}
+            <span className="strong">Dark Iron Slavers</span> on your way.
+            Don&apos;t wait for respawns, just kill them while going east. At{' '}
             <span className="em">(59,35)</span> mount up and ride southeast to
             Grimesilt Dig site and find a little wooden house at{' '}
             <span className="em">(65,62)</span> behind the dig site, which
@@ -295,19 +304,19 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[45] Caught!</span>
             </span>
-            .<p></p>
+            .<p />
             <p>
               Start killing the{' '}
               <span className="strong">Dark Iron dwarves</span> in the camp as
               well as the <span className="strong">golems</span> around here.
               After you have killed{' '}
               <span className="strong">8 Dark Iron Gelologists</span> and got{' '}
-              <span className="item">15 silk cloth</span> (if you don't have
-              them, kill more of those dwarves, they drop silk cloth), go back
-              to the Wooden Outhouse and turn in the quest, don't get the follow
-              up though.
+              <span className="item">15 silk cloth</span> (if you don&apos;t
+              have them, kill more of those dwarves, they drop silk cloth), go
+              back to the Wooden Outhouse and turn in the quest, don&apos;t get
+              the follow up though.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Now go back to the digsite, and clear it entirely, especially the
@@ -316,18 +325,18 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[48] Suntara Stones</span>
             </span>
-            .<p></p>
+            .<p />
             <p>
               At <span className="em">(66,44)</span> he will stop to catch his
               breath and will get ambushed by{' '}
               <span className="strong">4 lvl 43 Dark Iron Steelshifter</span>.
               Easy fight for you but make sure you get at least all but one off
-              Dorius quickly so that he doesn't die.
+              Dorius quickly so that he doesn&apos;t die.
             </p>
             <p>
               At <span className="em">(74,19)</span> he will get assassinated
-              (you can't help it) and a parchment will appear on the floor next
-              to him.
+              (you can&apos;t help it) and a parchment will appear on the floor
+              next to him.
             </p>
             <p>
               <img
@@ -344,7 +353,7 @@ function Chapter3() {
               </span>
               .
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Ride north to the entrance of The Cauldron{' '}
@@ -355,23 +364,24 @@ function Chapter3() {
             <span className="strong">Magma Elementals</span> drop the{' '}
             <span className="item">Heart of Flame</span> you need. Also kill any{' '}
             <span className="strong">Heavy War Golem</span> you find.
-            <p></p>
+            <p />
             <p>
               <span className="em">Note:</span> If while killing dwarves you
-              find a <span className="item">"Grimsite Outhouse Key"</span>,
+              find a{' '}
+              <span className="item">&quot;Grimsite Outhouse Key&quot;</span>,
               right click it to start the quest{' '}
               <span className="quest">
                 <span className="strong">[47] The Key to Freedom</span>
               </span>
               , we will turn it in later on.{' '}
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Progress westwards inside the Cauldron until you find an iron slope
             going up at <span className="em">(46,53)</span>. Follow this slope
             until you find an entrance to the Slag Pit at{' '}
-            <span className="em">(41,54)</span>.<p></p>
+            <span className="em">(41,54)</span>.<p />
             <p>
               <img
                 src="http://www.wow-pro.com/files/guidepics/theslagpit.jpg"
@@ -383,27 +393,28 @@ function Chapter3() {
               Inside the slag pit go across the bridge, on your left will be the
               Quarry Gate, go through it.
               <br />
-              Work your way northwards until a bigger room where you'll find{' '}
-              <span className="strong">Enslaved Archeologists</span> and a big{' '}
-              <span className="strong">52 Elite elite golem</span> lying down
-              (ignore it). Go up the iron slope, midway on the slope you have 2
-              options, straight or left. Go straight. You'll soon enter a room
-              with several pairs of <span className="strong">taskmasters</span>{' '}
-              and <span className="strong">slavers</span>.
+              Work your way northwards until a bigger room where you&apos;ll
+              find <span className="strong">Enslaved Archeologists</span> and a
+              big <span className="strong">52 Elite elite golem</span> lying
+              down (ignore it). Go up the iron slope, midway on the slope you
+              have 2 options, straight or left. Go straight. You&apos;ll soon
+              enter a room with several pairs of{' '}
+              <span className="strong">taskmasters</span> and{' '}
+              <span className="strong">slavers</span>.
             </p>
             <p>
-              In this room further in and to the right you'll find{' '}
+              In this room further in and to the right you&apos;ll find{' '}
               <span className="strong">Overseer Maltorius</span> and{' '}
               <span className="strong">2 Dark Iron Sentries</span>. These are 3
-              elites so you can't solo them. You can either try to find more
-              people (I managed to duo it with mage + paladin) or just abandon
-              this quest. However, behind these 3 elites you can find{' '}
+              elites so you can&apos;t solo them. You can either try to find
+              more people (I managed to duo it with mage + paladin) or just
+              abandon this quest. However, behind these 3 elites you can find{' '}
               <span className="item">Secret Plans: Fiery Flux</span>.
             </p>
             <p>
               You need to click the plan and not be interupted for 6 seconds. So
-              how do you do this? Well several classes can't do it, Paladins for
-              example. Some can, like mage:
+              how do you do this? Well several classes can&apos;t do it,
+              Paladins for example. Some can, like mage:
             </p>
             <p>
               Sheep the overseer, let the 2 sentries come to you, Iceroot them,
@@ -423,15 +434,15 @@ function Chapter3() {
               dummy.
             </p>
             <p>
-              Anyway, that's if you can't find people to kill those 3 elites
-              with you, so try to find people for it and in the meantime you can
-              go on with the other quests inside the Slag Pit. Better try it
-              with 2 other people, its a tough fight because Overseer is a mage
-              and casts polymorph. If you got paladin or priest they can dispell
-              it. Best is to sap/sheep Overseer and kill the 2 sentries first,
-              then deal with the overseer alone.
+              Anyway, that&apos;s if you can&apos;t find people to kill those 3
+              elites with you, so try to find people for it and in the meantime
+              you can go on with the other quests inside the Slag Pit. Better
+              try it with 2 other people, its a tough fight because Overseer is
+              a mage and casts polymorph. If you got paladin or priest they can
+              dispell it. Best is to sap/sheep Overseer and kill the 2 sentries
+              first, then deal with the overseer alone.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             From the same big room, go over the iron bridge which is on the
@@ -439,32 +450,34 @@ function Chapter3() {
             down to the lower floor at the drop off spot indicated on the map.
             From this spot go east and you should find{' '}
             <span className="strong">Incendosaurs</span>, kill 20 of them.
-            <p></p>
-            <p></p>
+            <p />
+            <p />
           </li>
           <li>
             When done with that, go back up the ramp and then get out of the
             Slag pit, jump down back into the Cauldron and work your way
             westwards looking for{' '}
             <span className="strong">Blaze Elementals</span> until you get{' '}
-            <span className="item">4 Heart of Flame</span>.<p></p>
-            <p></p>
+            <span className="item">4 Heart of Flame</span>.<p />
+            <p />
           </li>
           <li>
             Then go to the iron slope you took previously at{' '}
             <span className="em">(46,53)</span> Follow this slope but this time
             skip the first entrance to the slag pit, and get on the elevator{' '}
             <span className="em">(40,54)</span>. The elevator will stop at the
-            1st floor and 2nd floor but don't get off. Wait until it's on the
-            3rd floor from there you can get out of the Cauldron.<p></p>
+            1st floor and 2nd floor but don&apos;t get off. Wait until it&apos;s
+            on the 3rd floor from there you can get out of the Cauldron.
+            <p />
             <p>
               Kill every <span className="strong">Steamsmith</span> you find
               around the buildings infront and to the left of you after getting
               off the elevator <span className="em">(39,50)</span>. There is 5
               Steamsmiths at this spot, pray that one of them drops a smithing
-              Tuyere. If not don't worry, we'll kill more of these later.
+              Tuyere. If not don&apos;t worry, we&apos;ll kill more of these
+              later.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Kill every <span className="strong">Heavy War Golem</span> around
@@ -474,8 +487,8 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[48] Forging the Shaft</span>
             </span>
-            <p></p>
-            <p></p>
+            <p />
+            <p />
           </li>
           <li>
             Go to thorium point and turn in the quests you have completed. When
@@ -484,8 +497,9 @@ function Chapter3() {
               <span className="strong">[50] What the Flux?</span>
             </span>
             , Master Smith Burninate will open 3 new quests to you, but they are
-            just to work on thorium brotherhood faction, so don't bother unless
-            you care about this faction.<p></p>
+            just to work on thorium brotherhood faction, so don&apos;t bother
+            unless you care about this faction.
+            <p />
             <p>
               You should be{' '}
               <span className="em">
@@ -498,7 +512,7 @@ function Chapter3() {
             </p>
           </li>
         </ol>
-        <p></p>
+        <p />
         <p>
           <span className="small">
             <span className="strong">Level 51</span>
@@ -509,8 +523,8 @@ function Chapter3() {
           <li>
             Sell and repair, then go south to the big dwarven forge/wheel{' '}
             <span className="em">(39,50)</span> and kill{' '}
-            <span className="strong">Dark Iron Steamsmiths</span> again. <p></p>
-            <p></p>
+            <span className="strong">Dark Iron Steamsmiths</span> again. <p />
+            <p />
           </li>
           <li>
             Then go west and then south, basically staying close to the cauldron
@@ -519,7 +533,7 @@ function Chapter3() {
             <span className="strong">golem</span> on your way. Basically make
             circles around the cauldron. Also make sure you kill any{' '}
             <span className="strong">Greater Lava Spider</span> on sight.
-            <p></p>
+            <p />
             <p>
               There is alot of them in an area west of the cauldron{' '}
               <span className="em">(28,47)</span>.
@@ -530,13 +544,14 @@ function Chapter3() {
               the feet of each of the 4 watch towers. They drop the spyglass you
               need for one of the quests.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Anyway, as soon as you got{' '}
             <span className="item">8 Thorium Plated Daggers</span>, go back to
-            Kalaran Windblade, even if you didn't finish the other quests yet.
-            <p></p>
+            Kalaran Windblade, even if you didn&apos;t finish the other quests
+            yet.
+            <p />
             <p>
               <span className="em">Note:</span> The{' '}
               <span className="item">Thorium Plated Daggers</span> can drop on
@@ -546,56 +561,63 @@ function Chapter3() {
             <p>
               Turn in the quest at Kalaran Windblade and get the follow up{' '}
               <span className="quest">
-                <span className="strong">[50] The Flame's Casing (Elite)</span>
+                <span className="strong">
+                  [50] The Flame&apos;s Casing (Elite)
+                </span>
               </span>
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go kill the <span className="strong">5 Dark Iron Steamsmiths</span>{' '}
-            again before you go, if you haven't got the Smithing Tuyere yet.
-            <p></p>
-            <p></p>
+            again before you go, if you haven&apos;t got the Smithing Tuyere
+            yet.
+            <p />
+            <p />
           </li>
           <li>
             Now you should ask in Looking for Group channel if anyone is
             interested in doing{' '}
             <span className="quest">
-              <span className="strong">[50] The Flame's Casing (Elite)</span>
+              <span className="strong">
+                [50] The Flame&apos;s Casing (Elite)
+              </span>
             </span>{' '}
             and{' '}
             <span className="quest">
               <span className="strong">[50] Prayer to Elune (Elite)</span>
             </span>{' '}
-            (we are gonna get this quest on the way soon).<p></p>
+            (we are gonna get this quest on the way soon).
+            <p />
             <p>
               You can duo these two quests but it might be a bit tough depending
-              on the class mix you get. So if you find more it's even better.
+              on the class mix you get. So if you find more it&apos;s even
+              better.
             </p>
             <p>
-              If you don't find people to help you immediatly, just keep on
+              If you don&apos;t find people to help you immediatly, just keep on
               doing circles around the cauldron killing dwarves, giants and
               greater lava spiders while waiting on people to join your group.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Once you got yourself a group (or at least one level 48+ partner).
             Go west to the Twilight camp at <span className="em">(24,34)</span>.
             There is a cavern with <span className="strong">Twilight mobs</span>{' '}
-            further to the west but don't go there, first you should go up a
-            narrow path up the mountain. When you are up the path, you should
+            further to the west but don&apos;t go there, first you should go up
+            a narrow path up the mountain. When you are up the path, you should
             face your first twilight mobs, they are all elite and lvl 48-50.
             Clear through them eastwards until you reach a small pool of lava.{' '}
             <span className="em">(27,26)</span>
-            <p></p>
+            <p />
             <p>
               The pool of lava might look too crowded, but actually you can get
               solo pulls if you know the trick. Out of the 6 mobs at this lava
               pool, 3 of them are{' '}
-              <span className="strong">Twilight Idolaters</span>, and they don't
-              assist if you pull a mob that is next to them, they are busy
-              performing a ritual. They will only attack if you attack them
+              <span className="strong">Twilight Idolaters</span>, and they
+              don&apos;t assist if you pull a mob that is next to them, they are
+              busy performing a ritual. They will only attack if you attack them
               directly.
             </p>
             <p>
@@ -613,7 +635,7 @@ function Chapter3() {
               </span>
               .
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Now all that is left for you to do is kill{' '}
@@ -630,8 +652,9 @@ function Chapter3() {
           </li>
           When you got both these items, you can say goodbye to your group and
           go back to Kalaran Windblade. You can also go to thorium point for a
-          quick sell/repair if necessary.<p></p>
-          <p></p>
+          quick sell/repair if necessary.
+          <p />
+          <p />
           <li>
             Turn in your quest at Kalaran Windblade and get the follow up{' '}
             <span className="quest">
@@ -646,7 +669,7 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[50] Squire Maltrake.</span>
             </span>
-            <p></p>
+            <p />
             <p>
               Turn in the quest at Squire Maltrake and get the follow up{' '}
               <span className="quest">
@@ -654,13 +677,14 @@ function Chapter3() {
               </span>
             </p>
             <p>Luckily, this is one of the elite quests you can solo!</p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go southwest to the first watch tower{' '}
-            <span className="em">(33,52)</span>. Don't forget to kill any mob
-            you might still need on the way (golem, spider, dark iron steamsmith
-            or lookout)<p></p>
+            <span className="em">(33,52)</span>. Don&apos;t forget to kill any
+            mob you might still need on the way (golem, spider, dark iron
+            steamsmith or lookout)
+            <p />
             <p>
               When you are at the 1st watch tower, clear any mobs guarding it
               (minus the elite inside of it), then search the{' '}
@@ -668,12 +692,13 @@ function Chapter3() {
               inventory, equip it, and put it on a hotkey.
             </p>
             <p>
-              There is one elite Dark Iron Sentry on the tower, you don't need
-              to kill it, just run past it (or stealth past it if you are
+              There is one elite Dark Iron Sentry on the tower, you don&apos;t
+              need to kill it, just run past it (or stealth past it if you are
               rogue/druid). If you can iceroot / sheep / fear it, do so, but you
-              don't have to. Just ignore it, quickly search for a small bowl on
-              the floor named <span className="item">"Sentry Brazier"</span> and
-              right click it.
+              don&apos;t have to. Just ignore it, quickly search for a small
+              bowl on the floor named{' '}
+              <span className="item">&quot;Sentry Brazier&quot;</span> and right
+              click it.
             </p>
             <p>
               <img
@@ -697,9 +722,10 @@ function Chapter3() {
                 Note:
               </span>{' '}
               The 4th tower is the one with the most Dark Iron Lookouts, in case
-              you didn't get a <span className="item">Lookout's Spyglass</span>.
+              you didn&apos;t get a{' '}
+              <span className="item">Lookout&apos;s Spyglass</span>.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             After you are done setting the 4th tower ablaze, go east to the
@@ -707,7 +733,8 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[47] The Key to Freedom</span>
             </span>{' '}
-            at the wooden outhouse.<p></p>
+            at the wooden outhouse.
+            <p />
             <p>
               <span className="em">
                 <span className="strong">Optional:</span>
@@ -718,24 +745,27 @@ function Chapter3() {
               mountain at <span className="em">(65,80)</span>, you will find a
               named rhino named <span className="strong">Margol the Rager</span>
               . I soloed him with ease at lvl 51 as mage, warrior and rogue, I
-              just used long cooldown abilities and didn't even need to use
+              just used long cooldown abilities and didn&apos;t even need to use
               potions. He wanders from this path in the mountain to his cave is
               at <span className="em">(72,77)</span>.
             </p>
             <p>
-              Loot Margol's Horn from him and click it to start the quest{' '}
+              Loot Margol&apos;s Horn from him and click it to start the quest{' '}
               <span className="quest">
                 <span className="strong">[48] The Horn of the Beast</span>
               </span>
               .
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go back to Squire Maltrake <span className="em">(38,39)</span>, turn
             in the quest and watch Kalaran transform into a dragon, make his
-            speech and then he'll fly away. Righ tclick the treasure chest named{' '}
-            <span className="strong">"Hoard of the Black Dragonflight"</span>{' '}
+            speech and then he&apos;ll fly away. Righ tclick the treasure chest
+            named{' '}
+            <span className="strong">
+              &quot;Hoard of the Black Dragonflight&quot;
+            </span>{' '}
             next to where he was, accept the quest{' '}
             <span className="quest">
               <span className="strong">[50] Trinkets...</span>
@@ -744,27 +774,28 @@ function Chapter3() {
             inventory for the red box named{' '}
             <span className="item">Hoard of the Black Dragonflight</span>, open
             it and loot whats inside of it (especially the Molt, which you will
-            need later on for a quest)<p></p>
+            need later on for a quest)
+            <p />
             <p>
               <span className="em">
-                You don't need the Torch of Retribution anymore, you can destroy
-                it or bank it.
+                You don&apos;t need the Torch of Retribution anymore, you can
+                destroy it or bank it.
               </span>
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
-            Now there's only one thing left for you to do: finish all the quests
-            that you haven't finished yet, and you already should know where all
-            the mobs you need are. Once you have completed all these quests, go
-            back to thorium point and turn them in. <p></p>
-            <p></p>
+            Now there&apos;s only one thing left for you to do: finish all the
+            quests that you haven&apos;t finished yet, and you already should
+            know where all the mobs you need are. Once you have completed all
+            these quests, go back to thorium point and turn them in. <p />
+            <p />
           </li>
           <li>
-            <span className="strong">Fly</span> (don't hearthstone) to Ironforge
-            and then fly to Thelsamar, ride southwest along the road until you
-            find Mountaineer Pebblebitty <span className="em">(18,84)</span>.
-            Turn in the quest{' '}
+            <span className="strong">Fly</span> (don&apos;t hearthstone) to
+            Ironforge and then fly to Thelsamar, ride southwest along the road
+            until you find Mountaineer Pebblebitty{' '}
+            <span className="em">(18,84)</span>. Turn in the quest{' '}
             <span className="quest">
               <span className="strong">[48] The Horn of the Beast (Elite)</span>
             </span>
@@ -772,7 +803,7 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[50] Assisting Arch Druid Staghelm</span>
             </span>
-            .<p></p>
+            .<p />
             <p>
               In Ironforge go to the Hall of Explorers and talk to Curator
               Thorius, turn in the quest{' '}
@@ -787,7 +818,7 @@ function Chapter3() {
               <span className="quest">
                 <span className="strong">[48] At last!</span>
               </span>
-              , don't get the other follow up. Also get the quest{' '}
+              , don&apos;t get the other follow up. Also get the quest{' '}
               <span className="quest">
                 <span className="strong">
                   [52] A Little Slime Goes a Long Way
@@ -797,17 +828,18 @@ function Chapter3() {
               <span className="quest">
                 <span className="strong">[52] Passing the Burden</span>
               </span>{' '}
-              from Historian Karnik if you don't have this quest already (those
-              who did Chapter II of my guide should have it).
+              from Historian Karnik if you don&apos;t have this quest already
+              (those who did Chapter II of my guide should have it).
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Fly to Thelsamar, go talk to Mountaineer Pebblebitty once again and
             turn in the quest for another 4400 xp and the{' '}
             <span className="item">Key to Searing Gorge</span> (which is kinda
             useless nowadays since they added the Thorium Point flight path, so
-            you can bank it).<p></p>
+            you can bank it).
+            <p />
             <p>
               <span className="strong">End of Searing Gorge circuit #1</span>.
             </p>
@@ -820,11 +852,11 @@ function Chapter3() {
             </p>
             <p>
               <span className="strong">Note:</span> I had XP Bonus for the major
-              part of the circuit, however if you do the math it's still around
-              30000 XP / hour.
+              part of the circuit, however if you do the math it&apos;s still
+              around 30000 XP / hour.
             </p>
             <p>Go back to Ironforge, sell, repair, check the Auction house.</p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go to the Mystic ward and get the follow up{' '}
@@ -835,16 +867,20 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[52] An Easy Pickup</span>
             </span>{' '}
-            from him.<p></p>
+            from him.
+            <p />
             <p>
               Go to the Military Ward and get the follow up from Xiggs
               Fuselighter, turn in the quest so you receive{' '}
-              <span className="item">2 "Standard Issue Flare Gun"</span>.
+              <span className="item">
+                2 &quot;Standard Issue Flare Gun&quot;
+              </span>
+              .
             </p>
             <p>
               Fly to Menethil Harbor and take the boat to Auberdine, then fly to
-              Rut'theran Village, go to Darnassus and turn in the quests in the
-              Temple of the Moon:
+              Rut&apos;theran Village, go to Darnassus and turn in the quests in
+              the Temple of the Moon:
               <br />
             </p>
             <ul className="bb-list">
@@ -869,13 +905,14 @@ function Chapter3() {
           Go to Arch Druid Staghelm, who is on top of the tower at the Cenarion
           Enclave and get the follow up{' '}
           <span className="quest">
-            <span className="strong">[50] Un'Goro Soil</span>
+            <span className="strong">[50] Un&apos;Goro Soil</span>
           </span>
-          .<p></p>
-          <p></p>
+          .<p />
+          <p />
           <li>
-            Make Darnassus your home location, ask a Sentinel if you don't know
-            where the Inn is.<p></p>
+            Make Darnassus your home location, ask a Sentinel if you don&apos;t
+            know where the Inn is.
+            <p />
             <p>
               Get out of Darnassus and fly back to Auberdine, then fly to
               Gadgetzan.
@@ -891,17 +928,18 @@ function Chapter3() {
               </span>
               . Also get{' '}
               <span className="quest">
-                <span className="strong">[54] Super Sticky</span> from Tran'rek.
+                <span className="strong">[54] Super Sticky</span> from
+                Tran&apos;rek.
               </span>
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Resupply food/drink (4 stacks), then ride southwest to the slope
             going down to Ungoro Crater <span className="em">(27,57)</span>.
-            <p></p>
+            <p />
             <p>
-              <span className="strong">Start of Un'goro Circuit #1</span>
+              <span className="strong">Start of Un&apos;goro Circuit #1</span>
             </p>
             <p>
               <img
@@ -918,89 +956,96 @@ function Chapter3() {
             <ul className="bb-list">
               <li>
                 <span className="quest">
-                  <span className="strong">[53] The Fare of Lar'korwi</span>
+                  <span className="strong">
+                    [53] The Fare of Lar&apos;korwi
+                  </span>
                 </span>
               </li>
               <li>
                 <span className="quest">
-                  <span className="strong">[55] The Apes of Un'Goro</span>
+                  <span className="strong">[55] The Apes of Un&apos;Goro</span>
                 </span>
               </li>
             </ul>
           </li>
           From now on, while in Ungoro Crater look around for crystals. There is
-          4 types of crystals:<p></p>
+          4 types of crystals:
+          <p />
           <p>
             Red, Blue, Yellow and Green crystals. Loot them anytime you see them
             until you got <span className="strong">7 of each color</span>. Also
             look for Ungoro Dirt Piles and loot the{' '}
-            <span className="item">Un'goro soil</span> from them. Un'goro soil
-            also drops fairly often from most creatures in Un'goro crater, you
-            should try to have <span className="strong">at least</span> about 50
-            Ungoro Soil before we leave Un'goro, because we will need extra
-            soils for 2 other quests which will require you to transmuate
-            Un'goro soils into Morrowgrain.
+            <span className="item">Un&apos;goro soil</span> from them.
+            Un&apos;goro soil also drops fairly often from most creatures in
+            Un&apos;goro crater, you should try to have{' '}
+            <span className="strong">at least</span> about 50 Ungoro Soil before
+            we leave Un&apos;goro, because we will need extra soils for 2 other
+            quests which will require you to transmuate Un&apos;goro soils into
+            Morrowgrain.
           </p>
-          <p></p>
+          <p />
           <li>
             Go northwest until you find{' '}
-            <span className="strong">"A Wrecked Raft"</span> at{' '}
+            <span className="strong">&quot;A Wrecked Raft&quot;</span> at{' '}
             <span className="em">(63,68)</span>. Right click it and accept the
             quest{' '}
             <span className="quest">
-              <span className="strong">[52] It's a Secret to Everybody</span>
+              <span className="strong">
+                [52] It&apos;s a Secret to Everybody
+              </span>
             </span>
-            .<p></p>
+            .<p />
             <p>
               Take a dive right next to where the wrecked raft is and look
               underwater for yellow bag called{' '}
-              <span className="strong">"A Small Pack"</span>. Click it, turn in
-              and get the follow up. You should receive a small pack in your
-              inventory but don't open it for now, it will save you some
-              bagspace.
+              <span className="strong">&quot;A Small Pack&quot;</span>. Click
+              it, turn in and get the follow up. You should receive a small pack
+              in your inventory but don&apos;t open it for now, it will save you
+              some bagspace.
             </p>
             <p>
               Kill every <span className="strong">dinausaur</span> you find on
               your way and normally you should find a{' '}
               <span className="item">Mangled Journal</span> at some point (if
-              you don't you will later on in Ungoro, don't worry). Right click
-              the journal and get the quest{' '}
+              you don&apos;t you will later on in Ungoro, don&apos;t worry).
+              Right click the journal and get the quest{' '}
               <span className="quest">
-                <span className="strong">[50] Williden's Journal</span>
+                <span className="strong">[50] Williden&apos;s Journal</span>
               </span>
               .
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go northeast from here until <span className="em">(68,56)</span>,
             where you will find a big dinosaur carcass on the floor. Right click
             it to get the{' '}
             <span className="item">Piece of Threshadon Carcass</span>. The cog
-            will be grey at most part of the threshadon's carcass. The only spot
-            where you can get the yellow cog and loot the flesh is at the base
-            of the neck, and only on the east side of the carcass. Once you have
-            your "Piece of Threshadon Carcass", go back to Torwa Pathfinder,
-            turn in the quest and get the follow up{' '}
+            will be grey at most part of the threshadon&apos;s carcass. The only
+            spot where you can get the yellow cog and loot the flesh is at the
+            base of the neck, and only on the east side of the carcass. Once you
+            have your &quot;Piece of Threshadon Carcass&quot;, go back to Torwa
+            Pathfinder, turn in the quest and get the follow up{' '}
             <span className="quest">
-              <span className="strong">[53] The Scent of Lar'korwi</span>
+              <span className="strong">[53] The Scent of Lar&apos;korwi</span>
             </span>
-            .<p></p>
-            <p></p>
+            .<p />
+            <p />
           </li>
           <li>
             Go west back into the Marshlands until you find some purple eggs on
             the floor <span className="em">(67,73)</span>. Clear the{' '}
             <span className="strong">ravasaurs</span> around it, then step up on
-            the egg pile, a <span className="strong">Lar'korwi mate</span>{' '}
+            the egg pile, a <span className="strong">Lar&apos;korwi mate</span>{' '}
             should appear and attack you, kill her and loot the{' '}
             <span className="item">Ravasaur Pheromone Gland</span> (75% drop
             rate). Then go to the next pile of eggs north of this one{' '}
             <span className="em">(66,67)</span>, do the same thing. Go back and
             forth between these 2 egg piles until you got 2 Glands. Go back to
-            Torwa Pathfinder and turn in the quest, don't get the follow up.
-            <p></p>
-            <p></p>
+            Torwa Pathfinder and turn in the quest, don&apos;t get the follow
+            up.
+            <p />
+            <p />
           </li>
           <li>
             Go back to the Marshlands and kill Dinosaurs while looking for
@@ -1017,7 +1062,7 @@ function Chapter3() {
             </ul>
           </li>
         </ol>
-        <p></p>
+        <p />
         <p>
           <span className="small">
             <span className="strong">Level 52</span>
@@ -1026,8 +1071,8 @@ function Chapter3() {
         </p>
         <ol className="bb-list">
           <li>
-            Ride north then northwest to Marshall's Refuge{' '}
-            <span className="em">(46,13)</span>.<p></p>
+            Ride north then northwest to Marshall&apos;s Refuge{' '}
+            <span className="em">(46,13)</span>.<p />
             <p>Get the following quests:</p>
             <ul className="bb-list">
               <li>
@@ -1037,7 +1082,7 @@ function Chapter3() {
               </li>
               <li>
                 <span className="quest">
-                  <span className="strong">[51] Shizzle's Flyer</span>
+                  <span className="strong">[51] Shizzle&apos;s Flyer</span>
                 </span>{' '}
                 from Shizzle
               </li>
@@ -1065,7 +1110,7 @@ function Chapter3() {
           <p>
             Turn in{' '}
             <span className="quest">
-              <span className="strong">[50] Williden's Journal</span>
+              <span className="strong">[50] Williden&apos;s Journal</span>
             </span>{' '}
             and get{' '}
             <span className="quest">
@@ -1075,24 +1120,27 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[52] Alien Ecology</span>
             </span>{' '}
-            from Hol'Anyee Marshal.
+            from Hol&apos;Anyee Marshal.
           </p>
 
           <p>
-            Open the "small pack" in your inventory and loot all the items from
-            it, then turn in{' '}
+            Open the &quot;small pack&quot; in your inventory and loot all the
+            items from it, then turn in{' '}
             <span className="quest">
-              <span className="strong">[52] It's a Secret to Everybody</span>
+              <span className="strong">
+                [52] It&apos;s a Secret to Everybody
+              </span>
             </span>{' '}
-            at Linken (he's inside a tree trunk south of Williden Marshal),
-            don't get the follow up yet. You can destroy the throwing daggers
-            and the Faded Photograph from your inventory.
+            at Linken (he&apos;s inside a tree trunk south of Williden Marshal),
+            don&apos;t get the follow up yet. You can destroy the throwing
+            daggers and the Faded Photograph from your inventory.
           </p>
 
-          <p></p>
+          <p />
           <li>
-            Go inside the cave at Marshall's Refuge and go to the end of it
-            where you'll find a little gnome named J.D. Collie.<p></p>
+            Go inside the cave at Marshall&apos;s Refuge and go to the end of it
+            where you&apos;ll find a little gnome named J.D. Collie.
+            <p />
             <p>
               Get her quest{' '}
               <span className="quest">
@@ -1132,20 +1180,21 @@ function Chapter3() {
           </p>
 
           <p>
-            There's a weapon merchant, use it to repair and sell junk. You can
-            also destroy the extra power crystals if you still have any, for
+            There&apos;s a weapon merchant, use it to repair and sell junk. You
+            can also destroy the extra power crystals if you still have any, for
             more bagspace.
           </p>
 
-          <p></p>
+          <p />
           <li>
-            Get out of Marshall's Refuge and ride east along the wall until{' '}
+            Get out of Marshall&apos;s Refuge and ride east along the wall until{' '}
             <span className="em">(54,13)</span>. At this spot go up the mountain
             and you should find the Northern Crystal Pylon. Click it, and
-            examine it, you should get a "quest complete" message. Further north
-            of the crystal you should find some{' '}
+            examine it, you should get a &quot;quest complete&quot; message.
+            Further north of the crystal you should find some{' '}
             <span className="strong">Pterrordax</span> (3 of them normally),
-            kill them.<p></p>
+            kill them.
+            <p />
             <p>From this point on, kill the following mobs on sight:</p>
             <ul className="bb-list">
               <li>
@@ -1165,30 +1214,31 @@ function Chapter3() {
           <p>
             And also beware of the{' '}
             <span className="strong">Tyrant Devilsaurs</span>, there is a few of
-            them roaming in Un'Goro. They are lvl 55ish elite, run fast and hit
-            hard. So watch your back.
+            them roaming in Un&apos;Goro. They are lvl 55ish elite, run fast and
+            hit hard. So watch your back.
           </p>
 
-          <p></p>
+          <p />
           <li>
             Go east to Fungal Rock. You should find plenty of{' '}
             <span className="strong">apes</span> there outside and inside the
-            cave.<p></p>
+            cave.
+            <p />
             <p>
               Kill apes there until you get{' '}
               <span className="item">
-                2 un'goro gorilla, stomper and thunderer pelts
+                2 un&apos;goro gorilla, stomper and thunderer pelts
               </span>
               . Inside the ape cave at the first fork go right until you find{' '}
               <span className="strong">A-Me 01</span>, turn in the quest but
-              don't get the follow up.
+              don&apos;t get the follow up.
             </p>
             <p>
-              Be careful when fighting the Un'Goro Gorillas, they call for help
-              when they get low health, and any other ape in a rather wide range
-              will come to help. So, fight them away from other apes.
+              Be careful when fighting the Un&apos;Goro Gorillas, they call for
+              help when they get low health, and any other ape in a rather wide
+              range will come to help. So, fight them away from other apes.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go south until you find 3 black pools with{' '}
@@ -1196,13 +1246,15 @@ function Chapter3() {
             <span className="strong">Tar Beasts</span> around them{' '}
             <span className="em">(60,26)</span>. Clear these 3 pools until you
             have <span className="item">12 Super Sticky Tar</span> (drop rate is
-            about 25% per kill)<p></p>
-            <p></p>
+            about 25% per kill)
+            <p />
+            <p />
           </li>
           <li>
             Go southeast until the expedition encampment{' '}
             <span className="em">(68,36)</span> and loot the Crate of
-            Foodstuffs.<p></p>
+            Foodstuffs.
+            <p />
             <p>
               Go southeast until you find the Eastern Crystal Pylon{' '}
               <span className="em">(76,48)</span>. Click it and examine it.
@@ -1211,33 +1263,34 @@ function Chapter3() {
               Go south to Torwa Pathfinder <span className="em">(71,75)</span>{' '}
               and turn in{' '}
               <span className="quest">
-                <span className="strong">[55] The Apes of Un'Goro</span>
+                <span className="strong">[55] The Apes of Un&apos;Goro</span>
               </span>
-              , don't get the follow up.
+              , don&apos;t get the follow up.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go west to the Slithering Scar and clear yourself a path to the bug
             lair entrance at <span className="em">(50,76)</span>. Inside the bug
             lair at the first fork go left, clear the circular room and then
             stand in the middle of it, look in your inventory for a black vial
-            named "Scraping Vial" and click it. If it doesn't work try different
-            spots in this room until you get a{' '}
-            <span className="item">Hive Wall Sample</span>.<p></p>
+            named &quot;Scraping Vial&quot; and click it. If it doesn&apos;t
+            work try different spots in this room until you get a{' '}
+            <span className="item">Hive Wall Sample</span>.<p />
             <p>
               At this point you might already have gotten a{' '}
-              <span className="item">Gorishi Scent Gland</span>. If you didn't,
-              keep on killing these bugs until one drops. It can drop from any
-              of the bugs, inside or outside the lair, it doesn't matter.
+              <span className="item">Gorishi Scent Gland</span>. If you
+              didn&apos;t, keep on killing these bugs until one drops. It can
+              drop from any of the bugs, inside or outside the lair, it
+              doesn&apos;t matter.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go directly south of the bug lair and up the mountain{' '}
             <span className="em">(50,88)</span>. You should find{' '}
             <span className="strong">2 Pterrordax</span> there, kill them.
-            <p></p>
+            <p />
             <p>
               A bit further to the west you should find another of those spots
               up the mountains with 4 or 5 Pterrordax there{' '}
@@ -1245,23 +1298,23 @@ function Chapter3() {
               until you get your 10 Pterrodax kills, you can kill some bugs
               while waiting on respawns.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Then get on your mount and ride to the expedition camp at{' '}
             <span className="em">(38,66)</span>, try to avoid the aggros as much
             as possible because most mobs are too tough for you here. At the
             expedition camp, look for a pile of crates named{' '}
-            <span className="strong">"Research Equipment"</span> and loot them.
-            Then go northwest, run away from any aggro if you have to, the lake
-            is pretty safe so I suggest you just swim through it, going
-            northwest until you reach the big rock on the other bank. Behind
-            this rock you 'll find a little goblin named Krakle, get his quest
-            quickly{' '}
+            <span className="strong">&quot;Research Equipment&quot;</span> and
+            loot them. Then go northwest, run away from any aggro if you have
+            to, the lake is pretty safe so I suggest you just swim through it,
+            going northwest until you reach the big rock on the other bank.
+            Behind this rock you &apos;ll find a little goblin named Krakle, get
+            his quest quickly{' '}
             <span className="quest">
               <span className="strong">[55] Find the Source</span>
             </span>
-            .<p></p>
+            .<p />
             <p>
               (Quickly because a Devilsaur roams at this place every now and
               then.{' '}
@@ -1273,16 +1326,17 @@ function Chapter3() {
               />
               )
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go directly west and a bit to the south and you will find the{' '}
             <span className="strong">western crystal pylon</span>
-            <span className="em">(23,57)</span>. Click it and examine it.{' '}
-            <p></p>
-            <p>Ride northeast back to Marshall's Refuge and sell and repair.</p>
+            <span className="em">(23,57)</span>. Click it and examine it. <p />
             <p>
-              If you haven't finished{' '}
+              Ride northeast back to Marshall&apos;s Refuge and sell and repair.
+            </p>
+            <p>
+              If you haven&apos;t finished{' '}
               <span className="quest">
                 <span className="strong">[52] Muigin and Larion</span>
               </span>
@@ -1297,10 +1351,11 @@ function Chapter3() {
               <span className="em">(55,13)</span> and kill the 2 Pterrordax
               there, you should have your 10 Pterrordax kills then.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
-            Then go back to Marshall's Refuge and turn in:<p></p>
+            Then go back to Marshall&apos;s Refuge and turn in:
+            <p />
             <ul className="bb-list">
               <li>
                 <span className="quest">
@@ -1351,18 +1406,21 @@ function Chapter3() {
           <p>
             Get out of the cave and get the quest from Linken{' '}
             <span className="quest">
-              <span className="strong">[52] It's a secret to everybody.</span>
+              <span className="strong">
+                [52] It&apos;s a secret to everybody.
+              </span>
             </span>
           </p>
 
-          <p></p>
+          <p />
           <li>
             Get on your mount and ride west along the mountain until you reach
             two stone pillars <span className="em">(29,22)</span>. From there,
             follow the path going up the mountain until you zone into Silithus,
             keep going west on the road until you reach Cenarion Hold. In
-            Cenarion Hold find the Hippogryph Master, he's at the feet of the
-            highest tower. Fly to Gadgetzan.<p></p>
+            Cenarion Hold find the Hippogryph Master, he&apos;s at the feet of
+            the highest tower. Fly to Gadgetzan.
+            <p />
             <p>
               In Gadgetzan, turn in{' '}
               <span className="quest">
@@ -1372,19 +1430,19 @@ function Chapter3() {
               <span className="quest">
                 <span className="strong">[53] Bungle in the Jungle</span>
               </span>
-              , don't get the follow up quest.
+              , don&apos;t get the follow up quest.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Hearthstone to Darnassus, go to the Cenarion Enclave, behind the
             tower you should find Jenal. Turn in the quest{' '}
             <span className="quest">
-              <span className="strong">[50] Un'Goro Soil</span>
+              <span className="strong">[50] Un&apos;Goro Soil</span>
             </span>
-            .<p></p>
+            .<p />
             <p>
-              <span className="strong">End of Un'goro circuit #1</span>
+              <span className="strong">End of Un&apos;goro circuit #1</span>
             </p>
             <p>
               <img
@@ -1395,10 +1453,10 @@ function Chapter3() {
             </p>
             <p>
               <span className="strong">Note: </span>This time no xp bonus at
-              all, and the XP from turning in [50] Un'goro Soil is missing,
+              all, and the XP from turning in [50] Un&apos;goro Soil is missing,
               because I went LD before using hearthstone, and managed to take
-              the screenshot quick. So that's actually 41000 XP/ Hour, not too
-              shabby!
+              the screenshot quick. So that&apos;s actually 41000 XP/ Hour, not
+              too shabby!
             </p>
             <p>
               Go to the top of the Cenarion tower and get the quest{' '}
@@ -1410,46 +1468,48 @@ function Chapter3() {
             </p>
             <p>
               Search your inventory for something named{' '}
-              <span className="strong">"Evergreen Pouch"</span>. From now on,
-              click it everytime the timer is ready, it will create an
-              "Evergreen herb casing", open it and loot what's inside. It can be
-              various herbs but sometimes it will be{' '}
-              <span className="item">Morrowgrain</span>, and that's what you
-              need. You need <span className="item">2 Ungoro Soil</span>{' '}
+              <span className="strong">&quot;Evergreen Pouch&quot;</span>. From
+              now on, click it everytime the timer is ready, it will create an
+              &quot;Evergreen herb casing&quot;, open it and loot what&apos;s
+              inside. It can be various herbs but sometimes it will be{' '}
+              <span className="item">Morrowgrain</span>, and that&apos;s what
+              you need. You need <span className="item">2 Ungoro Soil</span>{' '}
               everytime you want to use the pouch, but you should still have
               about 20 left even after turning the quests.
             </p>
             <p>
               You will need a total of 20 Morrowgrain, which you might not get
               if you are unlucky with the evergreen pouch, however you will
-              probably get 10 Morrowgrain at least, and that's what you'll need
-              in short term, the other 10 morrowgrains are not so urgent, and
-              we'll go back to Un'goro if you run out of Un'goro soils anyway.
-              However once you got 20 Morrowgrain you can stop using the
-              evergreen pouch. I personally sold the seeds and the un'goro soil
-              I had left after obtained my 20 morrowgrain, and also destroyed
-              the evergreen pouch, because I like having bag space{' '}
+              probably get 10 Morrowgrain at least, and that&apos;s what
+              you&apos;ll need in short term, the other 10 morrowgrains are not
+              so urgent, and we&apos;ll go back to Un&apos;goro if you run out
+              of Un&apos;goro soils anyway. However once you got 20 Morrowgrain
+              you can stop using the evergreen pouch. I personally sold the
+              seeds and the un&apos;goro soil I had left after obtained my 20
+              morrowgrain, and also destroyed the evergreen pouch, because I
+              like having bag space{' '}
               <img
                 src="http://www.wow-pro.com/sites/all/modules/smileys/packs/Example/tongue.png"
                 title="Sticking out tongue"
                 alt="Sticking out tongue"
                 className="smiley-content"
               />
-              . Don't stand still and do nothing while waiting on the pouch
+              . Don&apos;t stand still and do nothing while waiting on the pouch
               timer though, go on with the next part of the guide! You can click
               on the evergreen pouch every now and then everytime the cooldown
               is refreshed, until you get{' '}
               <span className="item">20 Morrowgrain.</span>
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Repair, sell, visit the auction house and resupply food/drink (4
             stacks). Also go to your class trainer to get your lvl 52 skills.
-            (Warlocks, Paladins and Mages will have to go to Ironforge).<p></p>
+            (Warlocks, Paladins and Mages will have to go to Ironforge).
+            <p />
             <p>
-              Go to Rut'Theran village and fly to Auberdine, then ride south
-              following the road until you zone into Ashenvale.
+              Go to Rut&apos;Theran village and fly to Auberdine, then ride
+              south following the road until you zone into Ashenvale.
             </p>
             <p>
               In Ashenvale keep following the road until you hit Astraanar{' '}
@@ -1459,12 +1519,13 @@ function Chapter3() {
             </p>
             <p>
               Then keep going east following the road until you zone into
-              Azshara <span className="em">(92,46)</span>, it's a long ride.
+              Azshara <span className="em">(92,46)</span>, it&apos;s a long
+              ride.
             </p>
             <p>
-              Right after entering Azshara you'll find Talrendis Point to the
-              right <span className="em">(11,77)</span>. Get the new flight
-              path. Get the two quests from the tauren named Loh'atu:
+              Right after entering Azshara you&apos;ll find Talrendis Point to
+              the right <span className="em">(11,77)</span>. Get the new flight
+              path. Get the two quests from the tauren named Loh&apos;atu:
             </p>
             <p>
               <span className="quest">
@@ -1486,10 +1547,10 @@ function Chapter3() {
               Go north on the other side of the road to Shadowsong Shrine{' '}
               <span className="em">(13,74)</span>. Kill{' '}
               <span className="strong">6 Highborne Apparitions</span> and{' '}
-              <span className="strong">6 Highborne Lichling</span>. There's more
-              of them just a bit further to the northeast
+              <span className="strong">6 Highborne Lichling</span>. There&apos;s
+              more of them just a bit further to the northeast
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             When done with that, go further to the northeast until{' '}
@@ -1499,39 +1560,39 @@ function Chapter3() {
               <span className="strong">[47] A Land Filled with Hatred</span>
             </span>{' '}
             complete.
-            <p></p>
-            <p></p>
+            <p />
+            <p />
           </li>
           <li>
             Go back to Talrendis Point and turn in the two quests. Then get back
             on the road and ride northeast. Go around the ruins of Eldarath by
             the west side of it and keep going northeast. Avoid the Timbermaw
-            Furlbogs, don't kill any of them even if they attack you, just run
-            away. Avoid the other timbermaw camp "ursolan", go around it by the
-            east side and keep riding northeast until you get to sharp hill at{' '}
-            <span className="em">(53,21)</span>, get to the top of it, you can
-            only access it from the north. Uptop you'll find a goblin named
-            Kim'jael. Get his quest{' '}
+            Furlbogs, don&apos;t kill any of them even if they attack you, just
+            run away. Avoid the other timbermaw camp &quot;ursolan&quot;, go
+            around it by the east side and keep riding northeast until you get
+            to sharp hill at <span className="em">(53,21)</span>, get to the top
+            of it, you can only access it from the north. Uptop you&apos;ll find
+            a goblin named Kim&apos;jael. Get his quest{' '}
             <span className="quest">
-              <span className="strong">[53] Kim'jael Indeed</span>
+              <span className="strong">[53] Kim&apos;jael Indeed</span>
             </span>
-            .<p></p>
-            <p></p>
+            .<p />
+            <p />
           </li>
           <li>
-            Just southeast of Kim'jael you'll find Thalassian Base Camp{' '}
-            <span className="em">(55,26)</span>. Start killing{' '}
+            Just southeast of Kim&apos;jael you&apos;ll find Thalassian Base
+            Camp <span className="em">(55,26)</span>. Start killing{' '}
             <span className="strong">Blood Elves</span>, a lot of blood elves.
             This is a good grinding spot, rarely occupied. The elves have low
             hit points and can drop runecloth, and they respawn fast!
             <br />
-            For those who aren't already level 53, I suggest you grind until you
-            are level 53 and 4 bubbles of exp in (approximately 25000 XP). Read
-            the Next paragraph though while you grind on those elves.
+            For those who aren&apos;t already level 53, I suggest you grind
+            until you are level 53 and 4 bubbles of exp in (approximately 25000
+            XP). Read the Next paragraph though while you grind on those elves.
             <br />
           </li>
         </ol>
-        <p></p>
+        <p />
         <p>
           <span className="small">
             <span className="strong">Level 53</span>
@@ -1540,50 +1601,55 @@ function Chapter3() {
         </p>
         <ol className="bb-list">
           <li>
-            In the blood elf camp you'll find several crates named{' '}
-            <span className="strong">"Kim'Jael's Equipment"</span> scattered
-            around. Open them all, most of the time you'll find food in it, but
-            25% of the time you'll find{' '}
-            <span className="item">Kim'Jael's compass</span>,{' '}
-            <span className="item">scope</span>, etc. You'll get them by pair of
-            2. So basically you just need to find 2 "good" crates and you are
-            done.<p></p>
-            <p></p>
+            In the blood elf camp you&apos;ll find several crates named{' '}
+            <span className="strong">
+              &quot;Kim&apos;Jael&apos;s Equipment&quot;
+            </span>{' '}
+            scattered around. Open them all, most of the time you&apos;ll find
+            food in it, but 25% of the time you&apos;ll find{' '}
+            <span className="item">Kim&apos;Jael&apos;s compass</span>,{' '}
+            <span className="item">scope</span>, etc. You&apos;ll get them by
+            pair of 2. So basically you just need to find 2 &quot;good&quot;
+            crates and you are done.
+            <p />
+            <p />
           </li>
           <li>
             Once you got the quest complete and have approximately 25000 xp in
-            level 53, go back to Kim'Jael, turn in the quest, get the follow up{' '}
+            level 53, go back to Kim&apos;Jael, turn in the quest, get the
+            follow up{' '}
             <span className="quest">
               <span className="strong">
-                [53] Kim'Jael's "Missing" Equipment
+                [53] Kim&apos;Jael&apos;s &quot;Missing&quot; Equipment
               </span>
             </span>
-            .<p></p>
+            .<p />
             <p>
               Ride southwest and find the path going down to the Shattered
-              Strand <span className="em">(45,37)</span>, it's right next to
-              Ursolan, southeast of it. You'll encounter some{' '}
+              Strand <span className="em">(45,37)</span>, it&apos;s right next
+              to Ursolan, southeast of it. You&apos;ll encounter some{' '}
               <span className="strong">naga</span> pretty soon, kill every{' '}
               <span className="strong">naga</span> on your way, go southwest,
               until you reach the Ruins of Eldarath by a path at{' '}
               <span className="em">(41,48)</span>.
             </p>
             <p>
-              South of it, at <span className="em">(39,50)</span> you'll find a
-              Pillar named Rune of Jin'yael, clear the{' '}
+              South of it, at <span className="em">(39,50)</span> you&apos;ll
+              find a Pillar named Rune of Jin&apos;yael, clear the{' '}
               <span className="strong">2 ghosts</span> guarding it and any naga
               close to it. Right click the pillar, it will use your drawing kit
-              and you'll receive the{' '}
-              <span className="item">Rubbing: Rune of Jin'yael</span>.
+              and you&apos;ll receive the{' '}
+              <span className="item">Rubbing: Rune of Jin&apos;yael</span>.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             A bit further to the south, at the central point of the Ruisn of
-            Eldarath you'll find the{' '}
-            <span className="strong">Rune of Beth'Amara</span>
+            Eldarath you&apos;ll find the{' '}
+            <span className="strong">Rune of Beth&apos;Amara</span>
             <span className="em">(36,53)</span>. Right click it and get the
-            rubbing.<p></p>
+            rubbing.
+            <p />
             <p>
               Just southeast of this spot is the{' '}
               <span className="strong">Rune of Markri</span>{' '}
@@ -1591,8 +1657,8 @@ function Chapter3() {
             </p>
             <p>
               And the last one is much further to the south and a bit to the
-              east, at <span className="em">(42,64)</span> you'll find the Rune
-              of Sael'hai.
+              east, at <span className="em">(42,64)</span> you&apos;ll find the
+              Rune of Sael&apos;hai.
             </p>
             <p>
               Grind your way through nagas back from where you came from until
@@ -1602,32 +1668,36 @@ function Chapter3() {
               a lot of them = good grind spot.{' '}
             </p>
             <p>
-              You should find <span className="item">"Some Rune"</span> on one
-              of the nagas on the shattered strand, keep killing Spitelash
-              sirens and myrmidons until one drops "Some Rune".
+              You should find{' '}
+              <span className="item">&quot;Some Rune&quot;</span> on one of the
+              nagas on the shattered strand, keep killing Spitelash sirens and
+              myrmidons until one drops &quot;Some Rune&quot;.
             </p>
             <p>
               Find the slope taking you out of the Shattered Strand back on high
               ground at <span className="em">(46,39)</span> and then ride
-              northeast back to Kim'Jael, turn in the quest.
+              northeast back to Kim&apos;Jael, turn in the quest.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Ride back to the Shattered strand by the same path{' '}
-            <span className="em">(45,37)</span>. This time don't kill the nagas,
-            just ride along the shore directly south, avoiding nagas as much as
-            possible and keep going until you hit a spot where you can't go
-            further without having to swim <span className="em">(58,73)</span>.
+            <span className="em">(45,37)</span>. This time don&apos;t kill the
+            nagas, just ride along the shore directly south, avoiding nagas as
+            much as possible and keep going until you hit a spot where you
+            can&apos;t go further without having to swim{' '}
+            <span className="em">(58,73)</span>.
             <span className="strong">Note:</span> if you actually like this spot
-            and feel like grinding, do so.<p></p>
-            <p></p>
+            and feel like grinding, do so.
+            <p />
+            <p />
           </li>
           <li>
             Swim east and then south to the island marked on the map{' '}
             <span className="em">(77,91)</span>, just be careful to avoid the
             elite giants that walk at the bottom of the sea. Anything else you
-            can handle.<p></p>
+            can handle.
+            <p />
             <p>
               Get on the Helipad and use your{' '}
               <span className="strong">Standard Issue Flare Gun</span> from your
@@ -1640,8 +1710,8 @@ function Chapter3() {
               <span className="quest">
                 <span className="strong">[52] Return to Tymor</span>
               </span>{' '}
-              (don't worry there is still 7000 xp to come from turning that one,
-              I didn't make you cross the ocean for peanuts{' '}
+              (don&apos;t worry there is still 7000 xp to come from turning that
+              one, I didn&apos;t make you cross the ocean for peanuts{' '}
               <img
                 src="http://www.wow-pro.com/sites/all/modules/smileys/packs/Example/wink.png"
                 title="Eye"
@@ -1650,11 +1720,12 @@ function Chapter3() {
               />{' '}
               ) You can destroy the Flare Gun.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Hearthstone to Astraanar, sell, repair and resupply food/drink up to
-            4 stacks.<p></p>
+            4 stacks.
+            <p />
             <p>
               Ride to felwood this time! Follow the road east and then north at
               the fork.
@@ -1676,8 +1747,8 @@ function Chapter3() {
               />
             </p>
             <p>
-              Further along the road you'll find Emerald Sanctuary, left of the
-              road you'll see a furlbog named Grazle{' '}
+              Further along the road you&apos;ll find Emerald Sanctuary, left of
+              the road you&apos;ll see a furlbog named Grazle{' '}
               <span className="em">(50,84)</span>, get the quest{' '}
               <span className="quest">
                 <span className="strong">[48] Timbermaw Ally</span>
@@ -1700,12 +1771,12 @@ function Chapter3() {
               <span className="quest">
                 <span className="strong">[54] Verifying the Corruption</span>
               </span>{' '}
-              from Taronn Redfeather, don't get the other quest.
+              from Taronn Redfeather, don&apos;t get the other quest.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
-            Go southwest and you'll find Deadwood Village{' '}
+            Go southwest and you&apos;ll find Deadwood Village{' '}
             <span className="em">(49,88)</span>, start slaughtering{' '}
             <span className="strong">Furlbogs</span>. Keep doing that until you
             complete{' '}
@@ -1717,8 +1788,8 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[55] Speak to Nafien</span>
             </span>
-            .<p></p>
-            <p></p>
+            .<p />
+            <p />
           </li>
           <li>
             Ride north following the road until{' '}
@@ -1727,13 +1798,14 @@ function Chapter3() {
             . Each time you kill one, and after looting it, target the corpse
             and click on an <span className="item">Empty Cursed Ooze Jar</span>{' '}
             from your inventory (you get these by opening the jar container you
-            should have in your inventory).<p></p>
+            should have in your inventory).
+            <p />
             <p>
               <span className="em">
                 Fill up 6 Cursed Ooze Jar in the same fashion.
               </span>
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Then get back on the road and ride north until{' '}
@@ -1751,12 +1823,13 @@ function Chapter3() {
               <span className="strong">[51] Forces of Jaedenar</span>
             </span>{' '}
             normally.
-            <p></p>
-            <p></p>
+            <p />
+            <p />
           </li>
           <li>
             When done with Forces of Jaedenar, get back on the road and ride
-            south, back to Emerald Sanctuary.<p></p>
+            south, back to Emerald Sanctuary.
+            <p />
             <p>
               Get the follow up{' '}
               <span className="quest">
@@ -1786,7 +1859,7 @@ function Chapter3() {
               needed. Then get the last kills you need to complete the quest on
               your way out.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             When{' '}
@@ -1801,7 +1874,7 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[51] Forces of Jaedenar</span>
             </span>
-            .<p></p>
+            .<p />
             <p>
               Get close to the moonwell and click the{' '}
               <span className="item">Empty Canteen</span> you should find in
@@ -1828,7 +1901,7 @@ function Chapter3() {
               </span>
               .
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Get back on the road, ride north and this time past bloodvenom
@@ -1837,32 +1910,34 @@ function Chapter3() {
             <span className="strong">2 Entropic Beasts</span>, they are immune
             fire and deal fire damage. Walk around in the Shatter Scar Vale
             until you get the{' '}
-            <span className="strong">"Explore the craters"</span> complete
-            message. Further to the east and a bit to the north at the last
-            crater you should find{' '}
+            <span className="strong">&quot;Explore the craters&quot;</span>{' '}
+            complete message. Further to the east and a bit to the north at the
+            last crater you should find{' '}
             <span className="strong">Entropic Horrors</span>, they are just a
             bit higher level than the Entropic Beasts but still in your range.
-            Kill two Entropic Horrors then get back on the road. If you don't
-            find Entropic Horros, kill Entropic Beasts until Entropic Horros
-            respawn instead.<p></p>
-            <p></p>
+            Kill two Entropic Horrors then get back on the road. If you
+            don&apos;t find Entropic Horros, kill Entropic Beasts until Entropic
+            Horros respawn instead.
+            <p />
+            <p />
           </li>
           <li>
             Ride north until the road curves to the right, just a bit further
             after the curve at <span className="em">(42,23)</span>, go north on
-            a trail going up to Jadefire Run.<p></p>
+            a trail going up to Jadefire Run.
+            <p />
             <p>
               In Jadefire Run clear yourself a path towards the west, and then
               take a narrow path towards the southwest.
             </p>
             <p>
-              At the end of that path you'll find{' '}
+              At the end of that path you&apos;ll find{' '}
               <span className="strong">Xavaric</span>{' '}
               <span className="em">(39,22)</span>, he is surrounded by 2 other
               satyrs and he moves from one to the other. You can actually pull
               each of the guards solo, if you wait for Xavaric to be away enough
-              from one of them. <span className="em">Kill Xavaric</span>, he's
-              an easy fight if pulled solo.
+              from one of them. <span className="em">Kill Xavaric</span>,
+              he&apos;s an easy fight if pulled solo.
             </p>
             <p>
               Loot the <span className="item">Flute of Xavaric</span> and right
@@ -1872,7 +1947,7 @@ function Chapter3() {
               </span>
               .
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Keep killing <span className="strong">Satyrs</span> in Jadefire run
@@ -1882,15 +1957,15 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[54] Further Corruption</span>
             </span>
-            .<p></p>
-            <p></p>
+            .<p />
+            <p />
           </li>
           <li>
             Get back on the road and ride until Irontree Cavern as shown on map{' '}
             <span className="em">(55,15)</span>. Kill{' '}
             <span className="strong">Warpwood Elementals</span> until you get{' '}
             <span className="item">15 Blood Amber</span>, they always drop.
-            <p></p>
+            <p />
             <p>
               Get back on the main road, go east and then south to Talonbranch
               Glade <span className="em">(62,24)</span>. Get the new flight
@@ -1910,20 +1985,22 @@ function Chapter3() {
               u-turn, felpaw village should be right infront of you{' '}
               <span className="em">(63,14)</span>.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Start killing <span className="strong">Deadwood furlbogs</span>{' '}
             until the kill list is complete, be careful with the{' '}
             <span className="strong">Den Watchers</span>, they call for help,
             fight them away from the others. Also check your reputation tab
-            (press "U" key), you must be 150 reputation points away from
-            "Unfriendly" before you go turn in the quest, so if you aren't, kill
-            some more furlbogs. If you find a Deadwood Ritual Totem, don't click
-            it, you can't do the quest yet, as you need to be neutral with the
-            timbermaw furlbogs, and since we are short on quest log space, just
-            keep the totem in your inventory for now.<p></p>
-            <p></p>
+            (press &quot;U&quot; key), you must be 150 reputation points away
+            from &quot;Unfriendly&quot; before you go turn in the quest, so if
+            you aren&apos;t, kill some more furlbogs. If you find a Deadwood
+            Ritual Totem, don&apos;t click it, you can&apos;t do the quest yet,
+            as you need to be neutral with the timbermaw furlbogs, and since we
+            are short on quest log space, just keep the totem in your inventory
+            for now.
+            <p />
+            <p />
           </li>
           <li>
             Go turn in the quest at Nafien, get the follow up{' '}
@@ -1934,33 +2011,39 @@ function Chapter3() {
             Furlbogs.
             <span className="em">Note:</span> if you get{' '}
             <span className="item">5 deadwood headdress feathers</span>, turn
-            them in at nafien as well, it's a repeatable quest for extra faction
-            with the timbermaws. (You get +50 faction points per turn in)<p></p>
-            <p></p>
+            them in at nafien as well, it&apos;s a repeatable quest for extra
+            faction with the timbermaws. (You get +50 faction points per turn
+            in)
+            <p />
+            <p />
           </li>
           <li>
             Go inside Timbermaw Hold, after the bridge keep going east. Right
-            outside the tunnel to the right you'll find Salfa, turn in the
-            quest, don't get the other quest.<p></p>
+            outside the tunnel to the right you&apos;ll find Salfa, turn in the
+            quest, don&apos;t get the other quest.
+            <p />
             <p>
               Ride south to Donova Snowden, turn in the quest{' '}
               <span className="quest">
-                <span className="strong">[52] It's a Secret to Everybody</span>
+                <span className="strong">
+                  [52] It&apos;s a Secret to Everybody
+                </span>
               </span>
               , let her do her speech, and then get the follow up{' '}
               <span className="quest">
                 <span className="strong">[52] The Videre Elixir</span>
               </span>
-              , don't get the other quest.
+              , don&apos;t get the other quest.
             </p>
             <p>
-              If you didn't go to Maraudon and/or if you don't have the quest{' '}
+              If you didn&apos;t go to Maraudon and/or if you don&apos;t have
+              the quest{' '}
               <span className="quest">
                 <span className="strong">[51] Seed of Life</span>
               </span>
               , use your hearthstone to Astraanar and skip the next paragraph.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go back to Timbermaw Hold, this time in the tunnels, go under the
@@ -1970,17 +2053,19 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[51] Seed of Life</span>
             </span>{' '}
-            at Keeper Remulos. Use your Hearhstone to Astraanar<p></p>
-            <p></p>
+            at Keeper Remulos. Use your Hearhstone to Astraanar
+            <p />
+            <p />
           </li>
           <li>
             In Astraanar, take a flight to Auberdine, make Auberdine your home
             location and fly to Feathermoon in Feralas. 10 minute break while on
-            the Hippogryph!<p></p>
+            the Hippogryph!
+            <p />
             <p>
               In Feathermoon get the quest{' '}
               <span className="quest">
-                <span className="strong">[50] Jonespyre's Request</span>
+                <span className="strong">[50] Jonespyre&apos;s Request</span>
               </span>{' '}
               from the Innkeeper, then go talk to Quintis Jonespyre at the top
               of the tower east of the inn, get the follow up{' '}
@@ -1989,15 +2074,16 @@ function Chapter3() {
               </span>{' '}
               and turn it in, as you should have{' '}
               <span className="item">10 Morrowgrains</span> at least by now,
-              even if you're not lucky.
+              even if you&apos;re not lucky.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Sell/repair and resupply food/drink (up to 3 stacks). Take the boat
             to Feralas, then get on the road and ride north to the twin
-            colossals, then go west to find Gregan Brewspewer, he's exactly
-            under the "O" of the first o of the Twin Colossals.<p></p>
+            colossals, then go west to find Gregan Brewspewer, he&apos;s exactly
+            under the &quot;O&quot; of the first o of the Twin Colossals.
+            <p />
             <p>
               Turn in{' '}
               <span className="quest">
@@ -2009,10 +2095,10 @@ function Chapter3() {
               </span>
             </p>
             <p>
-              Then buy a <span className="item">"bait"</span> from Gregan (costs
-              20 silver)
+              Then buy a <span className="item">&quot;bait&quot;</span> from
+              Gregan (costs 20 silver)
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Get back on the road and ride north until you are east of the Ruins
@@ -2033,7 +2119,7 @@ function Chapter3() {
             )
           </li>
         </ol>
-        <p></p>
+        <p />
         <p>
           <span className="small">
             <span className="strong">Level 54</span>
@@ -2051,20 +2137,22 @@ function Chapter3() {
               <span className="strong">[50] Morrowgrain</span>
             </span>{' '}
             at Arch Druid Staghelm if you got enough morrowgrain, if you got
-            unlucky with combines and don't have enough morrowgrain and are out
-            of Un'goro soils or Tharlendris seeds, go buy some extra seeds at
-            the quest giver in the Cenarion Enclave (to be on the safe side, buy
-            3 Tharlendris seed per morrowgrain you still need), we will go back
-            to Un'goro crater soon and you'll get the last un'goro soils you
-            need there to complete this morrowgrain quest.
+            unlucky with combines and don&apos;t have enough morrowgrain and are
+            out of Un&apos;goro soils or Tharlendris seeds, go buy some extra
+            seeds at the quest giver in the Cenarion Enclave (to be on the safe
+            side, buy 3 Tharlendris seed per morrowgrain you still need), we
+            will go back to Un&apos;goro crater soon and you&apos;ll get the
+            last un&apos;goro soils you need there to complete this morrowgrain
+            quest.
             <br />
             Sell and repair, resupply food/drink (3 stacks), check the AH.
-            <p></p>
-            <p></p>
+            <p />
+            <p />
           </li>
           <li>
             Go get your new skills at your class trainer. Go to ironforge and
-            turn in:<p></p>
+            turn in:
+            <p />
             <p>
               <span className="quest">
                 <span className="strong">
@@ -2084,13 +2172,13 @@ function Chapter3() {
               .
             </p>
             <p>
-              Go back to Auberdine (use hearthstone if it's up). Fly to
+              Go back to Auberdine (use hearthstone if it&apos;s up). Fly to
               Talonbranch Glade (Felwood).
             </p>
             <p>Go to Timbermaw Hold, exit into Winterspring.</p>
             <p>
               <span className="strong">
-                Start of xp rate winterspring --&gt; Un'goro --&gt; Ratchet
+                Start of xp rate winterspring --&gt; Un&apos;goro --&gt; Ratchet
               </span>
             </p>
             <p>
@@ -2104,23 +2192,23 @@ function Chapter3() {
               </span>
               . Ride back to Talonbranch Glade and fly to Ratchet.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
-            In Ratchet. Infront of a small house close to the docks you'll find
-            Marvon's Chest <span className="em">(62,38)</span>, loot the{' '}
-            <span className="item">"Stone Circle"</span> from it. Inside the
-            house get the quest{' '}
+            In Ratchet. Infront of a small house close to the docks you&apos;ll
+            find Marvon&apos;s Chest <span className="em">(62,38)</span>, loot
+            the <span className="item">&quot;Stone Circle&quot;</span> from it.
+            Inside the house get the quest{' '}
             <span className="quest">
               <span className="strong">[55] Volcanic Activity</span>
             </span>{' '}
-            from Liv Rizzlefix. Make Ratchet your home location (yes, it's
+            from Liv Rizzlefix. Make Ratchet your home location (yes, it&apos;s
             possible for alliance). From ratchet ride south along the merchant
             coast and go east to the Tidus Stair{' '}
             <span className="em">(65,43)</span>, right next to the ocean you
             should find Islen Waterseer next to a hut.
-            <p></p>
-            <p></p>
+            <p />
+            <p />
           </li>
           <li>
             Turn in{' '}
@@ -2132,7 +2220,8 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[54] Cleansed Water Returns</span>
             </span>{' '}
-            to Felwood.<p></p>
+            to Felwood.
+            <p />
             <p>
               Get back on your mount and ride south along the merchant coast,
               past Northwatch Hold. Keep following the coast until you enter
@@ -2143,29 +2232,31 @@ function Chapter3() {
             <p>
               In Gadgetzan, sell/sepair, resupply food/drink up to 4 stacks.
               Long session incoming. Get the mithril casing from the Gadgetzan
-              bank, if you don't have it on you already.
+              bank, if you don&apos;t have it on you already.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go to the Gadgetzan grayveyard, just east of Gadgetzan{' '}
             <span className="em">(53,28)</span>. Drink the{' '}
-            <span className="item">Videre Elixir</span>, you'll die, but don't
-            worry, no durability loss from this, it's normal. Release spirit but
-            don't resurrect, go directly north from the Graveyard and up the
-            mountain, you should soon see the yellow "?" on your minimap, go to
-            it and talk to Gaeriyan, turn in and get the follow up{' '}
+            <span className="item">Videre Elixir</span>, you&apos;ll die, but
+            don&apos;t worry, no durability loss from this, it&apos;s normal.
+            Release spirit but don&apos;t resurrect, go directly north from the
+            Graveyard and up the mountain, you should soon see the yellow
+            &quot;?&quot; on your minimap, go to it and talk to Gaeriyan, turn
+            in and get the follow up{' '}
             <span className="quest">
               <span className="strong">[52] A Grave Situation</span>
             </span>
             . Go back to the graveyard, resurrect and click the gravestone named{' '}
-            <span className="strong">"A Conspicuous Gravestone"</span>, complete
-            the quest and get the follow up{' '}
+            <span className="strong">&quot;A Conspicuous Gravestone&quot;</span>
+            , complete the quest and get the follow up{' '}
             <span className="quest">
-              <span className="strong">[52] Linken's Sword</span>
+              <span className="strong">[52] Linken&apos;s Sword</span>
             </span>
-            . You can destroy the other Videre Elixir.<p></p>
-            <p></p>
+            . You can destroy the other Videre Elixir.
+            <p />
+            <p />
           </li>
           <li>
             Get back on your mount and ride directly south to Marvon Rivetseeker
@@ -2173,7 +2264,8 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[51] The Stone Circle</span>
             </span>
-            , get his 2 follow up:<p></p>
+            , get his 2 follow up:
+            <p />
             <p>
               <span className="quest">
                 <span className="strong">
@@ -2184,7 +2276,7 @@ function Chapter3() {
               </span>
             </p>
             <p>
-              Ride west/southwest until the entrance to Un'Goro.{' '}
+              Ride west/southwest until the entrance to Un&apos;Goro.{' '}
               <span className="em">(27,57)</span>
             </p>
             <p>
@@ -2195,100 +2287,105 @@ function Chapter3() {
               />
             </p>
             <p>
-              Down the slope in Un'Goro talk to Torwa Pathfinder{' '}
+              Down the slope in Un&apos;Goro talk to Torwa Pathfinder{' '}
               <span className="em">(71,76)</span>. Get the 2 quests from him:
             </p>
             <p>
               <span className="quest">
                 <span className="strong">
-                  [55] The Mighty U'Cha and
+                  [55] The Mighty U&apos;Cha and
                   <br />
-                  [56] The Bait for Lar'Korwi
+                  [56] The Bait for Lar&apos;Korwi
                 </span>
               </span>
             </p>
             <p>
-              If you don't have enough space in your quest log (because of a
-              class quest you don't want to abandon for example), abandon{' '}
+              If you don&apos;t have enough space in your quest log (because of
+              a class quest you don&apos;t want to abandon for example), abandon{' '}
               <span className="quest">
                 <span className="strong">
-                  [50] Into the Temple of Atal'Hakkar
+                  [50] Into the Temple of Atal&apos;Hakkar
                 </span>
               </span>
               , you can get it back easily in Stormwind later on before going to
               Sunken Temple.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Ride north until the eastern crystal pylon, go up the trail and
             further east and you should see some huge dinosaur skeletons at{' '}
             <span className="em">(80,49)</span>. Be full health/mana and ready
-            to face a level 56 mob. Open Torwa's pouch in your inventory, loot
-            the <span className="item">Preserved Threshadon Meat</span> and the{' '}
-            <span className="item">Pheromone Mixture</span>, right click the
+            to face a level 56 mob. Open Torwa&apos;s pouch in your inventory,
+            loot the <span className="item">Preserved Threshadon Meat</span> and
+            the <span className="item">Pheromone Mixture</span>, right click the
             meat, and then right click the Pheromone,{' '}
-            <span className="strong">Lar'korwi</span> will appear, kill him.
-            He's rather easy, I had no problem to solo it at all at level 54.
-            Loot <span className="strong">Lar'korwi's Head</span>..
-            <p></p>
-            <p></p>
+            <span className="strong">Lar&apos;korwi</span> will appear, kill
+            him. He&apos;s rather easy, I had no problem to solo it at all at
+            level 54. Loot{' '}
+            <span className="strong">Lar&apos;korwi&apos;s Head</span>..
+            <p />
+            <p />
           </li>
           <li>
             Ride north/northwest to Fungal Rock{' '}
             <span className="em">(63,16)</span>. Enter the cave, at the fork
             take the narrow path in the middle, then go right and keep going
             until you hit the end of the cave. Just be very careful where you
-            fight the Un'Goro Gorilla, they call for help.<p></p>
+            fight the Un&apos;Goro Gorilla, they call for help.
+            <p />
             <p>
               At the end of the cave in a room with a puddle of water and a rock
-              in the middle you'll find <span className="strong">U'cha</span>,
-              lvl 55 Gorilla. There's another gorilla in the same room but you
-              can pull it solo if you wait for U'cha to be away. Then pull U'cha
+              in the middle you&apos;ll find{' '}
+              <span className="strong">U&apos;cha</span>, lvl 55 Gorilla.
+              There&apos;s another gorilla in the same room but you can pull it
+              solo if you wait for U&apos;cha to be away. Then pull U&apos;cha
               solo, kill it and loot his <span className="item">pelt</span>.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Clear the way out of the cave, then kill all the apes outside the
             cave, make a clear path because you are gonna escort{' '}
             <span className="strong">A-Me 01</span> out of this cave soon. Once
-            there's no ape left outside the cave, go back in and go right at the
-            fork this time. After 2 or 3 more apes you'll find A-Me 01. Turn in
-            the quest, get the follow up, turn it in (since you already have the
-            mithril casing), then get the next follow up,{' '}
+            there&apos;s no ape left outside the cave, go back in and go right
+            at the fork this time. After 2 or 3 more apes you&apos;ll find A-Me
+            01. Turn in the quest, get the follow up, turn it in (since you
+            already have the mithril casing), then get the next follow up,{' '}
             <span className="quest">
               <span className="strong">[53] Chasing A-me 01</span>
             </span>
             . This will start the escort quest, once again the golden rule of
             escort quests, let A-me 01 infront, let her get hit first and then
             get the mobs off her. Escort her until Karna Remtravel and turn in
-            the quest.<p></p>
-            <p></p>
+            the quest.
+            <p />
+            <p />
           </li>
           <li>
-            Go up to Marshal's Refuge, turn in the quest{' '}
+            Go up to Marshal&apos;s Refuge, turn in the quest{' '}
             <span className="quest">
-              <span className="strong">[52] Linken's Sword</span>
+              <span className="strong">[52] Linken&apos;s Sword</span>
             </span>
             , get the follow up{' '}
             <span className="quest">
-              <span className="strong">[52] A Gnome's Assistance</span>
+              <span className="strong">[52] A Gnome&apos;s Assistance</span>
             </span>
             , go talk to J.D. Collie inside the crystal cave, turn in the quest,
             watch her do her speech and get the follow up{' '}
             <span className="quest">
-              <span className="strong">[54] Linken's Memory</span>
+              <span className="strong">[54] Linken&apos;s Memory</span>
             </span>
             . Get out of the cave and get the quest{' '}
             <span className="quest">
               <span className="strong">[55] Lost!</span>
             </span>{' '}
-            from Spraggle Frock. Sell and repair.<p></p>
+            from Spraggle Frock. Sell and repair.
+            <p />
             <p>
               Go southwest until you hit the river{' '}
               <span className="em">(40,27)</span>. On the southern side of the
-              river you'll find plenty of{' '}
+              river you&apos;ll find plenty of{' '}
               <span className="strong">Dinos and some Oozes</span>.
             </p>
             <p>
@@ -2296,11 +2393,13 @@ function Chapter3() {
               <span className="strong">Frenzied Pterrordax</span>,{' '}
               <span className="strong">Elder Diametradon</span> and{' '}
               <span className="strong">Ooze</span> you find. Open the{' '}
-              <span className="item">"bag of empty ooze containers"</span> from
-              your inventory and put the{' '}
-              <span className="item">10 "Empty Pure Sample"</span> Jar on a
-              hotkey. Everytime you kill an ooze, loot it and then target the
-              corpse and click the Jars to fill them up.{' '}
+              <span className="item">
+                &quot;bag of empty ooze containers&quot;
+              </span>{' '}
+              from your inventory and put the{' '}
+              <span className="item">10 &quot;Empty Pure Sample&quot;</span> Jar
+              on a hotkey. Everytime you kill an ooze, loot it and then target
+              the corpse and click the Jars to fill them up.{' '}
               <span className="em">
                 You can stop killing Oozes once you got 10 Pure samples.
               </span>
@@ -2309,7 +2408,7 @@ function Chapter3() {
             <p>
               <span className="quest">
                 <span className="strong">
-                  [51] Shizzle's Flyer
+                  [51] Shizzle&apos;s Flyer
                   <br />
                   [51] Roll the Bones
                 </span>
@@ -2326,9 +2425,9 @@ function Chapter3() {
               </span>
             </p>
             <p>
-              This might take a while but this is decent grinding since there's
-              quite a lot of mobs, and you are completing 4 quests at the same
-              time.
+              This might take a while but this is decent grinding since
+              there&apos;s quite a lot of mobs, and you are completing 4 quests
+              at the same time.
             </p>
             <p>
               <span className="em">
@@ -2336,40 +2435,41 @@ function Chapter3() {
               </span>{' '}
               Be careful, 2 devilsaurs roam this area from time to time.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             When you are done with these 4 quests, go southeast to Fire Plume
             Ridge, climb the mountain from the southern side in the middle{' '}
             <span className="em">(49,53)</span>. Find your way to the top of
-            Fire plume ridge, you'll have to do almost a full circle around it
-            for that, ignore the cave with Ringo for now. Kill every fire
+            Fire plume ridge, you&apos;ll have to do almost a full circle around
+            it for that, ignore the cave with Ringo for now. Kill every fire
             elemental on your way and you should get the{' '}
-            <span className="item">9 Un'Goro Ash</span> you need.<p></p>
+            <span className="item">9 Un&apos;Goro Ash</span> you need.
+            <p />
             <p>
               When at the top of Fire Plume Ridge, next to the lava pool you
-              should see a conic stone named "Fire Plume Ridge Hot Spot". Search
-              your inventory for{' '}
-              <span className="item">Krakle's Thermometer</span>, right click it
-              next to the conic stone, this should complete the quest{' '}
+              should see a conic stone named &quot;Fire Plume Ridge Hot
+              Spot&quot;. Search your inventory for{' '}
+              <span className="item">Krakle&apos;s Thermometer</span>, right
+              click it next to the conic stone, this should complete the quest{' '}
               <span className="quest">
                 <span className="strong">[55] Finding the Source</span>
               </span>
-              . Don't get too close to the cave at the top, there's a lvl 56
-              Elite elemental there, avoid it.
+              . Don&apos;t get too close to the cave at the top, there&apos;s a
+              lvl 56 Elite elemental there, avoid it.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
-            If you got 9 Un'Goro Ash already no need to kill more elementals,
-            just get off fire plume ridge from the west side and ride west until
-            Golakka hotsprings and find Krakle behind the geyser hill{' '}
-            <span className="em">(30,50)</span>. Turn in the quest and get the
-            follow up{' '}
+            If you got 9 Un&apos;Goro Ash already no need to kill more
+            elementals, just get off fire plume ridge from the west side and
+            ride west until Golakka hotsprings and find Krakle behind the geyser
+            hill <span className="em">(30,50)</span>. Turn in the quest and get
+            the follow up{' '}
             <span className="quest">
               <span className="strong">[55] The New Springs</span>
             </span>
-            .<p></p>
+            .<p />
             <p>
               Ride east/southeast to Torwa Pathfinder{' '}
               <span className="em">(71,76)</span>. Turn in the 2 quests:
@@ -2377,13 +2477,13 @@ function Chapter3() {
               <span className="quest">
                 <span className="strong">
                   <br />
-                  [55] The Mighty U'cha
+                  [55] The Mighty U&apos;cha
                   <br />
-                  [56] The Bait for Lar'korwi
+                  [56] The Bait for Lar&apos;korwi
                 </span>
               </span>
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go northwest to Fire Plume Ridge (yes, again!). Climb on it from the
@@ -2398,19 +2498,22 @@ function Chapter3() {
               <span className="strong">[55] A Little Help from My friends</span>
             </span>
             . Search your inventory for{' '}
-            <span className="item">Spraggle's Canteen</span> and put it on a
-            hotkey.{' '}
+            <span className="item">Spraggle&apos;s Canteen</span> and put it on
+            a hotkey.{' '}
             <span className="em">
               Everytime Ringo faints, click the canteen while being next to him
             </span>
             . Get off the mountain by the eastern side, then go north, run to
-            Marshall's Refuge while making sure Ringo always follows you, try to
-            avoid mobs as much as possible. Run inside Marshal's Refuge until
-            Spraggle Frock, you'll get the quest complete message.<p></p>
-            <p></p>
+            Marshall&apos;s Refuge while making sure Ringo always follows you,
+            try to avoid mobs as much as possible. Run inside Marshal&apos;s
+            Refuge until Spraggle Frock, you&apos;ll get the quest complete
+            message.
+            <p />
+            <p />
           </li>
           <li>
-            Time to turn in some quests!<p></p>
+            Time to turn in some quests!
+            <p />
             <p>
               <span className="quest">
                 <span className="strong">
@@ -2420,13 +2523,13 @@ function Chapter3() {
                   <br />
                   [51] Roll the Bones
                   <br />
-                  [51] Shizzle's Flyer
+                  [51] Shizzle&apos;s Flyer
                 </span>
               </span>
             </p>
             <p>
-              Finally some space in the quest log! Let's hope blizzard extends
-              it to 25 someday{' '}
+              Finally some space in the quest log! Let&apos;s hope blizzard
+              extends it to 25 someday{' '}
               <img
                 src="http://www.wow-pro.com/sites/all/modules/smileys/packs/Example/tongue.png"
                 title="Sticking out tongue"
@@ -2443,7 +2546,7 @@ function Chapter3() {
             </p>
             <p>
               <span className="strong">
-                End of xp rate winterspring --&gt; Un'goro --&gt; Ratchet
+                End of xp rate winterspring --&gt; Un&apos;goro --&gt; Ratchet
               </span>
             </p>
             <p>
@@ -2460,10 +2563,11 @@ function Chapter3() {
               bonus.
             </p>
             <p>Take the boat to Booty Bay, then fly to Stormwind.</p>
-            <p></p>
+            <p />
           </li>
           <li>
-            Now you have two options:<p></p>
+            Now you have two options:
+            <p />
             <ul className="bb-list">
               <li>
                 <span className="strong">1.</span> Get a 5 man group together
@@ -2471,38 +2575,38 @@ function Chapter3() {
                 got all the quests already, just have to pick{' '}
                 <span className="quest">
                   <span className="strong">
-                    [50] Into the Temple of Atal'hakkar
+                    [50] Into the Temple of Atal&apos;hakkar
                   </span>
                 </span>{' '}
-                from Brohann Caskbelly in Stormwind's dwarven district and{' '}
+                from Brohann Caskbelly in Stormwind&apos;s dwarven district and{' '}
                 <span className="quest">
                   <span className="strong">[53] Jammalan the Prophet</span>
                 </span>{' '}
                 in Hinterlands from the Exile or ask someone to share it. These
                 quests will give a huge XP boost and the rewards are nice as
                 well.
-                <p></p>
+                <p />
               </li>
               <li>
-                <span className="strong">2.</span> You don't want to do Sunken
-                Temple, then I suggest you go grind in Azshara at the Blood Elf
-                camp or on the Nagas on the Shattered Strands, OR kill deadwood
-                Furlbogs in Northern Felwood to get neutral faction with the{' '}
-                <span className="strong">Timbermaw Tribe</span> and being able
-                to turn in the totem quest.
+                <span className="strong">2.</span> You don&apos;t want to do
+                Sunken Temple, then I suggest you go grind in Azshara at the
+                Blood Elf camp or on the Nagas on the Shattered Strands, OR kill
+                deadwood Furlbogs in Northern Felwood to get neutral faction
+                with the <span className="strong">Timbermaw Tribe</span> and
+                being able to turn in the totem quest.
               </li>
             </ul>
           </li>
-          <p></p>
+          <p />
 
-          <p></p>
+          <p />
           <li>
             Before going to Sunken Temple, bind in Stormwind, then make sure you
             have the 6 quests:
             <span className="quest">
               <span className="strong">
                 <br />
-                [50] Into the Temple of Atal'Hakkar
+                [50] Into the Temple of Atal&apos;Hakkar
                 <br />
                 [51] Into the Depths
                 <br />
@@ -2510,12 +2614,12 @@ function Chapter3() {
                 <br />
                 [52] Haze of Evil
                 <br />
-                [53] Jammal'an the Prophet
+                [53] Jammal&apos;an the Prophet
                 <br />
                 [53] The God Hakkar
               </span>
             </span>
-            <p></p>
+            <p />
             <p>
               <a href="http://www.wow-pro.com/node/592" className="bb-url">
                 Follow my Guide to Sunken Temple.
@@ -2524,14 +2628,14 @@ function Chapter3() {
             </p>
           </li>
         </ol>
-        <p></p>
+        <p />
         <ul className="bb-list">
           <li>
-            For those who don't do Sunken Temple, you will have to grind about
-            80000-90000XP. That's approximately half a level. However there's
-            plenty of good spots to grind at this level, and for good reasons:
-            Harpies for your Darkmoon Epic Necklace or Deadwood Furlbogs for
-            your Timbermaw faction.
+            For those who don&apos;t do Sunken Temple, you will have to grind
+            about 80000-90000XP. That&apos;s approximately half a level. However
+            there&apos;s plenty of good spots to grind at this level, and for
+            good reasons: Harpies for your Darkmoon Epic Necklace or Deadwood
+            Furlbogs for your Timbermaw faction.
           </li>
           <li>
             When you are done with Sunken Temple, turn in all the quests besides{' '}
@@ -2544,11 +2648,11 @@ function Chapter3() {
             </span>{' '}
             when you pass by Ironforge.
             <span className="quest">
-              <span className="strong">[53] Jammal'an the Prophet</span>
+              <span className="strong">[53] Jammal&apos;an the Prophet</span>
             </span>{' '}
-            can be turned in Hinterlands at the Atal'ai Exile in Shadra 'Alor{' '}
-            <span className="em">(35,73)</span>. You should have already leveled
-            up inside the temple, if not, you'll get to{' '}
+            can be turned in Hinterlands at the Atal&apos;ai Exile in Shadra
+            &apos;Alor <span className="em">(35,73)</span>. You should have
+            already leveled up inside the temple, if not, you&apos;ll get to{' '}
             <span className="em">
               <span className="strong">level 55</span>
             </span>{' '}
@@ -2564,10 +2668,11 @@ function Chapter3() {
         </p>
         <ol className="bb-list">
           <li>
-            Sell and repair, resupply food/drink up to 4 stacks.<p></p>
+            Sell and repair, resupply food/drink up to 4 stacks.
+            <p />
             <p>
               Take the boat from Menethil Harbor to Auberdine, then fly to
-              Rut'theran village, get the quest{' '}
+              Rut&apos;theran village, get the quest{' '}
               <span className="quest">
                 <span className="strong">[55] Moontouched Wildkin</span>
               </span>{' '}
@@ -2579,18 +2684,18 @@ function Chapter3() {
               <span className="em">
                 Go to Darnassus and make it your home location
               </span>
-              . For those who didn't turn in{' '}
+              . For those who didn&apos;t turn in{' '}
               <span className="quest">
                 <span className="strong">[50] Morrowgrain</span>
               </span>{' '}
               yet, go turn it in in Darnassus at the Cenarion Enclave.
             </p>
             <p>Fly to Auberdine then to Astranaar. Ride to Felwood.</p>
-            <p></p>
+            <p />
           </li>
           <li>
             <span className="em">Start of circuit Felwood --&gt; Everlook</span>
-            :<p></p>
+            :<p />
             <p>
               <img
                 src="http://www.wow-pro.com/files/guidepics/feltowincircuit1.jpg"
@@ -2611,7 +2716,7 @@ function Chapter3() {
               you can cure corrupted plants in felwood and get consumables in
               return.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go further north to Emerald Sanctuary{' '}
@@ -2627,7 +2732,7 @@ function Chapter3() {
                 [55] Dousing the flames of Protection
               </span>
             </span>
-            .<p></p>
+            .<p />
             <p>
               Turn in{' '}
               <span className="quest">
@@ -2644,7 +2749,7 @@ function Chapter3() {
               </span>{' '}
               and{' '}
               <span className="quest">
-                <span className="strong">[54] Linken's Memory</span>
+                <span className="strong">[54] Linken&apos;s Memory</span>
               </span>
               , get the follow up{' '}
               <span className="quest">
@@ -2657,14 +2762,14 @@ function Chapter3() {
               </span>
               .
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Ride north along the road until <span className="em">(44,76)</span>,
-            you'll see <span className="strong">bears</span> and{' '}
+            you&apos;ll see <span className="strong">bears</span> and{' '}
             <span className="strong">wolves</span> to the east, from this spot,
             kill all bears and wolves you find while going north, until you have{' '}
-            <span className="item">11 Silvery Claws</span>.<p></p>
+            <span className="item">11 Silvery Claws</span>.<p />
             <p>
               Get back on the road, ride to Jaedenar{' '}
               <span className="em">(40,57)</span>. in Jaedenar clear the way
@@ -2675,32 +2780,32 @@ function Chapter3() {
             <p>
               At this point if you can find people to group it will be much
               easier. Dousing the Flames of Protection is doable solo (but kinda
-              hard), on the other hand there's an escort quest which is almost
-              impossible solo, at least for most classes. It also depends on how
-              crowded the area is, if there's lots of people farming in the
-              shadow hold already, it's doable solo.
+              hard), on the other hand there&apos;s an escort quest which is
+              almost impossible solo, at least for most classes. It also depends
+              on how crowded the area is, if there&apos;s lots of people farming
+              in the shadow hold already, it&apos;s doable solo.
             </p>
             <p>
-              Clear your way down the first tunnel, in the first room you'll
-              find a captured elve named{' '}
-              <span className="strong">Arko'narin</span>. This is the NPC that
-              gives the escort quest, but to get it you first need to find a{' '}
-              <span className="item">Blood Red Key</span> from one of the mobs
+              Clear your way down the first tunnel, in the first room
+              you&apos;ll find a captured elve named{' '}
+              <span className="strong">Arko&apos;narin</span>. This is the NPC
+              that gives the escort quest, but to get it you first need to find
+              a <span className="item">Blood Red Key</span> from one of the mobs
               inside Shadow Hold, click it and get the quest{' '}
               <span className="quest">
                 <span className="strong">[55] A Stranged Red Key</span>
               </span>
-              . You have to turn this quest at Captured Arko'narin later. The
-              follow up will be the escort quest.
+              . You have to turn this quest at Captured Arko&apos;narin later.
+              The follow up will be the escort quest.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             In the same room you can find the{' '}
             <span className="strong">1st and 2nd brazier</span> (the 2nd one is
             on the slope going to the next tunnel),{' '}
-            <span className="em">click them to turn them off</span>.<p></p>
-            <p></p>
+            <span className="em">click them to turn them off</span>.<p />
+            <p />
           </li>
           <li>
             If you are in a group (at least a duo of lvl 55 people), and get a
@@ -2717,35 +2822,36 @@ function Chapter3() {
               <span className="strong">Note:</span>
             </span>{' '}
             You have to click on the elf through the cage. Some people try to
-            click the cage itself, but that doesn't work.<p></p>
-            <p></p>
+            click the cage itself, but that doesn&apos;t work.
+            <p />
+            <p />
           </li>
           <li>
-            Escort Arko'Narin to her equipment, then escort her out, things can
-            get rough at times because she engages 2 or 3 lvl 55 mobs a the same
-            time and is fragile until she has her equipment on. In the same room
-            where her equipment is you'll find the{' '}
+            Escort Arko&apos;Narin to her equipment, then escort her out, things
+            can get rough at times because she engages 2 or 3 lvl 55 mobs a the
+            same time and is fragile until she has her equipment on. In the same
+            room where her equipment is you&apos;ll find the{' '}
             <span className="strong">3rd and 4th Brazier</span>, turn them off
             too. At the exit{' '}
             <span className="em">a 53 Elite mob will attack you.</span>
-            <p></p>
+            <p />
             <p>
-              Defeat it and then Arko'narin will leave and you'll get the quest
-              complete message.
+              Defeat it and then Arko&apos;narin will leave and you&apos;ll get
+              the quest complete message.
             </p>
             <p>
-              If you don't find anyone to group with, just don't do the escort
-              quest, clear your way inside the Shadow Hold and turn off the 4
-              brazier.
+              If you don&apos;t find anyone to group with, just don&apos;t do
+              the escort quest, clear your way inside the Shadow Hold and turn
+              off the 4 brazier.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Once done with that, get back on the main road and follow it until
             Irontree Woods <span className="em">(45,23)</span>. Kill{' '}
             <span className="strong">Irontree Stompers</span> and{' '}
             <span className="strong">Wanderers</span> until one drops an{' '}
-            <span className="item">Irontree Heart</span>.<p></p>
+            <span className="item">Irontree Heart</span>.<p />
             <p>
               Get back on the road follow it until Talonbranch Glade, sell and
               repair then go to Timbermaw Hold. In Timbermaw go to the
@@ -2765,7 +2871,7 @@ function Chapter3() {
               </span>{' '}
               from Salfa.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Ride south to Donova Snowden, turn in{' '}
@@ -2780,12 +2886,12 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[56] Threat of the Winterfall</span>
             </span>
-            .<p></p>
+            .<p />
             <p>
               From now on, throughout winterspring look for big white/blue
               feathers on the floor named{' '}
-              <span className="strong">"Moontouched Feather"</span>, you need 10
-              of these.
+              <span className="strong">&quot;Moontouched Feather&quot;</span>,
+              you need 10 of these.
             </p>
             <p>
               <img
@@ -2794,16 +2900,17 @@ function Chapter3() {
                 className="bb-image"
               />
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Ride east to Timbermaw Post <span className="em">(39,44)</span>.
             Kill <span className="strong">8 Winterfall Pathfinder</span>,{' '}
             <span className="strong">Den Watcher</span> and{' '}
             <span className="strong">Totemic</span> there. If you find a
-            Winterfall Ritual Totem, don't click it to get the quest unless you
-            are neutral with the Timbermaws already (you need neutral to be able
-            to turn in this quest in Timbermaw Hold)<p></p>
+            Winterfall Ritual Totem, don&apos;t click it to get the quest unless
+            you are neutral with the Timbermaws already (you need neutral to be
+            able to turn in this quest in Timbermaw Hold)
+            <p />
             <p>
               Keep killing these <span className="strong">Furlbogs</span> until
               you also get a <span className="item">Empty Firewater Flask</span>
@@ -2813,7 +2920,7 @@ function Chapter3() {
               </span>
               .
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Get back on the road and ride east until a crossroad{' '}
@@ -2824,7 +2931,7 @@ function Chapter3() {
             </span>
             , get the follow up. Talk to Jaron Stoneshaper, turn in the quest{' '}
             <span className="quest">
-              <span className="strong">[56] The Ruins of Kel'Theril</span>
+              <span className="strong">[56] The Ruins of Kel&apos;Theril</span>
             </span>{' '}
             and get the follow up{' '}
             <span className="quest">
@@ -2836,7 +2943,7 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[59] Enraged Wildkin</span>
             </span>
-            .<p></p>
+            .<p />
             <p>
               Get back on the road, go south to the crossroads, when you are
               there go southeast this time until everlook.
@@ -2855,16 +2962,17 @@ function Chapter3() {
             </p>
             <p>
               <span className="strong">Note:</span> I had XP Bonus during 90% of
-              that one. So that's about 35000 XP / Hour.
+              that one. So that&apos;s about 35000 XP / Hour.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             In Everlook get{' '}
             <span className="quest">
               <span className="strong">[56] Are We There, Yeti?</span>
             </span>{' '}
-            from Umi Rumplsnicker.<p></p>
+            from Umi Rumplsnicker.
+            <p />
             <p>
               <span className="em">In the Inn, get the quests:</span>
             </p>
@@ -2881,22 +2989,26 @@ function Chapter3() {
             </p>
             <p>
               You can put in bank{' '}
-              <span className="item">"The Everlook Report"</span> and{' '}
-              <span className="item">"Studies in Spirit Speaking"</span>. I'll
-              say when to get them back from the bank later in the chapter.
+              <span className="item">&quot;The Everlook Report&quot;</span> and{' '}
+              <span className="item">
+                &quot;Studies in Spirit Speaking&quot;
+              </span>
+              . I&apos;ll say when to get them back from the bank later in the
+              chapter.
               <br />
               Sell and repair, resupply food and drink (4 stacks), get the
-              flight path (it's on the eastern side of Everlook.)
+              flight path (it&apos;s on the eastern side of Everlook.)
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
-            Go west to the Lake of Kel'Theril. Look around for blue runes amidst
-            the floor named{' '}
-            <span className="strong">"Highborne Relic Fragment"</span>. Watch
-            out before you pick any of them though, be full health/mana, because{' '}
-            <span className="strong">2 lvl 55 spawn</span> and attack you each
-            time you click one. You can either kill them or run away.<p></p>
+            Go west to the Lake of Kel&apos;Theril. Look around for blue runes
+            amidst the floor named{' '}
+            <span className="strong">&quot;Highborne Relic Fragment&quot;</span>
+            . Watch out before you pick any of them though, be full health/mana,
+            because <span className="strong">2 lvl 55 spawn</span> and attack
+            you each time you click one. You can either kill them or run away.
+            <p />
             <ul className="bb-list">
               <li>
                 <span className="strong">The 1st</span> Relic fragment is at{' '}
@@ -2917,11 +3029,12 @@ function Chapter3() {
             </ul>
           </li>
 
-          <p></p>
+          <p />
           <li>
             Ride west back to Donova Snowden <span className="em">(31,44)</span>{' '}
             and get as much <span className="strong">Moontouched Feather</span>{' '}
-            as possible on the way.<p></p>
+            as possible on the way.
+            <p />
             <p>
               Turn in{' '}
               <span className="quest">
@@ -2943,19 +3056,19 @@ function Chapter3() {
               Clear yourself a path to the camp which is on the upper level of
               Felpaw Village, northwest of the green pool.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             <span className="strong">Clear the camp</span> (which might be hard,
             so use everything you got if needed) and you should find a{' '}
-            <span className="strong">"Deadwood Cauldron"</span>{' '}
+            <span className="strong">&quot;Deadwood Cauldron&quot;</span>{' '}
             <span className="em">(60,5)</span>. Click it, turn in the quest and
             get the follow up{' '}
             <span className="quest">
               <span className="strong">[56] Mystery Goo</span>
             </span>
-            .<p></p>
-            <p></p>
+            .<p />
+            <p />
           </li>
           <li>
             Go back to Winterspring through Timbermaw Hold. Go back to Donova
@@ -2967,22 +3080,23 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[56] Toxic Horrors</span>
             </span>
-            .<p></p>
+            .<p />
             <p>
-              Now if you haven't gathered your 10 Moontouched Feathers yet, go
-              do it, then Hearhstone to Darnassus.
+              Now if you haven&apos;t gathered your 10 Moontouched Feathers yet,
+              go do it, then Hearhstone to Darnassus.
             </p>
             <p>
               In Darnassus go to the Temple of the Moon and fill up{' '}
-              <span className="strong">Eridan's Vial</span> in the pool. Go to
-              the bank and put the{' '}
-              <span className="item">4 relic fragments</span> there, as we won't
-              be needing them for a while. You can destroy Jaron's Pick too.
+              <span className="strong">Eridan&apos;s Vial</span> in the pool. Go
+              to the bank and put the{' '}
+              <span className="item">4 relic fragments</span> there, as we
+              won&apos;t be needing them for a while. You can destroy
+              Jaron&apos;s Pick too.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
-            Go out of Darnassus to Rut'theran Village and turn in{' '}
+            Go out of Darnassus to Rut&apos;theran Village and turn in{' '}
             <span className="quest">
               <span className="strong">[55] Moontouched Wildkin</span>
             </span>
@@ -2990,19 +3104,19 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[57] Find Ranshalla</span>
             </span>
-            .<p></p>
+            .<p />
             <p>
               You should be{' '}
               <span className="em">
                 <span className="strong">56</span>
               </span>{' '}
-              by now, so go get your new skills. If you aren't 56 yet it's not a
-              problem, we'll be back in town in a few.
+              by now, so go get your new skills. If you aren&apos;t 56 yet
+              it&apos;s not a problem, we&apos;ll be back in town in a few.
               <br />
             </p>
           </li>
         </ol>
-        <p></p>
+        <p />
         <p>
           <span className="small">
             <span className="strong">Level 56</span>
@@ -3011,16 +3125,16 @@ function Chapter3() {
         </p>
         <ol className="bb-list">
           <li>
-            Fly to Auberdine and then to Astranaar. Ride to Felwood. <p></p>
+            Fly to Auberdine and then to Astranaar. Ride to Felwood. <p />
             <p>
               <span className="strong">
                 Start of XP Circuit Felwood --&gt; Everlook #2
               </span>
             </p>
             <p>
-              Inside Felwood just on the right side of the road you'll find
+              Inside Felwood just on the right side of the road you&apos;ll find
               Arathandris Silversky <span className="em">(54,86)</span>. Turn in
-              the Salve quests you completed there (if you don't have any
+              the Salve quests you completed there (if you don&apos;t have any
               gathering skill, you will only have Salve via Hunting completed).
               These quests are repeatable but only the first turn ins give XP.
               On the other hand you get{' '}
@@ -3031,7 +3145,7 @@ function Chapter3() {
                 Check this guide for more details.
               </a>
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Ride further north to Emerald Scantuary. Turn in the quests{' '}
@@ -3044,7 +3158,8 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[55] Rescue From Jaedenar</span>
             </span>{' '}
-            if you managed to finish that one.<p></p>
+            if you managed to finish that one.
+            <p />
             <p>
               <span className="em">Get the two follow ups:</span>
               <br />
@@ -3076,29 +3191,31 @@ function Chapter3() {
               <span className="quest">
                 <span className="strong">[54] Purified!</span>
               </span>
-              , turn it in, you'll get the "Flue of the Ancients" as reward.
+              , turn it in, you&apos;ll get the &quot;Flue of the Ancients&quot;
+              as reward.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go back to Jaedenar into the Shadow Hold. Clear inside the hold
             further than when you doused the last 2 flames, past the red pool.
             Just a bit further down a slope you should find a room with an altar
-            in it's middle,{' '}
+            in it&apos;s middle,{' '}
             <span className="strong">4 warlocks/darkweavers arouned it</span>,
             channeling a ritual, and <span className="strong">Rakaiah</span>{' '}
-            infront.<p></p>
+            infront.
+            <p />
             <p>
               You can pull Rakaiah solo, the 4 warlocks will be aggro on you but
-              won't attack as long as you don't directly attack them. After you
-              got rid of Rakaiah, you will still be locked in combat mode
-              because of the 4 warlocks, to lose combat mode you just have to
-              run back some distance away from them until they forget you.
+              won&apos;t attack as long as you don&apos;t directly attack them.
+              After you got rid of Rakaiah, you will still be locked in combat
+              mode because of the 4 warlocks, to lose combat mode you just have
+              to run back some distance away from them until they forget you.
               Basically they never attack you unless you directly attack them.
-              However the warlock's imp pets will attack you and you should
+              However the warlock&apos;s imp pets will attack you and you should
               dispose of them.{' '}
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Kill the 2 other mobs on each side of the room and the one in the
@@ -3115,25 +3232,25 @@ function Chapter3() {
                 |57] The Remains of Trey Lightshadow.
               </span>
             </span>
-            <p></p>
-            <p></p>
+            <p />
+            <p />
           </li>
           <li>
             Go past the Altar Room and down a spiral, after a couple of pulls
-            you'll be facing a small bridge going up straight ahead and a slope
-            going down to your left. <p></p>
+            you&apos;ll be facing a small bridge going up straight ahead and a
+            slope going down to your left. <p />
             <p>
               Go left and keep going in that direction until you reach a big
-              room where you'll find{' '}
-              <span className="strong">Shadow Lord Fel'dan</span> and his two
-              succubus guards.
+              room where you&apos;ll find{' '}
+              <span className="strong">Shadow Lord Fel&apos;dan</span> and his
+              two succubus guards.
             </p>
             <p>
-              It wasn't an easy fight to solo, I basically used everything I had
-              with the mage and rogue. I sheeped Shadow Lord Fel'dan and killed
-              the two succubus fast. Same with rogue, I sapped the shadow lord
-              and killed it last. With the warrior I used retaliation. Don't
-              forget to loot the{' '}
+              It wasn&apos;t an easy fight to solo, I basically used everything
+              I had with the mage and rogue. I sheeped Shadow Lord Fel&apos;dan
+              and killed the two succubus fast. Same with rogue, I sapped the
+              shadow lord and killed it last. With the warrior I used
+              retaliation. Don&apos;t forget to loot the{' '}
               <span className="item">head of the Shadow Lord.</span>
             </p>
             <p>
@@ -3141,27 +3258,28 @@ function Chapter3() {
               try it solo but I recommend at least finding a person to duo it
               with.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Clear your way out of the Shadow Hold and out of Jaedenar, get back
-            on the road and ride north until Irontree Woods.<p></p>
+            on the road and ride north until Irontree Woods.
+            <p />
             <p>
-              Go to the crater at <span className="em">(49,27)</span>, you'll
-              find plenty of <span className="strong">Toxic Horrors</span>{' '}
-              there, kill them until you got{' '}
-              <span className="item">3 Toxic Horror Droplet</span>. There's more
-              Toxic Horrors all around the big green pool just north of the
-              crater.
+              Go to the crater at <span className="em">(49,27)</span>,
+              you&apos;ll find plenty of{' '}
+              <span className="strong">Toxic Horrors</span> there, kill them
+              until you got <span className="item">3 Toxic Horror Droplet</span>
+              . There&apos;s more Toxic Horrors all around the big green pool
+              just north of the crater.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             In Irontree woods go to the ruins at{' '}
             <span className="em">(49,30)</span> and click the{' '}
             <span className="item">Flute of the Ancients</span> from your
             inventory. some treant spirits will appear, especially one huge
-            treant named <span className="strong">Arei</span>. If he's not
+            treant named <span className="strong">Arei</span>. If he&apos;s not
             there, it means someone else is already escorting him. Go kill some{' '}
             <span className="strong">treants and elementals</span> while
             waiting. Get his quest{' '}
@@ -3171,14 +3289,15 @@ function Chapter3() {
             <span className="em">and escort Arei</span>. He will do a full turn
             around the green pool, so I suggest you clear the toxic horrors
             around the crater before you start the escort. Let him be infront
-            and get hit first or he won't assist. The good thing is that he is
-            quite a tank so you can let him tank a bit when there is multiple
+            and get hit first or he won&apos;t assist. The good thing is that he
+            is quite a tank so you can let him tank a bit when there is multiple
             mobs. He will get back on the road after having done a full circle
             around the pool,{' '}
             <span className="strong">3 irontrees will ambush him</span> at this
             point. Kill them fast one by one while Arei tanks the others. You
-            will get a quest complete message normally.<p></p>
-            <p></p>
+            will get a quest complete message normally.
+            <p />
+            <p />
           </li>
           <li>
             Ride back to Emerald Sanctuary, turn in the quests{' '}
@@ -3197,13 +3316,13 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[56] Ancient Spirit</span>
             </span>{' '}
-            at Kayneth Stillwind <span className="em">(85,44)</span>. <p></p>
+            at Kayneth Stillwind <span className="em">(85,44)</span>. <p />
             <p>
               Get back on the road and ride east to Azshara, go to Talrendis
               Point and fly to Talonbranch Glade. Sell and repair. Go to
               Winterspring through Timbermaw Hold.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Ride south to Donova Snowden, turn in{' '}
@@ -3214,7 +3333,7 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[57] Winterfall Runners</span>
             </span>
-            .<p></p>
+            .<p />
             <p>
               <span className="em">Time to find those runners!</span> Check the
               map below to see which path they follow, they are on the road from
@@ -3231,8 +3350,8 @@ function Chapter3() {
             <p>
               When you find the{' '}
               <span className="strong">3 Winterfall runners</span> (lvl 57), you
-              don't have to kill all 3. Just kill one fast and run away, come
-              back and loot the crate. They all drop it.
+              don&apos;t have to kill all 3. Just kill one fast and run away,
+              come back and loot the crate. They all drop it.
             </p>
             <p>
               Go to Everlook, resupply food/drink up to 4 stacks, sell and
@@ -3250,13 +3369,13 @@ function Chapter3() {
                 className="bb-image"
               />
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             <span className="strong">
               Start of Circuit Everlook --&gt; Darnassus
             </span>
-            <p></p>
+            <p />
 
             <p>
               <img
@@ -3280,41 +3399,42 @@ function Chapter3() {
               have <span className="item">10 Thick Yeti Fur</span>.
             </p>
 
-            <p></p>
+            <p />
           </li>
           <li>
             Ride south along the road. At <span className="em">(62,60)</span>{' '}
-            you'll find a small trail going west, just a bit further you'll find
-            a camp named "Dun Mandarr" <span className="em">(59,59)</span>. Kill
-            the <span className="strong">owlbeasts</span> in it so that you can
-            access the <span className="strong">"Damaged Crate"</span> in the
-            camp.
-            <p></p>
+            you&apos;ll find a small trail going west, just a bit further
+            you&apos;ll find a camp named &quot;Dun Mandarr&quot;{' '}
+            <span className="em">(59,59)</span>. Kill the{' '}
+            <span className="strong">owlbeasts</span> in it so that you can
+            access the <span className="strong">&quot;Damaged Crate&quot;</span>{' '}
+            in the camp.
+            <p />
             <p>
               Click on the Damaged Crate, turn in the quest and get the follow
-              up. Go east and you'll find a wagon with a keg atop at{' '}
+              up. Go east and you&apos;ll find a wagon with a keg atop at{' '}
               <span className="em">(61,60)</span> just west of the road.
             </p>
             <p>
-              <span className="strong">Jaron's Supplies</span> are at the wagon,
-              they are small crates half burried in the snow, loot one of them.
-              Then get back on the road and ride south, go over the ice bridge
-              and keep going south until you discover Darkwhisper Gorge and get
-              the complete message for{' '}
+              <span className="strong">Jaron&apos;s Supplies</span> are at the
+              wagon, they are small crates half burried in the snow, loot one of
+              them. Then get back on the road and ride south, go over the ice
+              bridge and keep going south until you discover Darkwhisper Gorge
+              and get the complete message for{' '}
               <span className="quest">
                 <span className="strong">[56] Strange Sources</span>
               </span>
               .
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
-            Go back north, past the wagon and you'll find Ranshalla, she is on
-            the east side of the road at <span className="em">(63,59)</span> in
-            front of the entrance to Owl Wing Thicket. If she's not there,
-            someone is probably doing the escort quest already, so go kill some
-            owlbeasts while waiting for her to return. When you find her, turn
-            in the quest{' '}
+            Go back north, past the wagon and you&apos;ll find Ranshalla, she is
+            on the east side of the road at <span className="em">(63,59)</span>{' '}
+            in front of the entrance to Owl Wing Thicket. If she&apos;s not
+            there, someone is probably doing the escort quest already, so go
+            kill some owlbeasts while waiting for her to return. When you find
+            her, turn in the quest{' '}
             <span className="quest">
               <span className="strong">[57] Find Ranshalla</span>
             </span>{' '}
@@ -3322,13 +3442,13 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[59] Guardians of the Altar</span>
             </span>
-            .<p></p>
+            .<p />
             <p>
-              Escort her to the cave, inside the cave she'll start to cast a
-              spell, while she does, click on the stave infront of her named{' '}
-              <span className="strong">"Fire of Elune"</span> and it will be
-              lit. You can drink/eat while she is channeling her spell, you
-              don't have to light the torch immediately.
+              Escort her to the cave, inside the cave she&apos;ll start to cast
+              a spell, while she does, click on the stave infront of her named{' '}
+              <span className="strong">&quot;Fire of Elune&quot;</span> and it
+              will be lit. You can drink/eat while she is channeling her spell,
+              you don&apos;t have to light the torch immediately.
             </p>
             <p>
               Always let her in front and get the first hit.{' '}
@@ -3342,10 +3462,10 @@ function Chapter3() {
             <p>
               While escorting her you should have normally looted the{' '}
               <span className="item">Blue-Feathered Amulet</span> you need for
-              the other quest. If you didn't, keep killing these owlbeasts until
-              one drops.
+              the other quest. If you didn&apos;t, keep killing these owlbeasts
+              until one drops.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go north back to Everlook, turn in{' '}
@@ -3358,7 +3478,7 @@ function Chapter3() {
             <span className="em">(68,42)</span> and kill{' '}
             <span className="strong">Ice Thistle Matriachs/Patriachs</span>{' '}
             until you get <span className="item">2 Pristine Yeti Horn</span>.{' '}
-            <p></p>
+            <p />
             <p>
               Go back to Everlook, turn in{' '}
               <span className="quest">
@@ -3367,17 +3487,17 @@ function Chapter3() {
               and get the follow up. Find a goblin named{' '}
               <span className="strong">Legacki</span>, she stands to the left of
               the Inn. Target her and right click{' '}
-              <span className="strong">Umi's Mechanical Yeti</span> from your
-              inventory.
+              <span className="strong">Umi&apos;s Mechanical Yeti</span> from
+              your inventory.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Ride west/northwest to Starfall Village and turn in{' '}
             <span className="quest">
               <span className="strong">[59] Enraged Wildkin</span>
             </span>
-            .<p></p>
+            .<p />
             <p>
               Go west to Donova Snowden, turn in the quest{' '}
               <span className="quest">
@@ -3390,18 +3510,20 @@ function Chapter3() {
               and get away from the pool.{' '}
               <span className="strong">3 Winterfall Ambushers</span> will spawn
               shortly after you turn in the quest, but if you are away enough
-              they won't aggro you. Don't get the follow up.
+              they won&apos;t aggro you. Don&apos;t get the follow up.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go north to the Timbermaw Hold entrance and turn in{' '}
             <span className="quest">
               <span className="strong">[58] Winterfall Activity</span>
             </span>{' '}
-            at Salfa.<p></p>
+            at Salfa.
+            <p />
             <p>
-              Hearthstone to Darnassus, go out to Rut'theran village and turn in{' '}
+              Hearthstone to Darnassus, go out to Rut&apos;theran village and
+              turn in{' '}
               <span className="quest">
                 <span className="strong">[59] Guardians</span>
               </span>{' '}
@@ -3427,7 +3549,7 @@ function Chapter3() {
             <p>
               <span className="strong">Note:</span> No XP bonus at all.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Visit the AH, resupply food/drink (4 stacks).{' '}
@@ -3438,8 +3560,8 @@ function Chapter3() {
             , if you still have any. We are not going back to Felwood so they
             are just taking bagspace for nothing now. Same for the{' '}
             <span className="em">Flute of the Ancients</span>, put it in the
-            bank, I don't dare destroying it because who knows, might need it
-            one day for another quest, even though I doubt it.
+            bank, I don&apos;t dare destroying it because who knows, might need
+            it one day for another quest, even though I doubt it.
             <span className="em">
               <span className="strong">
                 <br />
@@ -3449,7 +3571,7 @@ function Chapter3() {
             <br />
           </li>
         </ol>
-        <p></p>
+        <p />
         <p>
           <span className="small">
             <span className="strong">Level 57</span>
@@ -3458,59 +3580,61 @@ function Chapter3() {
         </p>
         <ol className="bb-list">
           <li>
-            Fly to Tanaris. in Gadgetzan, find a goblin named Sprinkle (she's
-            close to the horde exit). Scare her away with the mechanical yeti.
-            Make Gadgetzan your home location.<p></p>
+            Fly to Tanaris. in Gadgetzan, find a goblin named Sprinkle
+            (she&apos;s close to the horde exit). Scare her away with the
+            mechanical yeti. Make Gadgetzan your home location.
+            <p />
             <p>
-              If you didn't turn in{' '}
+              If you didn&apos;t turn in{' '}
               <span className="quest">
                 <span className="strong">[53] The God Hakkar</span>
               </span>{' '}
               yet, go east to Steamwheedle Port and turn it in.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go to Lost Rigger Cove <span className="em">(68,41)</span>, inside
             lost rigger cove go south to the other side of the pirate camp and
             then west until you find a stone circle{' '}
-            <span className="em">(70,49)</span>.<p></p>
+            <span className="em">(70,49)</span>.<p />
             <p>
               Open the blue bag named{' '}
-              <span className="item">"Eridan's Supplies"</span>, loot everything
-              from it. Then step inside the circle and click the{' '}
+              <span className="item">&quot;Eridan&apos;s Supplies&quot;</span>,
+              loot everything from it. Then step inside the circle and click the{' '}
               <span className="strong">Book of Aquor</span>.{' '}
               <span className="strong">Aquementas</span>, a lvl 54 elemental,
-              will come to the circle and attack you. You don't have to kill it,
-              just have to stand in the stone circle and let him attack you
-              once. If you want to kill it, just know that{' '}
+              will come to the circle and attack you. You don&apos;t have to
+              kill it, just have to stand in the stone circle and let him attack
+              you once. If you want to kill it, just know that{' '}
               <span className="em">
                 he is immune to frost and deals frost damage
               </span>{' '}
               (mages use Frost Ward). He should be a cakewalk at level 57.
               <br />
-              You should now have{' '}
-              <span className="strong">the Silver Totem of Aquementas</span>. If
-              you do, you can destroy the "Book of Aquor", the "Silver Claws"
-              and the "Irontree Heart".
+              You should now have the{' '}
+              <span className="strong">Silver Totem of Aquementas</span>. If you
+              do, you can destroy the &quot;Book of Aquor&quot;, the
+              &quot;Silver Claws&quot; and the &quot;Irontree Heart&quot;.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
-            Ride to Un'Goro Crater, when in Un'goro, gather{' '}
+            Ride to Un&apos;Goro Crater, when in Un&apos;goro, gather{' '}
             <span className="item">3 Bloodpetal Sprouts</span> while heading to
-            marshall's refuge. You get these sprouts by clicking on{' '}
+            marshall&apos;s refuge. You get these sprouts by clicking on{' '}
             <span className="strong">Bloodpetal Sprouts</span> (green
-            cabbage-looking plants scattered everywhere in Un'goro)<p></p>
+            cabbage-looking plants scattered everywhere in Un&apos;goro)
+            <p />
             <p>
-              At Marshall's refuge turn in{' '}
+              At Marshall&apos;s refuge turn in{' '}
               <span className="quest">
                 <span className="strong">[52] Haze of Evil</span>
               </span>
               , and then turn in the follow up immediatly (thanks to the 3
               Bloodpetal sprouts you just gathered on the way).
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go inside the crystal cave and talk to J.D. Collie, turn in{' '}
@@ -3519,24 +3643,26 @@ function Chapter3() {
             </span>{' '}
             and get the follow up{' '}
             <span className="quest">
-              <span className="strong">[54] Linken's Adventure</span>
+              <span className="strong">[54] Linken&apos;s Adventure</span>
             </span>
-            . Go to Linken and turn it in, don't get the follow up unless you
-            got a few people to help you. Get at least a healer and a tank type.
-            Blazerunner is a lvl 56 Elite fire elemental and he hits for 400. So
-            just save this quest for when you are level 60 and have time to
-            spend on that quest, the rewards aren't that great, we did it for
-            XP.<p></p>
+            . Go to Linken and turn it in, don&apos;t get the follow up unless
+            you got a few people to help you. Get at least a healer and a tank
+            type. Blazerunner is a lvl 56 Elite fire elemental and he hits for
+            400. So just save this quest for when you are level 60 and have time
+            to spend on that quest, the rewards aren&apos;t that great, we did
+            it for XP.
+            <p />
             <p>
               Anyway here is how to defeat{' '}
               <span className="strong">Blazerunner</span>, the last boss of the
-              long quest chain "Linken's Adventure". Go to the top of fire plume
-              ridge, clear all the <span className="strong">elementals</span>{' '}
-              around to make sure they don't add during the fight. Equip the{' '}
+              long quest chain &quot;Linken&apos;s Adventure&quot;. Go to the
+              top of fire plume ridge, clear all the{' '}
+              <span className="strong">elementals</span> around to make sure
+              they don&apos;t add during the fight. Equip the{' '}
               <span className="item">Silver Totem of Aquementas</span> and put
               it on a hotkey. Click it to dispel{' '}
-              <span className="strong">Blazerunner's aura</span> right at the
-              start and everytime it reappears. Blazerunner is somewhat
+              <span className="strong">Blazerunner&apos;s aura</span> right at
+              the start and everytime it reappears. Blazerunner is somewhat
               invincible when his aura is on, he keeps knockbacking people and
               every damage he takes is divided by 10.{' '}
               <span className="strong">
@@ -3545,23 +3671,24 @@ function Chapter3() {
               . <br />
               Another thing, fight him inside his cave with your back facing the
               walls, so if he knockbacks you when the aura appears again you
-              won't end up being tossed off the mountain or into adds.
+              won&apos;t end up being tossed off the mountain or into adds.
               <br />
-              He's a tough fight, I did it with a level 57 Priest, a level 55
-              Paladin and me (lvl 57 rogue) and it wasn't easy. On the other
-              hand I soloed it with my lvl 57 frost mage, thanks to kiting, it
-              took time and several attempts though. So I recommend saving that
-              quest for when you are level 60 and have time to spend on it,
-              unless you got enough people to help you immediately. Anyway if
-              you do manage to kill Blazerunner, you must also go loot the{' '}
-              <span className="strong">Ornate Chest</span> in his cave. Then
+              He&apos;s a tough fight, I did it with a level 57 Priest, a level
+              55 Paladin and me (lvl 57 rogue) and it wasn&apos;t easy. On the
+              other hand I soloed it with my lvl 57 frost mage, thanks to
+              kiting, it took time and several attempts though. So I recommend
+              saving that quest for when you are level 60 and have time to spend
+              on it, unless you got enough people to help you immediately.
+              Anyway if you do manage to kill Blazerunner, you must also go loot
+              the <span className="strong">Ornate Chest</span> in his cave. Then
               turn in the quest at Linken.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
-            Before you leave Marshal's Refuge, find a goblin named Quixxil and
-            scare him with the mechanical yeti.<p></p>
+            Before you leave Marshal&apos;s Refuge, find a goblin named Quixxil
+            and scare him with the mechanical yeti.
+            <p />
             <p>
               Hearthstone to Gadgetzan, fly to Theramore, take the boat to
               Menethil Harbor, fly to Ironforge.
@@ -3581,19 +3708,20 @@ function Chapter3() {
             <p>
               Go to the bank and get your{' '}
               <span className="strong">Black Dragonflight Molt</span> from it
-              (if you don't have it on you already, that is).
+              (if you don&apos;t have it on you already, that is).
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Fly to Stormwind,{' '}
             <span className="strong">make Stormwind your home location</span>,
             then fly to Lakeshire, Redridge Mountains. In Redridge follow the
-            road north to Burning Steppes.<p></p>
+            road north to Burning Steppes.
+            <p />
             <p>
-              Go through Blackrock Pass and then east to Morgan's Vigil, it's a
-              narrow path going up the mountain with torches on each side{' '}
-              <span className="em">(83,63)</span>.
+              Go through Blackrock Pass and then east to Morgan&apos;s Vigil,
+              it&apos;s a narrow path going up the mountain with torches on each
+              side <span className="em">(83,63)</span>.
             </p>
             <p>
               <img
@@ -3622,14 +3750,14 @@ function Chapter3() {
                 </span>{' '}
                 from Helendis Riverhorn.
               </li>
-              <li>Don't get the other quests.</li>
+              <li>Don&apos;t get the other quests.</li>
             </ul>
           </li>
 
-          <p></p>
+          <p />
           <li>
             <span className="strong">Start of XP Circuit Burning Steppes</span>.
-            <p></p>
+            <p />
             <p>
               Ride northwest to Flame Crest <span className="em">(63,30)</span>,
               get{' '}
@@ -3649,19 +3777,20 @@ function Chapter3() {
               </span>
               , some of the dragons will most likely be too hard for you to
               solo, so ask for help (Hunters, Warlocks and frost mages will
-              probably be able to solo them though). If you don't find help
+              probably be able to solo them though). If you don&apos;t find help
               immediatly for it, proceed with the next steps of the guide while
               actively looking for people to help you with the dragons. When you
               find someone, go to the paragraph called{' '}
-              <span className="strong">"Dragonkin Menace"</span>.
+              <span className="strong">&quot;Dragonkin Menace&quot;</span>.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go south to the Ruins of Thaurissan and kill mobs there while
             looking around for{' '}
-            <span className="strong">"Thaurissan Relics"</span>. They are grey
-            stones looking like this:<p></p>
+            <span className="strong">&quot;Thaurissan Relics&quot;</span>. They
+            are grey stones looking like this:
+            <p />
             <p>
               <img
                 src="http://www.wow-pro.com/files/guidepics/thaurissanrelic.jpg"
@@ -3669,17 +3798,19 @@ function Chapter3() {
                 className="bb-image"
               />
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             While gathering relics go towards the western end of the Ruins of
-            Thaurissan, you'll find a Dwarven Statue at{' '}
+            Thaurissan, you&apos;ll find a Dwarven Statue at{' '}
             <span className="em">(53,40)</span> and the{' '}
             <span className="strong">Tablet of the Seven</span> at its feet.
-            Click it and <span className="em">"Transcribe the tablet"</span>.
-            You'll receive a <span className="item">Tablet Transcript</span>.
-            <p></p>
-            <p></p>
+            Click it and{' '}
+            <span className="em">&quot;Transcribe the tablet&quot;</span>.
+            You&apos;ll receive a{' '}
+            <span className="item">Tablet Transcript</span>.
+            <p />
+            <p />
           </li>
           <li>
             Once you have <span className="item">12 Tablet Transcripts</span>,
@@ -3687,21 +3818,23 @@ function Chapter3() {
             <span className="em">(44,35)</span>. Kill{' '}
             <span className="strong">Orcs</span> there unil you have{' '}
             <span className="item">50 Blackrock Medaillons</span>. If the place
-            is too crowded (it often is), go south to the area named "The Pillar
-            of Ash", there's more Blackrock Orcs there.<p></p>
-            <p></p>
+            is too crowded (it often is), go south to the area named &quot;The
+            Pillar of Ash&quot;, there&apos;s more Blackrock Orcs there.
+            <p />
+            <p />
           </li>
           <li>
             Go east to Dreadmaul Rock <span className="em">(73,48)</span>. Kill
-            what's on the kill list of{' '}
+            what&apos;s on the kill list of{' '}
             <span className="quest">
               <span className="strong">[52] Extinguish the Firegut</span>
             </span>
             . You can find these <span className="strong">ogres</span> all
             around Dreadmaul Rock, I recommend fighting on the eastern side
-            though so you avoid dragonkin adds.<p></p>
+            though so you avoid dragonkin adds.
+            <p />
             <p>
-              At this point if you still haven't found someone to help you,
+              At this point if you still haven&apos;t found someone to help you,
               grind on Orcs at the Blackrock Stronghold or PIllar of Ash. Ask
               your guild for help or your friends, but get someone to help you
               for{' '}
@@ -3710,11 +3843,11 @@ function Chapter3() {
               </span>
               .
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             <span className="strong">Dragonkin Menace </span>
-            <p></p>
+            <p />
 
             <p>
               When you find a partner to duo the dragonkins with, go to the area
@@ -3726,12 +3859,12 @@ function Chapter3() {
               on a hotkey. Use it on every Black Broodling before killing them.
               When they die while having the incarcinatrix aura on, a crystal
               will appear at their corpse named{' '}
-              <span className="strong">"Broodling Essence"</span>. You need 8 of
-              these.
+              <span className="strong">&quot;Broodling Essence&quot;</span>. You
+              need 8 of these.
               <br />
               Make a semi circle around the eastern side of Dreadmaul Rock,
-              that's where you'll find the dragonkins you need. Complete the
-              kill list of{' '}
+              that&apos;s where you&apos;ll find the dragonkins you need.
+              Complete the kill list of{' '}
               <span className="quest">
                 <span className="strong">[54] Dragonkin Menace</span>
               </span>{' '}
@@ -3739,7 +3872,7 @@ function Chapter3() {
               <span className="item">8 Broodling Essence</span> as well.
               <br />
               Before you leave this area go to the northeastern edge of it,
-              you'll find a cave with Cyrus Therepentous in it.
+              you&apos;ll find a cave with Cyrus Therepentous in it.
               <br />
               Take his quest{' '}
               <span className="quest">
@@ -3753,7 +3886,7 @@ function Chapter3() {
               .
             </p>
 
-            <p></p>
+            <p />
           </li>
           <li>
             Go west, back to Flame Crest. Turn in{' '}
@@ -3768,9 +3901,9 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[50] Tablet of the Seven</span>
             </span>
-            .<p></p>
+            .<p />
             <p>
-              Go back to Morgan's Vigil, turn in{' '}
+              Go back to Morgan&apos;s Vigil, turn in{' '}
               <span className="quest">
                 <span className="strong">[56] FIFTY! YEP!</span>
               </span>{' '}
@@ -3780,7 +3913,9 @@ function Chapter3() {
               </span>
               , get the follow up{' '}
               <span className="quest">
-                <span className="strong">[53] Gor'tesh the Brute Lord</span>
+                <span className="strong">
+                  [53] Gor&apos;tesh the Brute Lord
+                </span>
               </span>
               .<br />
               Turn in{' '}
@@ -3793,7 +3928,7 @@ function Chapter3() {
               </span>
               .
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Fly to Redridge Mountains, go to Lakeshire, find Magistrate Solomon
@@ -3801,7 +3936,7 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[54] The True Masters</span>
             </span>
-            .<p></p>
+            .<p />
             <p>
               Hearthstone to Stormwind, go to Stormwind Keep and turn in{' '}
               <span className="quest">
@@ -3824,8 +3959,8 @@ function Chapter3() {
               </span>
             </p>
             <p>
-              Go talk to Mathis Shaw in the Old Town, he's on the first floor of
-              the big building named SI:7.
+              Go talk to Mathis Shaw in the Old Town, he&apos;s on the first
+              floor of the big building named SI:7.
             </p>
             <p>
               Turn in the quest{' '}
@@ -3838,16 +3973,17 @@ function Chapter3() {
               </span>
             </p>
             <p>Sell and repair. Resupply food/drink (4stacks).</p>
-            <p></p>
+            <p />
           </li>
           <li>
             Fly to Lakeshire, Redrige. Go to Magistrate Solomon and turn in{' '}
             <span className="quest">
               <span className="strong">[54] The True Masters</span>
             </span>{' '}
-            and get the follow up.<p></p>
+            and get the follow up.
+            <p />
             <p>
-              Go back to Morgan's Vigil in the Burning Steppes. Turn in{' '}
+              Go back to Morgan&apos;s Vigil in the Burning Steppes. Turn in{' '}
               <span className="quest">
                 <span className="strong">[54] The True Masters</span>
               </span>{' '}
@@ -3855,25 +3991,27 @@ function Chapter3() {
             </p>
             <p>
               Ride northwest and then west along the road which is north of the
-              area called "The Pillar of Ash".
+              area called &quot;The Pillar of Ash&quot;.
             </p>
             <p>
               On the western end of The Pillar of Ash you should find{' '}
-              <span className="strong">Gor'tesh</span> next to an orc bunker{' '}
-              <span className="em">(39,53)</span>. Kill Gor'tesh, be carefull he
-              hits hard and has one guard. Use everything you got if needed.{' '}
-              <span className="strong">Loot his head</span>.
+              <span className="strong">Gor&apos;tesh</span> next to an orc
+              bunker <span className="em">(39,53)</span>. Kill Gor&apos;tesh, be
+              carefull he hits hard and has one guard. Use everything you got if
+              needed. <span className="strong">Loot his head</span>.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go northeast to Flame Crest. <span className="em">(63,30)</span>.
             Talk to Ragged John and listen to his story until you get the{' '}
-            <span className="strong">(Complete)</span> message. <p></p>
+            <span className="strong">(Complete)</span> message. <p />
             <p>
-              Go back to Morgan's Vigil. Turn in{' '}
+              Go back to Morgan&apos;s Vigil. Turn in{' '}
               <span className="quest">
-                <span className="strong">[53] Gor'tesh the Brute Lord</span>
+                <span className="strong">
+                  [53] Gor&apos;tesh the Brute Lord
+                </span>
               </span>{' '}
               and get the follow up{' '}
               <span className="quest">
@@ -3886,20 +4024,20 @@ function Chapter3() {
               <span className="quest">
                 <span className="strong">[53]The True Masters</span>
               </span>
-              , don't get the follow up. We will get all these Blackrock Depths
-              quests later on when we go do the instance.
+              , don&apos;t get the follow up. We will get all these Blackrock
+              Depths quests later on when we go do the instance.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go north to Dreadmaul Rock, go around it by the western side and
             keep going north until the slope with a bridge going up the mountain
             at <span className="em">(75,38)</span>. Clear your way to the top of
-            Dreadmaul Rock. You'll find a{' '}
-            <span className="strong">"Soft Dire Mound"</span> right behind some
-            altar <span className="em">(81,46)</span>. Right click it to plant
-            the <span className="item">Gor'tesh head</span>. Then go south, back
-            to Morgan's Vigil, turn in{' '}
+            Dreadmaul Rock. You&apos;ll find a{' '}
+            <span className="strong">&quot;Soft Dire Mound&quot;</span> right
+            behind some altar <span className="em">(81,46)</span>. Right click
+            it to plant the <span className="item">Gor&apos;tesh head</span>.
+            Then go south, back to Morgan&apos;s Vigil, turn in{' '}
             <span className="quest">
               <span className="strong">[53] Ogre Head on a Stick = Party</span>
             </span>
@@ -3908,7 +4046,7 @@ function Chapter3() {
               <br />
               End of Burning steppes circuit
             </span>
-            <p></p>
+            <p />
             <p>
               <img
                 src="http://www.wow-pro.com/files/guidepics/xpburningstep.jpg"
@@ -3922,21 +4060,21 @@ function Chapter3() {
               dragons attack Highlord Bolvar, had to wait quite a while for Lady
               Katrana Prestor to reappear. Still decent.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
-            Hearthstone to Stormwind, or fly there if your stone isn't up.
-            <p></p>
+            Hearthstone to Stormwind, or fly there if your stone isn&apos;t up.
+            <p />
             <p>
               Sell and repair, check the AH, resupply food and drink (4 stacks)
               get the following quest item from your bank:
             </p>
             <p>
-              <span className="strong">"Everlook Report" </span>
+              <span className="strong">&quot;Everlook Report&quot;</span>
             </p>
             <p>
               You can put your Alterred Black Dragonflight Molt in bank as well,
-              you'll just have to get it back before going to BRD.
+              you&apos;ll just have to get it back before going to BRD.
             </p>
             <p>
               Fly to Ironforge, to to the throne room. Turn in{' '}
@@ -3953,11 +4091,11 @@ function Chapter3() {
               straight north to Western Plaguelands until you find Chillwind
               Camp <span className="em">(43,85)</span>.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             <span className="strong">Start of circuit Plaguelands #1</span>
-            <p></p>
+            <p />
 
             <p>
               <img
@@ -4011,21 +4149,21 @@ function Chapter3() {
                 href="http://www.worldofwarcraft.com/info/basics/factions/argent/"
                 className="bb-url"
               >
-                Check blizzard's official homepage to see what rewards you get
-                at the different faction levels
+                Check blizzard&apos;s official homepage to see what rewards you
+                get at the different faction levels
               </a>
               .
             </p>
 
-            <p>Don't get the other quests.</p>
+            <p>Don&apos;t get the other quests.</p>
 
-            <p></p>
+            <p />
           </li>
           <li>
             Take the eastern road, to Sorrow hill{' '}
             <span className="em">(46,81)</span>. Kill{' '}
             <span className="strong">10 Skeletal Flayers</span> and{' '}
-            <span className="strong">10 Slavering Ghouls</span>.<p></p>
+            <span className="strong">10 Slavering Ghouls</span>.<p />
             <p>
               Go back to Chillwind camp and turn in{' '}
               <span className="quest">
@@ -4060,42 +4198,42 @@ function Chapter3() {
               In Andorhal try to avoid the roads as much as possible, as level
               56 elite abominations roam them. So just clear yourself a path
               through the destroyed houses. Also avoid the center of the town of
-              course, there's a huge bunch of mobs there and Araj the Summoner
-              (lvl 61 elite).
+              course, there&apos;s a huge bunch of mobs there and Araj the
+              Summoner (lvl 61 elite).
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go to the <span className="strong">Fourth Watch Tower</span>
-            <span className="em">(46,70)</span>. Clear what's in your way but be
-            careful not to aggro the skeletal warlord inside of it (lvl 56-57
-            elite). You can drop the torch at the entrance of the watch tower
-            without aggroing the Skeletal Warlord if you just get close to it
-            without being in it's line of sight. Look for the{' '}
-            <span className="strong">"beacon torch"</span> in your inventory and
-            click it while standing next to the tower's door.
-            <p></p>
+            <span className="em">(46,70)</span>. Clear what&apos;s in your way
+            but be careful not to aggro the skeletal warlord inside of it (lvl
+            56-57 elite). You can drop the torch at the entrance of the watch
+            tower without aggroing the Skeletal Warlord if you just get close to
+            it without being in it&apos;s line of sight. Look for the{' '}
+            <span className="strong">&quot;beacon torch&quot;</span> in your
+            inventory and click it while standing next to the tower&apos;s door.
+            <p />
             <p>
               Go to the <span className="strong">Tower One</span> which is
-              direclty to the west <span className="em">(40,71)</span>. It's
-              close to the western entrance to Andorhal. Mark it with the torch
-              just like you did for the previous tower.
+              direclty to the west <span className="em">(40,71)</span>.
+              It&apos;s close to the western entrance to Andorhal. Mark it with
+              the torch just like you did for the previous tower.
             </p>
             <p>
               Go to <span className="strong">Tower Two</span>, northeast of
-              tower one <span className="em">(42,66)</span>. It's close to the
-              northern entrance to Andorhal. Mark it.
+              tower one <span className="em">(42,66)</span>. It&apos;s close to
+              the northern entrance to Andorhal. Mark it.
             </p>
             <p>
               The Tower Three is right behind tower two, northeast of it. Be
               careful of the scarlet patrol and abomination patrol when you go
               there <span className="em">(44,63)</span>. Mark tower three.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Get out of Andorhal by the north side then go west to Felstone Field{' '}
-            <span className="em">(37,58)</span>.<p></p>
+            <span className="em">(37,58)</span>.<p />
             <p>
               Clear yourself a path to the Cauldron in the middle of the field,
               when you get close,{' '}
@@ -4114,16 +4252,16 @@ function Chapter3() {
               <span className="em">(37,54)</span>.
             </p>
             <p>
-              On the 2nd floor of the house you'll find Janice Felstone, get the
-              quest{' '}
+              On the 2nd floor of the house you&apos;ll find Janice Felstone,
+              get the quest{' '}
               <span className="quest">
                 <span className="strong">[52] Better Late than Never.</span>
               </span>
             </p>
             <p>
               Go to the next house which <span className="em">(38,55)</span> and
-              find Janice's Parcel inside it. Click it, turn in the quest, then
-              click it again and get the follow up{' '}
+              find Janice&apos;s Parcel inside it. Click it, turn in the quest,
+              then click it again and get the follow up{' '}
               <span className="quest">
                 <span className="strong">
                   [52] Better Late Than Never.
@@ -4134,7 +4272,8 @@ function Chapter3() {
             </p>
           </li>
           <li>
-            Ride south to chillwind camp, avoid Andorhal this time.<p></p>
+            Ride south to chillwind camp, avoid Andorhal this time.
+            <p />
             <p>
               Turn in{' '}
               <span className="quest">
@@ -4144,7 +4283,7 @@ function Chapter3() {
               <span className="quest">
                 <span className="strong">[55] Scholomance</span>
               </span>
-              , don't get the other follow up.
+              , don&apos;t get the other follow up.
             </p>
             <p>
               Turn in{' '}
@@ -4153,7 +4292,7 @@ function Chapter3() {
               </span>
               , get the follow up{' '}
               <span className="quest">
-                <span className="strong">[55] Target: Dalson's Tears</span>
+                <span className="strong">[55] Target: Dalson&apos;s Tears</span>
               </span>
               .
             </p>
@@ -4167,49 +4306,51 @@ function Chapter3() {
                 <span className="strong">[57] Skeletal Fragments.</span>
               </span>
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
-            Go north, around Andorhal and then east to Dalson'Tears{' '}
-            <span className="em">(45,52)</span>, it's the field directly east of
-            Felstone Field. Clear yourself a path to the Scourge Cauldron, when
-            you get close{' '}
+            Go north, around Andorhal and then east to Dalson&apos;Tears{' '}
+            <span className="em">(45,52)</span>, it&apos;s the field directly
+            east of Felstone Field. Clear yourself a path to the Scourge
+            Cauldron, when you get close{' '}
             <span className="strong">Cauldron Lord Malvinious</span> will spawn,
             kill it and loot his key, go to the Cauldron and click it, turn in
             the quest and get the follow up{' '}
             <span className="quest">
               <span className="strong">[55] Return to Chillwind Camp</span>
             </span>
-            .<p></p>
-            <p></p>
+            .<p />
+            <p />
           </li>
           <li>
-            Go to the houses on the north side of Dalson's Tears, enter the
-            right one <span className="em">(47,51)</span>. Clear what's inside
-            and look on the floor for{' '}
-            <span className="strong">Mrs. Dalson's Diary</span>, get the quest
-            and complete it.<p></p>
+            Go to the houses on the north side of Dalson&apos;s Tears, enter the
+            right one <span className="em">(47,51)</span>. Clear what&apos;s
+            inside and look on the floor for{' '}
+            <span className="strong">Mrs. Dalson&apos;s Diary</span>, get the
+            quest and complete it.
+            <p />
             <p>
               Get out of the barn and look around for a{' '}
               <span className="strong">Wandering Skeleton</span>, there is only
               one of this kind and he roams around the barn, so keep killing
               stuff around the barn until you find it, kill it and loot{' '}
-              <span className="item">"Dalson Outhouse Key"</span>. Go behind the
-              barn, you'll find an Outhouse <span className="em">(48,49)</span>.
-              Open it, kill Farmer Dalson, loot{' '}
-              <span className="item">Dalson Cabinet Key</span>.
+              <span className="item">&quot;Dalson Outhouse Key&quot;</span>. Go
+              behind the barn, you&apos;ll find an Outhouse{' '}
+              <span className="em">(48,49)</span>. Open it, kill Farmer Dalson,
+              loot <span className="item">Dalson Cabinet Key</span>.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go to the other house now <span className="em">(47,50)</span>, on
-            the 2nd floor of it you'll find a{' '}
-            <span className="strong">"Locked Cabinet"</span>, click it and turn
-            in the quest.<p></p>
+            the 2nd floor of it you&apos;ll find a{' '}
+            <span className="strong">&quot;Locked Cabinet&quot;</span>, click it
+            and turn in the quest.
+            <p />
             <p>
               Go straight north to the Northridge Lumbermill, when you are next
               to the lumbermill, go northeast of it, follow a trail going down
-              to a destroyed wagon. You'll find Kirsta Deepshadow there{' '}
+              to a destroyed wagon. You&apos;ll find Kirsta Deepshadow there{' '}
               <span className="em">(51,28)</span>, get the quest{' '}
               <span className="quest">
                 <span className="strong">[56] Unfinished Business</span>
@@ -4231,10 +4372,11 @@ function Chapter3() {
               </span>
               , get the follow up.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
-            Go back on the road just east of Kirsta.<p></p>
+            Go back on the road just east of Kirsta.
+            <p />
             <p>
               At <span className="em">(54,34)</span> the road forks off to the
               left and right. Go right and up the slope you will find Hunstman
@@ -4248,9 +4390,9 @@ function Chapter3() {
               <span className="em">(53,24)</span>. Kill the 2 guards infront of
               it then wait for <span className="strong">Cavalier Durgen</span>{' '}
               to show up. He goes to the top of the tower then walks back to the
-              entrance. You don't need to go look for him inside the tower.
+              entrance. You don&apos;t need to go look for him inside the tower.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             After killing Durgen, you can go directly back to where Kirsta is by
@@ -4259,7 +4401,8 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[57] Unfinished Business</span>
             </span>
-            , don't get the follow up.<p></p>
+            , don&apos;t get the follow up.
+            <p />
             <p>
               You should be level 58 already or at least 5000 XP away from it.
               If you are not grind on{' '}
@@ -4267,7 +4410,7 @@ function Chapter3() {
               <span className="strong">Undeads</span> in one of the cauldron
               fields until you are 5000XP away from 58.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Hearthstone to Stormwind, go to the Cathedral Square and inside the
@@ -4276,13 +4419,13 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[52] Better Late Than Never.</span>
             </span>
-            <p></p>
+            <p />
             <p>
-              Now try to find Ol'Emma, she wanders in between the Cathedral
-              Square and the Trade district. Shouldn't be hard to find because
-              you'll see the yellow "?" on the minimap. She makes a stop in a
-              house bordering the canals close to the Cathedral district too{' '}
-              <span className="em">(52,41)</span>.
+              Now try to find Ol&apos;Emma, she wanders in between the Cathedral
+              Square and the Trade district. Shouldn&apos;t be hard to find
+              because you&apos;ll see the yellow &quot;?&quot; on the minimap.
+              She makes a stop in a house bordering the canals close to the
+              Cathedral district too <span className="em">(52,41)</span>.
             </p>
             <p>
               When you find her turn in{' '}
@@ -4306,10 +4449,10 @@ function Chapter3() {
                 className="bb-image"
               />
             </p>
-            <p></p>
+            <p />
           </li>
         </ol>
-        <p></p>
+        <p />
         <p>
           <span className="small">
             <span className="strong">Level 58</span>
@@ -4321,7 +4464,7 @@ function Chapter3() {
             Go visit your class trainer, sell/repair, visit the AH, resupply up
             to 4 stacks of food/water.
             <span className="em">Get this quest item from bank:</span>
-            <p></p>
+            <p />
             <p>
               <span className="strong">Studies in Spirit Speaking</span>
             </p>
@@ -4351,7 +4494,7 @@ function Chapter3() {
               </span>
               .
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go north to the Felstone Field, go into the left house{' '}
@@ -4364,20 +4507,23 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[54] Two Halves Become One.</span>
             </span>
-            <p></p>
+            <p />
             <p>
               Get out of the house and look for{' '}
               <span className="strong">a Jabbering Ghoul</span> wandering the
-              area in front of the barn. If it's not there just keep the area
-              clean until it respawns. Kill it and it will drop a{' '}
-              <span className="item">"Good Luck Other-Half-Charm"</span>.
+              area in front of the barn. If it&apos;s not there just keep the
+              area clean until it respawns. Kill it and it will drop a{' '}
+              <span className="item">
+                &quot;Good Luck Other-Half-Charm&quot;
+              </span>
+              .
             </p>
             <p>
               Once you have the other half charm, go back to Janice Felstone,
               right click on the other-half-charm in your inventory. Turn in the
               quest.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Get out and back on the road, ride east until{' '}
@@ -4386,13 +4532,13 @@ function Chapter3() {
             <span className="em">(52,66)</span>. Clear a path to the Scourge
             Cauldron, when you get close to it,{' '}
             <span className="strong">Cauldron Lord Razarch</span> will spawn,
-            kill it and loot the key. Clear what's around the Cauldron and go
-            click it, turn in the quest and get the follow up{' '}
+            kill it and loot the key. Clear what&apos;s around the Cauldron and
+            go click it, turn in the quest and get the follow up{' '}
             <span className="quest">
               <span className="strong">[55] Return to Chillwind Camp</span>
             </span>
-            .<p></p>
-            <p></p>
+            .<p />
+            <p />
           </li>
           <li>
             Go south, cross the river and go back to Chillwind Camp through
@@ -4402,30 +4548,33 @@ function Chapter3() {
             </span>{' '}
             and get the follow up{' '}
             <span className="quest">
-              <span className="strong">[58] Target: Gahron's Withering</span>
+              <span className="strong">
+                [58] Target: Gahron&apos;s Withering
+              </span>
             </span>
-            .<p></p>
+            .<p />
             <p>
               Ride east through Sorrow hill, then northeast, across the river
-              and to Gahron's Withering <span className="em">(62,57)</span>.
-              Clear a path to the Scourge Cauldron, when you get close{' '}
+              and to Gahron&apos;s Withering <span className="em">(62,57)</span>
+              . Clear a path to the Scourge Cauldron, when you get close{' '}
               <span className="strong">Cauldron Lord Soulwrath</span> will,
-              appear, kill it. He's harder than the other cauldron lords, he
-              knockbacks and silences, so be careful where you fight him. Loot
-              his key then go to the Cauldron, turn in the quest and get the
-              follow up{' '}
+              appear, kill it. He&apos;s harder than the other cauldron lords,
+              he knockbacks and silences, so be careful where you fight him.
+              Loot his key then go to the Cauldron, turn in the quest and get
+              the follow up{' '}
               <span className="quest">
                 <span className="strong">[58] Return to Chillwind Camp</span>
               </span>
               .
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Ride east until you hit Thondroril River, go north along the river
             bank, then cross the river so you are on the eastern bank and ride
-            north until you find a house. In front of it you'll see Tirion
-            Fordring, get his 3 quests:<p></p>
+            north until you find a house. In front of it you&apos;ll see Tirion
+            Fordring, get his 3 quests:
+            <p />
             <p>
               <span className="quest">
                 <span className="strong">
@@ -4451,10 +4600,10 @@ function Chapter3() {
             </ul>
           </li>
 
-          <p></p>
+          <p />
           <li>
             Go south along the river and then east into Eastern Plaguelands.
-            <p></p>
+            <p />
             <p>
               <img
                 src="http://www.wow-pro.com/files/guidepics/plaguelandscircuit2b.jpg"
@@ -4464,34 +4613,35 @@ function Chapter3() {
             </p>
             <p>
               Go southeast while killing everything on the way. Find the Marris
-              Stead but don't get close to it! There's a lvl 62 Elite NPC there,
-              hits like a truck. Go around the Marris Stead so that you are on
-              the east of it <span className="em">(29,74)</span>.
+              Stead but don&apos;t get close to it! There&apos;s a lvl 62 Elite
+              NPC there, hits like a truck. Go around the Marris Stead so that
+              you are on the east of it <span className="em">(29,74)</span>.
             </p>
             <p>
-              Just a bit closer to Nathanos lightcaller you'll find{' '}
-              <span className="strong">"Mangled Human Remains"</span>{' '}
+              Just a bit closer to Nathanos lightcaller you&apos;ll find{' '}
+              <span className="strong">&quot;Mangled Human Remains&quot;</span>{' '}
               <span className="em">(28,74)</span>. Loot the{' '}
               <span className="item">SI:7 Insignia (Turyen)</span> from it.
               <br />
               Go a bit closer to Nathanos, on a small mound right infront of him
               you should find other human remains{' '}
-              <span className="em">(27,74)</span>. Loot Fredo's Insignia from
-              it. This is as close as you can get to Nathanos without aggroing
-              it, and you should get the{' '}
+              <span className="em">(27,74)</span>. Loot Fredo&apos;s Insignia
+              from it. This is as close as you can get to Nathanos without
+              aggroing it, and you should get the{' '}
               <span className="strong">
-                "Blightcaller Uncovered" (Complete) message
-              </span>
-              . Go backwards a bit and then south, you should find the last
-              human remains close to the road{' '}
+                &quot;Blightcaller Uncovered (Complete)&quot;
+              </span>{' '}
+              message. Go backwards a bit and then south, you should find the
+              last human remains close to the road{' '}
               <span className="em">(28,79)</span>. Loot{' '}
-              <span className="item">Rutger's Insignia</span>.
+              <span className="item">Rutger&apos;s Insignia</span>.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go southeast to Darrowshire, keep killing everything on sight that
-            you need for quests, there should be plenty.<p></p>
+            you need for quests, there should be plenty.
+            <p />
             <p>
               Inside Darrowshire, find a small destroyed house on the western
               side of Darrowshire. You should find Pamela Redpath there, turn in
@@ -4501,24 +4651,24 @@ function Chapter3() {
               </span>{' '}
               and get the follow up{' '}
               <span className="quest">
-                <span className="strong">[55] Pamela's Doll</span>
+                <span className="strong">[55] Pamela&apos;s Doll</span>
               </span>
               .
             </p>
             <p>
-              Now you must find the 3 parts of pamela's doll, they can be in any
-              of the other houses in Darrowshire, mostly on the 2nd floor of it.
-              Look on the floor for some brown objet. Everytime you get close to
-              one of the doll parts, a{' '}
+              Now you must find the 3 parts of pamela&apos;s doll, they can be
+              in any of the other houses in Darrowshire, mostly on the 2nd floor
+              of it. Look on the floor for some brown objet. Everytime you get
+              close to one of the doll parts, a{' '}
               <span className="strong">level 55 ghost spawns</span> and attack
               you.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Once you have{' '}
             <span className="strong">
-              Pamela's Doll's Left Side, Right Side and Head
+              Pamela&apos;s Doll&apos;s Left Side, Right Side and Head
             </span>
             . Right click them in your inventory to combine them. Go to Pamela
             and turn in the quest. Get the two follow up quests:
@@ -4530,7 +4680,7 @@ function Chapter3() {
                 [56] Auntie Marlene
               </span>
             </span>
-            <p></p>
+            <p />
             <p>
               Go back towards the Marris Stead and keep doing wide circles
               around it killing everything until you got{' '}
@@ -4539,24 +4689,25 @@ function Chapter3() {
               is the best area to find them.
             </p>
             <p>
-              Go east to the area north of the infectis scar and Corin's
+              Go east to the area north of the infectis scar and Corin&apos;s
               Crossing. Kill everything around until you have{' '}
               <span className="strong">5 Plaguehound Kills</span>. Focus on{' '}
               <span className="strong">Carrion Grubs</span> as well.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Once you got 5 Plaguehound kills, go to the area which is north of
             Blackwood Lake <span className="em">(51,41)</span>. You should find{' '}
             <span className="strong">Frenzied Plaguehounds</span> around this
             area, also kill <span className="strong">Carrion Devourers</span>{' '}
-            and <span className="strong">Bats</span> in the way.<p></p>
+            and <span className="strong">Bats</span> in the way.
+            <p />
             <p>
               Once you have{' '}
               <span className="strong">5 Frenzied Plaguehound kills</span>, go
               southeast, around the Pestilent scar by the north of it and then
-              go southeast to Light's Hope Chapel{' '}
+              go southeast to Light&apos;s Hope Chapel{' '}
               <span className="em">(81,59)</span>.
             </p>
             <p>
@@ -4575,7 +4726,7 @@ function Chapter3() {
               .
             </p>
             <p>
-              Just a bit south of Light's Hope Chapel find Caretaker Alen{' '}
+              Just a bit south of Light&apos;s Hope Chapel find Caretaker Alen{' '}
               <span className="em">(79,63)</span>. Get the quest{' '}
               <span className="quest">
                 <span className="strong">[55] Zaeldarr the Outcast</span>
@@ -4583,27 +4734,27 @@ function Chapter3() {
               from him.
             </p>
             <p>
-              <span className="em">Note:</span> Don't sell{' '}
+              <span className="em">Note:</span> Don&apos;t sell{' '}
               <span className="item">evil bat eyes</span>, they can be used to
               get <span className="strong">Darkmoon Faire Tickets</span> for
-              your future epic necklace. If you aren't interested in the
+              your future epic necklace. If you aren&apos;t interested in the
               Darkmoon rewards you can sell the eyes at the AH for nice cash.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Check how many{' '}
-            <span className="item">"Slab of Carrion Worm Meat"</span> you need,
-            then go kill in the area south and southwest of Light's Hope Chapel
-            until you got your{' '}
+            <span className="item">&quot;Slab of Carrion Worm Meat&quot;</span>{' '}
+            you need, then go kill in the area south and southwest of
+            Light&apos;s Hope Chapel until you got your{' '}
             <span className="item">15 Carrion Worm Meat</span>. Then go to
-            Light's Hope Chapel, fly to Chillwind camp. Turn in{' '}
+            Light&apos;s Hope Chapel, fly to Chillwind camp. Turn in{' '}
             <span className="quest">
               <span className="strong">[58] Return to Chillwind Camp</span>
             </span>
             , go to Commander Ashlam Valorfirst and complete the quest{' '}
-            <span className="strong">"Mission Accomplished!"</span>
-            <p></p>
+            <span className="strong">&quot;Mission Accomplished!&quot;</span>
+            <p />
             <p>
               Turn in{' '}
               <span className="quest">
@@ -4615,7 +4766,7 @@ function Chapter3() {
               </span>
               .
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Hearthstone to Stormwind, Go to Stormwind Keep and turn in{' '}
@@ -4626,9 +4777,10 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[62] Order Must Be Restored (Raid)</span>
             </span>
-            , we won't be doing it in the guide, however it's one of those "must
-            do at level 60" quests. You'll need a mini raid for it, and the
-            rewards are good.<p></p>
+            , we won&apos;t be doing it in the guide, however it&apos;s one of
+            those &quot;must do at level 60&quot; quests. You&apos;ll need a
+            mini raid for it, and the rewards are good.
+            <p />
             <p>
               <span className="strong">End of circuit Plaguelands #2:</span>
             </p>
@@ -4639,12 +4791,13 @@ function Chapter3() {
                 className="bb-image"
               />
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
-            Sell/repair, resupply food/drink (4 stacks), check the AH.<p></p>
+            Sell/repair, resupply food/drink (4 stacks), check the AH.
+            <p />
             <p>
-              Fly to Ironfore,
+              Fly to Ironforge,
               <span className="strong"> make the Inn your home location</span>,
               go to the bank and get the following quest items:
             </p>
@@ -4658,11 +4811,11 @@ function Chapter3() {
               </span>{' '}
               from Nathaniel Dumah.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             <span className="strong">Start of XP circuit Plaguelands #3</span>
-            <p></p>
+            <p />
 
             <p>
               <img
@@ -4692,22 +4845,25 @@ function Chapter3() {
             <p>
               Search the graveyard just north of the house where Marlene Redpath
               is, look for{' '}
-              <span className="strong">"Joseph Redpath's Monument"</span> among
-              the graves <span className="em">(49,76)</span>. Click the grave
-              and get <span className="item">Joesph's Wedding Ring</span>.
+              <span className="strong">
+                &quot;Joseph Redpath&apos;s Monument&quot;
+              </span>{' '}
+              among the graves <span className="em">(49,76)</span>. Click the
+              grave and get{' '}
+              <span className="item">Joesph&apos;s Wedding Ring</span>.
             </p>
 
-            <p></p>
+            <p />
           </li>
           <li>
             Go back towards Chillwind Camp and take the other path to Andorhal,
             go inside the Ruins of Andorhal by the western entrance.
-            <p></p>
+            <p />
             <p>
-              Just a bit inside Andorhal go to the house to the north, it's the
-              only house around with a floor and not totally destroyed{' '}
+              Just a bit inside Andorhal go to the house to the north, it&apos;s
+              the only house around with a floor and not totally destroyed{' '}
               <span className="em">(39,68)</span>. Inside the house go to the
-              2nd floor, in one of the rooms you'll find Chromie. Turn in [
+              2nd floor, in one of the rooms you&apos;ll find Chromie. Turn in [
               <span className="quest">b][56] A Strange historian[/b]</span>, get
               the follow up{' '}
               <span className="quest">
@@ -4719,13 +4875,13 @@ function Chapter3() {
               </span>
               .
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go to the northern gate of Andorhal, and east of the first watch
-            tower you'll find two wooden silos{' '}
+            tower you&apos;ll find two wooden silos{' '}
             <span className="em">(45,62)</span> which look like this:
-            <p></p>
+            <p />
             <p>
               <img
                 src="http://www.wow-pro.com/files/guidepics/woodensilo.jpg"
@@ -4740,22 +4896,22 @@ function Chapter3() {
               <span className="strong">
                 1 to 3 lvl 57 worms will spawn and attack you
               </span>
-              . When it's 3 it might be tough to handle solo, so always start
-              those fights with full hp and if possible potions / long cooldown
-              abilities up. Back off from the silos after you summon the worms,
-              if you stay too close more worms will spawn sometimes, and that's
-              probably more than you can handle solo.
+              . When it&apos;s 3 it might be tough to handle solo, so always
+              start those fights with full hp and if possible potions / long
+              cooldown abilities up. Back off from the silos after you summon
+              the worms, if you stay too close more worms will spawn sometimes,
+              and that&apos;s probably more than you can handle solo.
             </p>
             <p>
               The worms only appear when the silo is sparkling blue. They take a
               while to sparkle again after you use the temporal displacer next
-              to them. There's 3 more silos just a bit more to the east.
+              to them. There&apos;s 3 more silos just a bit more to the east.
             </p>
             <p>
               Keep doing that until you have{' '}
               <span className="strong">15 Temporal Parasites</span> slain.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go back to Chromie, turn in{' '}
@@ -4766,7 +4922,7 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[56] Counting Out time</span>
             </span>
-            .<p></p>
+            .<p />
             <p>
               Now what you have to do is go from destroyed house to destroyed
               house in Andorhal and look for Small Lockboxes like this:
@@ -4782,22 +4938,23 @@ function Chapter3() {
               Loot the Andorhal Watch from it. Keep doing this until you have{' '}
               <span className="item">5 Andorhal Watches.</span>
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go to the town hall (with a tower clock) which is in the middle of
             Andorhal, close to where Araj the Summoner is, you can sneak in the
             town hall without having to fight any of the bunch of mobs close to
-            it.<p></p>
+            it.
+            <p />
             <p>
-              Inside the town hall you'll find several{' '}
-              <span className="strong">"Musty Tome"</span> lying on the floor.
-              When you click one, there is a chance you will find the{' '}
+              Inside the town hall you&apos;ll find several{' '}
+              <span className="strong">&quot;Musty Tome&quot;</span> lying on
+              the floor. When you click one, there is a chance you will find the{' '}
               <span className="item">Annals of Darrowshire</span>, but there is
               a higher chance that you will get a{' '}
-              <span className="item">"Ruined Tome"</span> and 1 or 2 level 57
-              mobs will attack you. They give no loot and no exp. Hoewever there
-              is a trick to know which tome is the right one.{' '}
+              <span className="item">&quot;Ruined Tome&quot;</span> and 1 or 2
+              level 57 mobs will attack you. They give no loot and no exp.
+              Hoewever there is a trick to know which tome is the right one.{' '}
               <span className="strong">
                 There is a slight graphical difference
               </span>
@@ -4812,8 +4969,8 @@ function Chapter3() {
               />
             </p>
             <p>
-              The good tome looks "newer", and it's pages only have one color
-              tone, like this one:{' '}
+              The good tome looks &quot;newer&quot;, and it&apos;s pages only
+              have one color tone, like this one:{' '}
             </p>
             <p>
               <img
@@ -4827,7 +4984,7 @@ function Chapter3() {
               and put your mouse pointer over the books to highlight them. Loot
               the <span className="strong">Annals of Darrowshire.</span>
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go back to Chromie, turn in{' '}
@@ -4838,12 +4995,13 @@ function Chapter3() {
             reward is only useable on Araj the Summoner, so save it for later
             when you are 60 and do the big quests. Killing Araj is necessary to
             get your Scholomance key and another quest for a decent trinket.
-            You'll need a solid group of 60s to kill him, but the Attuned
+            You&apos;ll need a solid group of 60s to kill him, but the Attuned
             Dampener will help. You can actually repeat the quest{' '}
             <span className="quest">
               <span className="strong">[56] Counting out Time</span>
             </span>{' '}
-            to get more dampeners for an easier Araj kill.<p></p>
+            to get more dampeners for an easier Araj kill.
+            <p />
             <p>
               Turn in{' '}
               <span className="quest">
@@ -4860,15 +5018,15 @@ function Chapter3() {
               <span className="quest">
                 <span className="strong">[57] Skeletal Fragments</span>
               </span>
-              , if you haven't, kill some more skeletons while you are in
+              , if you haven&apos;t, kill some more skeletons while you are in
               Andorhal.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Get out of Andorhal by the north gate, then go east till Thondroril
             River and ride north to Tirion Fordring{' '}
-            <span className="em">(7,43)</span>.<p></p>
+            <span className="em">(7,43)</span>.<p />
             <p>
               Turn in{' '}
               <span className="quest">
@@ -4886,17 +5044,19 @@ function Chapter3() {
               <span className="quest">
                 <span className="strong">[56] Redemption</span>
               </span>
-              . Listen to Tirion's tale, turn in the quest and get the follow up{' '}
+              . Listen to Tirion&apos;s tale, turn in the quest and get the
+              follow up{' '}
               <span className="quest">
                 <span className="strong">[57] Of Forgotten Memories</span>
               </span>
               .
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Ride to Eastern Plaguelands and go southeast to the Undercroft,
-            which is directly south of the Marris Stead.<p></p>
+            which is directly south of the Marris Stead.
+            <p />
             <p>
               <img
                 src="http://www.wow-pro.com/files/guidepics/plaguelandscircuit3b.jpg"
@@ -4905,13 +5065,13 @@ function Chapter3() {
               />
             </p>
             <p>
-              Behind the crypt in the Undercroft you'll find{' '}
-              <span className="strong">Tiron Fordring's Grave</span>{' '}
+              Behind the crypt in the Undercroft you&apos;ll find{' '}
+              <span className="strong">Tiron Fordring&apos;s Grave</span>{' '}
               <span className="em">(28,86)</span>. Next to should be a{' '}
-              <span className="strong">"Loose Dirt Mound"</span>. This is where
-              you need help, this almost impossible to do solo unless you use a
-              lot of creativy and everything you got. Anyway here is what
-              happens when you click the dirt mount,{' '}
+              <span className="strong">&quot;Loose Dirt Mound&quot;</span>. This
+              is where you need help, this almost impossible to do solo unless
+              you use a lot of creativy and everything you got. Anyway here is
+              what happens when you click the dirt mount,{' '}
               <span className="strong">Mercutio Filthgorger</span> and{' '}
               <span className="strong">3 Dwarf Graverobbers</span> spawn and go
               to the dirt mound, if you are close they of course jump you.
@@ -4948,8 +5108,8 @@ function Chapter3() {
               a warrior. He charged Mercutio and used intimidating shout as soon
               as possible to send the 3 gravediggers away for 10 sec or so. We
               both went all out on Mercutio, looted and ran away. Anyway, if you
-              don't get help immediatly, there's something to do in the
-              Undercroft while you look for help:
+              don&apos;t get help immediatly, there&apos;s something to do in
+              the Undercroft while you look for help:
             </p>
             <p>
               Go inside the crypt <span className="em">(27,85)</span>, clear the
@@ -4957,15 +5117,15 @@ function Chapter3() {
               <span className="strong">Zaeldarr the Outcast</span> and{' '}
               <span className="em">loot his head</span>.<br />
               In the same room look for a{' '}
-              <span className="strong">"Torn Scroll"</span> on the floor, click
-              it can get the quest{' '}
+              <span className="strong">&quot;Torn Scroll&quot;</span> on the
+              floor, click it can get the quest{' '}
               <span className="quest">
-                <span className="strong">[60] Hameya's Plea</span>
+                <span className="strong">[60] Hameya&apos;s Plea</span>
               </span>
               .
             </p>
             <p>
-              If you still didn't get anyone to help you on{' '}
+              If you still didn&apos;t get anyone to help you on{' '}
               <span className="quest">
                 <span className="strong">[57] Of Forgotten Memories</span>
               </span>
@@ -4978,7 +5138,7 @@ function Chapter3() {
                 className="smiley-content"
               />
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go back to Tiron Fordring, turn in{' '}
@@ -4989,10 +5149,10 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[58] Of Lost Honor</span>
             </span>
-            .<p></p>
+            .<p />
             <p>
-              Get back into Eastern Plaguelands and ride east to Light's hope
-              Chapel. Turn in{' '}
+              Get back into Eastern Plaguelands and ride east to Light&apos;s
+              hope Chapel. Turn in{' '}
               <span className="quest">
                 <span className="strong">[56] Brother Carlin</span>
               </span>
@@ -5012,16 +5172,19 @@ function Chapter3() {
               further to the south at Caretaker Alen. Sell junk and resupply
               food and drink there. (4 stacks).
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
-            Ride west to the Infectis scar by passing Corin's crossing by the
-            south side. Go down the Infectis Scar at{' '}
+            Ride west to the Infectis scar by passing Corin&apos;s crossing by
+            the south side. Go down the Infectis Scar at{' '}
             <span className="em">(49,74)</span>, then go to
             <br />
-            <span className="em">(53,65)</span> where you'll find the{' '}
-            <span className="strong">"Shattered Sword of Marduk"</span>, as
-            marked on the map. It looks like this:<p></p>
+            <span className="em">(53,65)</span> where you&apos;ll find the{' '}
+            <span className="strong">
+              &quot;Shattered Sword of Marduk&quot;
+            </span>
+            , as marked on the map. It looks like this:
+            <p />
             <p>
               <img
                 src="http://www.wow-pro.com/files/guidepics/swordofmarduk.jpg"
@@ -5031,16 +5194,16 @@ function Chapter3() {
             </p>
             <p>Loot it.</p>
             <p>Get out of the Infectis scar by the way you came in.</p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go north to Blackwood Lake <span className="em">(49,51)</span>. Take
-            a dive, in the middle of the pool at the bottom you'll see{' '}
+            a dive, in the middle of the pool at the bottom you&apos;ll see{' '}
             <span className="strong">Ghosts of Darrowshire</span> fighting each
             other, amongst them you should see a glowing violet skull named{' '}
-            <span className="strong">"Horgus Skull"</span>{' '}
+            <span className="strong">&quot;Horgus Skull&quot;</span>{' '}
             <span className="em">(51,50)</span>, it looks like this:
-            <p></p>
+            <p />
             <p>
               <img
                 src="http://www.wow-pro.com/files/guidepics/horgusskull.jpg"
@@ -5051,14 +5214,14 @@ function Chapter3() {
             <p>Loot it.</p>
             <p>
               Go north until you find Aurora Skycaller{' '}
-              <span className="em">(53,22)</span>, she is close to Quil'Lithien
-              Lodge. Turn in{' '}
+              <span className="em">(53,22)</span>, she is close to
+              Quil&apos;Lithien Lodge. Turn in{' '}
               <span className="quest">
                 <span className="strong">
-                  [56] Troubled Spirits of Kel'Theril
+                  [56] Troubled Spirits of Kel&apos;Theril
                 </span>
               </span>
-              , don't get the follow up.
+              , don&apos;t get the follow up.
               <br />
               <span className="em">
                 <span className="strong">
@@ -5070,7 +5233,7 @@ function Chapter3() {
             </p>
           </li>
         </ol>
-        <p></p>
+        <p />
         <p>
           <span className="small">
             <span className="strong">Level 59</span>
@@ -5081,7 +5244,7 @@ function Chapter3() {
           <li>
             Go west to the Plaguewoods. In the plaguewoods look around for{' '}
             <span className="strong">Large Termite Mounds </span>
-            <p></p>
+            <p />
             <p>
               <img
                 src="http://www.wow-pro.com/files/guidepics/termitemound.jpg"
@@ -5102,7 +5265,7 @@ function Chapter3() {
               getting faction with the <span className="em">Argent Dawn</span>{' '}
               and Scourgestones.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             When you are done with both{' '}
@@ -5113,11 +5276,12 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[57] Defenders of Darrowshire</span>
             </span>
-            , go east to Zul'Mashar <span className="em">(64,24)</span>.<p></p>
+            , go east to Zul&apos;Mashar <span className="em">(64,24)</span>.
+            <p />
             <p>
-              Clear the way up the slope, and to the east, you'll soon face a
-              big pyramid. At it's base you should see tombs with some trolls
-              roaming about them. One of them is{' '}
+              Clear the way up the slope, and to the east, you&apos;ll soon face
+              a big pyramid. At it&apos;s base you should see tombs with some
+              trolls roaming about them. One of them is{' '}
               <span className="strong">Infiltrator Hameya</span>.
             </p>
             <p>
@@ -5125,15 +5289,16 @@ function Chapter3() {
               pull him solo and kill him,{' '}
               <span className="strong">then loot his key</span>.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
-            Clear your way out of Zul'Mashar then go southeast to Northdale,
-            take a dive in the pool which is just south of Northdale. Clear the{' '}
-            <span className="strong">elementals</span> in the way. At{' '}
+            Clear your way out of Zul&apos;Mashar then go southeast to
+            Northdale, take a dive in the pool which is just south of Northdale.
+            Clear the <span className="strong">elementals</span> in the way. At{' '}
             <span className="em">(71,33)</span>, next to a cage you should see a
             white flag with a blue runed on it named{' '}
-            <span className="strong">"Symbol of Lost Honor"</span>:<p></p>
+            <span className="strong">&quot;Symbol of Lost Honor&quot;</span>:
+            <p />
             <p>
               <img
                 src="http://www.wow-pro.com/files/guidepics/losthonorsymbol.jpg"
@@ -5142,7 +5307,7 @@ function Chapter3() {
               />
             </p>
             <p>Loot it.</p>
-            <p>Ride southeast back to Light's Hope Chapel.</p>
+            <p>Ride southeast back to Light&apos;s Hope Chapel.</p>
             <p>
               Turn in{' '}
               <span className="quest">
@@ -5156,21 +5321,21 @@ function Chapter3() {
               <span className="quest">
                 <span className="strong">[56] Heros of Darrowshire</span>
               </span>
-              . We won't be doing it in the guide, however it's one of the cool
-              quest lines to do at level 60.
+              . We won&apos;t be doing it in the guide, however it&apos;s one of
+              the cool quest lines to do at level 60.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Ride west and slightly south to the Undercroft. Right behind the
             crypt in the Undercroft you should find a{' '}
-            <span className="strong">"Mound of Dirt"</span>. Not the one next to
-            Tiron's grave, the other one close to a charriot{' '}
+            <span className="strong">&quot;Mound of Dirt&quot;</span>. Not the
+            one next to Tiron&apos;s grave, the other one close to a charriot{' '}
             <span className="em">(28,86)</span>. Click it, turn in{' '}
             <span className="quest">
-              <span className="strong">[60] Hameya's Plea</span>
+              <span className="strong">[60] Hameya&apos;s Plea</span>
             </span>
-            .<p></p>
+            .<p />
             <p>
               Ride northwest back to Tirion Fordring, turn in{' '}
               <span className="quest">
@@ -5183,7 +5348,7 @@ function Chapter3() {
               .
             </p>
             <p>Go south and then west back into the Western Plaguelands. </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go south and swim to Caer Darrow isle, On the western side of Caer
@@ -5196,11 +5361,11 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[60] Of Love and Family</span>
             </span>
-            . <p></p>
+            . <p />
             <p>
-              This quest will be taking you to Stratholme so it's something we
-              won't do in the guide. However it is a great quest, yet another
-              'must do" at level 60.
+              This quest will be taking you to Stratholme so it&apos;s something
+              we won&apos;t do in the guide. However it is a great quest, yet
+              another &quot;must do&quot; at level 60.
             </p>
             <p>
               Swim west until you reach Sorrow Hill, then ride west to Chillwind
@@ -5218,8 +5383,8 @@ function Chapter3() {
               <a href="http://www.wow-pro.com/node/560" className="bb-url">
                 Scholomance Key quest
               </a>
-              , and clearly yet another "must do" at level 60. Don't forget to
-              take the quest{' '}
+              , and clearly yet another &quot;must do&quot; at level 60.
+              Don&apos;t forget to take the quest{' '}
               <span className="quest">
                 <span className="strong">[60] Alas, Andorhal</span>
               </span>{' '}
@@ -5237,7 +5402,7 @@ function Chapter3() {
               </span>
               .
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Ride north around Andorhal and then northeast to Northridge Lumber
@@ -5245,11 +5410,13 @@ function Chapter3() {
             tip of the lumber camp.
             <br />
             Inside the lumber mill you should find a big crate named{' '}
-            <span className="strong">"Northridge Lumber Mill Crate"</span>.
-            Click it and place the <span className="item">Termite Barrel</span>{' '}
-            on it. A barrel with green smoke should appear, click it and get the
-            follow up.
-            <p></p>
+            <span className="strong">
+              &quot;Northridge Lumber Mill Crate&quot;
+            </span>
+            . Click it and place the{' '}
+            <span className="item">Termite Barrel</span> on it. A barrel with
+            green smoke should appear, click it and get the follow up.
+            <p />
             <p>
               Go back to Chillwind Camp, turn in{' '}
               <span className="quest">
@@ -5268,12 +5435,13 @@ function Chapter3() {
                 className="bb-image"
               />
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Hearthstone to Ironforge. Resupply food/drink (4 stacks). Sell and
             repair, visit the Auction House: this is your last chance to buy
-            your dungeon set 1 bracers, we are gonna need them now.<p></p>
+            your dungeon set 1 bracers, we are gonna need them now.
+            <p />
             <p>
               Go to the throne room, get the quest get quest{' '}
               <span className="quest">
@@ -5317,7 +5485,7 @@ function Chapter3() {
                 className="bb-image"
               />
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Ride straight north until you are in the area east of Frostsaber
@@ -5326,14 +5494,17 @@ function Chapter3() {
             <span className="strong">Edler Shardtooths</span> in this area. Kill
             every of them until you have{' '}
             <span className="item">8 Uncracked Chillwind Horns.</span>
-            <p></p>
+            <p />
             <p>
               Once you got 8 Uncracked Horns, go west, closer to Frostsaber
               Rock, you will find a lot of{' '}
               <span className="strong">tigers</span> there. Kill them until you
-              got <span className="item">15 "Winterspring Blood Sample"</span>.
-              This will take a while, but it's normal, this is your new armor
-              set quest (
+              got{' '}
+              <span className="item">
+                15 &quot;Winterspring Blood Sample&quot;
+              </span>
+              . This will take a while, but it&apos;s normal, this is your new
+              armor set quest (
               <a
                 href="http://www.worldofwarcraft.com/info/items/armorsets/"
                 className="bb-url"
@@ -5342,7 +5513,7 @@ function Chapter3() {
               </a>
               ).
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             When done, ride back to Everlook, turn in{' '}
@@ -5353,7 +5524,7 @@ function Chapter3() {
             <span className="quest">
               <span className="strong">[54] Return to Tinkee</span>
             </span>
-            .<p></p>
+            .<p />
             <p>
               Hearthstone to Ironforge, go to the throne room, turn in{' '}
               <span className="quest">
@@ -5366,23 +5537,23 @@ function Chapter3() {
               <span className="quest">
                 <span className="strong">[60] A Supernatural Device</span>
               </span>
-              . This is the next step for your armor quest, but we won't be
-              doing it in this guide, that's yet another thing for you to do at
-              level 60!
+              . This is the next step for your armor quest, but we won&apos;t be
+              doing it in this guide, that&apos;s yet another thing for you to
+              do at level 60!
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             You should be approximately 2/3 done in your level 59 by now.
-            <p></p>
+            <p />
             <p>
-              It's time for you to go to{' '}
+              It&apos;s time for you to go to{' '}
               <span className="strong">Blackrock Depths</span>! Gather all the
               quests,{' '}
               <a href="http://www.wow-pro.com/node/591" className="bb-url">
                 follow this guide
               </a>
-              . Don't forget to take your{' '}
+              . Don&apos;t forget to take your{' '}
               <span className="item">Altered Black Dragonflight Molt</span> with
               you, and also go turn in{' '}
               <span className="quest">
@@ -5401,7 +5572,7 @@ function Chapter3() {
                 </span>{' '}
                 which allows you to enter the Molten Core (a high level 40-man
                 raid instance) by a teleport window.
-                <p></p>
+                <p />
               </li>
               <li>
                 <span className="quest">
@@ -5411,13 +5582,13 @@ function Chapter3() {
               </li>
             </ul>
           </li>
-          <p></p>
+          <p />
 
           <p>
-            However, if after Blackrok Depths and all it's quest XP rewards you
-            are still level 59, here is one last bonus XP circuit (And remember,
-            after patch 1.10 you will be able to cash in quests for gold - means
-            epic mount sooner{' '}
+            However, if after Blackrok Depths and all it&apos;s quest XP rewards
+            you are still level 59, here is one last bonus XP circuit (And
+            remember, after patch 1.10 you will be able to cash in quests for
+            gold - means epic mount sooner{' '}
             <img
               src="http://www.wow-pro.com/sites/all/modules/smileys/packs/Example/smile.png"
               title="Smiling"
@@ -5427,11 +5598,12 @@ function Chapter3() {
             ):
           </p>
 
-          <p></p>
+          <p />
           <li>
             Take two <span className="item">thorium bars</span> with you (buy
             them at the AH or something). Sell and repair, resupply food/drink
-            (4 stacks).<p></p>
+            (4 stacks).
+            <p />
             <p>
               Go to Gadgetzan, turn in{' '}
               <span className="quest">
@@ -5443,19 +5615,19 @@ function Chapter3() {
               </span>
             </p>
             <p>
-              Ride to Un'Goro Crater, right after entering it from the slope, go
-              northwest to Fire Plume Ridge, climb to the top of it. Go next to
-              the lava pool and right click your{' '}
+              Ride to Un&apos;Goro Crater, right after entering it from the
+              slope, go northwest to Fire Plume Ridge, climb to the top of it.
+              Go next to the lava pool and right click your{' '}
               <span className="item">Skeleton Key Mold</span> from your
               inventory.
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Get off the mountain by the west side, ride northwest to the slope
             leading to Silithus <span className="em">(29,22)</span>. In
             Silithus, ride west to Cenarion Hold{' '}
-            <span className="em">(51,37)</span>.<p></p>
+            <span className="em">(51,37)</span>.<p />
             <p>
               Get{' '}
               <span className="quest">
@@ -5484,18 +5656,18 @@ function Chapter3() {
                 className="bb-image"
               />
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Get out of Cenarion Hold by the west side, keep going west a little
-            bit, you'll quickly encounter{' '}
+            bit, you&apos;ll quickly encounter{' '}
             <span className="strong">Scorpids</span>,{' '}
             <span className="strong">Spiders</span> and{' '}
             <span className="strong">Worms</span>. Kill all of them on sight.
             Kill the Twilight mobs at the Twillight Base Camp{' '}
             <span className="em">(41,42)</span>. There is a lot of scorpids,
             spiders and worms in the area north of the twilight camp.
-            <p></p>
+            <p />
             <p>
               Keep kiling around this camp until you complete [
               <span className="quest">b][60] Secret Communication[/b]</span>,{' '}
@@ -5509,19 +5681,19 @@ function Chapter3() {
               lines.
             </p>
             <p>
-              It's gonna take a while. But anyway this is good because you are
-              working on our cenarion faction (which is very good at level 60
-              for many reasons,{' '}
+              It&apos;s gonna take a while. But anyway this is good because you
+              are working on our cenarion faction (which is very good at level
+              60 for many reasons,{' '}
               <a
                 href="http://www.worldofwarcraft.com/info/basics/factions/cenarion/"
                 className="bb-url"
               >
-                check Blizzard's homepage here for rewards etc.
+                check Blizzard&apos;s homepage here for rewards etc.
               </a>
               ) and you get <span className="item">Glowing Scorpid Blood</span>,
               which can be traded for tickets at the{' '}
               <span className="strong">Darkmoon Faire</span>. (or sell for nice
-              cash if you aren't interested in the Darkmoon faire rewards).
+              cash if you aren&apos;t interested in the Darkmoon faire rewards).
             </p>
             <p>
               While killing Twilight mobs, you will sometimes find{' '}
@@ -5537,13 +5709,13 @@ function Chapter3() {
               <span className="strong">Things to be careful with:</span>
             </p>
             <p>
-              Don't touch the greater wind stones or you'll get nuked by it.
-              These stones are to be used while wearing the full twilight
-              cultist set and only when doing specific quests. Don't bother with
-              them for now.
+              Don&apos;t touch the greater wind stones or you&apos;ll get nuked
+              by it. These stones are to be used while wearing the full twilight
+              cultist set and only when doing specific quests. Don&apos;t bother
+              with them for now.
               <br />
               Avoid <span className="strong">Twilight Keeper Havunth</span>, he
-              hurts a lot and doesn't drop anything particular.
+              hurts a lot and doesn&apos;t drop anything particular.
               <br />
               The Scorpids you need to kill are the grey/green ones,{' '}
               <span className="em">
@@ -5554,27 +5726,30 @@ function Chapter3() {
                 <span className="strong">[60] Secret Communication.</span>
               </span>
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             You should finish the quest{' '}
             <span className="quest">
               <span className="strong">[55] Securing the Supply Line</span>
             </span>{' '}
-            before the others, go turn it in as soon as it's complete (along
-            with the Secret Communication Quest). Get the follow up{' '}
+            before the others, go turn it in as soon as it&apos;s complete
+            (along with the Secret Communication Quest). Get the follow up{' '}
             <span className="quest">
               <span className="strong">[57] Stepping Up Security</span>
             </span>
-            , then go back to finish the other 2.<p></p>
+            , then go back to finish the other 2.
+            <p />
             <p>
               When you are done with them, go northwest, kill every{' '}
               <span className="strong">Dredge Crusher</span> you see on the way.
               Keep going northwest until you are in the northwestern most corner
-              of Silithus named "The Crystal Vale"{' '}
+              of Silithus named &quot;The Crystal Vale&quot;{' '}
               <span className="em">(20,18)</span>. Look around for{' '}
-              <span className="strong">"Twilight Tablet Fragments"</span>, they
-              look like this:{' '}
+              <span className="strong">
+                &quot;Twilight Tablet Fragments&quot;
+              </span>
+              , they look like this:{' '}
             </p>
             <p>
               <img
@@ -5592,7 +5767,7 @@ function Chapter3() {
               </span>
               .
             </p>
-            <p></p>
+            <p />
           </li>
           <li>
             Go back to Cenarion Hold, turn in all the quests, hearthstone to
@@ -5602,9 +5777,9 @@ function Chapter3() {
             </span>
             , get the follow up{' '}
             <span className="quest">
-              <span className="strong">Araj's Scarab</span>
+              <span className="strong">Araj&apos;s Scarab</span>
             </span>{' '}
-            (that's for your Scholomance key).
+            (that&apos;s for your Scholomance key).
             <span className="em">
               <span className="strong">
                 That should for sure make you ding level 60!

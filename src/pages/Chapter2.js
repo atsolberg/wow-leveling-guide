@@ -8,7 +8,7 @@ function Chapter2() {
       <p>
         This guide will take you from level 41 to level 50 in a breeze, but you
         can actually start with it at level 44 for example and catch up with the
-        guide really quick, it's not an issue. I suggest you read the{' '}
+        guide really quick, it&apos;s not an issue. I suggest you read the{' '}
         <span className="text-success">
           <strong>basic rules</strong>
         </span>{' '}
@@ -20,15 +20,15 @@ function Chapter2() {
         <strong>
           <a href="/1">Chapter I</a>
         </strong>{' '}
-        of my leveling guide if you haven't already. No matter if you are a
+        of my leveling guide if you haven&apos;t already. No matter if you are a
         beginner or a veteran world of warcraft player, if you follow this guide
-        carefully you'll find yourself XP'ing at an hilarious rate. So please
-        give it a try and then say how it went for you!
+        carefully you&apos;ll find yourself XP&apos;ing at an hilarious rate. So
+        please give it a try and then say how it went for you!
       </p>
       <h5>Shopping List:</h5>
       <ul>
         <li>
-          2 <span className="item">Elixir of Fortitude</span>
+          2x <span className="item">Elixir of Fortitude</span>
         </li>
       </ul>
       <h6>Level 41</h6>
@@ -43,109 +43,107 @@ function Chapter2() {
           </p>
           <p>
             Next go to just south of the entrance of The Stockades and talk to{' '}
-            <span className="person">Mazen Mac'Nadir</span> and get the quest{' '}
-            <span className="quest">[41] Mazen's Behest</span>
+            <span className="person">Mazen Mac&apos;Nadir</span> and get the
+            quest <span className="quest">[41] Mazen&apos;s Behest</span>
             <em>(40,63)</em>. Walk upstairs and get the follow-up quest from{' '}
             <span className="person">Acolyte Dellis</span>.
           </p>
         </li>
         <li>
-          <p>
-            <strong>Stranglethorn Vale:</strong> Fly to Booty Bay, make the Inn
-            your home point and get the quests:
-            <ul>
-              <li>
-                <span className="quest">[43] Zanzil's Secret</span> from Crank
-                Fizzlebub inside the Booty Bay Inn.
-              </li>
+          <strong>Stranglethorn Vale:</strong> Fly to Booty Bay, make the Inn
+          your home point and get the quests:
+          <ul>
+            <li>
+              <span className="quest">[43] Zanzil&apos;s Secret</span> from
+              Crank Fizzlebub inside the Booty Bay Inn.
+            </li>
 
-              <li>
-                <span className="quest">[42] Skullsplitter Tusks</span> from
-                Kebok in the Booty Bay inn (2nd Floor).
-              </li>
+            <li>
+              <span className="quest">[42] Skullsplitter Tusks</span> from Kebok
+              in the Booty Bay inn (2nd Floor).
+            </li>
 
-              <li>
-                <span className="quest">[45] Tran'Rek</span> from Krazek in
-                Booty Bay Inn (2nd Floor).
-              </li>
+            <li>
+              <span className="quest">[45] Tran&apos;Rek</span> from Krazek in
+              Booty Bay Inn (2nd Floor).
+            </li>
 
-              <li>
-                <span className="quest">[37] Goblin Sponsorship</span> from
-                Baron Revilgaz in Booty Bay Inn (Top Floor)
-              </li>
+            <li>
+              <span className="quest">[37] Goblin Sponsorship</span> from Baron
+              Revilgaz in Booty Bay Inn (Top Floor)
+            </li>
 
-              <li>
-                <span className="quest">[43] Akiris by the Bundle</span> from
-                Privateer Bloads next to the Bank.
-              </li>
+            <li>
+              <span className="quest">[43] Akiris by the Bundle</span> from
+              Privateer Bloads next to the Bank.
+            </li>
 
-              <li>
-                <span className="quest">[41] The Bloodsail Buccaneers</span>{' '}
-                from First Mate Crazz just past the "Old Port Authority"
-                building (First big building when getting off the Boat).
-              </li>
-            </ul>
-          </p>
-          <p>
+            <li>
+              <span className="quest">[41] The Bloodsail Buccaneers</span> from
+              First Mate Crazz just past the &quot;Old Port Authority&quot;
+              building (First big building when getting off the Boat).
+            </li>
+          </ul>
+          <div className="mt-3">
             In the Stranglethorn Vale category you should also already have:
-            <ul>
-              <li>
-                <span className="quest">[38] Kurzen's Mystery</span>
-              </li>
+          </div>
+          <ul className="mb-3">
+            <li>
+              <span className="quest">[38] Kurzen&apos;s Mystery</span>
+            </li>
 
-              <li>
-                <span className="quest">[38] Panther Mastery</span>
-              </li>
+            <li>
+              <span className="quest">[38] Panther Mastery</span>
+            </li>
 
-              <li>
-                <span className="quest">[39] "Pretty Boy" Duncan</span>
-              </li>
+            <li>
+              <span className="quest">[39] &quot;Pretty Boy&quot; Duncan</span>
+            </li>
 
-              <li>
-                <span className="quest">[41] Raptor Mastery</span>
-              </li>
+            <li>
+              <span className="quest">[41] Raptor Mastery</span>
+            </li>
 
-              <li>
-                <span className="quest">[41] Scaring Shaky</span>
-              </li>
+            <li>
+              <span className="quest">[41] Scaring Shaky</span>
+            </li>
 
-              <li>
-                <span className="quest">[41] Venture Company Mining</span>
-              </li>
-            </ul>
-          </p>
+            <li>
+              <span className="quest">[41] Venture Company Mining</span>
+            </li>
+          </ul>
         </li>
         <p>
-          So here we are - 13 quests to deal with. Let's get busy! Make space in
-          your bags, repair and buy 2 stacks of food/drink (if you don't have
-          that already, of course).
+          So here we are - 13 quests to deal with. Let&apos;s get busy! Make
+          space in your bags, repair and buy 2 stacks of food/drink (if you
+          don&apos;t have that already, of course).
         </p>
         <p>
-          For those who didn't finish the <em>Stranglethorn Pages</em> yet: this
-          is your last chance, check the Booty Bay AH and ask in general channel
-          for missing pages. If you got them all, take them with you.
+          For those who didn&apos;t finish the <em>Stranglethorn Pages</em> yet:
+          this is your last chance, check the Booty Bay AH and ask in general
+          channel for missing pages. If you got them all, take them with you.
         </p>
         <li>
           <p>
             <strong>Circuit 1:</strong>
-            <div>
-              <img
-                src="https://web.archive.org/web/20101208214225im_/http://www.wow-pro.com/guidepics/stv2c1.jpg"
-                alt=""
-              />
-            </div>
+            <br />
+            <br />
+            <img
+              src="https://web.archive.org/web/20101208214225im_/http://www.wow-pro.com/guidepics/stv2c1.jpg"
+              alt=""
+            />
           </p>
           <p>
             Run out of Booty Bay and take the first way left until the Bloodsail
             Encampment by the shore. <strong>Pretty Boy Duncan</strong> should
             be there <em>(28,69)</em>. if not, keep clearing the camp until he
             appears. Kill Pretty Boy Duncan and loot{' '}
-            <span className="item">Catelyn's Blade</span> from him.
+            <span className="item">Catelyn&apos;s Blade</span> from him.
           </p>
           <p>
             While you have the camp cleared, look for a map named{' '}
-            <span className="item">"Bloodsail Correspondence"</span> on one of
-            the barrels, click it and get the follow up quest.{' '}
+            <span className="item">&quot;Bloodsail Correspondence&quot;</span>{' '}
+            on one of the barrels, click it and get the follow up quest.{' '}
           </p>
           <p>
             Go northwest across the bridge and keep going along the shore until
@@ -166,8 +164,8 @@ function Chapter2() {
             <strong>Run back to Booty Bay</strong>.
           </p>
           <p>
-            Turn in <span className="quest">[41] Scaring Shaky</span> at "Shaky"
-            Philippe on the peer and get the follow up.{' '}
+            Turn in <span className="quest">[41] Scaring Shaky</span> at
+            &quot;Shaky&quot; Philippe on the peer and get the follow up.{' '}
           </p>
           <p>
             Turn in <span className="quest">[41] The Bloodsail Buccaneers</span>{' '}
@@ -179,8 +177,9 @@ function Chapter2() {
             Privateer Bloads next to the bank. Get the follow up.
           </p>
           <p>
-            Turn in <span className="quest">[39]"Pretty Boy"</span> Duncan at
-            Catelyn the Blade inside the Inn. Don't get the follow up.
+            Turn in{' '}
+            <span className="quest">[39]&quot;Pretty Boy&quot; Duncan</span> at
+            Catelyn the Blade inside the Inn. Don&apos;t get the follow up.
           </p>
           <p>
             Get the quest <span className="quest">[41] Up to Snuff</span> from
@@ -193,8 +192,8 @@ function Chapter2() {
             <span className="quest">
               <strong>[41] Return to MacKinley</strong>
             </span>{' '}
-            to "Sea Wolf" MacKinley in the house right next to the Inn. Get the
-            Follow up{' '}
+            to &quot;Sea Wolf&quot; MacKinley in the house right next to the
+            Inn. Get the Follow up{' '}
             <span className="quest">
               <strong>[44] Voodoo Dues</strong>
             </span>
@@ -224,13 +223,13 @@ function Chapter2() {
             unfortunately logged my characters out in Ironforge after I finished
             the first Chapter of the guide. But still, if you divide it by two
             you still get a nifty 31000 xp / hour (actually more because the XP
-            gained through turning in the quests isn't affected by XP bonus).
-            Repair, sell and restock food/drink up to 3 stacks.
+            gained through turning in the quests isn&apos;t affected by XP
+            bonus). Repair, sell and restock food/drink up to 3 stacks.
           </p>
         </li>
         <li>
           <strong>Circuit 2:</strong>
-          <div>
+          <div className="my-2">
             <img
               src="https://web.archive.org/web/20101208214225im_/http://www.wow-pro.com/guidepics/stv2c2a.jpg"
               alt=""
@@ -238,6 +237,7 @@ function Chapter2() {
             <img
               src="https://web.archive.org/web/20101208214225im_/http://www.wow-pro.com/guidepics/stv2c2b.jpg"
               alt=""
+              className="vat"
             />
           </div>
           <p>
@@ -248,10 +248,10 @@ function Chapter2() {
           </p>
           <p>
             Clear the camp and look for a map thingy named{' '}
-            <span className="item">"Bloodsail Charts"</span> or{' '}
-            <span className="item">"Bloodsail Orders"</span>, If you don't find
-            either, move on further south until you find a small boat ashore,
-            check it for maps as well.{' '}
+            <span className="item">&quot;Bloodsail Charts&quot;</span> or{' '}
+            <span className="item">&quot;Bloodsail Orders&quot;</span>, If you
+            don&apos;t find either, move on further south until you find a small
+            boat ashore, check it for maps as well.{' '}
           </p>
           <p>
             Careful, the Bloodsail Warlocks really hurt, make sure you interrupt
@@ -261,8 +261,8 @@ function Chapter2() {
           </p>
           <p>
             Now go further south until you find a bigger camp <em>(27,82)</em>.
-            This camp will be harder to clear, but it's possible if you do it
-            carefully.
+            This camp will be harder to clear, but it&apos;s possible if you do
+            it carefully.
           </p>
           <p>
             Check the camp for Bloodsail Orders or Charts. Basically, the
@@ -284,12 +284,11 @@ function Chapter2() {
               </li>
               <li>
                 {' '}
-                <span className="item">1 Dizzy's Eye</span> (can drop from any
-                Bloodsail)
+                <span className="item">1 Dizzy&apos;s Eye</span> (can drop from
+                any Bloodsail)
               </li>
             </ul>
           </p>
-
           <p>
             When that is done, get back on the main road and go north until you
             reach <em>(39,41)</em>, slightly long ride.
@@ -315,8 +314,8 @@ function Chapter2() {
             <strong>Shadowmaw Panthers</strong> until you got 10 kills. You can
             find them in the area all around that big hill next to the tribal
             leatherworking troll NPC. They can be a bit hard to find sometimes
-            because they are stealthers so I suggest you hit "Tab" key while
-            running around and open your eyes well{' '}
+            because they are stealthers so I suggest you hit &quot;Tab&quot; key
+            while running around and open your eyes well{' '}
             <em>(humans use your racial ability perception)</em>.{' '}
             <span role="img" aria-label="smile">
               🙂
@@ -328,21 +327,21 @@ function Chapter2() {
             panthers.{' '}
           </p>
           <p>
-            Go east to <strong>Ziata'Jai Ruins</strong> <em>(42,36)</em> and
-            clear the camp of trolls. Be careful to avoid the patrols.{' '}
+            Go east to <strong>Ziata&apos;Jai Ruins</strong> <em>(42,36)</em>{' '}
+            and clear the camp of trolls. Be careful to avoid the patrols.{' '}
           </p>
           <p>
-            When it's cleared, follow the little path northeast until you reach{' '}
-            <strong>Balia'mah Ruins</strong> <em>(45,33)</em>. Kill all the
-            trolls there as well. When this camp is clear, follow the path
-            southeast and then south until you reach the ruins of{' '}
-            <strong>Zul'Mamwe</strong> <em>(47,38 )</em> and kill all the trolls
-            you find in the ruins (Though avoid the southernmost one up the
-            plateau, the trolls there are higher level)
+            When it&apos;s cleared, follow the little path northeast until you
+            reach <strong>Balia&apos;mah Ruins</strong> <em>(45,33)</em>. Kill
+            all the trolls there as well. When this camp is clear, follow the
+            path southeast and then south until you reach the ruins of{' '}
+            <strong>Zul&apos;Mamwe</strong> <em>(47,38 )</em> and kill all the
+            trolls you find in the ruins (Though avoid the southernmost one up
+            the plateau, the trolls there are higher level)
           </p>
           <p>
             If you run out of trolls go back to the first ruins of{' '}
-            <strong>Ziata'Jai</strong> and repeat this cycle until you get{' '}
+            <strong>Ziata&apos;Jai</strong> and repeat this cycle until you get{' '}
             <span className="item">18 Skullsplitter Tusk</span> and{' '}
             <em>
               <strong>level 42</strong>
@@ -372,28 +371,30 @@ function Chapter2() {
           </p>
           <p>
             Now go west across the lake and keep going west until the{' '}
-            <strong>Bal'lal Ruins</strong> <em>(29,20)</em>, clear the camp and
-            click the big tablet named <em>"Moon Over the Vale"</em> and loot
-            the <span className="item">scroll</span>.
+            <strong>Bal&apos;lal Ruins</strong> <em>(29,20)</em>, clear the camp
+            and click the big tablet named{' '}
+            <em>&quot;Moon Over the Vale&quot;</em> and loot the{' '}
+            <span className="item">scroll</span>.
           </p>
           <p>
-            Then go directly west from the Bal'lal Ruins and into the sea, until{' '}
-            <em>(24,22)</em>. Dive underwater at this spot and you should find
-            the tablet named <strong>"Gri"lek the Wanderer"</strong> lying
-            against the outer wall of the underwater ruins. <br />
-            You don't need to kill any of the murlocs there, the tablet can be
-            accessed safely. Loot the 2nd scroll.
+            Then go directly west from the Bal&apos;lal Ruins and into the sea,
+            until <em>(24,22)</em>. Dive underwater at this spot and you should
+            find the tablet named{' '}
+            <strong>&quot;Gri&apos;lek the Wanderer&quot;</strong> lying against
+            the outer wall of the underwater ruins. <br />
+            You don&apos;t need to kill any of the murlocs there, the tablet can
+            be accessed safely. Loot the 2nd scroll.
           </p>
           <p>
             Then go north to the Zuuldaia Ruins and take the western entrance{' '}
-            <em>( 21,10)</em> to the <strong>Ruins of Zul'Kunda</strong>. Clear
-            the way through the first corridor until you reach a fork, go left
-            up the ramp.
+            <em>( 21,10)</em> to the <strong>Ruins of Zul&apos;Kunda</strong>.
+            Clear the way through the first corridor until you reach a fork, go
+            left up the ramp.
           </p>
           <p>
             From there, face north and you should see the 3rd tablet{' '}
-            <strong>"The Emperor's Tomb"</strong>. Clear the way to it and loot
-            the 3rd Scroll.{' '}
+            <strong>&quot;The Emperor&apos;s Tomb&quot;</strong>. Clear the way
+            to it and loot the 3rd Scroll.{' '}
           </p>
           <p>
             Then go back to the fork and this time take the ramp up to the
@@ -401,9 +402,10 @@ function Chapter2() {
             ruin <em>(23,11)</em>.
           </p>
           <p>
-            The last tablet named <strong>"Fall of Gurubashi"</strong> is inside
-            there. Loot the 4th Scroll and then go back on the main path to the
-            east and clear the way eastwards and out of Zul'Kunda ruins.
+            The last tablet named <strong>&quot;Fall of Gurubashi&quot;</strong>{' '}
+            is inside there. Loot the 4th Scroll and then go back on the main
+            path to the east and clear the way eastwards and out of
+            Zul&apos;Kunda ruins.
           </p>
         </li>
         <li>
@@ -415,23 +417,25 @@ function Chapter2() {
                 <span className="quest">
                   <strong>[38] Panther Mastery.</strong>
                 </span>{' '}
-                Don't get the follow up.
+                Don&apos;t get the follow up.
               </li>
               <li>
                 <span className="quest">
                   <strong>[41] Raptor Mastery</strong>
                 </span>
-                . Don't get the follow up.
+                . Don&apos;t get the follow up.
               </li>
-              <li>and the pages quest if you didn't do that already before.</li>
+              <li>
+                and the pages quest if you didn&apos;t do that already before.
+              </li>
             </ul>
           </p>
           <p>
             Then ride north to the <strong>Rebel Camp</strong>, turn in{' '}
             <span className="quest">
-              <strong>[38] Kurzen's Mystery</strong>
+              <strong>[38] Kurzen&apos;s Mystery</strong>
             </span>
-            , don't get the follow up. Warp to Booty Bay, turn in:
+            , don&apos;t get the follow up. Warp to Booty Bay, turn in:
             <ul>
               <li>
                 <span className="quest">
@@ -461,8 +465,8 @@ function Chapter2() {
                 <span className="quest">
                   <strong>[43] The Bloodsail Buccaneers</strong>
                 </span>{' '}
-                at Fleet Master Seahorn, 2nd Floor of the Inn. Don't get the
-                Follow up.
+                at Fleet Master Seahorn, 2nd Floor of the Inn. Don&apos;t get
+                the Follow up.
               </li>
               <li>
                 <span className="quest">
@@ -496,51 +500,54 @@ function Chapter2() {
         <li>
           <p>
             <strong>Circuit 3: </strong>
-            <em>(No map needed, it's pretty simple)</em> Fly back to Booty Bay,
-            go out and ride north until you reach the{' '}
+            <em>(No map needed, it&apos;s pretty simple)</em> Fly back to Booty
+            Bay, go out and ride north until you reach the{' '}
             <strong>Ruins of Jubuwal</strong> <em>(33,51)</em>.
           </p>
           <p>
             Clear the camp until you can pull <strong>JonJon The Crow</strong>,
-            he should come with an add, could be a hard fight but it's doable.
-            Loot Jon-Jon's <span className="item">Golden Spyglass</span>.
+            he should come with an add, could be a hard fight but it&apos;s
+            doable. Loot Jon-Jon&apos;s{' '}
+            <span className="item">Golden Spyglass</span>.
           </p>
           <p>
             Then clear yourself some space around the little ruins just behind
             where Jon-Jon was, there stands{' '}
-            <strong>Maury 'Club-Foot" Wilkins</strong> with two Zanzil
+            <strong>Maury &quot;Club-Foot&quot; Wilkins</strong> with two Zanzil
             Something.
           </p>
           <p>
-            Now you probably can't take all 3 at the same time, so try to kill
-            one of the minions fast then run away, rinse and repeat until you
-            are left with just Maury Wilkins. Kill him and loot{' '}
-            <strong>"Maury's Clubbed Foot"</strong>.
+            Now you probably can&apos;t take all 3 at the same time, so try to
+            kill one of the minions fast then run away, rinse and repeat until
+            you are left with just Maury Wilkins. Kill him and loot{' '}
+            <strong>&quot;Maury&apos;s Clubbed Foot&quot;</strong>.
           </p>
           <p>
             Go back on the road and just a bit south until <em>(33,53)</em>, go
             east through a breached wall and keep going until you hit the{' '}
             <strong>Ruins of Aboraz</strong> <em>(40,57)</em> and kill{' '}
             <strong>Zanzil Minions</strong> there until you find{' '}
-            <strong>Chucky "Ten Thumbs"</strong> inside the ruins and loot{' '}
-            <span className="item">"Chucky's Huge Ring"</span> from him.
+            <strong>Chucky &quot;Ten Thumbs&quot;</strong> inside the ruins and
+            loot{' '}
+            <span className="item">&quot;Chucky&apos;s Huge Ring&quot;</span>{' '}
+            from him.
           </p>
           <p>
             Keep killing Zanzil dudes until you get{' '}
-            <span className="item">12 Zanzil's Mixtures</span>, avoid Zanzil the
-            Outcast himself though. If you run out of mobs to kill, go back and
-            forth from this camp to the other. Any Zanzil Something can drop the
-            Mixture.
+            <span className="item">12 Zanzil&apos;s Mixtures</span>, avoid
+            Zanzil the Outcast himself though. If you run out of mobs to kill,
+            go back and forth from this camp to the other. Any Zanzil Something
+            can drop the Mixture.
           </p>
         </li>
         <li>
           <p>
-            When you are done, go back (warp if it's up)
+            When you are done, go back (warp if it&apos;s up)
             <strong> to Booty Bay</strong> and turn in:
             <ul>
               <li>
                 <span className="quest">
-                  <strong>[44] Zanzil's Secret</strong>
+                  <strong>[44] Zanzil&apos;s Secret</strong>
                 </span>{' '}
                 at Crank Fizzlebub in the inn.
               </li>
@@ -548,10 +555,10 @@ function Chapter2() {
                 <span className="quest">
                   <strong>[44] Voodoo Dues</strong>
                 </span>{' '}
-                at "Sea Wolf" MacKinley (First house next to the Inn). Don't get
-                the follow up but take the other quest he has:{' '}
+                at &quot;Sea Wolf&quot; MacKinley (First house next to the Inn).
+                Don&apos;t get the follow up but take the other quest he has:{' '}
                 <span className="quest">
-                  <strong>[45] Stoley's Debt</strong>
+                  <strong>[45] Stoley&apos;s Debt</strong>
                 </span>
                 .<br />
               </li>
@@ -606,11 +613,11 @@ function Chapter2() {
             Go north to the Misty Valley <em>(13,35)</em>. Kill{' '}
             <span className="item">Swampwalker Elders</span> until you complete{' '}
             <span className="quest">
-              <strong>[41] Mazen's Behest</strong>
+              <strong>[41] Mazen&apos;s Behest</strong>
             </span>
             . This may take a while, the note is kind of a rare drop. So if
-            you're unlucky and are tired of killing stuff here, just abandon the
-            quest.
+            you&apos;re unlucky and are tired of killing stuff here, just
+            abandon the quest.
           </p>
           <p>
             Go east to the Harborage <em>(26,31)</em>. Get the quest{' '}
@@ -621,14 +628,15 @@ function Chapter2() {
           </p>
           <p>
             Go east along the mountain until you find{' '}
-            <strong>"Fallow Sanctuary"</strong> at <em>(54,28)</em>. Gather{' '}
-            <span className="item">6 Draenethyst Crystals</span> (Big blue
-            crystals scattered around the camp).
+            <strong>&quot;Fallow Sanctuary&quot;</strong> at <em>(54,28)</em>.
+            Gather <span className="item">6 Draenethyst Crystals</span> (Big
+            blue crystals scattered around the camp).
           </p>
           <p>
-            Try to find a <strong>"Scattered Crate"</strong> in one of the
-            camps, and loot the <span className="item">"Lost Supplies"</span>{' '}
-            from it. Right Click it to start the quest{' '}
+            Try to find a <strong>&quot;Scattered Crate&quot;</strong> in one of
+            the camps, and loot the{' '}
+            <span className="item">&quot;Lost Supplies&quot;</span> from it.
+            Right Click it to start the quest{' '}
             <span className="quest">
               <strong>[40] The Lost Supplies</strong>
             </span>
@@ -638,17 +646,17 @@ function Chapter2() {
             When you got 6 crystals, go further east to <em>(63,18)</em> where
             you will find a destroyed caravan. Click the{' '}
             <strong>Caravan Chest</strong> on it and get the{' '}
-            <span className="item">Wizards' Reagents</span>.
+            <span className="item">Wizards&apos; Reagents</span>.
           </p>
           <p>
             Right next to the caravan you will find Galen Goodward inside a
-            cage, before you get his quest, clear the 'lost ones' camps to the
-            southwest of the cage.
+            cage, before you get his quest, clear the &apos;lost ones&apos;
+            camps to the southwest of the cage.
           </p>
           <p>
             Then get the quest{' '}
             <span className="quest">
-              <strong>[38] Galen's Escape</strong>
+              <strong>[38] Galen&apos;s Escape</strong>
             </span>{' '}
             and escort him out.
           </p>
@@ -660,15 +668,16 @@ function Chapter2() {
           <p>
             After you have escorted Galen successfully, go south to{' '}
             <em>(47,39)</em>. There you will find a small tent and{' '}
-            <span className="item">Galen's Strongbox</span> next to it. Open it,
-            complete the quest.
+            <span className="item">Galen&apos;s Strongbox</span> next to it.
+            Open it, complete the quest.
           </p>
           <p>
             Stay on this island and kill everything around until you find{' '}
             <strong>Noboru</strong>. He will roam to this island at some point.
-            He's level 39 and has 2 guards, but you can definitely manage it at
-            this level. Kill him, loot his <span className="item">Cudgel</span>,
-            right click it to start the quest{' '}
+            He&apos;s level 39 and has 2 guards, but you can definitely manage
+            it at this level. Kill him, loot his{' '}
+            <span className="item">Cudgel</span>, right click it to start the
+            quest{' '}
             <span className="quest">
               <strong>[39] Noboru the Cudgel</strong>
             </span>
@@ -685,7 +694,7 @@ function Chapter2() {
             .
           </p>
           <p>
-            Go east to the Temple of Atal'Hakkar <em>(65,48)</em>.{' '}
+            Go east to the Temple of Atal&apos;Hakkar <em>(65,48)</em>.{' '}
             <em>(Carefully avoid Stoneard)</em>. Swim through the pool until you
             get the quest update for{' '}
             <span className="quest">
@@ -723,7 +732,7 @@ function Chapter2() {
           <p>
             Find Watcher Mahar Ba and turn in{' '}
             <span className="quest">
-              <strong>[41] Mazen's Behest</strong>
+              <strong>[41] Mazen&apos;s Behest</strong>
             </span>
             .
           </p>
@@ -740,10 +749,10 @@ function Chapter2() {
             .
           </p>
           <p>
-            XP Rate: Sadly I couldn't get a screenshot of the real XP rate
-            because I went LD a couple of times. But I'm pretty sure it was well
-            above 25000 XP / Hour even with all the travelling. You should be
-            level 43 by now, if not you should grind up to level 43, on the
+            XP Rate: Sadly I couldn&apos;t get a screenshot of the real XP rate
+            because I went LD a couple of times. But I&apos;m pretty sure it was
+            well above 25000 XP / Hour even with all the travelling. You should
+            be level 43 by now, if not you should grind up to level 43, on the
             elites outside of Uldaman for example so you get the{' '}
             <em>Shattered Necklace</em> for the pre-quest work of Uldaman.
           </p>
@@ -766,11 +775,11 @@ function Chapter2() {
           </span>
         </li>
         <li>
-          You really don't like Uldaman, then go to the next part of my guide,
-          but that will mean more grinding for you. I strongly advice you to go
-          to Uldaman though, you already have most of the pre-questing done,
-          just need to gather a few missing quests quickly. And trust me, there
-          will be big exp bonuses later on thanks to going to Uldaman.
+          You really don&apos;t like Uldaman, then go to the next part of my
+          guide, but that will mean more grinding for you. I strongly advice you
+          to go to Uldaman though, you already have most of the pre-questing
+          done, just need to gather a few missing quests quickly. And trust me,
+          there will be big exp bonuses later on thanks to going to Uldaman.
         </li>
       </ol>
       <p>After Uldaman:</p>
@@ -789,8 +798,8 @@ function Chapter2() {
             then take the boat back to Menethil Harbor.
           </p>
           <p>
-            Then take the boat to Theramore, it's the boat that stops at the
-            southern peer. In Theramore on the docks turn in the quest{' '}
+            Then take the boat to Theramore, it&apos;s the boat that stops at
+            the southern peer. In Theramore on the docks turn in the quest{' '}
             <span className="quest">
               <strong>[43] Akiris by the Bundle</strong>
             </span>{' '}
@@ -809,8 +818,9 @@ function Chapter2() {
             <strong>Then fly to Gadgetzan</strong>
           </p>
           <p>
-            In Gadgetzan: Turn in <span className="quest">[45] Tran'Rek</span>,
-            don't get the follow up.{' '}
+            In Gadgetzan: Turn in{' '}
+            <span className="quest">[45] Tran&apos;Rek</span>, don&apos;t get
+            the follow up.{' '}
           </p>
           <p>
             Get quests:
@@ -835,30 +845,31 @@ function Chapter2() {
             <em>
               While killing stuff in Tanaris if you find an item named{' '}
               <span className="item">[OOX-17/TN Distress Beacon]</span>. Right
-              click it and keep the quest. You'll find beacons in Feralas and
-              Hinterlands as well, proceed equally with those. Each of those
+              click it and keep the quest. You&apos;ll find beacons in Feralas
+              and Hinterlands as well, proceed equally with those. Each of those
               beacons start a quest where you will have to find a Homing Robot
-              and escort it. The beacons won't always drop for you, they are
-              kinda rare. The escort quests are hard to do solo especially for
-              certain classes. But if you are lucky to find all 3 beacons you
-              should really put the effort and finish all 3 rescue quests, it
-              will be described when to do them in the guide later on. Anyway,
-              if you don't get a distress beacon, or if you don't manage to
-              complete the rescue quests, it's not a big deal, this is{' '}
-              <strong>optional</strong>, it's a nifty exp bonus but it's not
-              that important
+              and escort it. The beacons won&apos;t always drop for you, they
+              are kinda rare. The escort quests are hard to do solo especially
+              for certain classes. But if you are lucky to find all 3 beacons
+              you should really put the effort and finish all 3 rescue quests,
+              it will be described when to do them in the guide later on.
+              Anyway, if you don&apos;t get a distress beacon, or if you
+              don&apos;t manage to complete the rescue quests, it&apos;s not a
+              big deal, this is <strong>optional</strong>, it&apos;s a nifty exp
+              bonus but it&apos;s not that important
             </em>
           </p>
           <p>Sell, Repair, re-supply food/drink (3 stacks).</p>
           <p>
             Get out of Gadgetzan, ride east until{' '}
             <strong>Noonshade Ruins</strong> <em>(61,24)</em>, kill all the{' '}
-            <strong>Bandits</strong> you can find there (If it's crowded just
-            skip this part and keep riding east).
+            <strong>Bandits</strong> you can find there (If it&apos;s crowded
+            just skip this part and keep riding east).
           </p>
           <p>
-            Then go further east to Steamwheedle Port even if you still haven't
-            completed Wastewander Justice yet. In Steamwheedle port get:
+            Then go further east to Steamwheedle Port even if you still
+            haven&apos;t completed Wastewander Justice yet. In Steamwheedle port
+            get:
             <br />
             <ul>
               <li>
@@ -881,11 +892,11 @@ function Chapter2() {
         <p>
           Turn in{' '}
           <span className="quest">
-            <strong>[45] Stoley's Debt</strong>
+            <strong>[45] Stoley&apos;s Debt</strong>
           </span>{' '}
           and get the follow up{' '}
           <span className="quest">
-            <strong>[46] Stoley's Shipment</strong>
+            <strong>[46] Stoley&apos;s Shipment</strong>
           </span>
           .
         </p>
@@ -896,7 +907,8 @@ function Chapter2() {
             until you finish Wastewander Justice and Water Pouch Bounty. If the
             place is crowded, there are more wastewander camps southeast of here{' '}
             <em>(63,30)</em>.<br />
-            (Note: If you are not level 43 yet, that's where you should grind).
+            (Note: If you are not level 43 yet, that&apos;s where you should
+            grind).
           </p>
           <p>
             Go back to Gadgetzan and turn in{' '}
@@ -916,17 +928,18 @@ function Chapter2() {
             Fizzle Brassbolts.
           </p>
           <p>
-            Get quest <span className="quest">[50] Gahz'Rilla (Dungeon)</span>{' '}
-            from Wizzle Brassbolts.
+            Get quest{' '}
+            <span className="quest">[50] Gahz&apos;Rilla (Dungeon)</span> from
+            Wizzle Brassbolts.
           </p>
           <p>
             Turn in <span className="quest">[36] Parts for Kravel</span> at
-            Kravel Koalbeard, don't get the follow up.
+            Kravel Koalbeard, don&apos;t get the follow up.
           </p>
           <p>
             Turn in <span className="quest">[37] Goblin Sponsorship</span> at
-            Pozzik don't get the follow up but on the other hand get the quest{' '}
-            <span className="quest">[41] Keeping Pace from Pozzik</span>.
+            Pozzik don&apos;t get the follow up but on the other hand get the
+            quest <span className="quest">[41] Keeping Pace from Pozzik</span>.
           </p>
           <p>
             Then go talk to Zamek who is just south of Pozzik, he should have a
@@ -939,7 +952,7 @@ function Chapter2() {
             <span className="item">Unguarded Plans</span>. Complete the quest,
             get the follow up{' '}
             <span className="quest">
-              <strong>[41] Rizzle's Schematics</strong>
+              <strong>[41] Rizzle&apos;s Schematics</strong>
             </span>{' '}
             and turn it in at Pozzik.
           </p>
@@ -960,34 +973,37 @@ function Chapter2() {
             to her just a little west of the grimtotem camp.
           </p>
           <p>
-            Once you know where Kindal is, don't take the quest yet, go back to
-            the Grimtotem Camp and clear the area around the bamboo cage with
-            the <strong>Sprite Darters</strong> in it, and don't be shy, clear a
-            wide radius around it.
+            Once you know where Kindal is, don&apos;t take the quest yet, go
+            back to the Grimtotem Camp and clear the area around the bamboo cage
+            with the <strong>Sprite Darters</strong> in it, and don&apos;t be
+            shy, clear a wide radius around it.
           </p>
           <p>
-            When you feel that you've cleared enough, go quickly to Kindal and
-            start the quest, jump down and run straight to the bamboo cage, open
-            the cage and escort the sprites out,{' '}
+            When you feel that you&apos;ve cleared enough, go quickly to Kindal
+            and start the quest, jump down and run straight to the bamboo cage,
+            open the cage and escort the sprites out,{' '}
             <strong>at least 6 of them must survive</strong>.
           </p>
           <p>
             Once you get the{' '}
-            <span className="quest">"6 Sprites escaped (Complete)"</span>{' '}
+            <span className="quest">
+              &quot;6 Sprites escaped (Complete)&quot;
+            </span>{' '}
             message, help Kindal finish off whatever she is attacking. When
             Kindal is not being attacked by anything, she will vanish, go find
             her at her initial spot, turn in the quest.
           </p>
           <p>
-            If you and/or Kindal die after getting the "quest complete" message,
-            just run back fast to where you initially found Kindal and turn in
-            the quest before the end of the 5 min countdown.
+            If you and/or Kindal die after getting the &quot;quest
+            complete&quot; message, just run back fast to where you initially
+            found Kindal and turn in the quest before the end of the 5 min
+            countdown.
           </p>
         </li>
         <li>
           <p>
-            Now Jer'Kai Moonweaver (that elf right next to Kindal) will have a
-            quest for you,
+            Now Jer&apos;Kai Moonweaver (that elf right next to Kindal) will
+            have a quest for you,
             <span className="quest">
               <strong>[47] Doling Justice</strong>
             </span>
@@ -1007,7 +1023,7 @@ function Chapter2() {
             Get back on the road, keep going west following the road and go to
             the shore at <em>(44,42)</em>. Take the boat to{' '}
             <strong>Feathermoon Stronghold</strong>, or just swim there if the
-            boat isn't in sight, it's faster.
+            boat isn&apos;t in sight, it&apos;s faster.
           </p>
           <p>
             In Feathermoon Stronghold get:
@@ -1047,9 +1063,10 @@ function Chapter2() {
         <li>
           <p>
             Go southwest to the <strong>Ruins of Solarsal</strong>, at{' '}
-            <em>(26,52)</em> you'll find a Gazebo (a pavilion structure opened
-            on all sides) named "Solar Gazebo" , it's easy to discern it as it
-            is the only "dark" building. Click it and get the follow up quest{' '}
+            <em>(26,52)</em> you&apos;ll find a Gazebo (a pavilion structure
+            opened on all sides) named &quot;Solar Gazebo&quot; , it&apos;s easy
+            to discern it as it is the only &quot;dark&quot; building. Click it
+            and get the follow up quest{' '}
             <span className="quest">
               <strong>[43] Return to Feathermoon Stronghold</strong>
             </span>
@@ -1084,8 +1101,8 @@ function Chapter2() {
           <p>
             Inside the cave, go straight ahead and under a small white arch.{' '}
             <strong>Lord Shalzaru</strong> is up there on the other side of the
-            pond. He is level 47 and he's not solo, which means probably a bit
-            hard for you to kill if you are not level 44 yet, which will
+            pond. He is level 47 and he&apos;s not solo, which means probably a
+            bit hard for you to kill if you are not level 44 yet, which will
             probably be the case for those who skipped Uldaman. Luckily, this
             cavern is a very nice grind spot, kill <strong>Nagas</strong> there
             until you reach{' '}
@@ -1130,7 +1147,8 @@ function Chapter2() {
           </div>
           <p>
             Note: Unfortunately I had XP bonus for the most part of this
-            session, but if you do the math, it's still at least 32000 XP/ Hour.
+            session, but if you do the math, it&apos;s still at least 32000 XP/
+            Hour.
           </p>
         </li>
         <li>
@@ -1138,8 +1156,8 @@ function Chapter2() {
             Then take the boat, back to Feralas, from there go south following
             the shore while avoiding the Water Elementals / Giants. Kill any{' '}
             <strong>Rogue Vale Screechers</strong> you find on the way and use{' '}
-            <strong>Yeh'Kinya's Bramble</strong> on their corpses, then talk to
-            their spirit to free them. Finish{' '}
+            <strong>Yeh&apos;Kinya&apos;s Bramble</strong> on their corpses,
+            then talk to their spirit to free them. Finish{' '}
             <span className="quest">
               <strong>[44] Screecher Spirits</strong>
             </span>{' '}
@@ -1147,12 +1165,13 @@ function Chapter2() {
           </p>
           <p>
             Cross a small river, then keep going south until you find a{' '}
-            <strong>Boat Wreckage</strong> at <em>(45,64)</em>, it's underwater
-            but very close to the shore, you can actually see the tip of it,
-            it's a very small wreckage, don't expect some big boat. There will
-            probably be an elemental or two around it that will aggro if you get
-            close, you can try killing them (but some of them are 49) or you can
-            run in, click the quest, get the follow up and run away. (What I did{' '}
+            <strong>Boat Wreckage</strong> at <em>(45,64)</em>, it&apos;s
+            underwater but very close to the shore, you can actually see the tip
+            of it, it&apos;s a very small wreckage, don&apos;t expect some big
+            boat. There will probably be an elemental or two around it that will
+            aggro if you get close, you can try killing them (but some of them
+            are 49) or you can run in, click the quest, get the follow up and
+            run away. (What I did{' '}
             <span role="img" aria-label="smile">
               🙂
             </span>
@@ -1166,7 +1185,7 @@ function Chapter2() {
               <strong>[44] Boat Wreckage</strong>
             </span>
             , go back to <strong>Feathermoon Fortress</strong> (use Hearthstone
-            if it's up).
+            if it&apos;s up).
           </p>
         </li>
         <li>
@@ -1212,8 +1231,8 @@ function Chapter2() {
           </p>
           <p>
             Keep doing circles around the temple until you got 8 Shamans dead
-            (there's also shamans inside the building, sometimes you gotta kill
-            the placeholders for them to respawn).
+            (there&apos;s also shamans inside the building, sometimes you gotta
+            kill the placeholders for them to respawn).
           </p>
         </li>
         <li>
@@ -1232,43 +1251,45 @@ function Chapter2() {
             When you got 10 Yeti Hides, go to the Homing Robot. <em>(53,55)</em>
             Now, at this point you should normally have gotten a{' '}
             <span className="item">Distress Beacon</span> with all the stuff
-            you've killed in Feralas already.
+            you&apos;ve killed in Feralas already.
           </p>
           <p>
-            If you don't, it's not a big deal, just go to the next step. For
-            those you did get a Distress Beacon, right click it to get the quest{' '}
+            If you don&apos;t, it&apos;s not a big deal, just go to the next
+            step. For those you did get a Distress Beacon, right click it to get
+            the quest{' '}
             <span className="quest">
               <strong>[45] Find OOX-22/FE!</strong>
             </span>{' '}
-            if you haven't already. Turn in the quest.
+            if you haven&apos;t already. Turn in the quest.
           </p>
           <p>
-            Don't take the escort quest if you are solo, it's too hard for
-            almost every class. If you are a duo or more, read the following
+            Don&apos;t take the escort quest if you are solo, it&apos;s too hard
+            for almost every class. If you are a duo or more, read the following
             warnings before taking the escort quest:
           </p>
           <ul>
             <li>
               <p>
                 <strong>1st Warning:</strong> The Chicken robot is stupid and
-                doesn't assist you all the time if you get attacked. Let him in
-                the front so he gets the first hit. He has a decent amount of
-                HPs and heals back to full after each fight is over. You can
-                even eat/drink a bit after a fight and let the chicken walk in
-                the front (not too far away though). Don't even think about
-                looting, you don't have time. Don't let the chicken tank more
-                than one at a time, and don't let him tank too long either.
+                doesn&apos;t assist you all the time if you get attacked. Let
+                him in the front so he gets the first hit. He has a decent
+                amount of HPs and heals back to full after each fight is over.
+                You can even eat/drink a bit after a fight and let the chicken
+                walk in the front (not too far away though). Don&apos;t even
+                think about looting, you don&apos;t have time. Don&apos;t let
+                the chicken tank more than one at a time, and don&apos;t let him
+                tank too long either.
               </p>
             </li>
             <li>
               <p>
                 <strong>2nd Warning</strong>: When out of the Yeti cave, the
                 chicken will take a left turn and go towards the road, at some
-                point 3 yetis will ambush him. Don't panic, you can let one of
-                the yetis be tanked by the chicken at the beginning and deal
-                with the other 2. Just check the chicken's health regularly.
-                There will be a 2nd and a 3rd ambush, be prepared for them.
-                Especially the last one is composed of 4 Gnolls.
+                point 3 yetis will ambush him. Don&apos;t panic, you can let one
+                of the yetis be tanked by the chicken at the beginning and deal
+                with the other 2. Just check the chicken&apos;s health
+                regularly. There will be a 2nd and a 3rd ambush, be prepared for
+                them. Especially the last one is composed of 4 Gnolls.
               </p>
             </li>
           </ul>
@@ -1288,8 +1309,8 @@ function Chapter2() {
           </p>{' '}
           <p>
             Also check your inventory for a bag named{' '}
-            <span className="item">"Undelivered Parcel"</span>, click it and
-            start the quest{' '}
+            <span className="item">&quot;Undelivered Parcel&quot;</span>, click
+            it and start the quest{' '}
             <span className="quest">
               <strong>[44] Thalanaar Delivery</strong>
             </span>
@@ -1307,24 +1328,24 @@ function Chapter2() {
             first fork go to the right.
           </p>
           <p>
-            At the end of this corridor you'll find a circular room with the{' '}
-            <strong>Zukk'Ash Pod</strong> inside.
+            At the end of this corridor you&apos;ll find a circular room with
+            the <strong>Zukk&apos;Ash Pod</strong> inside.
           </p>
           <p>
             Clear the insects in the room. (if you are lucky,{' '}
-            <strong>"Qirot"</strong>, a rare spawn insect will be there. Kill it
-            for and extra green item).
+            <strong>&quot;Qirot&quot;</strong>, a rare spawn insect will be
+            there. Kill it for and extra green item).
           </p>
           <p>
-            When the room is clear, click the Zukk'Ash Pod, complete the quest,
-            and after <strong>Raschal the Courier</strong> is done with his
-            speech, warp back to Feathermoon Stronghold.
+            When the room is clear, click the Zukk&apos;Ash Pod, complete the
+            quest, and after <strong>Raschal the Courier</strong> is done with
+            his speech, warp back to Feathermoon Stronghold.
           </p>
           <p>
             <strong>Turn in all quests</strong> and get the follow ups:
             <ul>
               <li>
-                <span className="quest">[46] A Hero's Welcome</span>
+                <span className="quest">[46] A Hero&apos;s Welcome</span>
               </li>
               <li>
                 <span className="quest">[48] Improved Quality</span>
@@ -1334,7 +1355,7 @@ function Chapter2() {
           <p>
             Go to Shandris Feathermoon, turn in{' '}
             <span className="quest">
-              <strong>[46] A Hero's Welcome</strong>
+              <strong>[46] A Hero&apos;s Welcome</strong>
             </span>{' '}
             and get the follow up{' '}
             <span className="quest">
@@ -1345,7 +1366,7 @@ function Chapter2() {
         </li>
         <li>
           <p>
-            <strong>Fly to Rut'theran Village</strong> (Darnassus)
+            <strong>Fly to Rut&apos;theran Village</strong> (Darnassus)
           </p>
           <p>
             Turn in the quest{' '}
@@ -1384,8 +1405,8 @@ function Chapter2() {
           <p>Visit the Auction House, sell and repair.</p>
           <p>
             Then go back to Feathermoon Stronghold (Use Hearthstone if it is up
-            -- If it's not up, there is a Hippogryph Master in Rut'theran
-            Village, fly to Auberdine, then fly to Feathermoon.)
+            -- If it&apos;s not up, there is a Hippogryph Master in
+            Rut&apos;theran Village, fly to Auberdine, then fly to Feathermoon.)
           </p>
           <p>
             Now if you went to Uldaman, you should be{' '}
@@ -1395,10 +1416,10 @@ function Chapter2() {
             .
           </p>
           <p>
-            For those who aren't level 45 yet, go grind <strong>Nagas</strong>{' '}
-            on the Isle of Dread (South of Feathermoon) or on{' '}
-            <strong>yetis</strong> at the Yeti Cave <em>(53,56)</em> until you
-            hit level 45.
+            For those who aren&apos;t level 45 yet, go grind{' '}
+            <strong>Nagas</strong> on the Isle of Dread (South of Feathermoon)
+            or on <strong>yetis</strong> at the Yeti Cave <em>(53,56)</em> until
+            you hit level 45.
           </p>
         </li>
       </ol>
@@ -1450,9 +1471,9 @@ function Chapter2() {
             structure to another until you find him. He has 2 stealthed
             bodyguards, it will be a hard fight, burn him down quick and run
             away is my advice, use long cooldown abilities and potions if
-            needed. Then go back and loot his head. If you don't find Caliph
-            it's not a problem though, it's just some bonus XP quest, nothing
-            important.
+            needed. Then go back and loot his head. If you don&apos;t find
+            Caliph it&apos;s not a problem though, it&apos;s just some bonus XP
+            quest, nothing important.
           </p>
         </li>
         <li>
@@ -1461,7 +1482,7 @@ function Chapter2() {
             <span className="quest">
               <strong>[44] More Wastewander Justice</strong>
             </span>{' '}
-            completed, go east towards Lost Rigger Cove. You'll find a cave
+            completed, go east towards Lost Rigger Cove. You&apos;ll find a cave
             entrance at <em>(68,41)</em>.
           </p>
           <p>
@@ -1483,18 +1504,18 @@ function Chapter2() {
           </p>
           <p>
             Anyway, this place is usually crowded because it is a good grinding
-            spot, so you shouldn't have trouble getting help to kill Andre
+            spot, so you shouldn&apos;t have trouble getting help to kill Andre
             Firebeard if needed.
           </p>
           <p>
             Then go inside the first house to the right when entering the camp.
             You might get pulls of 3 at a time inside the house, you will maybe
-            have to use the "Kill one and run away" tactic to get to the top
-            floor of the house if you can't take 3 at a time.
+            have to use the &quot;Kill one and run away&quot; tactic to get to
+            the top floor of the house if you can&apos;t take 3 at a time.
           </p>{' '}
           <p>
             On the top floor are crates, click them to get{' '}
-            <span className="item">Stoley's Shipment</span>. Then keep on
+            <span className="item">Stoley&apos;s Shipment</span>. Then keep on
             killing <strong>pirates</strong> until you complete Southsea
             Shakedown and Pirate Hats Ahoy!
           </p>
@@ -1505,20 +1526,20 @@ function Chapter2() {
             </em>
           </p>
           <p>
-            If you find a Captain's Key off one of the pirates, the chest is at
-            the bottom level of the ship which is the most to the east.
+            If you find a Captain&apos;s Key off one of the pirates, the chest
+            is at the bottom level of the ship which is the most to the east.
           </p>
           <p>
             Another thing, while killing pirates by the dozen you might find a
             pirate footlocker on one of them (1% chance to drop approximately).
-            In the footlocker you might find a note named "Ship Schedule", right
-            click it to start the quest{' '}
+            In the footlocker you might find a note named &quot;Ship
+            Schedule&quot;, right click it to start the quest{' '}
             <span className="quest">
               <strong>[45] Ship Schedules</strong>
             </span>
             , which you turn in in Steamwheedle Port for an extra 4850 XP.
-            However, you might be unlucky and never get a footlocker, so don't
-            worry if you miss it, it's optional.
+            However, you might be unlucky and never get a footlocker, so
+            don&apos;t worry if you miss it, it&apos;s optional.
           </p>
         </li>
         <li>
@@ -1533,8 +1554,8 @@ function Chapter2() {
                 <span className="quest">[45] Southsea Shakedown</span>
               </li>
               <li>
-                <span className="quest">[45] Stoley's Shipment</span> and get
-                the follow up{' '}
+                <span className="quest">[45] Stoley&apos;s Shipment</span> and
+                get the follow up{' '}
                 <span className="quest">[45] Deliver to MacKinley</span>
               </li>
               <li>
@@ -1544,7 +1565,7 @@ function Chapter2() {
                 <span className="quest">[44] Screecher Spirits</span> and get
                 the follow up{' '}
                 <span className="quest">
-                  [47] The Prophecy of Mosh'Aru (Dungeon)
+                  [47] The Prophecy of Mosh&apos;Aru (Dungeon)
                 </span>
               </li>
             </ul>
@@ -1580,8 +1601,8 @@ function Chapter2() {
         </div>
         <p>
           Note: The XP counter started when I arrived in Gadgetzan and turned in
-          "the borrower" quest. No XP bonus, I think the numbers speak for
-          themselves.
+          &quot;the borrower&quot; quest. No XP bonus, I think the numbers speak
+          for themselves.
         </p>
       </ol>
       <h6>Level 46</h6>
@@ -1665,40 +1686,42 @@ function Chapter2() {
           <p>
             Head out directly <strong>east of Aerie Peak</strong>, follow a
             small path while staying close to the mountain to your left. You
-            will find Shindigger's camp <em>(26,48)</em>.
+            will find Shindigger&apos;s camp <em>(26,48)</em>.
           </p>
           <p>
             Talk to <strong>Rhapsody</strong> and get the follow up{' '}
-            <span className="quest">[43] Rhapsody's Kalimdor Kocktail</span>
+            <span className="quest">
+              [43] Rhapsody&apos;s Kalimdor Kocktail
+            </span>
           </p>
           <p>
             <em>
               **While in the Hinterlands look for{' '}
               <span className="item">Wilkdkin Feathers</span>, they are big
               white/brown feathers you can find on the ground throughout
-              Hinterlands. They don't drop off the Owlbeasts. I found most of
-              them in between Aerie Peak and Quel'Danil Lodge. Start gathering
-              them from now on while doing the quest circuit**
+              Hinterlands. They don&apos;t drop off the Owlbeasts. I found most
+              of them in between Aerie Peak and Quel&apos;Danil Lodge. Start
+              gathering them from now on while doing the quest circuit**
             </em>
           </p>
         </li>
         <li>
           <p>
-            Go south to the troll ruins of <strong>Zun'watha</strong>{' '}
+            Go south to the troll ruins of <strong>Zun&apos;watha</strong>{' '}
             <em>(23,58)</em>, clear the camp and check the first and second
             Witherbark cages.
           </p>
           <p>
-            Then go east to the troll ruins of <strong>Hiri'watha</strong>{' '}
-            <em>(32,57)</em>. Clear some space inside and check the "Third
-            Witherbark Cage" Kill trolls until you get{' '}
+            Then go east to the troll ruins of <strong>Hiri&apos;watha</strong>{' '}
+            <em>(32,57)</em>. Clear some space inside and check the &quot;Third
+            Witherbark Cage&quot; Kill trolls until you get{' '}
             <span className="item">5 Troll Tribal Necklaces</span>.
           </p>
         </li>
         <li>
           <p>
-            Go northeast to <strong>Agol'Watha</strong> <em>(46,40)</em> and
-            kill <strong>10 Green Sludges</strong>.
+            Go northeast to <strong>Agol&apos;Watha</strong> <em>(46,40)</em>{' '}
+            and kill <strong>10 Green Sludges</strong>.
           </p>
           <p>
             Go east to <em>Skulk Rock</em> <em>(56,44)</em> and kill{' '}
@@ -1717,18 +1740,18 @@ function Chapter2() {
           <ul>
             <li>
               This quest, unlike the Feralas one, is more likely to be done
-              solo. It's still not a walk in the part of course. So if you got a
-              partner to duo it, all the better for you.
+              solo. It&apos;s still not a walk in the part of course. So if you
+              got a partner to duo it, all the better for you.
             </li>
             <li>
               Let the chicken run in front of you, let it get the first hit. If
-              it's not getting hit, it won't fight back. Sometimes mobs are
-              actually chasing the chicken and failing to get a hit on it, so
-              they give up.
+              it&apos;s not getting hit, it won&apos;t fight back. Sometimes
+              mobs are actually chasing the chicken and failing to get a hit on
+              it, so they give up.
             </li>
             <li>
-              You'll have to face 2 ambushes of 3 mobs each, make sure you are
-              full health/mana and with long cooldown abilities up when you
+              You&apos;ll have to face 2 ambushes of 3 mobs each, make sure you
+              are full health/mana and with long cooldown abilities up when you
               start the escort. When the 3 ambushers attack, stand back until
               the chicken gets hit. Then let the chicken tank one of the 3 adds,
               deal with the 2 others as quick as you can, then help the chicken
@@ -1736,9 +1759,9 @@ function Chapter2() {
             </li>
           </ul>
           <p>
-            If you don't have the beacon, you can come back later when you get
-            one. But of course now is the most efficient time to do it, cause
-            it's on your quest path{' '}
+            If you don&apos;t have the beacon, you can come back later when you
+            get one. But of course now is the most efficient time to do it,
+            cause it&apos;s on your quest path{' '}
             <span role="img" aria-label="smile">
               🙂
             </span>
@@ -1756,17 +1779,17 @@ function Chapter2() {
             <strong>Gammerita</strong>.
           </p>
           <p>
-            She is easy to discern from the rest because she's the only
+            She is easy to discern from the rest because she&apos;s the only
             aggressive turtle (red name -- turn NPC names on in your interface
-            options, advanced options tab). She roams a lot, so you'll find her
-            anywhere between the waterfall <em>(82,47)</em> and Revantusk
+            options, advanced options tab). She roams a lot, so you&apos;ll find
+            her anywhere between the waterfall <em>(82,47)</em> and Revantusk
             Village <em>(77,77)</em>.
           </p>
           <p>
             {' '}
-            You don't need to kill her, just get close enough and use the Super
-            Snapper FX on her, she will not like it and will attack you, just
-            run away. You should now normally have a{' '}
+            You don&apos;t need to kill her, just get close enough and use the
+            Super Snapper FX on her, she will not like it and will attack you,
+            just run away. You should now normally have a{' '}
             <span className="item">Snapshot of Gammerita</span> in your
             inventory.
           </p>
@@ -1812,19 +1835,19 @@ function Chapter2() {
           <p>
             Go to the <strong>Altar of Zul</strong> <em>(49,64)</em> and kill
             trolls / wolves there. Now the best would be that you shout in the
-            "Looking for group" channel the following:{' '}
+            &quot;Looking for group&quot; channel the following:{' '}
             <em>
-              "Looking for more to do{' '}
+              &quot;Looking for more to do{' '}
               <span className="quest">[48] The Altar of Zul</span> and get the{' '}
-              <span className="item">Sacred Mallet</span>"
+              <span className="item">Sacred Mallet</span>&quot;
             </em>
-            During peak times there's almost always people interested in doing
-            that.
+            During peak times there&apos;s almost always people interested in
+            doing that.
           </p>
           <p>
-            Anyway, if you don't find people willing to do this immediately,
-            just keep on killing trolls / wolves in this area (or the lower
-            level ones to the west) until you get a group going.
+            Anyway, if you don&apos;t find people willing to do this
+            immediately, just keep on killing trolls / wolves in this area (or
+            the lower level ones to the west) until you get a group going.
           </p>
           <p>
             Also use the oportunity to finish the{' '}
@@ -1838,22 +1861,22 @@ function Chapter2() {
             But it was really close.
           </p>
           <p>
-            On top of the temple of Zul you'll find 2 level 50 elites.{' '}
-            <strong>Qiaga and Morta'gya.</strong>
+            On top of the temple of Zul you&apos;ll find 2 level 50 elites.{' '}
+            <strong>Qiaga and Morta&apos;gya.</strong>
             With me playing my mage I managed to kill them with a level 51
             Hunter and a 50 Priest, I sheeped Morta and we killed Qiaga first.
             It went quite smooth.
           </p>
           <p>
-            Loot the <span className="item">"Sacred Mallet"</span> from Qiaga.
-            Then walk on top of the altar in the middle of it and you'll get a
-            quest update for{' '}
+            Loot the <span className="item">&quot;Sacred Mallet&quot;</span>{' '}
+            from Qiaga. Then walk on top of the altar in the middle of it and
+            you&apos;ll get a quest update for{' '}
             <span className="quest">[48] The Altar of Zul.</span>
           </p>
           <p>
             <em>
-              **Note: If you don't find a group to kill the 2 elites, nevermind.
-              You can still run up to the top of the altar, complete{' '}
+              **Note: If you don&apos;t find a group to kill the 2 elites,
+              nevermind. You can still run up to the top of the altar, complete{' '}
               <span className="quest">[48] The Altar of Zul</span> and run away.
               The Mallet is really optional**
             </em>
@@ -1866,11 +1889,11 @@ function Chapter2() {
             <strong>
               <em>Optional:</em>
             </strong>{' '}
-            While grinding you can also go to <strong>Shadra'Alor</strong> and
-            get the quest{' '}
+            While grinding you can also go to <strong>Shadra&apos;Alor</strong>{' '}
+            and get the quest{' '}
             <span className="quest">[53] Jammalan the Prophet</span> from the
-            Atalai' Exile <em>(32,74)</em>. That's if you plan to do the Sunken
-            Temple instance later on (I recommend it)
+            Atalai&apos; Exile <em>(32,74)</em>. That&apos;s if you plan to do
+            the Sunken Temple instance later on (I recommend it)
           </p>
         </li>
         <li>
@@ -1881,9 +1904,9 @@ function Chapter2() {
             <span className="quest">[47] Thadius Grimshade</span>
           </p>
           <p>
-            Don't forget to turn in the Troll Necklaces for extra exp at Fraggar
-            Thundermantle (in the inn). <em>Important:</em> Keep Aerie Peak as
-            your home location until further notice.
+            Don&apos;t forget to turn in the Troll Necklaces for extra exp at
+            Fraggar Thundermantle (in the inn). <em>Important:</em> Keep Aerie
+            Peak as your home location until further notice.
           </p>
         </li>
         <li>
@@ -1892,15 +1915,15 @@ function Chapter2() {
           </p>{' '}
           <p>
             Sell, repair, check AH. you really have to buy the{' '}
-            <span className="item">2 Elixirs of Fortitude</span> if you didn't
-            already (See shopping list).
+            <span className="item">2 Elixirs of Fortitude</span> if you
+            didn&apos;t already (See shopping list).
           </p>
           <p>
             Fly to Menethil Harbor, take the boat to Auberdine, fly to{' '}
-            <strong>Rut'Theran village</strong>.
+            <strong>Rut&apos;Theran village</strong>.
           </p>
           <p>
-            In Rut'theran Village turn in the quest{' '}
+            In Rut&apos;theran Village turn in the quest{' '}
             <span className="quest">[47] Favored of Elune?</span> at Erelas
             Ambersky <em>(55,92)</em>. In the same house on the 1st floor turn
             in <span className="quest">[48] The Super Snapper FX (Elite)</span>.
@@ -1953,8 +1976,8 @@ function Chapter2() {
           </p>
           <p>
             Look inside your bags for{' '}
-            <span className="item">Zorbin's Ultra-Shrinker</span> and put it on
-            a hotkey.
+            <span className="item">Zorbin&apos;s Ultra-Shrinker</span> and put
+            it on a hotkey.
           </p>
         </li>
         <li>
@@ -1962,8 +1985,8 @@ function Chapter2() {
             Then go <strong>south</strong> along the shore and start killing{' '}
             <strong>water elementals</strong>. Look for giants as well, they are
             elite but if you use the{' '}
-            <span className="item">Zorbin's Zapper</span> on them they become
-            totally managable.
+            <span className="item">Zorbin&apos;s Zapper</span> on them they
+            become totally managable.
           </p>
           <p>
             Keep killing elementals and giants until you got 15{' '}
@@ -1978,10 +2001,10 @@ function Chapter2() {
             </strong>{' '}
             You can take the 2 follow ups (which appear lvl 55 but are still
             about the same mobs) if you feel like it and redo the quests several
-            times, it's not so bad for grinding as you get an extra 550XP, 21
-            Silver and faction increase with all Steamwheedle Cartel factions
+            times, it&apos;s not so bad for grinding as you get an extra 550XP,
+            21 Silver and faction increase with all Steamwheedle Cartel factions
             per quest turn in, but on the other hand those elementals are kinda
-            hard to kill with certain classes, so I'll let you be the judge
+            hard to kill with certain classes, so I&apos;ll let you be the judge
             here. (I redid both quests only once, then it was getting too boring{' '}
             <span role="img" aria-label="smile">
               🙂
@@ -1989,7 +2012,7 @@ function Chapter2() {
             )
           </p>
           <p>
-            Note: For engineers it's worth it, because after completing the
+            Note: For engineers it&apos;s worth it, because after completing the
             quests, Zorbin opens his store and you can buy Schematic: Snake
             Burst Firework.
           </p>
@@ -2004,7 +2027,7 @@ function Chapter2() {
             <strong>Groddoc Thunderer</strong> you find. You need{' '}
             <span className="item">3 livers</span> of each for{' '}
             <span className="quest">
-              <strong>[43] Rhapsody's Kalimdor Kocktail</strong>
+              <strong>[43] Rhapsody&apos;s Kalimdor Kocktail</strong>
             </span>
             .
           </p>
@@ -2029,7 +2052,7 @@ function Chapter2() {
           </p>
           <p>
             Then go directly north to the <strong>Ruins of Ravenwind</strong>.
-            We're now gonna do the quest{' '}
+            We&apos;re now gonna do the quest{' '}
             <span className="quest">[50] The Stave of Equinex</span>.
           </p>
           <p>
@@ -2037,8 +2060,8 @@ function Chapter2() {
             ruins, the lvl 50s will be a bit harder but manageable. Plus, they
             drop <span className="item">Vibrant Plumes</span> for Darkmoon Faire
             tickets. Be careful with runners, overall, be very careful in that
-            area, take your time to pull one by one, don't be reckless or you
-            will die{' '}
+            area, take your time to pull one by one, don&apos;t be reckless or
+            you will die{' '}
             <em>
               (I did!{' '}
               <span role="img" aria-label="smile">
@@ -2051,8 +2074,8 @@ function Chapter2() {
         <li>
           <p>
             First <strong>go west</strong> to <em>(38,15)</em>, next to a thick
-            square tower you'll find a dark gazebo, inside of it is the first
-            flame, right click it. Loot the{' '}
+            square tower you&apos;ll find a dark gazebo, inside of it is the
+            first flame, right click it. Loot the{' '}
             <span className="item">Byltan Essence</span>.
           </p>
           <p>
@@ -2080,7 +2103,7 @@ function Chapter2() {
             Now that you have all 4 essences, go <strong>southeast</strong> to
             the Equinex Monolith <em>(38,13)</em>. Clear some space around it,
             then go to it, search your bags for{' '}
-            <span className="item">Troyas's Stave</span>. Right click it to
+            <span className="item">Troyas&apos;s Stave</span>. Right click it to
             charge the stave, then right click the monolith, complete the quest,
             get the follow up{' '}
             <span className="quest">
@@ -2099,10 +2122,10 @@ function Chapter2() {
             After taking the quest you must loot the bell from the chest next to
             Shay. Make a hotkey of that bell. Now here is the problem with Shay,
             she wanders off every now and then, she always says something like
-            "oh what a beautiful flower" and goes away. When she does that you
-            are supposed to ring the bell and she will run back to you. The
-            problem is that the bell has a rather long cooldown so she ends up
-            wandering off too often.
+            &quot;oh what a beautiful flower&quot; and goes away. When she does
+            that you are supposed to ring the bell and she will run back to you.
+            The problem is that the bell has a rather long cooldown so she ends
+            up wandering off too often.
           </p>
           <p>
             The trick is that{' '}
@@ -2114,19 +2137,20 @@ function Chapter2() {
             catches up.
           </p>
           <p>
-            When she catches up she will say something like 'I wandered off
-            again, sorry". But the cooldown on the bell will be reset already.
+            When she catches up she will say something like &quot;I wandered off
+            again, sorry&quot;. But the cooldown on the bell will be reset
+            already.
           </p>
           <p>
             <strong>
               <em>In short:</em>
             </strong>{' '}
-            When she wanders off, ring the bell and run away, don't let her
+            When she wanders off, ring the bell and run away, don&apos;t let her
             catch up to you. Even if you get aggroed by mobs keep running. Only
             stop if Shay herself gets attacked, then you will have to defend
-            her. You can run and look behind you by holding your mouse's left
-            click and moving the mouse, to make sure she's still running after
-            you.
+            her. You can run and look behind you by holding your mouse&apos;s
+            left click and moving the mouse, to make sure she&apos;s still
+            running after you.
           </p>
         </li>
         <li>
@@ -2139,9 +2163,9 @@ function Chapter2() {
         <li>
           <p>
             Now you can go south back into the Yeti Cave and try to escort the
-            Homing Robot again if you didn't before. It's still really hard
-            solo, but at level 47 I managed to do it (was extremely close with
-            the mage though).
+            Homing Robot again if you didn&apos;t before. It&apos;s still really
+            hard solo, but at level 47 I managed to do it (was extremely close
+            with the mage though).
           </p>
           <p>
             I recommend finding someone willing to duo it with you. Anyway, one
@@ -2149,8 +2173,9 @@ function Chapter2() {
             before you do anything.
           </p>
           <p>
-            If you don't manage to solo this quest or can't find a person to duo
-            it just abandon it. It's really optional, but do try hard though.{' '}
+            If you don&apos;t manage to solo this quest or can&apos;t find a
+            person to duo it just abandon it. It&apos;s really optional, but do
+            try hard though.{' '}
             <span role="img" aria-label="smile">
               🙂
             </span>
@@ -2208,8 +2233,8 @@ function Chapter2() {
             <ul>
               <li>
                 <span className="quest">[46] Gadgetzan Water Survey</span> from
-                Senior Surveyor Fizzledowser (he's on a mound of earth behind
-                the houses on the west side of Gadgetzan)
+                Senior Surveyor Fizzledowser (he&apos;s on a mound of earth
+                behind the houses on the west side of Gadgetzan)
               </li>
               <li>
                 <span className="quest">[49] The Thirsty Goblin</span> from
@@ -2221,7 +2246,7 @@ function Chapter2() {
               </li>
               <li>
                 <span className="quest">[50] Thistleshrub Valley</span> from
-                Tran'Rek
+                Tran&apos;Rek
               </li>
             </ul>
           </p>
@@ -2248,7 +2273,7 @@ function Chapter2() {
             you get the <span className="item">3 Roc Gizzards</span> you need
             for{' '}
             <span className="quest">
-              <strong>[43] Rhapsody's Kalimdor Kocktail</strong>
+              <strong>[43] Rhapsody&apos;s Kalimdor Kocktail</strong>
             </span>
             .
           </p>
@@ -2261,9 +2286,9 @@ function Chapter2() {
           <p>
             Stand by the western tip of the pool and get full health/mana.
             Search your bag for a black vial named{' '}
-            <span className="item">"Untapped Dowsing Widget"</span> and right
-            click it. Two level 48 insects will pop and attack you, kill them or
-            run away from them. It doesn't matter.
+            <span className="item">&quot;Untapped Dowsing Widget&quot;</span>{' '}
+            and right click it. Two level 48 insects will pop and attack you,
+            kill them or run away from them. It doesn&apos;t matter.
           </p>
         </li>
         <li>
@@ -2273,37 +2298,38 @@ function Chapter2() {
             <span className="quest">[47] Noxious Lair Investigation</span>.
           </p>
           <p>
-            Go south to the area named "Broken Pillar" <em>(52,45)</em> and talk
-            to Marvon Rivetseeker. Turn in{' '}
+            Go south to the area named &quot;Broken Pillar&quot;{' '}
+            <em>(52,45)</em> and talk to Marvon Rivetseeker. Turn in{' '}
             <span className="quest">[51] The Sunken Temple</span> and get the
             follow up <span className="quest">[51] The Stone Circle</span>. Also
-            get <span className="quest">[48] Gahz'ridian</span>.
+            get <span className="quest">[48] Gahz&apos;ridian</span>.
           </p>
         </li>
         <li>
           <p>
             Go west / southwest to the <strong>Dunemaul Compound</strong> and
-            clear a path to the cave there <em>(40,56)</em>. In that cave you'll
-            find <strong>Gor'marok the Ravager</strong>, kill him. (lvl 49 -
-            soloable at lvl 47 without a problem)
+            clear a path to the cave there <em>(40,56)</em>. In that cave
+            you&apos;ll find <strong>Gor&apos;marok the Ravager</strong>, kill
+            him. (lvl 49 - soloable at lvl 47 without a problem)
           </p>
           <p>
             Go southeast to the <strong>Eastmoon Ruins</strong>
-            <em>(48,64)</em> (yes, even if you didn't finish{' '}
+            <em>(48,64)</em> (yes, even if you didn&apos;t finish{' '}
             <span className="quest">
               <strong>[49] The Dunemaul Compound</strong>
             </span>{' '}
             yet.) Start killing <strong>ogres</strong> there and look on the
-            floor for <span className="item">Gahz'Ridian pieces</span>. They
-            look like white upside down plates. Kill ogres in that camp until
-            you got <span className="item">30 Gahz'Ridian Ornament</span> and
-            hit level 48.
+            floor for <span className="item">Gahz&apos;Ridian pieces</span>.
+            They look like white upside down plates. Kill ogres in that camp
+            until you got{' '}
+            <span className="item">30 Gahz&apos;Ridian Ornament</span> and hit
+            level 48.
           </p>{' '}
           <p>
-            If it's too crowded, there is another camp similar to this one
-            further to the southwest named "Southmoon Ruin" <em>(41,72)</em>.
-            When you hit 48 and got 30 Gahz'Ridian ornament you should also be
-            done with{' '}
+            If it&apos;s too crowded, there is another camp similar to this one
+            further to the southwest named &quot;Southmoon Ruin&quot;{' '}
+            <em>(41,72)</em>. When you hit 48 and got 30 Gahz&apos;Ridian
+            ornament you should also be done with{' '}
             <span className="quest">
               <strong>[49] The Dunemaul Compound</strong>
             </span>
@@ -2337,7 +2363,7 @@ function Chapter2() {
             <span className="quest">
               <strong>[50] Return to Ironforge</strong>
             </span>
-            . Now wasn't that the easiest 9400xp ever?
+            . Now wasn&apos;t that the easiest 9400xp ever?
           </p>
         </li>
         <li>
@@ -2384,7 +2410,7 @@ function Chapter2() {
                 <span className="quest">
                   <strong>[50] Thistleshrub Valley</strong>
                 </span>{' '}
-                at Trank'Rek
+                at Trank&apos;Rek
               </li>
               <li>
                 <span className="quest">
@@ -2392,7 +2418,7 @@ function Chapter2() {
                 </span>
                 , get the follow up{' '}
                 <span className="quest">
-                  <strong>[49] Sprinkle's Secret Ingredient</strong>
+                  <strong>[49] Sprinkle&apos;s Secret Ingredient</strong>
                 </span>
                 .
               </li>
@@ -2431,7 +2457,7 @@ function Chapter2() {
             Go south to the <strong>Broken Pillar</strong> and talk to Marvon
             Rivetseeker, turn in{' '}
             <span className="quest">
-              <strong>[48] Gahz'ridian</strong>
+              <strong>[48] Gahz&apos;ridian</strong>
             </span>
             .
           </p>
@@ -2451,7 +2477,8 @@ function Chapter2() {
           </p>
           <p>
             After the circular room at the first fork go right. You will enter a
-            big square room. <strong>The Scrimshank's Surveying Gear</strong>{' '}
+            big square room.{' '}
+            <strong>The Scrimshank&apos;s Surveying Gear</strong>{' '}
             <em>(55,71)</em> is at the western corner of the square room.
           </p>
           <p>
@@ -2467,7 +2494,7 @@ function Chapter2() {
         </li>
         <li>
           <p>
-            If you don't have the Distress Beacon, go back to{' '}
+            If you don&apos;t have the Distress Beacon, go back to{' '}
             <strong>Gadgetzan</strong>.
           </p>{' '}
           <p>
@@ -2476,8 +2503,9 @@ function Chapter2() {
             <strong>Homing Robot OOX-17/TN</strong> there. Turn in the quest.
             Get full health/mana, refresh buffs. Check if your long cooldown
             abilities are up. For some classes this will be hard to solo, so if
-            you don't manage it better find someone to duo it with. If you don't
-            manage that, just abandon the escort quest, it's optional anyway.
+            you don&apos;t manage it better find someone to duo it with. If you
+            don&apos;t manage that, just abandon the escort quest, it&apos;s
+            optional anyway.
           </p>
           <p>
             <em>Things to know about this escort quest:</em>
@@ -2542,24 +2570,24 @@ function Chapter2() {
         </li>
         <li>
           <p>
-            Now don't worry we are gonna hit Ironforge soon to visit the class
-            trainer, but first, repair/sell, refill food/drink (3 Stacks).
+            Now don&apos;t worry we are gonna hit Ironforge soon to visit the
+            class trainer, but first, repair/sell, refill food/drink (3 Stacks).
           </p>
           <p>
             Get out of Aerie Peak by the small path to the east and go to
             Rhapsody Shindigger. <em>(26,48)</em> Turn in{' '}
             <span className="quest">
-              <strong>[43] Rhapsody's Kalimdor Kocktail</strong>
+              <strong>[43] Rhapsody&apos;s Kalimdor Kocktail</strong>
             </span>
             . Watch him get drunk and then get the quest{' '}
             <span className="quest">
-              <strong>[43] Rhapsody's Tale</strong>
+              <strong>[43] Rhapsody&apos;s Tale</strong>
             </span>
             .
           </p>
           <p>
-            Ride east towards the area in between Shaol'Watha and Jintha'Alor{' '}
-            <em>(65,50)</em>.
+            Ride east towards the area in between Shaol&apos;Watha and
+            Jintha&apos;Alor <em>(65,50)</em>.
           </p>
           <p>
             At this spot and widely around it you should find{' '}
@@ -2582,7 +2610,7 @@ function Chapter2() {
           </p>
           <p>
             Dive in and look for some white/red mushroom named Violet Tragan.
-            Loot one. (Don't right click it when its in your inventory!)
+            Loot one. (Don&apos;t right click it when its in your inventory!)
           </p>
           <p>
             Then go back to Aerie Peak, into the inn, back to Agnar Beastamer.
@@ -2594,12 +2622,12 @@ function Chapter2() {
             <span className="quest">
               <strong>[48] Becoming a Parent</strong>
             </span>
-            . Turn it in, congratulations on your new pet. It's useless but it's
-            cute{' '}
+            . Turn it in, congratulations on your new pet. It&apos;s useless but
+            it&apos;s cute{' '}
             <span role="img" aria-label="smile">
               🙂
             </span>{' '}
-            (and wasn't a waste of time XP wise)
+            (and wasn&apos;t a waste of time XP wise)
           </p>
         </li>
         <li>
@@ -2637,55 +2665,58 @@ function Chapter2() {
             Fly to Stormwind, go to the Dwarven District to Brohann Caskbelly{' '}
             <em>(64,20)</em> and get the follow up{' '}
             <span className="quest">
-              [50] Into The Temple of Atal'Hakkar (Dungeon)
+              [50] Into The Temple of Atal&apos;Hakkar (Dungeon)
             </span>
             .
           </p>
           <p>
             Fly to Nethergarde Keep (Blasted Lands) talk to Thadius Grimshade
             and get the follow up{' '}
-            <span className="quest">[47] Nekrum's Medallion (Dungeon)</span>.
+            <span className="quest">
+              [47] Nekrum&apos;s Medallion (Dungeon)
+            </span>
+            .
           </p>
           <p>Fly to Darkshire and then to Booty Bay.</p>
           <p>
             In Booty Bay turn in{' '}
-            <span className="quest">[45] Deliver to MacKinley</span> at "Sea
-            Wolf" MacKinley (close to the inn) and all the Rescue OOX-22 quests
-            you completed at Oglethorpe Obnoticus (2nd house to the right of the
-            forge), if you completed any, that is.
+            <span className="quest">[45] Deliver to MacKinley</span> at
+            &quot;Sea Wolf&quot; MacKinley (close to the inn) and all the Rescue
+            OOX-22 quests you completed at Oglethorpe Obnoticus (2nd house to
+            the right of the forge), if you completed any, that is.
           </p>
           <p>
             If you completed all 3 rescues you get and extra quest{' '}
-            <span className="quest">[50] An OOX of your own</span>. You'll get
-            another of those useless pets and <strong>7100 XP as well</strong>!
-            Which is why going through the pain of doing those 3 escort quests
-            is in the end worth it. (Sadly the Tanaris beacon never dropped for
-            the character I used to record the XP Rates, so I didn't get this
-            bonus)
+            <span className="quest">[50] An OOX of your own</span>. You&apos;ll
+            get another of those useless pets and{' '}
+            <strong>7100 XP as well</strong>! Which is why going through the
+            pain of doing those 3 escort quests is in the end worth it. (Sadly
+            the Tanaris beacon never dropped for the character I used to record
+            the XP Rates, so I didn&apos;t get this bonus)
           </p>
         </li>
         <li>
           <p>
             Go back to <strong>Ironforge</strong>. Now here is what I advise:
-            Get a group together and go to <strong>Zul'Farrak</strong>. Follow
-            this{' '}
+            Get a group together and go to <strong>Zul&apos;Farrak</strong>.
+            Follow this{' '}
             <a href="https://web.archive.org/web/20101208214225/http://www.wow-pro.com/node/588">
-              Zul'Farrak Instance Guide
+              Zul&apos;Farrak Instance Guide
             </a>
             . It would be a waste not to go, you already have all the pre-quest
             work done, you just have to gather a few more quests in Tanaris (and
             one in Dustwallow Marsh).
           </p>
           <p>
-            Even if you don't like instances, I really suggest you do an effort
-            on this one, it will be a great XP boost and you also get follow up
-            quests which will be another source of extra XP later.
+            Even if you don&apos;t like instances, I really suggest you do an
+            effort on this one, it will be a great XP boost and you also get
+            follow up quests which will be another source of extra XP later.
           </p>
           <p>
             <em>
-              You don't even have to do everything in Zul'Farrak. You can skip
-              Antu'Sul and Witch Doctor Zum'Rah, which are arguably the hardest
-              battles in there.
+              You don&apos;t even have to do everything in Zul&apos;Farrak. You
+              can skip Antu&apos;Sul and Witch Doctor Zum&apos;Rah, which are
+              arguably the hardest battles in there.
             </em>
           </p>
           <p>
@@ -2694,21 +2725,22 @@ function Chapter2() {
             sure you do at least:
             <ul>
               <li> Kill Theka the Martyr (Get 1st Tablet)</li>
-              <li> The Temple script (Loot Nekrum's Medaillon)</li>
+              <li> The Temple script (Loot Nekrum&apos;s Medaillon)</li>
               <li> Kill Hydromanther Velratha (Loot 2nd Tablet)</li>
             </ul>
           </p>
           <p>
             It took me just 2 Hours with a crapy pick-up group for a huge XP
-            boost. <em>If you really don't want to go to Zul'Farrak:</em>
+            boost.{' '}
+            <em>If you really don&apos;t want to go to Zul&apos;Farrak:</em>
           </p>
         </li>
         <li>
           <p>
             You can abandon the quests related to it and go grind up to level
-            49. (Because those who go to Zul'Farrak will ding 49 from turning in
-            the quests even if they don't do all the quests, Gazh'Rilla and
-            Troll Temper namely)
+            49. (Because those who go to Zul&apos;Farrak will ding 49 from
+            turning in the quests even if they don&apos;t do all the quests,
+            Gazh&apos;Rilla and Troll Temper namely)
           </p>
           <p>
             You can grind either in Feralas on <strong>Yetis</strong> or on{' '}
@@ -2719,13 +2751,13 @@ function Chapter2() {
         <li>
           <p>
             <strong>
-              <em>For those who go to Zul'Farrak</em>
+              <em>For those who go to Zul&apos;Farrak</em>
             </strong>
             , the optimal setup would be that one person of your group has{' '}
-            <strong>the Mallet</strong> to summon <strong>Gahz'Rilla</strong>.
-            If you can't manage that it's np, this is optional and you can
-            always come back later when you have your own mallet, if you wish
-            to.
+            <strong>the Mallet</strong> to summon{' '}
+            <strong>Gahz&apos;Rilla</strong>. If you can&apos;t manage that
+            it&apos;s np, this is optional and you can always come back later
+            when you have your own mallet, if you wish to.
           </p>
           <p>
             In both cases, when you stop by Tanaris, talk to Sprinkle and get
@@ -2744,8 +2776,8 @@ function Chapter2() {
             </span>
           </p>
           <p>
-            You can also bind in Gadgetzan or anywhere you please if it's more
-            convenient to you, for now.
+            You can also bind in Gadgetzan or anywhere you please if it&apos;s
+            more convenient to you, for now.
           </p>
         </li>
       </ol>
@@ -2755,13 +2787,13 @@ function Chapter2() {
       <ol>
         <li>
           <p>
-            So you just turned in all the quests you finished in Zul'Farrak
+            So you just turned in all the quests you finished in Zul&apos;Farrak
             (besides the one in Blasted Lands, cause we are going there now) or
             grinded your way up to level 49.
           </p>
           <p>
-            Those who did Zul'Farrak should have already 4 bubbles in level 49
-            or close to that.
+            Those who did Zul&apos;Farrak should have already 4 bubbles in level
+            49 or close to that.
           </p>
           <p>
             Go to <strong>Ironforge</strong> and bind there (unless you are
@@ -2770,7 +2802,7 @@ function Chapter2() {
           <p>Sell/repair/get 4 stacks food/drink.</p>
           <p>
             Fly to Stormwind, go to the Mage District, then go on top of the
-            Wizard's Tower <em>(37,81)</em>. Get the quest{' '}
+            Wizard&apos;s Tower <em>(37,81)</em>. Get the quest{' '}
             <span className="quest">[45] Vital Supplies</span> from High
             Sorcerer Andromath .
           </p>
@@ -2778,8 +2810,8 @@ function Chapter2() {
         <li>
           <p>Fly to Darkshire (Duskwood).</p>
           <p>
-            In Darkshire go talk to Watchmaster Sorigal (he's just down the path
-            from the gryphon master), get the follow up{' '}
+            In Darkshire go talk to Watchmaster Sorigal (he&apos;s just down the
+            path from the gryphon master), get the follow up{' '}
             <span className="quest">[45] Supplies for Nethergarde</span>.
           </p>
           <p>Fly to Nethergarde Keep (Blasted Lands).</p>
@@ -2791,10 +2823,11 @@ function Chapter2() {
             at Quartermaster Lungertz.
           </p>
           <p>
-            Turn in <span className="quest">[47] Nekrum's Medaillon</span> at
-            Thadius Grimshade, he's inside the big tower, on the highest floor.
-            Get the follow up <span className="quest">[47] The Divination</span>
-            . Turn it in, get the follow up{' '}
+            Turn in <span className="quest">[47] Nekrum&apos;s Medaillon</span>{' '}
+            at Thadius Grimshade, he&apos;s inside the big tower, on the highest
+            floor. Get the follow up{' '}
+            <span className="quest">[47] The Divination</span>. Turn it in, get
+            the follow up{' '}
             <span className="quest">
               [47] Return to the Hinterlands (Elite)
             </span>
@@ -2808,19 +2841,19 @@ function Chapter2() {
             their quests:
             <ul>
               <li>
-                <span className="quest">[50] A Boar's Vitality</span>
+                <span className="quest">[50] A Boar&apos;s Vitality</span>
               </li>
               <li>
                 <span className="quest">[50] Snickefang Jowls</span>
               </li>
               <li>
-                <span className="quest">[50] The Basilisk's Bite</span>
+                <span className="quest">[50] The Basilisk&apos;s Bite</span>
               </li>
               <li>
                 <span className="quest">[50] The Decisive Striker</span>
               </li>
               <li>
-                <span className="quest">[50] Vulture's Vigor</span>
+                <span className="quest">[50] Vulture&apos;s Vigor</span>
               </li>
             </ul>
           </p>
@@ -2842,11 +2875,11 @@ function Chapter2() {
             </span>
           </p>
           <p>
-            What you'll need to kill the most though are{' '}
+            What you&apos;ll need to kill the most though are{' '}
             <strong>vultures and basilisks</strong>, so here is a path you
-            should follow, listing every possible Vulture spawn (there's also a
-            few vulture roamers but you'll run into those too from time to time)
-            so try to get all of them every cycle.
+            should follow, listing every possible Vulture spawn (there&apos;s
+            also a few vulture roamers but you&apos;ll run into those too from
+            time to time) so try to get all of them every cycle.
           </p>
           <p>
             <img
@@ -2864,22 +2897,22 @@ function Chapter2() {
                 <span className="quest">
                   <strong>[50] The Decisive Striker</strong>
                 </span>{' '}
-                and go turn it in, you'll get a +25 AGI buff for 1 Hour. When
-                that buff wears out, go turn in either{' '}
+                and go turn it in, you&apos;ll get a +25 AGI buff for 1 Hour.
+                When that buff wears out, go turn in either{' '}
                 <strong>Snickerfang Jowls</strong> (+25 STR buff) or{' '}
-                <strong>A Boar's Vitality</strong> (+25 STA buff) depending on
-                your preferences.
+                <strong>A Boar&apos;s Vitality</strong> (+25 STA buff) depending
+                on your preferences.
               </li>
               <li>
                 <strong>Casters:</strong> As soon as possible try to finish the
                 quest{' '}
                 <span className="quest">
-                  <strong>[50] A Boar's Vitality</strong>
+                  <strong>[50] A Boar&apos;s Vitality</strong>
                 </span>{' '}
                 and turn it in for a +25 STA buff. Later on after your sta buff
                 wears off, try to finish{' '}
                 <span className="quest">
-                  <strong>[50] The Basilisk's Bite</strong>
+                  <strong>[50] The Basilisk&apos;s Bite</strong>
                 </span>{' '}
                 for a +25 INT buff.
               </li>
@@ -2898,23 +2931,23 @@ function Chapter2() {
           <p>
             While killing mobs in Blasted Lands you might loot an{' '}
             <span className="item">Imperfect Draenethyst Fragment</span> on one
-            of them. Go to Kum'Isha the Collector <em>(51,35)</em>. Get the
+            of them. Go to Kum&apos;Isha the Collector <em>(51,35)</em>. Get the
             quest{' '}
             <span className="quest">
               [55] Everything Counts in Large Amounts
             </span>{' '}
             and turn it in. No need to get the follow up quest unless you get
             another Imperfect Draenethyst Fragment. If you are extremely lucky
-            you'll find a{' '}
+            you&apos;ll find a{' '}
             <span className="item">Flawless Draenetyst Sphere</span> In that
-            case get the other quest from Kum'Isha and turn it in.
+            case get the other quest from Kum&apos;Isha and turn it in.
           </p>
         </li>
         <li>
           <p>
-            Turn in all the other blasted lands quest when they are done, don't
-            get the follow ups (they are repeatable if you want to get more of
-            those nifty clickable buffs later on). Now you should be
+            Turn in all the other blasted lands quest when they are done,
+            don&apos;t get the follow ups (they are repeatable if you want to
+            get more of those nifty clickable buffs later on). Now you should be
             approximately 4 bubbles away from level 50 if you did this right.
           </p>
         </li>
@@ -2925,7 +2958,7 @@ function Chapter2() {
           </p>
           <p>
             Go to Aerie Peak in Hinterlands, talk to Gryphon Master Talonaxe.
-            (he's at the very top of Aerie Peak) Get the follow up{' '}
+            (he&apos;s at the very top of Aerie Peak) Get the follow up{' '}
             <span className="quest">
               <strong>[53] Saving Sharpbeak (Elite)</strong>
             </span>
@@ -2933,8 +2966,8 @@ function Chapter2() {
           </p>
           <p>
             Now you got <strong>3 reasons</strong> to go to the top of{' '}
-            <strong>Jintha'Alor</strong>. The Mallet of Zul'Farrak being one of
-            them, but most importantly:
+            <strong>Jintha&apos;Alor</strong>. The Mallet of Zul&apos;Farrak
+            being one of them, but most importantly:
             <ul>
               <li>
                 <span className="quest">
@@ -2953,23 +2986,24 @@ function Chapter2() {
         <li>
           <p>
             <strong>Build a group</strong> of level 50+ and go to{' '}
-            <strong>Jintha'Alor</strong> <em>(66,66)</em>. It's doable with 3
-            level 50s but it will be long and very tedious at the end, I suggest
-            you try to fill up the group.
+            <strong>Jintha&apos;Alor</strong> <em>(66,66)</em>. It&apos;s doable
+            with 3 level 50s but it will be long and very tedious at the end, I
+            suggest you try to fill up the group.
           </p>
           <p>
-            Fight your way to the top of Jintha'Alor, then go to{' '}
+            Fight your way to the top of Jintha&apos;Alor, then go to{' '}
             <strong>Vile Priestess Hexx</strong> <em>(59,78)</em>. She has one
             guard, you can wait till the Priestess wanders in the cave and get
             her guard solo.
           </p>
           <p>
             Then get the Priestess solo, kill her and loot the{' '}
-            <span className="item">Hexx's key</span> from her.
+            <span className="item">Hexx&apos;s key</span> from her.
           </p>
           <p>
-            Also don't forget to forge the <strong>Mallet of Zul'Farrak</strong>
-            , just click your Sacred Mallet while being next to the Altar.
+            Also don&apos;t forget to forge the{' '}
+            <strong>Mallet of Zul&apos;Farrak</strong>, just click your Sacred
+            Mallet while being next to the Altar.
           </p>
           <p>
             Go inside the cave behind where you fought the Vile Priestess.
@@ -2982,9 +3016,10 @@ function Chapter2() {
             />
           </p>
           <p>
-            You'll find Hitah'ya the Keeper and 2 guards patrolling around the{' '}
-            <span className="item">Ancient Egg</span>. Kill Hitah'ya the Keeper
-            first, should be a pushover for a group of 4 or 5.
+            You&apos;ll find Hitah&apos;ya the Keeper and 2 guards patrolling
+            around the <span className="item">Ancient Egg</span>. Kill
+            Hitah&apos;ya the Keeper first, should be a pushover for a group of
+            4 or 5.
           </p>
           <p>
             Get the Ancient Egg. Once you have the Ancient Egg, clear the way
@@ -2992,10 +3027,10 @@ function Chapter2() {
             other cave at <em>(56,68)</em>.
           </p>
           <p>
-            Kill the two trolls guarding it's entrance. Then go through the cave
-            and on the other side of it you'll find <strong>Sharpbeak</strong>{' '}
-            in it's cage. Free Sharpbeak and watch him fly away with his
-            parents.
+            Kill the two trolls guarding it&apos;s entrance. Then go through the
+            cave and on the other side of it you&apos;ll find{' '}
+            <strong>Sharpbeak</strong> in it&apos;s cage. Free Sharpbeak and
+            watch him fly away with his parents.
           </p>{' '}
           <p>
             You are done, hearthstone back to Aerie Peak and turn in the quest{' '}
@@ -3006,7 +3041,7 @@ function Chapter2() {
           </p>
           <p>
             Also turn in any stacks of 5 Troll Tribal Necklaces you might have
-            gotten during your Jintha' Alor trip.
+            gotten during your Jintha&apos; Alor trip.
           </p>
           <p>
             Go turn{' '}
@@ -3027,7 +3062,7 @@ function Chapter2() {
             </em>{' '}
             or be very close, and you can go kill some trolls next to the Altar
             of Zul to finish your level, or some ogres in Tanaris. For those who
-            didn't do Zul'Farrak: <em>Time to grind!</em>
+            didn&apos;t do Zul&apos;Farrak: <em>Time to grind!</em>
           </p>
           <p>
             <strong>Ding level 50</strong>, and end of Chapter II.

@@ -1,6 +1,4 @@
-// this comment tells babel to convert jsx to calls to a function called jsx instead of React.createElement
-/** @jsx jsx */
-import { jsx } from '@emotion/core';
+import React from 'react';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 
@@ -10,7 +8,7 @@ function Header() {
   return (
     <header css={styles}>
       <Navbar collapseOnSelect expand="md" bg="dark" variant="dark" fixed="top">
-        <Navbar.Brand href="#home">Jame's Leveling Guide</Navbar.Brand>
+        <Navbar.Brand href="#home">Jame&apos;s Leveling Guide</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto">

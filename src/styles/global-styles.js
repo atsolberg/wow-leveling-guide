@@ -1,4 +1,4 @@
-import { css } from '@emotion/core';
+import { css } from '@emotion/react';
 import v from './variables';
 
 const styles = css`
@@ -63,6 +63,10 @@ const styles = css`
 
   .small {
     font-size: 15px;
+  }
+
+  .vat {
+    vertical-align: top;
   }
 `;
 

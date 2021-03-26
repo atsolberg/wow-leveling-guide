@@ -10,15 +10,14 @@ function Chapter1() {
         <em>
           <strong>level 30</strong>
         </em>
-        . It is your task to reach that level on your own and it shouldn't be a
-        problem, you can check the other leveling guides in our leveling guide
-        forum for the earlier levels. The main reason why I don't want to start
-        a guide at level 1 is because:
+        . It is your task to reach that level on your own and it shouldn&apos;t
+        be a problem, you can check the other leveling guides in our leveling
+        guide forum for the earlier levels. The main reason why I don&apos;t
+        want to start a guide at level 1 is because:
       </p>
       <ol>
-        <li> It's not so needed</li>
+        <li> It&apos;s not so needed</li>
         <li>
-          {' '}
           Depending on your race/class choice you will start from different
           areas so covering them all would be a mess.
         </li>
@@ -30,25 +29,25 @@ function Chapter1() {
         quests are really a time waste and we will be skipping those and
         replacing them by good grinding spots when it is necessary. Some people
         say that Grinding is always faster than questing, this is true in theory
-        when you don't know which quests to take and which to avoid, and what is
-        the best order to do them. With this guide, questing will be very
-        efficient and much better than pure grinding. Follow each instruction
-        carefully and you will see for yourself. The quests choices and order to
-        do them are optimal so that you run as few as possible while doing the
-        most possible and then turning several quests at the same time. This
-        guide will be very useful for both veteran and novice players, and this
-        is why sometimes I describe things in two fashion{' '}
-        <strong>"In short"</strong> (for the veterans) and{' '}
-        <strong>"in details"</strong> (for the novices). That way the veteran
-        players can skip those "in details" paragraph if the "in short" one was
-        enough information for them. So even the guide itself is optimized for
-        the minimum reading possible, to save time! Let's get started
-        immediately then!
+        when you don&apos;t know which quests to take and which to avoid, and
+        what is the best order to do them. With this guide, questing will be
+        very efficient and much better than pure grinding. Follow each
+        instruction carefully and you will see for yourself. The quests choices
+        and order to do them are optimal so that you run as few as possible
+        while doing the most possible and then turning several quests at the
+        same time. This guide will be very useful for both veteran and novice
+        players, and this is why sometimes I describe things in two fashion{' '}
+        <strong>&quot;In short&quot;</strong> (for the veterans) and{' '}
+        <strong>&quot;in details&quot;</strong> (for the novices). That way the
+        veteran players can skip those &quot;in details&quot; paragraph if the
+        &quot;in short&quot; one was enough information for them. So even the
+        guide itself is optimized for the minimum reading possible, to save
+        time! Let&apos;s get started immediately then!
       </p>
       <p>
         Everything described in this guide can be done solo (besides when I say
         otherwise). You can of course follow this guide while duoing, grouping,
-        it's not a problem, it works too.
+        it&apos;s not a problem, it works too.
       </p>
       <h5>Basic rules:</h5>
       <ol>
@@ -64,28 +63,28 @@ function Chapter1() {
         </li>
         <li>
           <strong>
-            Don't waste your time trying to find groups for questing
+            Don&apos;t waste your time trying to find groups for questing
           </strong>
           , you can solo everything that is described in this guide. Only group
-          with someone when it's not gonna be a waste of time (e.g: meeting the
-          person at the other end of the map to show him the way to where your
-          quest is)
+          with someone when it&apos;s not gonna be a waste of time (e.g: meeting
+          the person at the other end of the map to show him the way to where
+          your quest is)
         </li>
         <li>Try to always log out in an Inn when you take a break.</li>
         <li>
-          If I don't mention a quest, it means I consider it a waste of time, so
-          don't take it thinking I forgot a quest here and there, I
-          didn't.&nbsp;
+          If I don&apos;t mention a quest, it means I consider it a waste of
+          time, so don&apos;t take it thinking I forgot a quest here and there,
+          I didn&apos;t.&nbsp;
           <span role="img" aria-label="smile">
             🙂
           </span>
           <br />
-          Also don't abandon a quest unless I say you should.
+          Also don&apos;t abandon a quest unless I say you should.
         </li>
         <li>
           Sometimes I will be making lists of quest you should have before
-          starting with an area, that doesn't mean I will list the whole quest
-          log, JUST the quests that interest us for the moment.
+          starting with an area, that doesn&apos;t mean I will list the whole
+          quest log, JUST the quests that interest us for the moment.
         </li>
       </ol>
       <hr />
@@ -118,18 +117,18 @@ function Chapter1() {
         </li>
         <li>
           <strong>In Details</strong>: From <strong>Ironforge</strong>, take a
-          flight path to <strong>Menethil Harbor</strong>, if you don't have
-          that flight path, you'll have to go to wetlands and then run to{' '}
-          <strong>Menethil Harbor</strong>. In <strong>Menethil Harbor</strong>{' '}
-          take the boat to <strong>Theramore</strong> (It is the boat that stops
-          at the southern peer). When in <strong>Theramore</strong>, find the
-          Gryphon Master and get the flight path. Then go to the Inn, talk to
-          the innkeeper and make theramore your home location. After that, go
-          through Dustwallow Marsh by following the road northwest and then
-          south to the Barrens. When in the Barrens, go south to{' '}
-          <strong>Thousand Needles</strong>, go down the great lift (don't
-          attack the guard just run past him, take the elevator and keep going
-          until he forgets you).
+          flight path to <strong>Menethil Harbor</strong>, if you don&apos;t
+          have that flight path, you&apos;ll have to go to wetlands and then run
+          to <strong>Menethil Harbor</strong>. In{' '}
+          <strong>Menethil Harbor</strong> take the boat to{' '}
+          <strong>Theramore</strong> (It is the boat that stops at the southern
+          peer). When in <strong>Theramore</strong>, find the Gryphon Master and
+          get the flight path. Then go to the Inn, talk to the innkeeper and
+          make theramore your home location. After that, go through Dustwallow
+          Marsh by following the road northwest and then south to the Barrens.
+          When in the Barrens, go south to <strong>Thousand Needles</strong>, go
+          down the great lift (don&apos;t attack the guard just run past him,
+          take the elevator and keep going until he forgets you).
         </li>
       </ul>
       In <strong>Thousand Needles</strong>, go west until you reach the border
@@ -137,9 +136,9 @@ function Chapter1() {
       <strong>Thalanaar</strong> (5,17). Get the new flight path from there.
       <p>
         Go southeast along the mountain, keep going until you hit Roguefeather
-        Den (27,51). It's grinding time! Don't worry, there will be a lot of
-        questing after that, but you are gonna kill these harpies until those
-        two goals are achieved:
+        Den (27,51). It&apos;s grinding time! Don&apos;t worry, there will be a
+        lot of questing after that, but you are gonna kill these harpies until
+        those two goals are achieved:
       </p>
       <ul>
         <li>you hit level 31+</li>
@@ -160,7 +159,7 @@ function Chapter1() {
         </a>{' '}
         to know when the Darkmoon Faire will be available, and put your{' '}
         <span className="item">Vibrant Plumes</span> in bank until then. If you
-        don't want the bag, you can either auction those plumes (they sell
+        don&apos;t want the bag, you can either auction those plumes (they sell
         nicely) or save them up for your future epic necklace.
       </p>
       <h6>Level 31</h6>
@@ -198,8 +197,8 @@ function Chapter1() {
         10 of them at (87,66).
         <br /> Keep doing this until you complete all the quests, get 10{' '}
         <span className="item">Turtle Meat</span> and hit level 32. Grind on
-        turtles in particular, they drop scales which sell nicely. Don't sell
-        the <span className="item">Turtle Meat</span>, put them in bank or
+        turtles in particular, they drop scales which sell nicely. Don&apos;t
+        sell the <span className="item">Turtle Meat</span>, put them in bank or
         somewhere in your inventory.
       </p>
       <p>Turn in all the quests and get the follow up quests : </p>
@@ -234,9 +233,9 @@ function Chapter1() {
       </p>
       <p>
         Then go train new skills in Stormwind by gryphon ride (for rogues,
-        there's a trainer on the 1st floor of booty bay inn). Visit the Auction
-        house, repair, sell, buy 4 stacks of food/drink (of course don't buy
-        drinks if you aren't a class with mana).
+        there&apos;s a trainer on the 1st floor of booty bay inn). Visit the
+        Auction house, repair, sell, buy 4 stacks of food/drink (of course
+        don&apos;t buy drinks if you aren&apos;t a class with mana).
       </p>
       <h6>Level 32</h6>
       <p>At level 32 the zone we will be aiming for is Stranglethorn Vale. </p>
@@ -249,7 +248,7 @@ function Chapter1() {
           in Strangelthorn Vale (37,3).
         </li>
         <li>
-          Then go to the Nesingwary's Camp (35,10). Turn in{' '}
+          Then go to the Nesingwary&apos;s Camp (35,10). Turn in{' '}
           <span className="quest">[31] Hemet Nesingwary Jr</span>. Get the quest{' '}
           <span className="quest">[30] Welcome to the Jungle</span> from Barnil
           Stonepot and turn in it at Hemet Nesingwary Jr. This should unlock
@@ -304,8 +303,8 @@ function Chapter1() {
           Dizzywig.
         </li>
         <li>
-          <span className="quest">[37] Krazek's Cookery</span> From Corporal
-          Kaleb at the Rebel Camp.
+          <span className="quest">[37] Krazek&apos;s Cookery</span> From
+          Corporal Kaleb at the Rebel Camp.
         </li>
         <li>
           <span className="quest">[37] Goblin Sponsorship</span> From the Baron
@@ -317,8 +316,8 @@ function Chapter1() {
           by Krazek in <strong>Booty Bay</strong>.
         </li>
         <li>
-          <span className="quest">[41] Scaring Shaky</span> From "Sea Wolf"
-          McKinley in <strong>Booty Bay</strong>.
+          <span className="quest">[41] Scaring Shaky</span> From &quot;Sea
+          Wolf&quot; McKinley in <strong>Booty Bay</strong>.
         </li>
       </ul>
       <p>
@@ -359,8 +358,8 @@ function Chapter1() {
         Step 4: Go further northeast to the Kurzen Camp (44,11) and kill 15
         Kurzen Jungle Fighters as well as Kurzen Medecine Men until you get 7{' '}
         <span className="item">Jungle Remedies</span> (might take a while). Also
-        you'll need a <span className="item">Fern Extract</span> from one of the
-        piles of crates scattered around the Kurzen Compound.
+        you&apos;ll need a <span className="item">Fern Extract</span> from one
+        of the piles of crates scattered around the Kurzen Compound.
       </p>
       <p>
         Step 5: Once all 4 quests are done go turn them in (besides Supply and
@@ -391,21 +390,21 @@ function Chapter1() {
       </p>
       <p>
         Step 9: Go south and down the plateau until you find the troll camp at
-        Bal'lal Ruins (29,20)
+        Bal&apos;lal Ruins (29,20)
         <br /> It should take a while to get 15{' '}
         <span className="item">Bloodscalp Ears</span> but it is a nice grinding
-        spot anyway. So grind at this spot until you hit level 33. If you don't
-        have enough trolls there is another camp northeast at the Tkashi Ruins
-        (33,15).
+        spot anyway. So grind at this spot until you hit level 33. If you
+        don&apos;t have enough trolls there is another camp northeast at the
+        Tkashi Ruins (33,15).
       </p>
       <h6>Level 33:</h6>
       <p>
         Step 10: From the troll camps, go west until you hit the shore, and move
         along the shore towards the north until you find Crystal Spine
         Basilisks. If you run short on Basilisks, there is more on the lower
-        plateau to the east along the shore. If there aren't any basilisks just
-        go kill some trolls until they respawn. Kill basilisks until you get 10{' '}
-        <span className="item">Singing Crystal Shards</span>.
+        plateau to the east along the shore. If there aren&apos;t any basilisks
+        just go kill some trolls until they respawn. Kill basilisks until you
+        get 10 <span className="item">Singing Crystal Shards</span>.
       </p>
       <p>
         Step 11: After that, take a swim westwards until you hit the island at
@@ -452,9 +451,9 @@ function Chapter1() {
         you will find.
       </p>
       <p>
-        Step 13: Now you probably must be about halfway to level 34. It's time
-        to go grind at Kurzen camp or on the Trolls, up to you. When you are 1
-        bubble away from lvl 34, warp to <strong>Booty Bay</strong>.
+        Step 13: Now you probably must be about halfway to level 34. It&apos;s
+        time to go grind at Kurzen camp or on the Trolls, up to you. When you
+        are 1 bubble away from lvl 34, warp to <strong>Booty Bay</strong>.
       </p>
       <p>
         When in <strong>Booty Bay</strong>. Turn in the following quests:
@@ -462,8 +461,8 @@ function Chapter1() {
       <ul>
         <li>
           <span className="quest">[31] Supply and Demand</span> at Drizzlik in
-          the "Tan-your-hide-Leatherwork" shop. It is situated on the top floor
-          and not too far from the inn in <strong>Booty Bay</strong>.
+          the &quot;Tan-your-hide-Leatherwork&quot; shop. It is situated on the
+          top floor and not too far from the inn in <strong>Booty Bay</strong>.
         </li>
         <li>
           <span className="quest">[35] Singing Blue Shards</span> on the ground
@@ -473,7 +472,7 @@ function Chapter1() {
           <span className="quest">[35] Bloodscalp Ears</span>
         </li>
         <li>
-          <span className="quest">[37] Krazek's Cookery</span>
+          <span className="quest">[37] Krazek&apos;s Cookery</span>
         </li>
         <li>
           <span className="quest">[32] Investigate the Camp</span> on the 2nd
@@ -501,14 +500,14 @@ function Chapter1() {
         </li>
       </ul>
       <p>
-        Note: If some follow up quests aren't mentioned it is because they
-        aren't worth the trouble. Just take the ones listed above.
+        Note: If some follow up quests aren&apos;t mentioned it is because they
+        aren&apos;t worth the trouble. Just take the ones listed above.
       </p>
       <h6>Level 34:</h6>
       <p>
         Since you are lvl 34 now, go train if you wish to do so. Closest place
-        to train is Stormwind by gryffon. (Unless you are a rogue, there's a
-        rogue trainer on the 1st floor of <strong>Booty Bay</strong> inn).
+        to train is Stormwind by gryffon. (Unless you are a rogue, there&apos;s
+        a rogue trainer on the 1st floor of <strong>Booty Bay</strong> inn).
       </p>
       <p>
         While you are on gryffon (or in <strong>Booty Bay</strong>), ask in
@@ -532,23 +531,24 @@ function Chapter1() {
       <p>
         Step 1: When you are done, go back to the jungle, follow the road north
         until you hit loc (39,22). And go westwards (towards the area north of
-        Grom'Gol Camp). You should find plenty of Lashtail Raptors there. Kill
-        them as much as needed for the quests.
+        Grom&apos;Gol Camp). You should find plenty of Lashtail Raptors there.
+        Kill them as much as needed for the quests.
       </p>
       <p>
         Step 2 &amp; 3: When done with raptors, you should hit the river to the
         east and search along the banks for Snapjaw Crocolisks. At the same time
         you can start heading to the Venture co. Camp next to Lake Nazferiti and
-        kill Geologists there (44,20), they drop the "tumbled crystals" you need
-        for <span className="quest">[36] Hostile Takeover</span>. You can find
+        kill Geologists there (44,20), they drop the &quot;tumbled
+        crystals&quot; you need for{' '}
+        <span className="quest">[36] Hostile Takeover</span>. You can find
         crocolisks on both sides of the river, all around Lake Nazferiti and all
         the way down to Mizjal Ruins. Keep killing Goblins and Crocolisks until
         you get both quests complete.
       </p>
       <p>
         Step 4: When done with that, head northwest until you hit the area in
-        between Bal'al Ruins and Tkashi Ruins (33,15). There you wil find Elder
-        Stranglethorn Tigers and kill 10 of them.
+        between Bal&apos;al Ruins and Tkashi Ruins (33,15). There you wil find
+        Elder Stranglethorn Tigers and kill 10 of them.
       </p>
       <p>Step 5: Once done, go to Nesingwary Camp and turn in </p>
       <ul>
@@ -567,15 +567,15 @@ function Chapter1() {
         Careful the Commandos are stealthers.
       </p>
       <p>
-        Step 7: When done with that go southwest to find Sin'dall. Sin'dall is
-        on top of a hill at (31,17) right in the middle of Bal'al and Tkashi
-        ruins. It is definitely soloable at lvl 34, just make sure all your long
-        cooldown abilities are up.
+        Step 7: When done with that go southwest to find Sin&apos;dall.
+        Sin&apos;dall is on top of a hill at (31,17) right in the middle of
+        Bal&apos;al and Tkashi ruins. It is definitely soloable at lvl 34, just
+        make sure all your long cooldown abilities are up.
       </p>
       <p>
-        Step 8: Once Sin'dall is dead, head west until you hit the island you
-        discovered before (21,22), and kill Water Elementals there until you get
-        6 <span className="item">Water Elemental Bracers</span>.
+        Step 8: Once Sin&apos;dall is dead, head west until you hit the island
+        you discovered before (21,22), and kill Water Elementals there until you
+        get 6 <span className="item">Water Elemental Bracers</span>.
       </p>
       <p>
         Step 9: At this point you should be getting close to level 35. If you
@@ -585,10 +585,10 @@ function Chapter1() {
       <p>
         Step 10: When that is done, go turn in your quests at the Nesingwary and
         Rebel camps, at the Rebel Camp get the folllow up{' '}
-        <span className="quest">[38] Kurzen's Mystery</span>. By now you should
-        have completed your page collections or be close, if you aren't it's ok,
-        we will be back in Stranglethorn Vale in about 3 levels and then you ll
-        for sure complete it.
+        <span className="quest">[38] Kurzen&apos;s Mystery</span>. By now you
+        should have completed your page collections or be close, if you
+        aren&apos;t it&apos;s ok, we will be back in Stranglethorn Vale in about
+        3 levels and then you ll for sure complete it.
       </p>
       <p>
         Step 11: Warp to <strong>Booty Bay</strong>, turn in the quests
@@ -607,7 +607,7 @@ function Chapter1() {
           (Leather-and-hide shop),
         </li>
       </ul>
-      Don't get the follow up. Go to the bank and get the 10{' '}
+      Don&apos;t get the follow up. Go to the bank and get the 10{' '}
       <span className="item">Turtle Meat</span> you saved since Thousand
       Needles, and make space in your bags in case you still have Stranglethorn
       pages.
@@ -617,17 +617,17 @@ function Chapter1() {
         Foothills (or take a Gryffon Ride)
       </p>
       <p>
-        If you don't know how to get there:
+        If you don&apos;t know how to get there:
         <br /> Take a gryffon ride to Stormwind, then use the tram or gryffon to
         <strong>Ironforge</strong>, then gryffon ride to Southshore or Arathi.
-        If you don't have those flight paths, fly to Wetlands. From Menethil in
-        Wetlands follow the road east and then north until you zone into Arathi
-        Highlands; keep going north until you reach Refuge Pointe (46,46). Get
-        the flight path there. From Refuge Pointe take the road west until you
-        reach Hillsbrad Foothills. In Hillsbrad Foothils follow the road west
-        and then south at the 3rd fork. Southshore is at loc (50,55). Talk to
-        the Gryphon Master in Southshore. and bind at the Inn. You should be
-        level 35 or close by now.
+        If you don&apos;t have those flight paths, fly to Wetlands. From
+        Menethil in Wetlands follow the road east and then north until you zone
+        into Arathi Highlands; keep going north until you reach Refuge Pointe
+        (46,46). Get the flight path there. From Refuge Pointe take the road
+        west until you reach Hillsbrad Foothills. In Hillsbrad Foothils follow
+        the road west and then south at the 3rd fork. Southshore is at loc
+        (50,55). Talk to the Gryphon Master in Southshore. and bind at the Inn.
+        You should be level 35 or close by now.
       </p>
       <p>Gather all the quests in Southshore, you should have:</p>
       <ul>
@@ -655,15 +655,15 @@ function Chapter1() {
         when entering Southshore from the north.
       </p>
       <p>
-        Don't bother with{' '}
-        <span className="quest">[34] Bartolo's Yeti Fur Cloak</span> unless you
-        are a Leatherworker or got a Leatherworker friend who can make a
-        <span className="item">Hillman's Cloak</span>. You can buy a{' '}
+        Don&apos;t bother with{' '}
+        <span className="quest">[34] Bartolo&apos;s Yeti Fur Cloak</span> unless
+        you are a Leatherworker or got a Leatherworker friend who can make a
+        <span className="item">Hillman&apos;s Cloak</span>. You can buy a{' '}
         <span className="item">Bolt of Woolen Cloth</span> at the auction house
         or ask a tailor.
       </p>
       <h6>Level 35</h6>
-      <p>Let's start with some Murloc slaughtering!</p>
+      <p>Let&apos;s start with some Murloc slaughtering!</p>
       <p>
         Step 1: The murlocs are right next to the town on the western shore.
         Kill 10 Tidehunters and 10 Oracles.
@@ -679,8 +679,8 @@ function Chapter1() {
         <span className="quest">[32] Stormwind Ho!</span>
       </p>
       <p>
-        Sell and repair (there's an armorsmith behind a small house next to the
-        inn)
+        Sell and repair (there&apos;s an armorsmith behind a small house next to
+        the inn)
       </p>
       <p>
         Step 4: Time to hunt Nagas now. The ones you need are on the eastern
@@ -696,26 +696,27 @@ function Chapter1() {
         Apprentice Kryten.
       </p>
       <p>
-        Step 6: Go southeast until you reach the Go'Shek Farm (60,53) and find
-        the NPC named Quae, she is looking over the Go'Shek Farm from the
-        northwest edge. Talk to her and take the follow up quest{' '}
+        Step 6: Go southeast until you reach the Go&apos;Shek Farm (60,53) and
+        find the NPC named Quae, she is looking over the Go&apos;Shek Farm from
+        the northwest edge. Talk to her and take the follow up quest{' '}
         <span className="quest">[36] Hints of a new Plague?</span>. You need to
         find and kill a Forsaken Courier and loot{' '}
         <span className="item">A Sealed Folder</span> from him.
       </p>
       <p>
-        <strong>In Short</strong>: The Forsaken Courier roams from the Go'Shek
-        Farm all along the road up until the wall to Hillsbrad Foothils. He is
-        lvl 35 and doesn't have that much hit points, but he has 4 level 35
-        bodyguards. Find a way to kill and loot the Courrier. You can do it solo
-        at level 35, I've done it with 5 different classes and I've heard about
-        other players doing the same. For instructions on how to kill the
-        courier with a certain class, see below.
+        <strong>In Short</strong>: The Forsaken Courier roams from the
+        Go&apos;Shek Farm all along the road up until the wall to Hillsbrad
+        Foothils. He is lvl 35 and doesn&apos;t have that much hit points, but
+        he has 4 level 35 bodyguards. Find a way to kill and loot the Courrier.
+        You can do it solo at level 35, I&apos;ve done it with 5 different
+        classes and I&apos;ve heard about other players doing the same. For
+        instructions on how to kill the courier with a certain class, see below.
       </p>
       <p>
         <strong>In Details</strong> Now you need to find and kill the Forsaken
-        Courier, he roams from the Go'Shek Farm all along the road up until the
-        wall to Hillsbrad Foothils. He has 4 bodyguards, all level 35. <br />
+        Courier, he roams from the Go&apos;Shek Farm all along the road up until
+        the wall to Hillsbrad Foothils. He has 4 bodyguards, all level 35.{' '}
+        <br />
         There are many ways to kill it though, even solo at level 35.
       </p>
       <ul>
@@ -749,8 +750,8 @@ function Chapter1() {
       </ul>
       <p>
         There must be a way for each class to solo this at level 35, use
-        creativity, potions, and long cooldown abilities. If you don't manage
-        it, try to get a partner to duo it.
+        creativity, potions, and long cooldown abilities. If you don&apos;t
+        manage it, try to get a partner to duo it.
       </p>
       <p>
         Step 7: Once you got the <span className="item">Sealed Folder</span>{' '}
@@ -761,13 +762,13 @@ function Chapter1() {
       <p>
         For the escort, one word of advice: Let Kinelory be in the front, always
         walk behind her, when mobs aggro her, help her take them out one by one.
-        And make sure they don't run far. Kinelory is quite a tank and can also
-        heal a bit. If you let her be in front and don't let runners create
-        trains, you will complete the quest easily.
+        And make sure they don&apos;t run far. Kinelory is quite a tank and can
+        also heal a bit. If you let her be in front and don&apos;t let runners
+        create trains, you will complete the quest easily.
       </p>
       <p>
         Step 8: When completed, talk to Quae and get the follow up. Then go
-        southeast of Go'Shek Farm to the troll village (63,65).
+        southeast of Go&apos;Shek Farm to the troll village (63,65).
       </p>
       <p>
         Kill trolls until you get 10 <span className="item">Tusks</span>. Kill
@@ -784,16 +785,16 @@ function Chapter1() {
       </p>
       <p>
         Hearthstone to Southshore, and talk to Phin Odelic and complete the
-        quest "Hints of a New plague".
+        quest &quot;Hints of a New plague&quot;.
       </p>
       <p>Sell and repair.</p>
       <p>
         Step 10: Go north and follow the road north until you zone to Alterac
         Mountain (96,47). A bit further up and to the right you will find
-        Soferan's Naze (58,67). Clear the Syndicate camp there, and in the
+        Soferan&apos;s Naze (58,67). Clear the Syndicate camp there, and in the
         middle of the camp on a table you should find parchments named
-        "Syndicate Documents". Right click one of them and get the two quests{' '}
-        <span className="quest">[34] Encrypted Letter</span> and{' '}
+        &quot;Syndicate Documents&quot;. Right click one of them and get the two
+        quests <span className="quest">[34] Encrypted Letter</span> and{' '}
         <span className="quest">[34] Foreboding Plans</span>.
       </p>
       <p>
@@ -801,15 +802,15 @@ function Chapter1() {
         Crushridge Ogres, they drop the{' '}
         <span className="item">Dirty Knucklebones</span> you need. <br /> When
         you run short on ogres, you can go to the southwest where you will find
-        the area called "Corrahn's Dagger" (47,76). There you can kill Syndicate
-        Footpads and Syndicate Thieves as well as Mountain Lions and Hulking
-        Mountain Lions.
+        the area called &quot;Corrahn&apos;s Dagger&quot; (47,76). There you can
+        kill Syndicate Footpads and Syndicate Thieves as well as Mountain Lions
+        and Hulking Mountain Lions.
       </p>
       <p>
         I suggest you go back and forth from this spot to the ogres whenever you
         run short on mobs. Do this until the Ogre and Syndicate quests are
-        completed. Then there's more Lions further to the west at "The Headland"
-        (38,55).
+        completed. Then there&apos;s more Lions further to the west at &quot;The
+        Headland&quot; (38,55).
       </p>
       <p>
         You should keep going westwards while killing lions until you complete
@@ -820,13 +821,13 @@ function Chapter1() {
         Step 11: Go northwest towards Dalaran until you reach Archmage Ansirem
         (18,78). Turn in the quest{' '}
         <span className="quest">[37] Magical Analysis</span> and get the follow
-        up <span className="quest">[37] Ansirem's Key</span>. Then warp to
-        Southshore or run there if Hearthstone isn't ready.
+        up <span className="quest">[37] Ansirem&apos;s Key</span>. Then warp to
+        Southshore or run there if Hearthstone isn&apos;t ready.
       </p>
       <p>
         Turn in the 5 quests in Southshore. Get the follow up{' '}
         <span className="quest">[34] Letter to Stormpike</span> from Loremaster
-        Dibbs. Don't get the other follow ups.
+        Dibbs. Don&apos;t get the other follow ups.
         <br /> Congratulations on level 36.
       </p>
       <h6>Level 36</h6>
@@ -834,11 +835,13 @@ function Chapter1() {
         Step 1: Take a gryphon ride to <strong>Ironforge</strong>, go to the
         hall of explorers northeast of the Gryphon master and get the quest from
         Roetten Stonehammer{' '}
-        <span className="quest">[33] Reclaimers' Business in Desolace</span>.
-        Also turn in the quest{' '}
+        <span className="quest">
+          [33] Reclaimers&apos; Business in Desolace
+        </span>
+        . Also turn in the quest{' '}
         <span className="quest">[34] Letter to Stormpike</span> at Prospector
-        Stormpike in the Hall of Explorers, don't get the follow up. Then go to
-        the inn of <strong>Ironforge</strong> and bind yourself there.
+        Stormpike in the Hall of Explorers, don&apos;t get the follow up. Then
+        go to the inn of <strong>Ironforge</strong> and bind yourself there.
       </p>
       <p>
         Step 2: Fly to <strong>Stormwind</strong>. Repair, sell stuff and train
@@ -848,10 +851,11 @@ function Chapter1() {
       </p>
       <p>
         Step 3: Fly to <strong>Booty Bay</strong>. In <strong>Booty Bay</strong>
-        , turn in the quest <span className="quest">[37] Ansirem's Key</span> at
-        Catelyn, she is on the 1st floor inside the <strong>Booty Bay</strong>{' '}
-        in. Get the follow up{' '}
-        <span className="quest">[39] "Pretty Boy" Duncan</span>.
+        , turn in the quest{' '}
+        <span className="quest">[37] Ansirem&apos;s Key</span> at Catelyn, she
+        is on the 1st floor inside the <strong>Booty Bay</strong> in. Get the
+        follow up{' '}
+        <span className="quest">[39] &quot;Pretty Boy&quot; Duncan</span>.
       </p>
       <p>Step 4: Take the boat to Ratchet. And then:</p>
       <ul>
@@ -866,7 +870,7 @@ function Chapter1() {
         </li>
       </ul>
       <p>
-        When in Desolace, go to Nijel's Point . To access it you have to go
+        When in Desolace, go to Nijel&apos;s Point . To access it you have to go
         further southwest until loc (67,16).
       </p>
       <p>Talk to the Hyppogryph master.</p>
@@ -876,7 +880,7 @@ function Chapter1() {
           <span className="quest">[31] Centaur Bounty</span>
         </li>
         <li>
-          <span className="quest">[33] Vahlarriel's Search</span>
+          <span className="quest">[33] Vahlarriel&apos;s Search</span>
         </li>
         <li>
           <span className="quest">[33] Reagents for Reclaimers Inc.</span>
@@ -895,8 +899,8 @@ function Chapter1() {
         We are not taking the quest{' '}
         <span className="quest">[35] Brutal Politics</span> because we decide to
         be friendly with the Gelkis Centaur Tribe which involves lowering
-        faction with the Magram Centaurs. It doesn't really matter anyway if the
-        Magram centaurs hate you.
+        faction with the Magram Centaurs. It doesn&apos;t really matter anyway
+        if the Magram centaurs hate you.
       </p>
       <p>Circuit 1:</p>
       <p>
@@ -907,21 +911,21 @@ function Chapter1() {
       </p>
       <ol>
         <li>
-          Let's start with{' '}
+          Let&apos;s start with{' '}
           <span className="quest">[33] Reagents for Reclaimers</span>, kill
-          Hatefury Satyrs in Sargeron, southeast of Nigel's Point (75,20).
+          Hatefury Satyrs in Sargeron, southeast of Nigel&apos;s Point (75,20).
         </li>
         <li>
           When you got 10 <span className="item">Hatefury Claws</span> and 10{' '}
           <span className="item">Hatefury Horns</span> go west to the area just
           north of Thunder Axe Fortress (56,17) you will find a ruined caravan
-          there. Look for <span className="item">Malem Chest</span>. It's not
-          actually a chest, rather a crate. Open it, get the follow up.
+          there. Look for <span className="item">Malem Chest</span>. It&apos;s
+          not actually a chest, rather a crate. Open it, get the follow up.
         </li>
         <li>
-          Go back to Nijel's Point and get the follow up. Turn in the Satyr
-          quest as well but don't get the follow up (huge time waste). Sell and
-          Repair.
+          Go back to Nijel&apos;s Point and get the follow up. Turn in the Satyr
+          quest as well but don&apos;t get the follow up (huge time waste). Sell
+          and Repair.
         </li>
         <li>
           Go southwest and past Thunder Axe Fortress. Then go west towards the
@@ -933,14 +937,16 @@ function Chapter1() {
           From there, go southwest to the shore towards (36,30), you should see
           the mast of a sunken ship. The Ravnitol Chest is on the shore at
           (36,30). Open it, and get the follow up quest. Right next to the chest
-          is a black book named "Rackmore's Log". Click it and get the quest{' '}
-          <span className="quest">[36] Claim Rackmore's Treasure</span>.{' '}
-          <span className="item">Rackmore's Silver Key</span> drops from Drysnap
-          Pincer or Crawler. <span className="item">Rackmore's Gold Key</span>{' '}
-          drops from any Slitherblade Naga. Take a swim and kill Drysnaps around
-          the ship until you get a Silver Key. It takes about 10 kills on
-          average. Then further north go kill Siltherblade Nagas until you get a
-          gold key. 10 kills on average as well to get a Golden Key.
+          is a black book named &quot;Rackmore&apos;s Log&quot;. Click it and
+          get the quest{' '}
+          <span className="quest">[36] Claim Rackmore&apos;s Treasure</span>.{' '}
+          <span className="item">Rackmore&apos;s Silver Key</span> drops from
+          Drysnap Pincer or Crawler.{' '}
+          <span className="item">Rackmore&apos;s Gold Key</span> drops from any
+          Slitherblade Naga. Take a swim and kill Drysnaps around the ship until
+          you get a Silver Key. It takes about 10 kills on average. Then further
+          north go kill Siltherblade Nagas until you get a gold key. 10 kills on
+          average as well to get a Golden Key.
         </li>
         <li>
           Once you have both keys, go east to the Thunder Axe Fortress. Enter
@@ -954,16 +960,16 @@ function Chapter1() {
           main one. Kill Tyranis and loot the pendant.
           <br /> Go back to Dalinda. Before you talk to her, clear the whole
           building. After you talk to her she will start to walk out of the
-          fortress, escort her and make sure she doesn't die. <br />
-          Warning: Dalinda is one of those stupid escort NPCs who don't stop
-          when YOU are attacked. So let her in the front and make sure she gets
-          hits first. Once out of the fortress she will run away and you will
-          get a "Quest Complete" message.
+          fortress, escort her and make sure she doesn&apos;t die. <br />
+          Warning: Dalinda is one of those stupid escort NPCs who don&apos;t
+          stop when YOU are attacked. So let her in the front and make sure she
+          gets hits first. Once out of the fortress she will run away and you
+          will get a &quot;Quest Complete&quot; message.
         </li>
         <li>
-          Go northeast and back to Nijel's Point, turn in quests, get follow up{' '}
-          <span className="quest">[39] The Karnitol Shipwreck</span>. Sell and
-          Repair, next circuit is gonna be long!
+          Go northeast and back to Nijel&apos;s Point, turn in quests, get
+          follow up <span className="quest">[39] The Karnitol Shipwreck</span>.
+          Sell and Repair, next circuit is gonna be long!
         </li>
       </ol>
       <p>Circuit 2:</p>
@@ -975,9 +981,9 @@ function Chapter1() {
       </p>
       <ol>
         <li>
-          Go south to Kormek'Hut (62,38). Get the quest{' '}
+          Go south to Kormek&apos;Hut (62,38). Get the quest{' '}
           <span className="quest">[39] Bone Collector</span> (62,39) from Bibbly
-          F'utzbuckle.
+          F&apos;utzbuckle.
         </li>
         <li>
           Then go west to the big tower and turn in your quest{' '}
@@ -989,7 +995,7 @@ function Chapter1() {
           Go northwest and take a swim towards the Ranazjar Isle. Clear the
           eastern shore of the isle. You should find a chest in between a tree
           and the white building. Click it to complete{' '}
-          <span className="quest">[36] Claim Rackmore's Treasure</span>.
+          <span className="quest">[36] Claim Rackmore&apos;s Treasure</span>.
         </li>
         <li>
           Then clear yourself a path through the Nagas so that you can reach the
@@ -999,16 +1005,16 @@ function Chapter1() {
           loot the <span className="item">Book of the Ancients</span>. Before
           you go, kill Slitherblade Tidehunters and Slitherblade Sea Witches
           until one of them drops{' '}
-          <span className="item">Karnitol's Satchel</span>. Takes 15 kills on
-          average (Took me only 4 once, and another time it took 29 kills).
+          <span className="item">Karnitol&apos;s Satchel</span>. Takes 15 kills
+          on average (Took me only 4 once, and another time it took 29 kills).
         </li>
         <li>Swim back to Azore Aldamort get your rewards.</li>
         <li>
           Now go southeast towards the Kodo Graveyard (48,55). Gather 10{' '}
           <span className="item">Kodo Bone</span>s there, kill the Carrion
-          Vultures if they are in the way. When you loot a bone there's a 50%
-          chance a lvl 37-38 Kodo Apparition will pop up and attack you. You can
-          run away or deal with it, up to you, they disappear after about 10
+          Vultures if they are in the way. When you loot a bone there&apos;s a
+          50% chance a lvl 37-38 Kodo Apparition will pop up and attack you. You
+          can run away or deal with it, up to you, they disappear after about 10
           minutes.
         </li>
         <li>
@@ -1023,11 +1029,11 @@ function Chapter1() {
           When done with that, go southeast to the Magram Village (70,70) and
           kill centaurs until you are friendly with the Gelkis (exactly 50
           Kills, 46 if you are human). You can check your reputation with the
-          Gelkis Centaur Clan by opening your character panel ("C" key) and
-          clicking on the reputation tab or just directly press "U" key. After
-          those 50 Kills you should also have 15{' '}
-          <span className="item">Centaur Ear</span>s by now, if you don't, just
-          kill some more centaurs.
+          Gelkis Centaur Clan by opening your character panel (&quot;C&quot;
+          key) and clicking on the reputation tab or just directly press
+          &quot;U&quot; key. After those 50 Kills you should also have 15{' '}
+          <span className="item">Centaur Ear</span>s by now, if you don&apos;t,
+          just kill some more centaurs.
         </li>
       </ol>
       <p>
@@ -1048,17 +1054,17 @@ function Chapter1() {
           When done with the 30 Ravagers, from the big Arch, go west, stay close
           to the mountain on your left until you reach Gelkis Village. Then go
           northwest until you find Uthek The Wise (36,79). Turn in the quest{' '}
-          <span className="quest">[35] Strange Alliance</span>, don't get the
-          follow up.
+          <span className="quest">[35] Strange Alliance</span>, don&apos;t get
+          the follow up.
         </li>
         <li>
           Take the road east / northeast and then north. Follow the road until
-          you reach Kormek's Hut (62,38) and turn in{' '}
+          you reach Kormek&apos;s Hut (62,38) and turn in{' '}
           <span className="quest">[39] Bone Collector</span>.
         </li>
         <li>
-          Then go north to Nigel's Point and turn in all the quests. Get the
-          follow ups:
+          Then go north to Nigel&apos;s Point and turn in all the quests. Get
+          the follow ups:
         </li>
       </ol>
       <ul>
@@ -1076,11 +1082,11 @@ function Chapter1() {
       />
       <p>
         This session started with the Satyr quest and finished right now after
-        turning in all the quests in Nijel's Point. That was done with a level
-        36 character with average gear, solo, on a new server (no twink). I've
-        tried it with 3 different classes and it works just as well. And there
-        is still two quests to turn in, that's just to show how efficient the
-        quest path of desolace can be when done the right way.{' '}
+        turning in all the quests in Nijel&apos;s Point. That was done with a
+        level 36 character with average gear, solo, on a new server (no twink).
+        I&apos;ve tried it with 3 different classes and it works just as well.
+        And there is still two quests to turn in, that&apos;s just to show how
+        efficient the quest path of desolace can be when done the right way.{' '}
         <span role="img" aria-label="smile">
           🙂
         </span>
@@ -1113,13 +1119,13 @@ function Chapter1() {
           and you should be fine.
         </li>
         <li>
-          You don't like instances at all. In that case, go to the next step of
-          the guide, Badlands.
+          You don&apos;t like instances at all. In that case, go to the next
+          step of the guide, Badlands.
         </li>
       </ol>
       <p>
-        Note: Doing Scarlet monastery got me about 75000 XP. That's almost a
-        full level, so I was level 38 and halfway to level 39 before going to
+        Note: Doing Scarlet monastery got me about 75000 XP. That&apos;s almost
+        a full level, so I was level 38 and halfway to level 39 before going to
         Badlands.
       </p>
       <h6>Level 38:</h6>
@@ -1131,8 +1137,8 @@ function Chapter1() {
           <span className="item">Patterned Bronze Bracers</span>, the{' '}
           <span className="item">Frost Oil</span> and the{' '}
           <span className="item">Gyrocronatom</span> from your bank (or buy them
-          now if you didn't yet). I suggest you buy 4 stacks of food/drink at
-          least before leaving.
+          now if you didn&apos;t yet). I suggest you buy 4 stacks of food/drink
+          at least before leaving.
         </li>
         <li>
           Go to the Hall of Explorers and get the quest{' '}
@@ -1140,16 +1146,17 @@ function Chapter1() {
           Prospector Stormpike.
         </li>
         <li>
-          From <strong>Ironforge</strong>, fly to Thelsamar, if you don't have
-          the flight path, run out of <strong>Ironforge</strong>, follow the
-          road east and take the tunnel at the South Gate Outpost (86,51) You
-          will be in Loch Modan then, follow the road northeast to Thelsamar.
+          From <strong>Ironforge</strong>, fly to Thelsamar, if you don&apos;t
+          have the flight path, run out of <strong>Ironforge</strong>, follow
+          the road east and take the tunnel at the South Gate Outpost (86,51)
+          You will be in Loch Modan then, follow the road northeast to
+          Thelsamar.
         </li>
         <li>
           In Thelsamar get the quest{' '}
           <span className="quest">[39] Badlands Reagent Run</span> from Ghak
           Healtouch in the alchemy supplies house. Then go southeast to
-          Ironband's Excavation Site (65,65). Get the follow up quest from
+          Ironband&apos;s Excavation Site (65,65). Get the follow up quest from
           Prospector Ironband <span className="quest">[38] Find Agmond</span>.
           Then go southwest to Badlands.
         </li>
@@ -1161,8 +1168,8 @@ function Chapter1() {
       <p>In Badlands kill any Buzzard or Coyote you find on your way.</p>
       <ol>
         <li>
-          Go south, past Hammertoe's Dig Site, until you find Prospector Ryedol
-          and Sigrun Ironhew (53,43). Get quests:
+          Go south, past Hammertoe&apos;s Dig Site, until you find Prospector
+          Ryedol and Sigrun Ironhew (53,43). Get quests:
           <br />
           <span className="quest">[35] A Dwarf and His Tools</span>
           <br />
@@ -1178,12 +1185,12 @@ function Chapter1() {
           Rigglefuzz.
           <br />
           Note: Whenever you need to sell or repair, go to this spot. There is a
-          goblin smithing supplier and it's the only vendor and repairer in
+          goblin smithing supplier and it&apos;s the only vendor and repairer in
           Badlands.
         </li>
         <li>
-          Then go west and a bit to the north until you find Lotwil Veriatus's
-          Camp (25,44). Get quest{' '}
+          Then go west and a bit to the north until you find Lotwil
+          Veriatus&apos;s Camp (25,44). Get quest{' '}
           <span className="quest">[37] Study of the Elements: Rock</span>
           <p>
             Get <span className="quest">[37] Coolant Heads Prevail</span>, turn
@@ -1199,11 +1206,11 @@ function Chapter1() {
           Elemental Earth, they sell fairly nice at the Auction house). Stay at
           this spot until you get 10{' '}
           <span className="item">Small Stone Shard</span> and hit level 39. If
-          you don't like elementals, or if the spot is already overcrowded, go
-          east to Angor Fortress, and kill Dwarves. For those who didn't go to
-          Scarlet Monastery this will mean a long grinding session, but this
-          will also mean good XP rate and cash (and you need to get your mount
-          soon!). Go turn in{' '}
+          you don&apos;t like elementals, or if the spot is already overcrowded,
+          go east to Angor Fortress, and kill Dwarves. For those who didn&apos;t
+          go to Scarlet Monastery this will mean a long grinding session, but
+          this will also mean good XP rate and cash (and you need to get your
+          mount soon!). Go turn in{' '}
           <span className="quest">[37] Study of the Elements: Rock</span> at
           Lotwil Veriatus and get the follow up.
         </li>
@@ -1211,26 +1218,26 @@ function Chapter1() {
       <h6>Level 39</h6>
       <ol>
         <li>
-          Go east and a bit to the north to Hammertoe's Digsite.
+          Go east and a bit to the north to Hammertoe&apos;s Digsite.
           <br />
           At (53,34) under a tent next to a big keg you will find a{' '}
           <span className="item">Crumpled Map</span> on the floor. Click it and
           get the quest <span className="quest">[35] A Sign of Hope</span>. Then
-          keep on killing Dark Dwarves until you get Ryedol's Lucky Pick.
+          keep on killing Dark Dwarves until you get Ryedol&apos;s Lucky Pick.
         </li>
         <li>
           Then go northeast to Camp Kosh where you can find the{' '}
           <span className="item">Supply Crate</span>. (67,22)
           <p>
             When you got the crate, go back to Prospector Ryedol south of
-            Hammertoe's Digsite and turn in the quests.
+            Hammertoe&apos;s Digsite and turn in the quests.
             <br /> Get the follow up{' '}
             <span className="quest">[39] Scrounging</span> from Sigrun Ironhew.
           </p>
         </li>
         <li>
-          Go south to Agmond's End and find a Battered Dwarven Skeleton (50,62),
-          click it and complete the quest and get the follow up{' '}
+          Go south to Agmond&apos;s End and find a Battered Dwarven Skeleton
+          (50,62), click it and complete the quest and get the follow up{' '}
           <span className="quest">[42] Murdaloc</span>.
         </li>
         <li>
@@ -1249,7 +1256,7 @@ function Chapter1() {
           take a while.
         </li>
         <li>
-          Go north to Apocryphan's Rest (16,60) and kill Buzzards / Coyotes
+          Go north to Apocryphan&apos;s Rest (16,60) and kill Buzzards / Coyotes
           until complete{' '}
           <span className="quest">[40] Barbecued Buzzard Wings</span> and{' '}
           <span className="quest">[39] Badlands Reagent Run</span>.
@@ -1271,10 +1278,10 @@ function Chapter1() {
       </p>
       <p>
         You should be getting close to level 40 at this point, about 35000 xp to
-        go normally, if you still follow the "kill everything on your way" rule.
-        Go grind on Rock Elementals or Lesser Rock Elementals, Dark Dwarves or
-        Troggs. There are a lot of Dwarves at the Angor Fortress. It's up to
-        you. Should take about 1h30 of grinding.
+        go normally, if you still follow the &quot;kill everything on your
+        way&quot; rule. Go grind on Rock Elementals or Lesser Rock Elementals,
+        Dark Dwarves or Troggs. There are a lot of Dwarves at the Angor
+        Fortress. It&apos;s up to you. Should take about 1h30 of grinding.
       </p>
       <p>
         It went quite well for me, I was doing 41000 XP/Hour before I got to the
@@ -1288,8 +1295,8 @@ function Chapter1() {
         />
       </p>
       <p>
-        So that's approximately 1 level and a half in 4 Hours. If you can do
-        better, I would love to know!{' '}
+        So that&apos;s approximately 1 level and a half in 4 Hours. If you can
+        do better, I would love to know!{' '}
         <span role="img" aria-label="smile">
           🙂
         </span>
@@ -1316,10 +1323,11 @@ function Chapter1() {
         <li>
           Go to the southwestern part of the map (17, 83) and kill Greater Rock
           Elementals until you get 5{' '}
-          <span className="item">Bracers of Rock Binding</span>. There's another
-          camp of Greater Rock Elementals further to the west past the Ogres
-          (6,83). This will be hard because some of the elementals are level 44.
-          Try to find level 42 or 43 ones if the level 44 are too hard for you.
+          <span className="item">Bracers of Rock Binding</span>. There&apos;s
+          another camp of Greater Rock Elementals further to the west past the
+          Ogres (6,83). This will be hard because some of the elementals are
+          level 44. Try to find level 42 or 43 ones if the level 44 are too hard
+          for you.
         </li>
         <li>
           When you are done, grind until you are about 5000 xp or less from
@@ -1350,13 +1358,14 @@ function Chapter1() {
         This grinding sessions was tested by 3 different characters, the XP/Hour
         rate was in between 22000 XP/HOUR and 26000 XP/HOUR depending of the
         class. And there is still a nice little XP boost to come when completing
-        the following steps. So grinding isn't bad at all, of course it's not as
-        good as an optimized quest circuit, but it's still decent and you will
-        see for yourself, it will bring a nice sum of cash. The stones from the
-        elementals stack and sell nicely at the merchant, plus, they drop
-        Elemental Earth which goes for at least 50 silver each at the AH. Same
-        thing with the Dwarves, they drop Silk and sometimes Mageweave. Sell
-        Silk / Mageweave at the AH and you'll get 'rich' quickly.
+        the following steps. So grinding isn&apos;t bad at all, of course
+        it&apos;s not as good as an optimized quest circuit, but it&apos;s still
+        decent and you will see for yourself, it will bring a nice sum of cash.
+        The stones from the elementals stack and sell nicely at the merchant,
+        plus, they drop Elemental Earth which goes for at least 50 silver each
+        at the AH. Same thing with the Dwarves, they drop Silk and sometimes
+        Mageweave. Sell Silk / Mageweave at the AH and you&apos;ll get
+        &apos;rich&apos; quickly.
       </p>
       <h6>Level 41</h6>
       <p>
@@ -1365,11 +1374,11 @@ function Chapter1() {
         you accept the next step from Lotwil, be warned: A level 45 Elemental
         will spawn and you will have to defeat it. At level 41 this is hard but
         possible for every class. Just use every long cooldown ability you have
-        as well as potions. Loot "Lotwil's Shackles of Elemental Binding" from
-        the Fam'retor Elemental and go turn in the quest to Lotwil.
-        Congratulations, you are done with Badlands and with the first Chapter
-        of this leveling guide! Warp to <strong>Ironforge</strong> and sell /
-        repair / auction etc.
+        as well as potions. Loot &quot;Lotwil&apos;s Shackles of Elemental
+        Binding&quot; from the Fam&apos;retor Elemental and go turn in the quest
+        to Lotwil. Congratulations, you are done with Badlands and with the
+        first Chapter of this leveling guide! Warp to <strong>Ironforge</strong>{' '}
+        and sell / repair / auction etc.
       </p>
       <p>-Jame</p>
     </div>

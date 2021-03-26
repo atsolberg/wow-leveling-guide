@@ -1,8 +1,7 @@
-const rewireEslint = require('react-app-rewire-eslint');
- 
-/* config-overrides.js */
-module.exports = function override(config, env) {
-  config = rewireEslint(config, env);
-  return config;
-}
+const { override, useEslintRc, addBabelPreset } = require('customize-cra');
 
+/* config-overrides.js */
+module.exports = override(
+  addBabelPreset('@emotion/babel-preset-css-prop')
+  // useEslintRc('./.eslintrc')
+);

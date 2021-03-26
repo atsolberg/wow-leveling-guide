@@ -12,10 +12,11 @@ function Tools() {
 
   function onSearch({ target: { value } }) {
     dispatch({ type: 'search', payload: value });
-    if (value?.length > 2)
+    if (value?.length > 2) {
       client({
         endpoint: `https://classicdb.com/opensearch.php?search=${value}`,
-      }).then(resp => {});
+      });
+    }
   }
 
   return (
@@ -30,7 +31,7 @@ function Tools() {
           <Form.Label>Search</Form.Label>
           <Form.Control type="text" value={search} onInput={onSearch} />
           <Form.Text className="text-muted">
-            Search for anything - quests, items, npc's...
+            Search for anything - quests, items, npc&apos;s...
           </Form.Text>
         </Form.Group>
 

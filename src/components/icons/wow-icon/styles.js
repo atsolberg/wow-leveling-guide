@@ -1,4 +1,4 @@
-import { css } from '@emotion/core';
+import { css } from '@emotion/react';
 import bg from '../../../images/icon-overlay.png';
 import hl from '../../../images/icon-highlight-md.png';
 

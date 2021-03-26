@@ -4,32 +4,12 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "dependencies": {
-    "@emotion/babel-preset-css-prop": "10.0.14",
-    "@emotion/core": "10.0.15",
-    "@reach/router": "1.2.1",
-    "axios": "0.19.0",
-    "immer": "^9.0.0",
-    "now": "^16.2.0",
-    "prettier": "1.18.2",
-    "react": "16.8.6",
-    "react-app-rewire-eslint": "^0.2.3",
-    "react-app-rewired": "^2.1.8",
-    "react-bootstrap": "^1.5.2",
-    "react-dom": "16.8.6",
-    "react-scripts": "4.0.3",
-    "react-transition-group": "4.2.2",
-    "use-immer": "^0.5.1"
-  },
-  "devDependencies": {
-    "typescript": "3.3.3"
-  },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test --env=jsdom",
     "eject": "react-scripts eject",
-    "lint:errors": "eslint src --cache --quiet",
+    "lint:check": "eslint src --cache --quiet",
     "lint:fix": "eslint src --fix",
     "prettier:check": "prettier --list-different 'src/**/*.{js,jsx}'",
     "prettier:fix": "prettier --write 'src/**/*.{js,jsx}'"
@@ -39,5 +19,34 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "dependencies": {
+    "@emotion/babel-preset-css-prop": "^11.0.0",
+    "@emotion/react": "^11.1.5",
+    "@reach/router": "1.2.1",
+    "axios": "0.19.0",
+    "customize-cra": "^1.0.0",
+    "immer": "^9.0.0",
+    "now": "^16.2.0",
+    "prettier": "1.18.2",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.5.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "react-transition-group": "4.2.2",
+    "use-immer": "^0.5.1"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^2.10.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jest": "^22.21.0",
+    "eslint-plugin-react": "^7.11.1",
+    "eslint-plugin-react-hooks": "^1.5.1",
+    "eslint-plugin-testing-library": "^3.3.0",
+    "react-app-rewire-eslint": "^0.2.3",
+    "react-app-rewired": "^2.1.8",
+    "typescript": "3.3.3"
+  }
 }
