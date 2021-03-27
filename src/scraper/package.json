@@ -4,12 +4,20 @@
   "description": "Scrape a class wow data site",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "lint": "eslint --cache --quiet",
+    "lint:fix": "eslint --fix",
+    "prettier": "prettier --list-different '**/*.{js,jsx}'",
+    "prettier:fix": "prettier --write '**/*.{js,jsx}'"
   },
   "author": "Aaron Solberg",
   "license": "ISC",
   "dependencies": {
+    "colors": "^1.4.0",
     "puppeteer": "^8.0.0"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^7.23.0"
+  }
 }

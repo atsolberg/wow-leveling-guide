@@ -6,7 +6,7 @@
     "node": true
   },
   "extends": ["airbnb", "prettier"],
-  "plugins": ["react", "react-hooks", "jest", "testing-library"],
+  "plugins": ["jest", "testing-library"],
   "rules": {
     // CORE
     // ------------------------------------------------------------------------
@@ -20,8 +20,10 @@
     "prefer-const": ["warn"],
     "prefer-destructuring": ["off"],
     "prefer-rest-params": ["warn"],
+    "prefer-template": ["off"],
     "no-bitwise": ["warn"],
     "no-cond-assign": ["warn"],
+    "no-console": ["off"],
     "no-extra-boolean-cast": ["warn"],
     "no-lonely-if": ["warn"],
     "no-nested-ternary": ["warn"],
@@ -58,7 +60,8 @@
 
     // IMPORT
     // ------------------------------------------------------------------------
-    "import/extensions": ["off"],
+    // For now, node
+    "import/extensions": ["error", { "js": "always" }],
     "import/no-cycle": ["warn"],
     "import/no-mutable-exports": ["warn"],
     // Don't require an extension for imported files
@@ -75,41 +78,6 @@
     "jest/no-focused-tests": "error",
     "jest/no-identical-title": "error",
     "jest/prefer-to-have-length": "warn",
-    "jest/valid-expect": "error",
-
-    // A11Y
-    // ------------------------------------------------------------------------
-    "jsx-a11y/label-has-for": "off",
-    "jsx-a11y/anchor-has-content": ["warn"],
-    "jsx-a11y/anchor-is-valid": ["warn"],
-
-    // REACT
-    // ------------------------------------------------------------------------
-    "react-hooks/exhaustive-deps": "warn",
-    "react-hooks/rules-of-hooks": "error",
-    "react/destructuring-assignment": ["off"],
-    "react/forbid-prop-types": ["warn"],
-    // Let prettier manage jsx styling
-    "react/jsx-closing-tag-location": "off",
-    // Allow JSX in .js files
-    "react/jsx-filename-extension": ["error", { "extensions": [".js"] }],
-    "react/jsx-no-bind": ["warn"],
-    "react/jsx-one-expression-per-line": "off",
-    "react/jsx-pascal-case": ["warn"],
-    "react/jsx-wrap-multilines": ["error", { "prop": "ignore" }],
-    "react/no-access-state-in-setstate": ["error"],
-    "react/no-array-index-key": ["warn"],
-    // Allow html
-    "react/no-danger": "off",
-    "react/no-find-dom-node": ["warn"],
-    // Allow multiple components per file
-    "react/no-multi-comp": "off",
-    "react/no-string-refs": ["warn"],
-    "react/no-unescaped-entities": ["warn"],
-    "react/prefer-es6-class": ["warn"],
-    "react/prefer-stateless-function": ["warn"],
-    "react/prop-types": ["warn"],
-    "react/require-default-props": "off",
-    "react/sort-comp": ["warn"]
+    "jest/valid-expect": "error"
   }
 }

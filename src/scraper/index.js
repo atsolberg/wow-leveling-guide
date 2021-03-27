@@ -1,78 +1,42 @@
-import fs from 'fs';
-import puppeteer from 'puppeteer';
-import parsePageForItems from './utils.js';
+import 'colors';
+import scrapeItemList from './scrape-item-list.js';
+import { isSuperset, intersection, difference } from './util/set.js';
 
-const items_url = 'https://classic.wowhead.com/items';
+const FLAGS = ['-t', '--test', '-d', '--debug'];
+const TASKS = ['itemlist', 'itemdata', 'all'];
 
-function filterRange(from, to) {
-  return `${items_url}?filter=151:151;2:4;${from}:${to}`;
+const [, , task, ...rest] = process.argv;
+const flags = (rest || []).filter(Boolean);
+const test = intersection(['-t', '--test'], flags).size > 0;
+const debug = intersection(['-d', '--debug'], flags).size > 0;
+const task_log = `(${TASKS.map((t) => t.yellow).join(', ')})`;
+
+if (process.argv.length === 2 || task.indexOf('-') === 0) {
+  console.error('\nExpected at least one argument!\n'.red);
+  console.info(`Run with one of ${task_log}`);
+  console.info('Example: `' + 'npm run index itemlist'.green + '`\n');
+  process.exit(1);
 }
 
-async function scrapeItemIds(page) {
-  let items = [];
-
-  let from = 1;
-  let to = 1000;
-  for (let i = 1; i <= 25; i++) {
-    const url = filterRange(from, to);
-    console.log(`navigating to: `, url, '\n');
-    await page.goto(url);
-    const rowData = await parsePageForItems(page);
-    items = [...items, ...rowData];
-    from = from + 1000;
-    to = to + 1000;
-  }
-
-  if (items.length) {
-    console.log(`found ${items.length} items`);
-    const json = JSON.stringify(items, null, 2);
-    fs.writeFileSync('../db/items.json', json);
-  } else {
-    console.error('No items scraped!');
+if (flags) {
+  if (!isSuperset(FLAGS, flags)) {
+    const unknown = Array.from(difference(flags, FLAGS))
+      .map((f) => f.gray)
+      .join(', ');
+    console.warn(`\nIgnoring unknown flags `.yellow + unknown + '\n');
   }
 }
 
-/**
- * Without aborting some requests that are 'pending' forever,
- * some page actions will hang forever.
- */
-function ignoreGarbage(request) {
-  const url = request.url();
-  const filters = [
-    'livefyre',
-    'moatad',
-    'analytics',
-    'controltag',
-    'chartbeat',
-    'id5-sync.com',
-    'googlesyndication',
-    '2mdn.net',
-    'omweb',
-    'anyclip',
-    'pagead',
-  ];
-  const shouldAbort = filters.some(urlPart => url.indexOf(urlPart) !== -1);
-  if (shouldAbort) request.abort();
-  else request.continue();
+switch (task) {
+  case 'itemlist': {
+    scrapeItemList(test, debug);
+    break;
+  }
+
+  default: {
+    console.error(`\nUnknown task id "${task}"`.red);
+    console.error(`Expected one of ${task_log}\n`);
+    process.exit(1);
+    break;
+  }
 }
-
-puppeteer
-  .launch({
-    defaultViewport: {
-      width: 1200,
-      height: 900,
-    },
-    // headless: false,
-    // devtools: true,
-  })
-  .then(browser => browser.newPage())
-  .then(async function(page) {
-    await page.setRequestInterception(true);
-    page.on('request', ignoreGarbage);
-
-    await scrapeItemIds(page);
-  })
-  .catch(function(err) {
-    //handle error
-    console.log('Caught an error', err);
-  });

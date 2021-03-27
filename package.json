@@ -9,9 +9,9 @@
     "build": "react-app-rewired build",
     "test": "react-app-rewired test --env=jsdom",
     "eject": "react-scripts eject",
-    "lint:check": "eslint src --cache --quiet",
+    "lint": "eslint src --cache --quiet",
     "lint:fix": "eslint src --fix",
-    "prettier:check": "prettier --list-different 'src/**/*.{js,jsx}'",
+    "prettier": "prettier --list-different 'src/**/*.{js,jsx}'",
     "prettier:fix": "prettier --write 'src/**/*.{js,jsx}'"
   },
   "browserslist": [
