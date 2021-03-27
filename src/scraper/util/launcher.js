@@ -1,4 +1,5 @@
 import puppeteer from 'puppeteer';
+import Scraper from '../Scraper.js';
 
 /**
  * Without aborting some requests that are 'pending' forever,
@@ -26,21 +27,23 @@ function ignoreGarbage(request) {
 
 /**
  * Function to scrape the page with the puppeteer page instance and flags
- * @callback scraper
+ * @callback runner
  * @param {Page} page
  * @param {boolean} test - is the test flag set
  * @param {boolean} debug - is the debug flag set
+ * @return {Promise<boolean>} - success or failure
  */
 
 /**
  * Setup puppeteer to build a page and then return a object with a start
  * function that can start the scraper using the page.
- * @param {boolean} test - is the test flag set
- * @param {boolean} debug - is the debug flag set
- * @param {scraper} scraper - function to scrape the page
- * @returns {Promise<{start: function}>}
+ * @param {Object} config
+ * @param {boolean} config.test - is the test flag set
+ * @param {boolean} config.debug - is the debug flag set
+ * @param {runner} config.runner - function to scrape the page
+ * @returns {Promise<{Scraper}>}
  */
-async function launcher(test, debug, scraper) {
+async function launcher({ test, debug, runner }) {
   const page = await puppeteer
     .launch({
       defaultViewport: { width: 1200, height: 900 },
@@ -57,11 +60,13 @@ async function launcher(test, debug, scraper) {
       console.log('Caught an error', err);
     });
 
-  return {
-    start: function start() {
-      return scraper(page, test, debug);
-    },
-  };
+  return new Scraper(runner, page, test, debug);
+
+  // return {
+  //   start: function start() {
+  //     return scraper(page, test, debug);
+  //   },
+  // };
 }
 
 export default launcher;

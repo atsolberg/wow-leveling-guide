@@ -1,5 +1,5 @@
 import fs from 'fs';
-import parsePageForItems from './util/items.js';
+import parsePageForItems from '../util/items.js';
 
 const items_url = 'https://classic.wowhead.com/items';
 
@@ -38,11 +38,13 @@ async function scrapePages(page, chunks = 25) {
 
 /**
  * Scrape the wowhead items table by search for id ranges of 1000 at a time.
+ * Note: Function name is used in {@link Scraper} console logging.
+ *
  * @param {Page} page - the puppeteer page instance.
  * @param {boolean} test - if true, the db/items.json file is not destroyed
  *                         a test file is written to instead.
  */
-async function scrapeItemList(page, test) {
+async function itemlist(page, test) {
   const items = await scrapePages(page, test ? 1 : 25);
 
   if (items.length) {
@@ -57,4 +59,4 @@ async function scrapeItemList(page, test) {
   return items;
 }
 
-export default scrapeItemList;
+export default itemlist;
