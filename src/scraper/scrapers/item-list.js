@@ -41,7 +41,7 @@ async function scrapePages(page, chunks = 25) {
  * Note: Function name is used in {@link Scraper} console logging.
  *
  * @param {Page} page - the puppeteer page instance.
- * @param {boolean} test - if true, the db/items.json file is not destroyed
+ * @param {boolean} test - if true, the db/items/list.json file is not destroyed
  *                         a test file is written to instead.
  */
 async function itemlist(page, test) {
@@ -49,7 +49,7 @@ async function itemlist(page, test) {
 
   if (items.length) {
     const json = JSON.stringify(items, null, 2);
-    const path = `../db/items${test ? Date.now() : ''}.json`;
+    const path = `../db/items/list${test ? `-${Date.now()}` : ''}.json`;
     fs.writeFileSync(path, json);
     console.log('📦 Scraped ' + `${items.length}`.green + ' items');
   } else {

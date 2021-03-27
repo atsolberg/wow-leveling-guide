@@ -60,7 +60,6 @@
 
     // IMPORT
     // ------------------------------------------------------------------------
-    // For now, node
     "import/extensions": ["error", { "js": "always" }],
     "import/no-cycle": ["warn"],
     "import/no-mutable-exports": ["warn"],

@@ -4,7 +4,7 @@ import { isSuperset, intersection, difference } from './util/set.js';
 import launcher from './util/launcher.js';
 
 import itemListScraper from './scrapers/item-list.js';
-// import itemDataScraper from './scrapers/item-data.js';
+import itemDataScraper from './scrapers/item-data.js';
 
 const FLAGS = ['-t', '--test', '-d', '--debug'];
 const TASKS = ['itemlist', 'itemdata', 'all'];
@@ -34,6 +34,14 @@ if (flags) {
 switch (task) {
   case 'itemlist': {
     launcher({ test, debug, runner: itemListScraper }).then(async (scraper) => {
+      const success = await scraper.start();
+      if (!debug) process.exit(success ? 0 : 1);
+    });
+    break;
+  }
+
+  case 'itemdata': {
+    launcher({ test, debug, runner: itemDataScraper }).then(async (scraper) => {
       const success = await scraper.start();
       if (!debug) process.exit(success ? 0 : 1);
     });

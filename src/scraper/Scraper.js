@@ -35,7 +35,7 @@ class Scraper {
     const elapsed = Date.now() - start;
     const time = formatter.duration(elapsed);
 
-    console.log(`✨ "${this.getName()}" finished after ${time}`);
+    console.log(`✨ ${this.getName().yellow} finished after ${time.green}`);
     return success;
   }
 }

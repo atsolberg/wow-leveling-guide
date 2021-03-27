@@ -61,12 +61,6 @@ async function launcher({ test, debug, runner }) {
     });
 
   return new Scraper(runner, page, test, debug);
-
-  // return {
-  //   start: function start() {
-  //     return scraper(page, test, debug);
-  //   },
-  // };
 }
 
 export default launcher;

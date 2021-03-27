@@ -15,12 +15,14 @@ function duration(millis) {
   const showMin = r_min > 0 && full_min;
 
   const hours = minutes / 60;
+  const showHours = hours > 1;
 
   let d = '';
 
-  if (hours > 1) d += `${Math.floor(hours)}h`;
+  if (showHours) d += `${Math.floor(hours)}h`;
   if (showMin) d += `${d.length > 0 ? ' ' : ''}${Math.floor(r_min)}m`;
   if (showSec) d += `${d.length > 0 ? ' ' : ''}${Math.floor(r_sec)}s`;
+  if (!showHours && !showMin && !showSec) d += `${millis}ms`;
 
   return d;
 }
