@@ -1,6 +1,8 @@
 import 'colors';
 import scrapeItemList from './scrape-item-list.js';
 import { isSuperset, intersection, difference } from './util/set.js';
+import launcher from './util/launcher.js';
+import formatter from './util/formatter.js';
 
 const FLAGS = ['-t', '--test', '-d', '--debug'];
 const TASKS = ['itemlist', 'itemdata', 'all'];
@@ -29,7 +31,23 @@ if (flags) {
 
 switch (task) {
   case 'itemlist': {
-    scrapeItemList(test, debug);
+    const start = Date.now();
+    launcher(test, debug, scrapeItemList).then(async (scraper) => {
+      const items = await scraper.start();
+
+      const count = items.length;
+      const elapsed = Date.now() - start;
+      const time = formatter.duration(elapsed);
+
+      if (count) {
+        console.log(`✨ "itemlist" finished after ${time} with ${count} items`);
+        if (!debug) process.exit(0);
+      } else {
+        console.log(`💣 "itemlist" finished after ${time} with no items!`);
+        if (!debug) process.exit(1);
+      }
+    });
+
     break;
   }
 

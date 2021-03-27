@@ -6,6 +6,10 @@
  * This file is meant to be run in the browser context.
  */
 
+window.ats_text = function text(node) {
+  return node.innerText;
+};
+
 window.ats_QUALITY = [
   'Poor',
   'Common',

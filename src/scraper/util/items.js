@@ -1,10 +1,19 @@
-import fs from 'fs';
+import { text } from './puppets.js';
 
-const item_url_rgx = /\/item=(\d+)\/(.+)$/;
+/**
+ * Item quality enumeration
+ * @enum
+ */
+export const Quality = {
+  POOR: 'Poor',
+  COMMON: 'Common',
+  UNCOMMON: 'Uncommon',
+  RARE: 'Rare',
+  EPIC: 'Epic',
+  LEGENDARY: 'Legendary',
+};
 
-function text(node) {
-  return node.innerText;
-}
+export const item_url_rgx = /\/item=(\d+)\/(.+)$/;
 
 /**
  * Returns an array of item data for each row
@@ -23,12 +32,7 @@ function parseData(data) {
         item.id = id;
         item.slug = slug;
       } else {
-        console.log(
-          `no data found for href: `,
-          data.url,
-          ' and match: ',
-          match
-        );
+        console.log(`⛔️ failed to parse href: ${data.url}, match: ${match}`);
       }
 
       return item;
@@ -65,11 +69,12 @@ async function parsePageForItems(page) {
   const nav = await page.$('.listview-nav');
   const page_total = await nav.$eval('span b:nth-child(2)', text);
   const total = await nav.$eval('span b:nth-child(3)', text);
-
-  console.log(`page_total: `, page_total);
-  console.log(`total: `, total);
   const pages = Math.ceil(Number(total) / page_total);
-  console.log(`pages: `, pages);
+
+  let stats = 'total items: ' + `${total}`.yellow;
+  stats += ', items per page: ' + `${page_total}`.yellow;
+  stats += ', pages: ' + `${pages}`.yellow;
+  console.log(stats + '\n');
 
   let items = [];
   const urls = await page.$$eval('#tab-items tbody tr', scrapeRows);
@@ -80,7 +85,7 @@ async function parsePageForItems(page) {
     for (let i = 2; i <= pages; i++) {
       const nextLink = await page.$('a:nth-of-type(4)');
       if (nextLink) {
-        console.log('\nfetch next results for page', i);
+        console.log('fetch next results for page', i);
 
         // Clicks off screen can hang..., use page.$eval instead page.click
         // https://github.com/puppeteer/puppeteer/issues/3535#issuecomment-439220220
@@ -91,7 +96,10 @@ async function parsePageForItems(page) {
         const to = await next_nav.$eval('span b:nth-child(2)', text);
         const of = await next_nav.$eval('span b:nth-child(3)', text);
 
-        console.log(`paging: ${start} to ${to} of ${of}`);
+        let paging = 'paging: ' + `${start}`.yellow;
+        paging += ' to ' + `${to}`.yellow;
+        paging += ' of ' + `${of}`.yellow;
+        console.log(paging + '\n');
 
         const urls = await page.$$eval('#tab-items tbody tr', scrapeRows);
         const data = parseData(urls);
