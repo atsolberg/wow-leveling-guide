@@ -10,7 +10,12 @@ const item_url = 'https://classic.wowhead.com/item=';
  *                         a test file is written to instead.
  */
 async function itemdata(page, test) {
-  const items = JSON.parse(fs.readFileSync('../db/items/list.json'));
+  const tt_files = fs
+    .readdirSync('../db/items/tt')
+    .map((f) => f.replace(/\.html/, ''));
+
+  const list = fs.readFileSync('../db/items/list.json');
+  const items = JSON.parse(list).filter((i) => !tt_files.includes(i.id));
   let tooltips = 0;
   let misses = 0;
 
@@ -25,10 +30,15 @@ async function itemdata(page, test) {
     // Add some helpers to the browser window
     await page.evaluate(fs.readFileSync('util/helpers.js', 'utf8'));
 
-    const tt = await page.$eval(`#tt${id}`, (el) => el.innerHTML);
+    let tt = null;
+    try {
+      tt = await page.$eval(`#tt${id}`, (el) => el.innerHTML);
+    } catch (err) {
+      console.log(`⛔️ no tooltip element found for ${id} - ${name}!`);
+    }
 
     if (!(tt || '').trim()) {
-      console.log(`⛔️ no toolTip content found for ${id} - ${name}!`);
+      console.log(`⛔️ no tooltip content found for ${id} - ${name}!`);
       misses += 1;
     } else {
       const path = `../db/items/tt${test ? `-test` : ''}/${id}.html`;
