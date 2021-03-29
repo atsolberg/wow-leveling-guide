@@ -1,5 +1,4 @@
 .idea
 *.iml
 node_modules
-src/db/items/tt
 build
