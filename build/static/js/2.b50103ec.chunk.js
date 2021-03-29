@@ -285,7 +285,7 @@
                     return (
                       '-webkit-' +
                       i +
-                      '-ms-flex-item-link-' +
+                      '-ms-flex-tt-link-' +
                       i.replace(k, '') +
                       i
                     );
@@ -1587,7 +1587,7 @@
             f = void 0 === c ? 'div' : c,
             d = Object(a.a)(e, ['bsPrefix', 'className', 'children', 'as']);
           return (
-            (n = Object(s.b)(n, 'nav-item-link')),
+            (n = Object(s.b)(n, 'nav-tt-link')),
             u.a.createElement(
               f,
               Object(r.a)({}, d, { ref: t, className: i()(o, n) }),

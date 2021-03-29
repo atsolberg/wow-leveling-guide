@@ -2,7 +2,7 @@ import fs from 'fs';
 
 const item_url = 'https://classic.wowhead.com/item=';
 /**
- * Scrape the wowhead item-link data pages.
+ * Scrape the wowhead tt-link data pages.
  * Note: Function name is used in {@link Scraper} console logging.
  *
  * @param {Page} page - the puppeteer page instance.
@@ -11,7 +11,7 @@ const item_url = 'https://classic.wowhead.com/item=';
  */
 async function itemdata(page, test) {
   const tt_files = fs
-    .readdirSync('../db/items/tt')
+    .readdirSync(`../../public/tt${test ? `-test` : ''}/items`)
     .map((f) => f.replace(/\.html/, ''));
 
   const list = fs.readFileSync('../db/items/list.json');
@@ -41,7 +41,7 @@ async function itemdata(page, test) {
       console.log(`⛔️ no tooltip content found for ${id} - ${name}!`);
       misses += 1;
     } else {
-      const path = `../db/items/tt${test ? `-test` : ''}/${id}.html`;
+      const path = `../../public/tt${test ? `-test` : ''}/items/${id}.html`;
       fs.writeFileSync(path, tt);
       tooltips += 1;
     }

@@ -1,10 +1,10 @@
 /**
- * The general info of an item-link.
+ * The general info of an tt-link.
  * @typedef {Object} ItemInfo
- * @property {string} id - the item-link id
- * @property {string} name - the item-link's name
+ * @property {string} id - the tt-link id
+ * @property {string} name - the tt-link's name
  * @property {string} url - the items wowhead url
- * @property {Quality} quality - the item-link's quality
- * @property {string} image - the item-link's medium wowhead icon url
- * @property {string} slug - the item-link's slug
+ * @property {Quality} quality - the tt-link's quality
+ * @property {string} image - the tt-link's medium wowhead icon url
+ * @property {string} slug - the tt-link's slug
  */

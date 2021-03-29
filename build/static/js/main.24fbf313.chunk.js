@@ -4253,7 +4253,7 @@
                 n.a.createElement(
                   'em',
                   null,
-                  'While killing stuff in Tanaris if you find an item-link named',
+                  'While killing stuff in Tanaris if you find an tt-link named',
                   ' ',
                   n.a.createElement(
                     'span',
@@ -5180,7 +5180,7 @@
                 'Clear the insects in the room. (if you are lucky,',
                 ' ',
                 n.a.createElement('strong', null, '"Qirot"'),
-                ', a rare spawn insect will be there. Kill it for and extra green item-link).'
+                ', a rare spawn insect will be there. Kill it for and extra green tt-link).'
               ),
               n.a.createElement(
                 'p',
@@ -16364,7 +16364,7 @@
                 n.a.createElement(
                   'p',
                   null,
-                  'Sell and repair, check the AH, resupply food and drink (4 stacks) get the following quest item-link from your bank:'
+                  'Sell and repair, check the AH, resupply food and drink (4 stacks) get the following quest tt-link from your bank:'
                 ),
                 n.a.createElement(
                   'p',
@@ -17158,7 +17158,7 @@
                 n.a.createElement(
                   'span',
                   { className: 'em' },
-                  'Get this quest item-link from bank:'
+                  'Get this quest tt-link from bank:'
                 ),
                 n.a.createElement('p', null),
                 n.a.createElement(
@@ -19845,7 +19845,7 @@
           '\n  html {\n    box-sizing: border-box;\n    font-family: ',
           ';\n    font-weight: 400;\n    font-style: normal;\n    -webkit-font-smoothing: antialiased;\n    -moz-osx-font-smoothing: grayscale;\n  }\n\n  body {\n    background-color: ',
           ';\n    color: #abb2bf;\n  }\n\n  a {\n    &,\n    &:hover,\n    &:focus {\n      color: ',
-          ';\n    }\n  }\n\n  h1 h2,\n  h3,\n  h4,\n  h5,\n  h6 {\n    color: #58f;\n  }\n\n  h1 {\n    color: #999;\n    font-size: 2rem;\n  }\n  h2 {\n    font-size: 1.8rem;\n  }\n\n  .em,\n  em {\n    font-style: italic;\n  }\n  .strong,\n  strong {\n    font-weight: bold;\n  }\n\n  hr {\n    border-top: 1px solid #ccc;\n  }\n\n  .item-link {\n    color: #c63;\n  }\n  .quest {\n    color: #ffcc00;\n    font-weight: bold;\n  }\n\n  .small {\n    font-size: 15px;\n  }\n',
+          ';\n    }\n  }\n\n  h1 h2,\n  h3,\n  h4,\n  h5,\n  h6 {\n    color: #58f;\n  }\n\n  h1 {\n    color: #999;\n    font-size: 2rem;\n  }\n  h2 {\n    font-size: 1.8rem;\n  }\n\n  .em,\n  em {\n    font-style: italic;\n  }\n  .strong,\n  strong {\n    font-weight: bold;\n  }\n\n  hr {\n    border-top: 1px solid #ccc;\n  }\n\n  .tt-link {\n    color: #c63;\n  }\n  .quest {\n    color: #ffcc00;\n    font-weight: bold;\n  }\n\n  .small {\n    font-size: 15px;\n  }\n',
         ]);
         return (
           (G = function () {

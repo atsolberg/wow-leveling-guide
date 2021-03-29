@@ -2,7 +2,6 @@ import React, { useEffect } from 'react';
 import { Form } from 'react-bootstrap';
 import { useImmerReducer } from 'use-immer';
 
-// import client from '../../utils/client';
 import reducer, { initialState } from './reducer';
 import WowIcon from '../../components/icons/wow-icon/WowIcon';
 

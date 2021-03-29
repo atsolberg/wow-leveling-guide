@@ -1,5 +1,5 @@
 import React from 'react';
-import ItemLink from '../components/item-link/ItemLink';
+import TtLink from '../components/tt-link/TtLink';
 
 function Chapter1() {
   return (
@@ -95,7 +95,7 @@ function Chapter1() {
       </p>
       <ul>
         <li>
-          1X <ItemLink id="2868">Patterned Bronze Bracers</ItemLink> ~50 Silver
+          1X <TtLink id="2868">Patterned Bronze Bracers</TtLink> ~50 Silver
         </li>
         <li>
           1X <span className="item">Frost Oil</span> ~ 2 Gold
