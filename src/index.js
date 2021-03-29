@@ -15,7 +15,7 @@ import Tools from './pages/tools/Tools';
 import styles from './styles/global-styles';
 
 // TODO use https://develop.battle.net/documentation/api-reference/world-of-warcraft-game-data-api
-// to get item/quest data on hover
+// to get item-link/quest data on hover
 
 function App() {
   return (

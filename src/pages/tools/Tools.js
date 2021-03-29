@@ -1,23 +1,30 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { Form } from 'react-bootstrap';
 import { useImmerReducer } from 'use-immer';
 
-import client from '../../utils/client';
+// import client from '../../utils/client';
 import reducer, { initialState } from './reducer';
 import WowIcon from '../../components/icons/wow-icon/WowIcon';
 
+function getItemData() {
+  return import('../../db/items/list.json');
+}
+
 function Tools() {
   const [state, dispatch] = useImmerReducer(reducer, initialState);
-  const { search, results } = state;
+  const { loading, search, suggestions, results } = state;
 
   function onSearch({ target: { value } }) {
     dispatch({ type: 'search', payload: value });
-    if (value?.length > 2) {
-      client({
-        endpoint: `https://classicdb.com/opensearch.php?search=${value}`,
-      });
-    }
   }
+
+  // Fetch database data
+  useEffect(() => {
+    getItemData().then((module) => {
+      dispatch({ type: 'items.list', payload: module.default });
+      dispatch({ type: 'loaded' });
+    });
+  }, [dispatch]);
 
   return (
     <div>
@@ -29,7 +36,21 @@ function Tools() {
       <div>
         <Form.Group controlId="search-field">
           <Form.Label>Search</Form.Label>
-          <Form.Control type="text" value={search} onInput={onSearch} />
+          <Form.Control
+            type="text"
+            value={search}
+            onInput={onSearch}
+            disabled={loading}
+          />
+          {suggestions.length > 0 && (
+            <div className="suggestions">
+              {suggestions.map((s) => (
+                <div key={s.id} className="suggestion">
+                  {s.name}
+                </div>
+              ))}
+            </div>
+          )}
           <Form.Text className="text-muted">
             Search for anything - quests, items, npc&apos;s...
           </Form.Text>

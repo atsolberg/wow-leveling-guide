@@ -2,7 +2,7 @@ import fs from 'fs';
 
 const item_url = 'https://classic.wowhead.com/item=';
 /**
- * Scrape the wowhead item data pages.
+ * Scrape the wowhead item-link data pages.
  * Note: Function name is used in {@link Scraper} console logging.
  *
  * @param {Page} page - the puppeteer page instance.

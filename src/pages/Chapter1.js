@@ -1,4 +1,5 @@
 import React from 'react';
+import ItemLink from '../components/item-link/ItemLink';
 
 function Chapter1() {
   return (
@@ -94,7 +95,7 @@ function Chapter1() {
       </p>
       <ul>
         <li>
-          1X <span className="item">Patterned Bronze Bracers</span> ~50 Silver
+          1X <ItemLink id="2868">Patterned Bronze Bracers</ItemLink> ~50 Silver
         </li>
         <li>
           1X <span className="item">Frost Oil</span> ~ 2 Gold

@@ -16,7 +16,7 @@ export const Quality = {
 export const item_url_rgx = /\/item=(\d+)\/(.+)$/;
 
 /**
- * Returns an array of item data for each row
+ * Returns an array of item-link data for each row
  * @param {[{ name: string,  url: string }]} data
  * @return {[{ name: string, url: string, id: string, slug: string }]}
  */
