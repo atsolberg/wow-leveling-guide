@@ -98,10 +98,10 @@ function Chapter1() {
           1X <TtLink id="2868">Patterned Bronze Bracers</TtLink> ~50 Silver
         </li>
         <li>
-          1X <span className="item">Frost Oil</span> ~ 2 Gold
+          1X <TtLink id="3829">Frost Oil</TtLink> ~ 2 Gold
         </li>
         <li>
-          1X <span className="item">Gyrochronatom</span> ~1 Gold
+          1X <TtLink id="4389">Gyrochronatom</TtLink> ~1 Gold
         </li>
       </ul>
       <p>These might not always be up for sale, so start checking early.</p>

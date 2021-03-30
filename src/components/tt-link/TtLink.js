@@ -29,7 +29,7 @@ function TtLink({ id, type = 'item', children }) {
 
   return (
     <span css={styles} className={cx('tt-link', `--${type}`)}>
-      <div className="tt" dangerouslySetInnerHTML={{ __html: tt }} />
+      <div className="tt wh-tt" dangerouslySetInnerHTML={{ __html: tt }} />
       <a
         ref={ref}
         data-item-id={id}
