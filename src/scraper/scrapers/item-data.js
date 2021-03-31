@@ -11,11 +11,13 @@ const item_url = 'https://classic.wowhead.com/item=';
  */
 async function itemdata(page, test) {
   const tt_files = fs
-    .readdirSync(`../../public/tt${test ? `-test` : ''}/items`)
+    .readdirSync(`../../public/tt/items`)
     .map((f) => f.replace(/\.html/, ''));
 
   const list = fs.readFileSync('../db/items/list.json');
-  const items = JSON.parse(list).filter((i) => !tt_files.includes(i.id));
+  const items = JSON.parse(list).filter(
+    (i) => !test || !tt_files.includes(i.id)
+  );
   let tooltips = 0;
   let misses = 0;
 

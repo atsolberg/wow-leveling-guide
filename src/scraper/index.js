@@ -1,19 +1,43 @@
 import 'colors';
+import fs from 'fs';
 
 import { isSuperset, intersection, difference } from './util/set.js';
+import { downloadFile } from './util/assets.js';
+import { asScriptData } from './util/items.js';
+import formatter from './util/formatter.js';
 import launcher from './util/launcher.js';
 
+import iconListScraper from './scrapers/icon-list.js';
 import itemListScraper from './scrapers/item-list.js';
 import itemDataScraper from './scrapers/item-data.js';
 
-const FLAGS = ['-t', '--test', '-d', '--debug'];
-const TASKS = ['itemlist', 'itemdata', 'all'];
+/** @enum Tasks */
+const Task = {
+  item_list: 'itemlist',
+  item_data: 'itemdata',
+  icon_list: 'iconlist',
+  icons: 'icons',
+  tt_data_inject: 'tt-data-inject',
+};
+
+/** @enum Flags */
+const Flag = {
+  test: '-t',
+  test_long: '--test',
+  debug: '-d',
+  debug_long: '--debug',
+};
+
+const Tasks = Object.values(Task);
+const Flags = Object.values(Flag);
+const TestFlags = [Flag.test, Flag.test_long];
+const DebugFlags = [Flag.debug, Flag.debug_long];
 
 const [, , task, ...rest] = process.argv;
 const flags = (rest || []).filter(Boolean);
-const test = intersection(['-t', '--test'], flags).size > 0;
-const debug = intersection(['-d', '--debug'], flags).size > 0;
-const task_log = `(${TASKS.map((t) => t.yellow).join(', ')})`;
+const test = intersection(TestFlags, flags).size > 0;
+const debug = intersection(DebugFlags, flags).size > 0;
+const task_log = `(${Tasks.map((t) => t.yellow).join(', ')})`;
 
 if (process.argv.length === 2 || task.indexOf('-') === 0) {
   console.error('\nExpected at least one argument!\n'.red);
@@ -23,8 +47,8 @@ if (process.argv.length === 2 || task.indexOf('-') === 0) {
 }
 
 if (flags) {
-  if (!isSuperset(FLAGS, flags)) {
-    const unknown = Array.from(difference(flags, FLAGS))
+  if (!isSuperset(Flags, flags)) {
+    const unknown = Array.from(difference(flags, Flags))
       .map((f) => f.gray)
       .join(', ');
     console.warn(`\nIgnoring unknown flags `.yellow + unknown + '\n');
@@ -32,7 +56,7 @@ if (flags) {
 }
 
 switch (task) {
-  case 'itemlist': {
+  case Task.item_list: {
     launcher({ test, debug, runner: itemListScraper }).then(async (scraper) => {
       const success = await scraper.start();
       if (!debug) process.exit(success ? 0 : 1);
@@ -40,11 +64,81 @@ switch (task) {
     break;
   }
 
-  case 'itemdata': {
+  case Task.item_data: {
     launcher({ test, debug, runner: itemDataScraper }).then(async (scraper) => {
       const success = await scraper.start();
       if (!debug) process.exit(success ? 0 : 1);
     });
+    break;
+  }
+
+  case Task.tt_data_inject: {
+    const start = Date.now();
+    let items = JSON.parse(fs.readFileSync('../db/items/list.json'));
+
+    if (test) items = items.slice(0, 5);
+
+    const success = [];
+    const fails = [];
+
+    items.forEach((item) => {
+      const { id } = item;
+      const data_dir = test ? 'tt-test' : 'tt';
+      const tt_path = `../../public/tt/items/${id}.html`;
+      const data_path = `../../public/${data_dir}/items-plus-data/${id}.html`;
+      try {
+        let tt = fs.readFileSync(tt_path);
+        tt = `${tt}\n${asScriptData(item)}`;
+        fs.writeFileSync(data_path, tt);
+        success.push(item);
+      } catch (err) {
+        fails.push(item);
+      }
+    });
+    const elapsed = Date.now() - start;
+    const time = formatter.duration(elapsed);
+    console.log('📦 Updated ' + `${success.length}`.green + ' tooltips');
+    if (fails.length) {
+      console.log('❗️ ' + `${fails.length}`.red + ' failed');
+    }
+    console.log(`✨ ${'icons'.yellow} finished after ${time.green}`);
+
+    break;
+  }
+
+  case Task.icon_list: {
+    launcher({ test, debug, runner: iconListScraper }).then(async (scraper) => {
+      const success = await scraper.start();
+      if (!debug) process.exit(success ? 0 : 1);
+    });
+    break;
+  }
+
+  case Task.icons: {
+    const icon_files = fs
+      .readdirSync(`../../public/assets/icons`)
+      .map((f) => f.replace(/\.jpg/, ''));
+
+    const start = Date.now();
+    const list = fs.readFileSync('../db/icons/list.json');
+    const filter = test ? () => true : (i) => !icon_files.includes(i.name);
+    const info = JSON.parse(list).filter(filter);
+    const dir = '../../public/assets/icons';
+
+    const file_dfds = info.map((i) => downloadFile({ ...i, dir }));
+
+    Promise.allSettled(file_dfds).then((results) => {
+      const elapsed = Date.now() - start;
+      const resolved = results.filter((r) => r.status === 'fulfilled');
+      const rejected = results.filter((r) => r.status === 'rejected');
+      console.log('📦 Downloaded ' + `${resolved.length}`.green + ' icons');
+      if (rejected.length) {
+        console.log('❗️ ' + `${rejected.length}`.red + ' failed');
+      }
+      const time = formatter.duration(elapsed);
+      console.log(`✨ ${'icons'.yellow} finished after ${time.green}`);
+    });
+
     break;
   }
 

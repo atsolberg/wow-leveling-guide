@@ -15,6 +15,14 @@ export const Quality = {
 
 export const item_url_rgx = /\/item=(\d+)\/(.+)$/;
 
+export function asScriptData(item) {
+  return `
+<script id="data-item-${item.id}" type="application/ld+json">
+  ${JSON.stringify(item)}
+</script>
+  `;
+}
+
 /**
  * Returns an array of tt-link data for each row
  * @param {[{ name: string,  url: string }]} data

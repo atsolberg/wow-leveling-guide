@@ -64,14 +64,17 @@ function getErrorMessage(data) {
  * @param {RequestInit} [customConfig] - fetch `config` overrides
  * @return {Promise<Response>}
  */
-function client({
-  endpoint,
-  body,
-  params = {},
-  customConfig = {},
-  asXhr = true,
-  asJson = true,
-}) {
+function client(options) {
+  const o = typeof options === 'string' ? { endpoint: options } : options;
+  const {
+    endpoint,
+    body,
+    params = {},
+    customConfig = {},
+    asXhr = true,
+    asJson = true,
+  } = o;
+
   const headers = {
     Accept: 'application/json',
   };
@@ -94,7 +97,7 @@ function client({
 
   const url = buildUrl(endpoint, params);
 
-  return fetch(url, config).then(async response => {
+  return fetch(url, config).then(async (response) => {
     const data = isJson(response)
       ? await response.json()
       : await response.text();

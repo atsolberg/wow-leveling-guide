@@ -12,15 +12,21 @@ const styles = css`
       color: #fc0;
     }
 
-    .tt {
+    .tt-container {
       display: none;
       position: absolute;
       bottom: 120%;
     }
 
-    &:hover .tt {
+    &:hover .tt-container {
       display: block;
       max-width: 320px;
+    }
+
+    .tt-icon {
+      position: absolute;
+      top: 4px;
+      right: 102%;
     }
 
     /* wow head styles start */
