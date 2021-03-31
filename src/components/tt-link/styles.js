@@ -12,10 +12,15 @@ const styles = css`
       color: #fc0;
     }
 
+    .tt-anchor {
+      white-space: nowrap;
+    }
+
     .tt-container {
       display: none;
       position: absolute;
       bottom: 120%;
+      left: -3px;
     }
 
     &:hover .tt-container {

@@ -58,8 +58,9 @@ function TtLink({ id, type = 'item', children }) {
       </div>
       <a
         ref={linkRef}
+        className="tt-anchor"
         data-item-id={id}
-        href={`http://www.wowhead.com/item=${id}`}
+        href={`https://classic.wowhead.com/item=${id}`}
         target="_blank"
         rel="noopener noreferrer"
       >

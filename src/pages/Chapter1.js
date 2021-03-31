@@ -657,7 +657,7 @@ function Chapter1() {
       <p>
         Don&apos;t bother with{' '}
         <span className="quest">[34] Bartolo&apos;s Yeti Fur Cloak</span> unless
-        you are a Leatherworker or got a Leatherworker friend who can make a
+        you are a Leatherworker or got a Leatherworker friend who can make a{' '}
         <TtLink id="3719">Hillman&apos;s Cloak</TtLink>. You can buy a{' '}
         <TtLink id="2997">Bolt of Woolen Cloth</TtLink> at the auction house or
         ask a tailor.
@@ -1032,7 +1032,7 @@ function Chapter1() {
           Gelkis Centaur Clan by opening your character panel (&quot;C&quot;
           key) and clicking on the reputation tab or just directly press
           &quot;U&quot; key. After those 50 Kills you should also have 15{' '}
-          <TtLink id="6067">Centaur Ear</TtLink>s by now, if you don&apos;t,
+          <TtLink id="6067">Centaur Ears</TtLink> by now, if you don&apos;t,
           just kill some more centaurs.
         </li>
       </ol>
@@ -1244,7 +1244,7 @@ function Chapter1() {
         <li>
           Once both quests complete go south into the mountains and kill Rock
           Elementals at (40,73) until you get 3{' '}
-          <TtLink id="4627">Large Stone Slab</TtLink>s.
+          <TtLink id="4627">Large Stone Slabs</TtLink>.
         </li>
         <li>
           Go west to the ogre area named Camp Cagg (10,72), kill ogres there
@@ -1360,10 +1360,9 @@ function Chapter1() {
         The stones from the elementals stack and sell nicely at the merchant,
         plus, they drop <TtLink id="7067">Elemental Earth</TtLink> which goes
         for at least 50 silver each at the AH. Same thing with the Dwarves, they
-        drop Silk and sometimes
-        <TtLink id="4338">Mageweave</TtLink>. Sell{' '}
+        drop Silk and sometimes <TtLink id="4338">Mageweave</TtLink>. Sell{' '}
         <TtLink id="4306">Silk</TtLink> / <TtLink id="4338">Mageweave</TtLink>{' '}
-        at the AH and you&apos;ll get &apos;rich&apos; quickly.
+        at the AH and you&apos;ll get rich quickly.
       </p>
       <h6>Level 41</h6>
       <p>
