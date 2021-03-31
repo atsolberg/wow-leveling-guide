@@ -144,22 +144,22 @@ function Chapter1() {
       <ul>
         <li>you hit level 31+</li>
         <li>
-          you obtain 25 <span className="item">Vibrant Plumes</span>
+          you obtain 25 <TtLink id="5117">Vibrant Plumes</TtLink>
         </li>
       </ul>
       <p>
         The harpies are lvl 28-30, drop cash and silk cloth. There are a lot of
         them and they respawn fast. (Make sure to kill the harpies that are down
         on the ground and those that are in the cave up on the hill) With the 25{' '}
-        <span className="item">Vibrant Plumes</span> you can get 60 Tickets at
-        the Darkmoon Faire, you can then trade 50 Tickets for a 14 Slot Bag,
-        which is a big plus at this level (unless you are a twink). Sadly the
-        Darkmoon Faire is not always available, check this{' '}
+        <TtLink id="5117">Vibrant Plumes</TtLink> you can get 60 Tickets at the
+        Darkmoon Faire, you can then trade 50 Tickets for a 14 Slot Bag, which
+        is a big plus at this level (unless you are a twink). Sadly the Darkmoon
+        Faire is not always available, check this{' '}
         <a href="https://web.archive.org/web/20100509001851/http://www.wow-pro.com/node/569">
           Darkmoon Faire Necklace Guide
         </a>{' '}
         to know when the Darkmoon Faire will be available, and put your{' '}
-        <span className="item">Vibrant Plumes</span> in bank until then. If you
+        <TtLink id="5117">Vibrant Plumes</TtLink> in bank until then. If you
         don&apos;t want the bag, you can either auction those plumes (they sell
         nicely) or save them up for your future epic necklace.
       </p>
@@ -197,9 +197,9 @@ function Chapter1() {
         <br /> If you have troubles finding buzzards, there is a nice spot with
         10 of them at (87,66).
         <br /> Keep doing this until you complete all the quests, get 10{' '}
-        <span className="item">Turtle Meat</span> and hit level 32. Grind on
+        <TtLink id="3712">Turtle Meat</TtLink> and hit level 32. Grind on
         turtles in particular, they drop scales which sell nicely. Don&apos;t
-        sell the <span className="item">Turtle Meat</span>, put them in bank or
+        sell the <TtLink id="3712">Turtle Meat</TtLink>, put them in bank or
         somewhere in your inventory.
       </p>
       <p>Turn in all the quests and get the follow up quests : </p>
@@ -343,7 +343,7 @@ function Chapter1() {
       <p>
         Step 1: Kill River Crocolisks which can be found all along the river in
         northern Stranglethorn Vale until you find 2{' '}
-        <span className="item">Large Crocolisk Skins</span>. While you search
+        <TtLink id="4053">Large River Crocolisk Skin</TtLink>. While you search
         for crocs you can also kill Young Tigers close to the river for Tiger
         Mastery.
       </p>
@@ -358,9 +358,9 @@ function Chapter1() {
       <p>
         Step 4: Go further northeast to the Kurzen Camp (44,11) and kill 15
         Kurzen Jungle Fighters as well as Kurzen Medecine Men until you get 7{' '}
-        <span className="item">Jungle Remedies</span> (might take a while). Also
-        you&apos;ll need a <span className="item">Fern Extract</span> from one
-        of the piles of crates scattered around the Kurzen Compound.
+        <TtLink id="2633">Jungle Remedies</TtLink> (might take a while). Also
+        you&apos;ll need a <TtLink id="2634">Venom Fern Extract</TtLink> from
+        one of the piles of crates scattered around the Kurzen Compound.
       </p>
       <p>
         Step 5: Once all 4 quests are done go turn them in (besides Supply and
@@ -393,7 +393,7 @@ function Chapter1() {
         Step 9: Go south and down the plateau until you find the troll camp at
         Bal&apos;lal Ruins (29,20)
         <br /> It should take a while to get 15{' '}
-        <span className="item">Bloodscalp Ears</span> but it is a nice grinding
+        <TtLink id="1519">Bloodscalp Ears</TtLink> but it is a nice grinding
         spot anyway. So grind at this spot until you hit level 33. If you
         don&apos;t have enough trolls there is another camp northeast at the
         Tkashi Ruins (33,15).
@@ -405,7 +405,7 @@ function Chapter1() {
         Basilisks. If you run short on Basilisks, there is more on the lower
         plateau to the east along the shore. If there aren&apos;t any basilisks
         just go kill some trolls until they respawn. Kill basilisks until you
-        get 10 <span className="item">Singing Crystal Shards</span>.
+        get 10 <TtLink id="3918">Singing Crystal Shards</TtLink>.
       </p>
       <p>
         Step 11: After that, take a swim westwards until you hit the island at
@@ -576,7 +576,7 @@ function Chapter1() {
       <p>
         Step 8: Once Sin&apos;dall is dead, head west until you hit the island
         you discovered before (21,22), and kill Water Elementals there until you
-        get 6 <span className="item">Water Elemental Bracers</span>.
+        get 6 <TtLink id="3923">Water Elemental Bracers</TtLink>.
       </p>
       <p>
         Step 9: At this point you should be getting close to level 35. If you
@@ -609,9 +609,8 @@ function Chapter1() {
         </li>
       </ul>
       Don&apos;t get the follow up. Go to the bank and get the 10{' '}
-      <span className="item">Turtle Meat</span> you saved since Thousand
-      Needles, and make space in your bags in case you still have Stranglethorn
-      pages.
+      <TtLink id="3712">Turtle Meat</TtLink> you saved since Thousand Needles,
+      and make space in your bags in case you still have Stranglethorn pages.
       <p>Time to travel!</p>
       <p>
         If you already know how to get there, go to Southshore in Hillsbrad
@@ -651,17 +650,17 @@ function Chapter1() {
       <p>
         And <span className="quest">[31] Soothing Turtle Bisque</span> which you
         can complete immediately because you already got 10{' '}
-        <span className="item">Turtle Meat</span>. You can buy the soothing
-        spices from the trade goods merchant in the first house to the right
-        when entering Southshore from the north.
+        <TtLink id="3712">Turtle Meat</TtLink>. You can buy the soothing spices
+        from the trade goods merchant in the first house to the right when
+        entering Southshore from the north.
       </p>
       <p>
         Don&apos;t bother with{' '}
         <span className="quest">[34] Bartolo&apos;s Yeti Fur Cloak</span> unless
         you are a Leatherworker or got a Leatherworker friend who can make a
-        <span className="item">Hillman&apos;s Cloak</span>. You can buy a{' '}
-        <span className="item">Bolt of Woolen Cloth</span> at the auction house
-        or ask a tailor.
+        <TtLink id="3719">Hillman&apos;s Cloak</TtLink>. You can buy a{' '}
+        <TtLink id="2997">Bolt of Woolen Cloth</TtLink> at the auction house or
+        ask a tailor.
       </p>
       <h6>Level 35</h6>
       <p>Let&apos;s start with some Murloc slaughtering!</p>
@@ -671,7 +670,7 @@ function Chapter1() {
       </p>
       <p>
         Step 2: Go turn it in and get the follow up. Go back and kill more
-        murlocs until you get 10 <span className="item">Murloc Heads</span>.{' '}
+        murlocs until you get 10 <TtLink id="3716">Murloc Heads</TtLink>.{' '}
       </p>
       <p>
         Step 3: Go turn in the quest, get the follow up. Speak with Marshal
@@ -701,14 +700,14 @@ function Chapter1() {
         find the NPC named Quae, she is looking over the Go&apos;Shek Farm from
         the northwest edge. Talk to her and take the follow up quest{' '}
         <span className="quest">[36] Hints of a new Plague?</span>. You need to
-        find and kill a Forsaken Courier and loot{' '}
-        <span className="item">A Sealed Folder</span> from him.
+        find and kill a Forsaken Courier and loot a{' '}
+        <TtLink id="4482">Sealed Folder</TtLink> from him.
       </p>
       <p>
         <strong>In Short</strong>: The Forsaken Courier roams from the
         Go&apos;Shek Farm all along the road up until the wall to Hillsbrad
         Foothils. He is lvl 35 and doesn&apos;t have that much hit points, but
-        he has 4 level 35 bodyguards. Find a way to kill and loot the Courrier.
+        he has 4 level 35 bodyguards. Find a way to kill and loot the Courier.
         You can do it solo at level 35, I&apos;ve done it with 5 different
         classes and I&apos;ve heard about other players doing the same. For
         instructions on how to kill the courier with a certain class, see below.
@@ -722,13 +721,13 @@ function Chapter1() {
       </p>
       <ul>
         <li>
-          Warrior: for exemple, charge the courrier, hit Retaliate, use
+          Warrior: for example, charge the Courier, hit Retaliate, use
           Intimidating Shout, kill the courier fast, loot it and then run away.
         </li>
         <li>
           Mage, burn him down as fast as possible, start from max range with
           Pyroblast if you got it, use ice root on the bodyguards, finish the
-          courrier fast. Use a Health Potion if needed.
+          Courier fast. Use a Health Potion if needed.
         </li>
         <li>
           Rogue, you can single the courier out. Use Distract so that only one
@@ -738,14 +737,14 @@ function Chapter1() {
           evasion runs out.
         </li>
         <li>
-          Warlock and Hunter: Send in the pet and burn the Courrier as fast as
+          Warlock and Hunter: Send in the pet and burn the Courier as fast as
           possible while your pet dies.
         </li>
         <li>
           Priest: Powerword:Shield and Renew yourself, be at max range, start
           with Smite, then a Mind Blast while the mobs run to you, then a Shadow
           Word:Pain. The bodyguards should be on you at this moment, use Psychic
-          Scream, and keep on burning the Courrier with Mind Flay / Mind Blast.
+          Scream, and keep on burning the Courier with Mind Flay / Mind Blast.
         </li>
         <li>Paladin Just go for the courier and use your invulnerabilities.</li>
       </ul>
@@ -755,8 +754,8 @@ function Chapter1() {
         manage it, try to get a partner to duo it.
       </p>
       <p>
-        Step 7: Once you got the <span className="item">Sealed Folder</span>{' '}
-        from the Forsaken Courier, go back to Quae (60,53). Turn in and get the
+        Step 7: Once you got the <TtLink id="4482">Sealed Folder</TtLink> from
+        the Forsaken Courier, go back to Quae (60,53). Turn in and get the
         follow up <span className="quest">[37] Hints of a new Plague?</span>,
         where you have to escort Kinelory.
       </p>
@@ -772,13 +771,12 @@ function Chapter1() {
         southeast of Go&apos;Shek Farm to the troll village (63,65).
       </p>
       <p>
-        Kill trolls until you get 10 <span className="item">Tusks</span>. Kill
-        Witch Doctors until you get 4{' '}
-        <span className="item">Medicine Pouches</span>. Further inside the
+        Kill trolls until you get 10 <TtLink id="4503">Witherbark Tusks</TtLink>
+        . Kill Witch Doctors until you get 4{' '}
+        <TtLink id="4522">Witherbark Medicine Pouch</TtLink>. Further inside the
         village and to the south (68,75) you will find a cave. Inside the cave
         you will find Witherbark Shadow Hunters and get the{' '}
-        <span className="item">Hunter Knife</span> you miss to complete the
-        quest.
+        <TtLink id="5040">Hunter Knife</TtLink> you miss to complete the quest.
       </p>
       <p>
         Step 9: Once completed, run back to Refuge Pointe in Arathi and turn in
@@ -801,9 +799,9 @@ function Chapter1() {
       <p>
         Then go northwest towards the snowy mountains where you will find
         Crushridge Ogres, they drop the{' '}
-        <span className="item">Dirty Knucklebones</span> you need. <br /> When
-        you run short on ogres, you can go to the southwest where you will find
-        the area called &quot;Corrahn&apos;s Dagger&quot; (47,76). There you can
+        <TtLink id="2843">Dirty Knucklebones</TtLink> you need. <br /> When you
+        run short on ogres, you can go to the southwest where you will find the
+        area called &quot;Corrahn&apos;s Dagger&quot; (47,76). There you can
         kill Syndicate Footpads and Syndicate Thieves as well as Mountain Lions
         and Hulking Mountain Lions.
       </p>
@@ -917,10 +915,10 @@ function Chapter1() {
           Hatefury Satyrs in Sargeron, southeast of Nigel&apos;s Point (75,20).
         </li>
         <li>
-          When you got 10 <span className="item">Hatefury Claws</span> and 10{' '}
-          <span className="item">Hatefury Horns</span> go west to the area just
+          When you got 10 <TtLink id="6246">Hatefury Claws</TtLink> and 10{' '}
+          <TtLink id="6247">Hatefury Horns</TtLink> go west to the area just
           north of Thunder Axe Fortress (56,17) you will find a ruined caravan
-          there. Look for <span className="item">Malem Chest</span>. It&apos;s
+          there. Look for <span className="object">Malem Chest</span>. It&apos;s
           not actually a chest, rather a crate. Open it, get the follow up.
         </li>
         <li>
@@ -941,9 +939,9 @@ function Chapter1() {
           is a black book named &quot;Rackmore&apos;s Log&quot;. Click it and
           get the quest{' '}
           <span className="quest">[36] Claim Rackmore&apos;s Treasure</span>.{' '}
-          <span className="item">Rackmore&apos;s Silver Key</span> drops from
+          <TtLink id="15878">Rackmore&apos;s Silver Key</TtLink> drops from
           Drysnap Pincer or Crawler.{' '}
-          <span className="item">Rackmore&apos;s Gold Key</span> drops from any
+          <TtLink id="15881">Rackmore&apos;s Gold Key</TtLink> drops from any
           Slitherblade Naga. Take a swim and kill Drysnaps around the ship until
           you get a Silver Key. It takes about 10 kills on average. Then further
           north go kill Siltherblade Nagas until you get a gold key. 10 kills on
@@ -1003,28 +1001,29 @@ function Chapter1() {
           statue on the northwestern part of the isle (28,6). Clear the way
           around the statue, get full health/mana and go click the statue twice.
           Lord Kragaru will spawn, a lvl 38 Naga. Kill it (soloable at 36) and
-          loot the <span className="item">Book of the Ancients</span>. Before
-          you go, kill Slitherblade Tidehunters and Slitherblade Sea Witches
-          until one of them drops{' '}
-          <span className="item">Karnitol&apos;s Satchel</span>. Takes 15 kills
-          on average (Took me only 4 once, and another time it took 29 kills).
+          loot the <TtLink id="15803">Book of the Ancients</TtLink>. Before you
+          go, kill Slitherblade Tidehunters and Slitherblade Sea Witches until
+          one of them drops <TtLink id="6245">Karnitol&apos;s Satchel</TtLink>.
+          Takes 15 kills on average (Took me only 4 once, and another time it
+          took 29 kills).
         </li>
         <li>Swim back to Azore Aldamort get your rewards.</li>
         <li>
           Now go southeast towards the Kodo Graveyard (48,55). Gather 10{' '}
-          <span className="item">Kodo Bone</span>s there, kill the Carrion
+          <TtLink id="13703">Kodo Bones</TtLink> there, kill the Carrion
           Vultures if they are in the way. When you loot a bone there&apos;s a
           50% chance a lvl 37-38 Kodo Apparition will pop up and attack you. You
           can run away or deal with it, up to you, they disappear after about 10
           minutes.
         </li>
         <li>
-          Once you got 10 Kodo bones, run east to Scrabblescrew Camp (60, 61)
-          and get the quest <span className="quest">[34] Kodo Roundup</span>. Go
-          back to the Kodo Graveyard and use the Kombobulator Rod on any
-          Ancient, Aged or Dying Kodo. Once you have one tamed, run back with it
-          to the goblin, then right-click on the tamed kodo. Rinse and repeat 5
-          times to complete the quest.
+          Once you got 10 <TtLink id="13703">Kodo Bones</TtLink>, run east to
+          Scrabblescrew Camp (60, 61) and get the quest{' '}
+          <span className="quest">[34] Kodo Roundup</span>. Go back to the Kodo
+          Graveyard and use the Kombobulator Rod on any Ancient, Aged or Dying
+          Kodo. Once you have one tamed, run back with it to the goblin, then
+          right-click on the tamed kodo. Rinse and repeat 5 times to complete
+          the quest.
         </li>
         <li>
           When done with that, go southeast to the Magram Village (70,70) and
@@ -1033,7 +1032,7 @@ function Chapter1() {
           Gelkis Centaur Clan by opening your character panel (&quot;C&quot;
           key) and clicking on the reputation tab or just directly press
           &quot;U&quot; key. After those 50 Kills you should also have 15{' '}
-          <span className="item">Centaur Ear</span>s by now, if you don&apos;t,
+          <TtLink id="6067">Centaur Ear</TtLink>s by now, if you don&apos;t,
           just kill some more centaurs.
         </li>
       </ol>
@@ -1087,7 +1086,7 @@ function Chapter1() {
         level 36 character with average gear, solo, on a new server (no twink).
         I&apos;ve tried it with 3 different classes and it works just as well.
         And there is still two quests to turn in, that&apos;s just to show how
-        efficient the quest path of desolace can be when done the right way.{' '}
+        efficient the quest path of Desolace can be when done the right way.{' '}
         <span role="img" aria-label="smile">
           🙂
         </span>
@@ -1112,12 +1111,7 @@ function Chapter1() {
           fly to Southshore, turn in the quest{' '}
           <span className="quest">[39] Down the Scarlet Path</span> and get the
           follow up <span className="quest">[40] In the Name of the Light</span>
-          . Get a group together and go to Scarlet Monastery in Tirisfal Glade,
-          follow our{' '}
-          <a href="https://web.archive.org/web/20100509001851/http://www.wow-pro.com/node/585">
-            Scarlet Monastery Guide
-          </a>{' '}
-          and you should be fine.
+          . Get a group together and go to Scarlet Monastery in Tirisfal Glade.
         </li>
         <li>
           You don&apos;t like instances at all. In that case, go to the next
@@ -1135,9 +1129,9 @@ function Chapter1() {
         <li>
           You should be in <strong>Ironforge</strong>, if not, use Hearthstone,
           as you should still be bound there. Get the{' '}
-          <span className="item">Patterned Bronze Bracers</span>, the{' '}
-          <span className="item">Frost Oil</span> and the{' '}
-          <span className="item">Gyrocronatom</span> from your bank (or buy them
+          <TtLink id="2868">Patterned Bronze Bracers</TtLink>, the{' '}
+          <TtLink id="3829">Frost Oil</TtLink> and the{' '}
+          <TtLink id="4389">Gyrochronatom</TtLink> from your bank (or buy them
           now if you didn&apos;t yet). I suggest you buy 4 stacks of food/drink
           at least before leaving.
         </li>
@@ -1206,12 +1200,12 @@ function Chapter1() {
           (However, you should try to AH Solid stones, deeprock salt and
           Elemental Earth, they sell fairly nice at the Auction house). Stay at
           this spot until you get 10{' '}
-          <span className="item">Small Stone Shard</span> and hit level 39. If
-          you don&apos;t like elementals, or if the spot is already overcrowded,
-          go east to Angor Fortress, and kill Dwarves. For those who didn&apos;t
-          go to Scarlet Monastery this will mean a long grinding session, but
-          this will also mean good XP rate and cash (and you need to get your
-          mount soon!). Go turn in{' '}
+          <TtLink id="4626">Small Stone Shard</TtLink> and hit level 39. If you
+          don&apos;t like elementals, or if the spot is already overcrowded, go
+          east to Angor Fortress, and kill Dwarves. For those who didn&apos;t go
+          to Scarlet Monastery this will mean a long grinding session, but this
+          will also mean good XP rate and cash (and you need to get your mount
+          soon!). Go turn in{' '}
           <span className="quest">[37] Study of the Elements: Rock</span> at
           Lotwil Veriatus and get the follow up.
         </li>
@@ -1222,13 +1216,14 @@ function Chapter1() {
           Go east and a bit to the north to Hammertoe&apos;s Digsite.
           <br />
           At (53,34) under a tent next to a big keg you will find a{' '}
-          <span className="item">Crumpled Map</span> on the floor. Click it and
-          get the quest <span className="quest">[35] A Sign of Hope</span>. Then
-          keep on killing Dark Dwarves until you get Ryedol&apos;s Lucky Pick.
+          <span className="object">Crumpled Map</span> on the floor. Click it
+          and get the quest <span className="quest">[35] A Sign of Hope</span>.
+          Then keep on killing Dark Dwarves until you get Ryedol&apos;s Lucky
+          Pick.
         </li>
         <li>
           Then go northeast to Camp Kosh where you can find the{' '}
-          <span className="item">Supply Crate</span>. (67,22)
+          <span className="object">Supply Crate</span>. (67,22)
           <p>
             When you got the crate, go back to Prospector Ryedol south of
             Hammertoe&apos;s Digsite and turn in the quests.
@@ -1244,17 +1239,17 @@ function Chapter1() {
         <li>
           Kill 12 Stonevault Bonesnapper and Murdaloc, you can find him inside
           the camp next to the Dwarven Corpse. Keep killing those Troggs until
-          you get 10 <span className="item">Indurium Flakes</span> as well.
+          you get 10 <TtLink id="5797">Indurium Flakes</TtLink> as well.
         </li>
         <li>
           Once both quests complete go south into the mountains and kill Rock
           Elementals at (40,73) until you get 3{' '}
-          <span className="item">Large Stone Slab</span>s.
+          <TtLink id="4627">Large Stone Slab</TtLink>s.
         </li>
         <li>
           Go west to the ogre area named Camp Cagg (10,72), kill ogres there
-          until you get 7 <span className="item">Scrap Metal</span>. This may
-          take a while.
+          until you get 7 <TtLink id="4630">Scrap Metal</TtLink>. This may take
+          a while.
         </li>
         <li>
           Go north to Apocryphan&apos;s Rest (16,60) and kill Buzzards / Coyotes
@@ -1287,7 +1282,7 @@ function Chapter1() {
       <p>
         It went quite well for me, I was doing 41000 XP/Hour before I got to the
         grinding part. This is my XP rate starting from the moment I talked to
-        Propector Ryedoll until level 40.
+        Prospector Ryedoll until level 40.
       </p>
       <p>
         <img
@@ -1324,7 +1319,7 @@ function Chapter1() {
         <li>
           Go to the southwestern part of the map (17, 83) and kill Greater Rock
           Elementals until you get 5{' '}
-          <span className="item">Bracers of Rock Binding</span>. There&apos;s
+          <TtLink id="4628">Bracers of Rock Binding</TtLink>. There&apos;s
           another camp of Greater Rock Elementals further to the west past the
           Ogres (6,83). This will be hard because some of the elementals are
           level 44. Try to find level 42 or 43 ones if the level 44 are too hard
@@ -1335,7 +1330,7 @@ function Chapter1() {
           level 41. Grind on Elementals, or Dwarves, up to you. Warning: This is
           a long grinding session, if grinding is too boring for you, then by
           all means do something else, go to Scarlet Monastery a few times for
-          exemple. Also one of the reasons for grinding here even though we got
+          example. Also one of the reasons for grinding here even though we got
           a few quests we could do in Stranglethorn Vale is that I want to save
           these quests for later so we can do the whole rest of Booty Bay quests
           in one run. So right now we are already setting up a very juicy XP
@@ -1363,10 +1358,12 @@ function Chapter1() {
         it&apos;s not as good as an optimized quest circuit, but it&apos;s still
         decent and you will see for yourself, it will bring a nice sum of cash.
         The stones from the elementals stack and sell nicely at the merchant,
-        plus, they drop Elemental Earth which goes for at least 50 silver each
-        at the AH. Same thing with the Dwarves, they drop Silk and sometimes
-        Mageweave. Sell Silk / Mageweave at the AH and you&apos;ll get
-        &apos;rich&apos; quickly.
+        plus, they drop <TtLink id="7067">Elemental Earth</TtLink> which goes
+        for at least 50 silver each at the AH. Same thing with the Dwarves, they
+        drop Silk and sometimes
+        <TtLink id="4338">Mageweave</TtLink>. Sell{' '}
+        <TtLink id="4306">Silk</TtLink> / <TtLink id="4338">Mageweave</TtLink>{' '}
+        at the AH and you&apos;ll get &apos;rich&apos; quickly.
       </p>
       <h6>Level 41</h6>
       <p>
@@ -1375,11 +1372,12 @@ function Chapter1() {
         you accept the next step from Lotwil, be warned: A level 45 Elemental
         will spawn and you will have to defeat it. At level 41 this is hard but
         possible for every class. Just use every long cooldown ability you have
-        as well as potions. Loot &quot;Lotwil&apos;s Shackles of Elemental
-        Binding&quot; from the Fam&apos;retor Elemental and go turn in the quest
-        to Lotwil. Congratulations, you are done with Badlands and with the
-        first Chapter of this leveling guide! Warp to <strong>Ironforge</strong>{' '}
-        and sell / repair / auction etc.
+        as well as potions. Loot{' '}
+        <TtLink id="4847">Lotwil&apos;s Shackles of Elemental Binding</TtLink>{' '}
+        from the Fam&apos;retor Elemental and go turn in the quest to Lotwil.
+        Congratulations, you are done with Badlands and with the first Chapter
+        of this leveling guide! Warp to <strong>Ironforge</strong> and sell /
+        repair / auction etc.
       </p>
       <p>-Jame</p>
     </div>
