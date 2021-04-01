@@ -4,12 +4,14 @@ const styles = css`
   &.tt-link {
     position: relative;
 
-    &.--item a {
+    &.--item a,
+    &.--object a {
       color: #c63;
     }
 
     &.--quest a {
       color: #fc0;
+      font-weight: bold;
     }
 
     .tt-anchor {
@@ -132,6 +134,14 @@ const styles = css`
       color: #1eff00 !important;
     }
 
+    .q3,
+    .q3 a,
+    .color-q3,
+    .wowhead-tooltip .q3 a,
+    .q3.fa:before {
+      color: #0070dd !important;
+    }
+
     .wh-tt .q,
     .wh-tt .q a,
     .wh-tt .color-q,
@@ -199,6 +209,29 @@ const styles = css`
     .iconlarge .wh-tt .q2 a,
     .iconlarge .q2.fa:before {
       color: #1eff00 !important;
+    }
+
+    .wowhead-tooltip .q3,
+    .wowhead-tooltip .q3 a,
+    .wowhead-tooltip .color-q3,
+    .wowhead-tooltip .wowhead-tooltip .q3 a,
+    .wowhead-tooltip .q3.fa:before,
+    .iconsmall .q3,
+    .iconsmall .q3 a,
+    .iconsmall .color-q3,
+    .iconsmall .wowhead-tooltip .q3 a,
+    .iconsmall .q3.fa:before,
+    .iconmedium .q3,
+    .iconmedium .q3 a,
+    .iconmedium .color-q3,
+    .iconmedium .wowhead-tooltip .q3 a,
+    .iconmedium .q3.fa:before,
+    .iconlarge .q3,
+    .iconlarge .q3 a,
+    .iconlarge .color-q3,
+    .iconlarge .wowhead-tooltip .q3 a,
+    .iconlarge .q3.fa:before {
+      color: #0070dd !important;
     }
 
     .moneygold,

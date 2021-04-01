@@ -3,9 +3,15 @@ import { string, node, oneOf } from 'prop-types';
 import cx from 'classnames';
 
 import client from '../../utils/client';
+import logger from '../../utils/logger';
 import styles from './styles';
 
-const types = ['item', 'quest', 'npc'];
+const types = ['item', 'object', 'quest', 'npc'];
+
+function logError(err, type, id) {
+  const msg = `Failed to load tool tip for type: ${type} and id: ${id}`;
+  logger.log(msg, err);
+}
 
 TtLink.propTypes = {
   id: string.isRequired,
@@ -23,13 +29,19 @@ function TtLink({ id, type = 'item', children }) {
   // Fetch tooltip markup on first hover
   useEffect(() => {
     const el = linkRef.current;
-    const over = () => {
-      if (!hovered) client(`/tt/items-plus-data/${id}.html`).then(setTt);
+
+    function over() {
+      if (!hovered) {
+        client(`/tt/items-plus-data/${id}.html`)
+          .then(setTt)
+          .catch((err) => logError(err, type, id));
+      }
       setHovered(true);
-    };
+    }
+
     el.addEventListener('mouseover', over);
     return () => el.removeEventListener('mouseover', over);
-  }, [id, hovered]);
+  }, [id, hovered, type]);
 
   // Set name from tooltip markup once available
   useEffect(() => {

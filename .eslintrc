@@ -105,7 +105,7 @@
     // Allow multiple components per file
     "react/no-multi-comp": "off",
     "react/no-string-refs": ["warn"],
-    "react/no-unescaped-entities": ["warn"],
+    "react/no-unescaped-entities": ["off"],
     "react/prefer-es6-class": ["warn"],
     "react/prefer-stateless-function": ["warn"],
     "react/prop-types": ["warn"],
