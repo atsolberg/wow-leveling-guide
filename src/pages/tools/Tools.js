@@ -1,8 +1,9 @@
 import React, { useEffect } from 'react';
 import { Form } from 'react-bootstrap';
-import { useImmerReducer } from 'use-immer';
 
 import reducer, { initialState } from './reducer';
+import { useLoggedReducer } from '../../hooks/useLoggedReducer';
+
 import WowIcon from '../../components/icons/wow-icon/WowIcon';
 
 function getItemData() {
@@ -10,7 +11,7 @@ function getItemData() {
 }
 
 function Tools() {
-  const [state, dispatch] = useImmerReducer(reducer, initialState);
+  const [state, dispatch] = useLoggedReducer(reducer, initialState);
   const { loading, search, suggestions, results } = state;
 
   function onSearch({ target: { value } }) {
@@ -28,8 +29,7 @@ function Tools() {
   return (
     <div>
       <h1>
-        Tools{' '}
-        <WowIcon src="https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gear_03.jpg" />
+        Tools <WowIcon name="inv_misc_gear_03" size="lg" />
       </h1>
       TODO
       <div>

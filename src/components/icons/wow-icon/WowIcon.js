@@ -1,18 +1,19 @@
 import React from 'react';
-import { string } from 'prop-types';
+import { string, oneOf } from 'prop-types';
 
 import styles from './styles';
 
 WowIcon.propTypes = {
-  src: string.isRequired,
+  name: string.isRequired,
+  size: oneOf(['md', 'lg']),
 };
-function WowIcon({ src, ...rest }) {
+function WowIcon({ name, size = 'lg', ...rest }) {
+  const fixed = name.replace(/_/g, '-');
   return (
-    <div css={styles(src)} className="-md" {...rest}>
+    <span css={styles(fixed)} className={`-${size}`} {...rest}>
       <ins />
       <del />
-      <a href="#" />
-    </div>
+    </span>
   );
 }
 

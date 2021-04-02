@@ -13,26 +13,29 @@ import Chapter3 from './pages/Chapter3';
 import Tools from './pages/tools/Tools';
 
 import styles from './styles/global-styles';
+import TooltipProvider from './providers/TooltipProvider';
 
 // TODO use https://develop.battle.net/documentation/api-reference/world-of-warcraft-game-data-api
 // to get tt-link/quest data on hover
 
 function App() {
   return (
-    <div className="app">
-      <Global styles={styles} />
-      <Header />
-      <Main>
-        <Router>
-          <Chapter1 path="/" />
-          <Chapter1 path="/1" />
-          <Chapter2 path="/2" />
-          <Chapter3 path="/3" />
-          <Tools path="/tools" />
-        </Router>
-      </Main>
-      <Footer />
-    </div>
+    <TooltipProvider>
+      <div className="app">
+        <Global styles={styles} />
+        <Header />
+        <Main>
+          <Router>
+            <Chapter1 path="/" />
+            <Chapter1 path="/1" />
+            <Chapter2 path="/2" />
+            <Chapter3 path="/3" />
+            <Tools path="/tools" />
+          </Router>
+        </Main>
+        <Footer />
+      </div>
+    </TooltipProvider>
   );
 }
 

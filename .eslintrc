@@ -22,6 +22,8 @@
     "prefer-rest-params": ["warn"],
     "no-bitwise": ["warn"],
     "no-cond-assign": ["warn"],
+    "no-console": ["warn"],
+    "no-debugger": ["warn"],
     "no-extra-boolean-cast": ["warn"],
     "no-lonely-if": ["warn"],
     "no-nested-ternary": ["warn"],
@@ -80,15 +82,15 @@
     // A11Y
     // ------------------------------------------------------------------------
     "jsx-a11y/label-has-for": "off",
-    "jsx-a11y/anchor-has-content": ["warn"],
-    "jsx-a11y/anchor-is-valid": ["warn"],
+    "jsx-a11y/anchor-has-content": ["off"],
+    "jsx-a11y/anchor-is-valid": ["off"],
 
     // REACT
     // ------------------------------------------------------------------------
     "react-hooks/exhaustive-deps": "warn",
     "react-hooks/rules-of-hooks": "error",
     "react/destructuring-assignment": ["off"],
-    "react/forbid-prop-types": ["warn"],
+    "react/forbid-prop-types": ["off"],
     // Let prettier manage jsx styling
     "react/jsx-closing-tag-location": "off",
     // Allow JSX in .js files

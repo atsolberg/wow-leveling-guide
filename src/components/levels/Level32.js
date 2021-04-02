@@ -1,6 +1,7 @@
 import React from 'react';
 
 import TtLink from '../tt-link/TtLink';
+import WowIcon from '../icons/wow-icon/WowIcon';
 
 function Level32() {
   return (
@@ -95,7 +96,9 @@ function Level32() {
         always look out for these:
       </p>
       <p>
-        <img src="/assets/icons/inv-misc-note-06.jpg" alt="" />
+        <TtLink id="2725" className="d-inline-block">
+          <WowIcon name="inv-misc-note-06" size="lg" />
+        </TtLink>
       </p>
       <p>Hunting</p>
       <p>
