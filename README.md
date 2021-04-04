@@ -18,8 +18,8 @@ grouping for dungeons after gather quests.
 - [] cleanup lvl 57
 - [] cleanup lvl 58
 - [] cleanup lvl 59
-- [] move tooltip position to mouse
-- [] add border to tooltip icon
+- [x] move tooltip position to mouse
+- [x] add border to tooltip icon
 - [] scrape object? list/tooltips
 - [] scrape quest list/tooltips
 - [] scrape npc list/tooltips/screenshots
@@ -29,5 +29,5 @@ grouping for dungeons after gather quests.
 - [] add tt links to ch 3
 - [] get wp images from ch 2
 - [] get wp images from ch 3
-- [] move ch 2 and 3 lvls to files
+- [x] move ch 2 and 3 lvls to files
 - [] add favicon

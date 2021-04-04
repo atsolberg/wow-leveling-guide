@@ -26,7 +26,7 @@
     "no-console": ["off"],
     "no-extra-boolean-cast": ["warn"],
     "no-lonely-if": ["warn"],
-    "no-nested-ternary": ["warn"],
+    "no-nested-ternary": ["off"],
     "no-new": ["warn"],
     "no-multi-assign": ["warn"],
     // Allow modifying `draft` state. This is idiomatic in immer.

@@ -1,6 +1,14 @@
 import fs from 'fs';
 import fetch from 'node-fetch';
 
+/**
+ * Download a file and save it in the directory specified
+ * @param {URL} url - the url of the resource to download
+ * @param {string} dir - directory to store the file in
+ * @param {string} name - the file name to save as
+ * @param {string} [ext] - the file extension to save as
+ * @return {Promise<string>}
+ */
 export async function downloadFile({ url, dir, name, ext }) {
   console.log(`fetching ${url.cyan}`);
 

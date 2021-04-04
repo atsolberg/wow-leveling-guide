@@ -1,6 +1,6 @@
 /**
  * The general info of an tt-link.
- * @typedef {Object} ItemInfo
+ * @typedef {object} ItemInfo
  * @property {string} id - the tt-link id
  * @property {string} name - the tt-link's name
  * @property {string} url - the items wowhead url

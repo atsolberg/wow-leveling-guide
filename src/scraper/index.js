@@ -3,20 +3,23 @@ import fs from 'fs';
 
 import { isSuperset, intersection, difference } from './util/set.js';
 import { downloadFile } from './util/assets.js';
-import { asScriptData } from './util/items.js';
+import { asScriptData, Type } from './util/common.js';
 import formatter from './util/formatter.js';
 import launcher from './util/launcher.js';
 
 import iconListScraper from './scrapers/icon-list.js';
 import itemListScraper from './scrapers/item-list.js';
 import itemDataScraper from './scrapers/item-data.js';
+import questListScraper from './scrapers/quest-list.js';
 
 /** @enum Tasks */
 const Task = {
-  item_list: 'itemlist',
-  item_data: 'itemdata',
-  icon_list: 'iconlist',
+  item_list: 'item-list',
+  item_data: 'item-data',
+  icon_list: 'icon-list',
   icons: 'icons',
+  quest_list: 'quest-list',
+  quest_tt: 'quest-tt',
   tt_data_inject: 'tt-data-inject',
 };
 
@@ -72,6 +75,55 @@ switch (task) {
     break;
   }
 
+  case Task.quest_list: {
+    launcher({ test, debug, runner: questListScraper }).then(
+      async (scraper) => {
+        const success = await scraper.start();
+        if (!debug) process.exit(success ? 0 : 1);
+      }
+    );
+    break;
+  }
+
+  case Task.quest_tt: {
+    const quest_tt_files = fs
+      .readdirSync(`../../public/tt/quests`)
+      .map((f) => f.replace(/\.json/, ''));
+
+    const start = Date.now();
+
+    const dir = `../../public/${test ? 'tt-test' : 'tt'}/quests`;
+    const list = fs.readFileSync('../db/quests/list.json');
+    const filter = test ? () => true : (i) => !quest_tt_files.includes(i.name);
+    const urlBase = 'https://classic.wowhead.com/tooltip/quest';
+
+    let quests = JSON.parse(list);
+    if (test) quests = quests.slice(0, 5);
+    const file_dfds = quests
+      .filter(filter)
+      .map((quest) => ({
+        url: `${urlBase}/${quest.id}`,
+        name: quest.id,
+        dir,
+        ext: 'json',
+      }))
+      .map(downloadFile);
+
+    Promise.allSettled(file_dfds).then((results) => {
+      const elapsed = Date.now() - start;
+      const resolved = results.filter((r) => r.status === 'fulfilled');
+      const rejected = results.filter((r) => r.status === 'rejected');
+      console.log('📦 Downloaded ' + `${resolved.length}`.green + ' quests');
+      if (rejected.length) {
+        console.log('❗️ ' + `${rejected.length}`.red + ' failed');
+      }
+      const time = formatter.duration(elapsed);
+      console.log(`✨ ${'icons'.yellow} finished after ${time.green}`);
+    });
+
+    break;
+  }
+
   case Task.tt_data_inject: {
     const start = Date.now();
     let items = JSON.parse(fs.readFileSync('../db/items/list.json'));
@@ -88,7 +140,7 @@ switch (task) {
       const data_path = `../../public/${data_dir}/items-plus-data/${id}.html`;
       try {
         let tt = fs.readFileSync(tt_path);
-        tt = `${tt}\n${asScriptData(item)}`;
+        tt = `${tt}\n${asScriptData(Type.item, item)}`;
         fs.writeFileSync(data_path, tt);
         success.push(item);
       } catch (err) {
@@ -101,7 +153,9 @@ switch (task) {
     if (fails.length) {
       console.log('❗️ ' + `${fails.length}`.red + ' failed');
     }
-    console.log(`✨ ${'icons'.yellow} finished after ${time.green}`);
+    console.log(
+      `✨ ${Task.tt_data_inject.yellow} finished after ${time.green}`
+    );
 
     break;
   }
@@ -136,7 +190,7 @@ switch (task) {
         console.log('❗️ ' + `${rejected.length}`.red + ' failed');
       }
       const time = formatter.duration(elapsed);
-      console.log(`✨ ${'icons'.yellow} finished after ${time.green}`);
+      console.log(`✨ ${Task.icons.yellow} finished after ${time.green}`);
     });
 
     break;
