@@ -1,0 +1,10 @@
+{
+  "name": "Celestial Orb",
+  "quality": "Rare",
+  "icon": "inv_misc_orb_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Celestial Orb</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat5-->+3 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=8\" class=\"c8\">Mage</a></div></td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=9342\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 13.</a></span><br><span class=\"q2\">Use: <a href=\"/spell=9253\" class=\"q2\">Restores 400 to 1200 mana.</a> (30 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">53</span> <span class=\"moneycopper\">82</span></div></td></tr></table>",
+  "url": "/item=7515/celestial-orb",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_orb_03.jpg",
+  "id": "7515",
+  "slug": "celestial-orb"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Warsong Report",
+  "quality": "Common",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Warsong Report</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=16746/warsong-report",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "16746",
+  "slug": "warsong-report"
+}

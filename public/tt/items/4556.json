@@ -1,0 +1,10 @@
+{
+  "name": "Speckled Shell Fragment",
+  "quality": "Poor",
+  "icon": "inv_misc_monsterscales_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Speckled Shell Fragment</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">3</span></div></td></tr></table>",
+  "url": "/item=4556/speckled-shell-fragment",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_07.jpg",
+  "id": "4556",
+  "slug": "speckled-shell-fragment"
+}

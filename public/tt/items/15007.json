@@ -1,0 +1,10 @@
+{
+  "name": "Primal Cape",
+  "quality": "Common",
+  "icon": "inv_misc_cape_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Primal Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->8</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->7 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->3<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">24</span></div></td></tr></table>",
+  "url": "/item=15007/primal-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_03.jpg",
+  "id": "15007",
+  "slug": "primal-cape"
+}

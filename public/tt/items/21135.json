@@ -1,0 +1,10 @@
+{
+  "name": "Assassin's Throwing Axe",
+  "quality": "Rare",
+  "icon": "inv_throwingaxe_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Assassin's Throwing Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><table width=\"100%\"><tr><td>Thrown</td><th><!--scstart2:16--><span class=\"q1\">Thrown</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->78 - 146 Frost Damage</span></td>\n    <th>Speed <!--spd-->3.00</th>\n</tr></table><!--dps-->(37.33 damage per second)<br><span><!--stat3-->+11 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<!--itemEffects:1--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=21135/assassins-throwing-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_throwingaxe_06.jpg",
+  "id": "21135",
+  "slug": "assassins-throwing-axe"
+}

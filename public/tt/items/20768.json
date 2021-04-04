@@ -1,0 +1,10 @@
+{
+  "name": "Oozing Bag",
+  "quality": "Common",
+  "icon": "inv_misc_bag_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Oozing Bag</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=20768/oozing-bag",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_12.jpg",
+  "id": "20768",
+  "slug": "oozing-bag"
+}

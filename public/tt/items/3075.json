@@ -1,0 +1,10 @@
+{
+  "name": "Eye of Flame",
+  "quality": "Epic",
+  "icon": "inv_helmet_44",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Eye of Flame</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->70 Armor</span><br><span><!--stat5-->+10 Intellect</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><br>+15 Fire Resistance<!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->49<br><span class=\"q2\">Equip: <a href=\"/spell=17878\" class=\"q2\">Increases damage done by Fire spells and effects by up to 43.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">73</span></div></td></tr></table>",
+  "url": "/item=3075/eye-of-flame",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_44.jpg",
+  "id": "3075",
+  "slug": "eye-of-flame"
+}

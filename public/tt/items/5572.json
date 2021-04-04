@@ -1,0 +1,10 @@
+{
+  "name": "Small Green Pouch",
+  "quality": "Common",
+  "icon": "inv_misc_bag_09_green",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Small Green Pouch</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><br />6 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=5572/small-green-pouch",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_09_green.jpg",
+  "id": "5572",
+  "slug": "small-green-pouch"
+}

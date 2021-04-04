@@ -1,0 +1,10 @@
+{
+  "name": "Dark Iron Baby Booties",
+  "quality": "Poor",
+  "icon": "inv_boots_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Dark Iron Baby Booties</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">88</span> <span class=\"moneycopper\">21</span></div></td></tr></table>",
+  "url": "/item=11944/dark-iron-baby-booties",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_06.jpg",
+  "id": "11944",
+  "slug": "dark-iron-baby-booties"
+}

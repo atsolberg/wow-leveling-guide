@@ -1,0 +1,10 @@
+{
+  "name": "Warbringer's Gauntlets",
+  "quality": "Uncommon",
+  "icon": "inv_gauntlets_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Warbringer's Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->42</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->212 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">25</span> <span class=\"moneycopper\">24</span></div></td></tr></table>",
+  "url": "/item=14942/warbringers-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_27.jpg",
+  "id": "14942",
+  "slug": "warbringers-gauntlets"
+}

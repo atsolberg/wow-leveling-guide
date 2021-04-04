@@ -1,0 +1,10 @@
+{
+  "name": "Scarab Brooch",
+  "quality": "Epic",
+  "icon": "inv_misc_ahnqirajtrinket_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Scarab Brooch</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->78</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=26467\" class=\"q2\">Your magical heals provide the target with a shield that absorbs damage equal to 15% of the amount healed for 30 sec.</a> (3 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">8</span> <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">30</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Viscidus</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 15.11%</div></td></tr></table>",
+  "url": "/item=21625/scarab-brooch",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_ahnqirajtrinket_06.jpg",
+  "id": "21625",
+  "slug": "scarab-brooch"
+}

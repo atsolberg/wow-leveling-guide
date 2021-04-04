@@ -1,0 +1,10 @@
+{
+  "name": "Stormwind Deputy Kit",
+  "quality": "Common",
+  "icon": "inv_box_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Stormwind Deputy Kit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=15446/stormwind-deputy-kit",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_04.jpg",
+  "id": "15446",
+  "slug": "stormwind-deputy-kit"
+}

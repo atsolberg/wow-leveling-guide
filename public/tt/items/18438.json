@@ -1,0 +1,10 @@
+{
+  "name": "Sergeant's Mark",
+  "quality": "Rare",
+  "icon": "inv_shield_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Sergeant's Mark</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<br>Requires <span class=\"icon-horde\">Sergeant</span> <span class=\"icon-alliance\">Sergeant</span><br><span class=\"q2\">Use: <a href=\"/spell=22891\" class=\"q2\">Removes one Fear, Polymorph, or Sleep effect.</a> (3 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=18438/sergeants-mark",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_05.jpg",
+  "id": "18438",
+  "slug": "sergeants-mark"
+}

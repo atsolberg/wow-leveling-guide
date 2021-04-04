@@ -1,0 +1,10 @@
+{
+  "name": "Sharp Kitchen Knife",
+  "quality": "Common",
+  "icon": "inv_weapon_shortblade_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sharp Kitchen Knife</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->5 - 10 Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(5.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">83</span></div></td></tr></table>",
+  "url": "/item=2225/sharp-kitchen-knife",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_14.jpg",
+  "id": "2225",
+  "slug": "sharp-kitchen-knife"
+}

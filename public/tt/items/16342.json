@@ -1,0 +1,10 @@
+{
+  "name": "Sergeant's Cape",
+  "quality": "Rare",
+  "icon": "inv_misc_cape_21",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Sergeant's Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->115 Armor</span><br><span><!--stat7-->+17 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br>Requires <span class=\"icon-horde\">Sergeant</span> <span class=\"icon-alliance\">Sergeant</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">88</span> <span class=\"moneycopper\">30</span></div></td></tr></table>",
+  "url": "/item=16342/sergeants-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_21.jpg",
+  "id": "16342",
+  "slug": "sergeants-cape"
+}

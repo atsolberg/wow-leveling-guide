@@ -1,0 +1,10 @@
+{
+  "name": "Spire of Twilight",
+  "quality": "Epic",
+  "icon": "inv_staff_31",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Spire of Twilight</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->83</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->141 - 251 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(61.25 damage per second)<br><span><!--stat5-->+38 Intellect</span><br><span><!--stat7-->+30 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=21632\" class=\"q2\">Restores 10 mana per 5 sec.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=28736\" class=\"q2\">Increases healing done by spells and effects by up to 178.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">24</span> <span class=\"moneysilver\">64</span> <span class=\"moneycopper\">40</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Thaddius</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 17.89%</div></td></tr></table>",
+  "url": "/item=22801/spire-of-twilight",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_31.jpg",
+  "id": "22801",
+  "slug": "spire-of-twilight"
+}

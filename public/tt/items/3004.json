@@ -1,0 +1,10 @@
+{
+  "name": "Relic of the Dead",
+  "quality": "Common",
+  "icon": "inv_misc_urn_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Relic of the Dead</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=5\" class=\"c5\">Priest</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=3004/relic-of-the-dead",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_urn_01.jpg",
+  "id": "3004",
+  "slug": "relic-of-the-dead"
+}

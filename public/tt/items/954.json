@@ -1,0 +1,10 @@
+{
+  "name": "Scroll of Strength",
+  "quality": "Common",
+  "icon": "inv_scroll_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Scroll of Strength</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<br><span class=\"q2\">Use: <a href=\"/spell=8118\" class=\"q2\">Increases the target's Strength by 5 for 30 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=954/scroll-of-strength",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_02.jpg",
+  "id": "954",
+  "slug": "scroll-of-strength"
+}

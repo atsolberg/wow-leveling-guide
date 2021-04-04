@@ -1,0 +1,10 @@
+{
+  "name": "Archaedic Stone",
+  "quality": "Rare",
+  "icon": "inv_stone_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Archaedic Stone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->47</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--amr-->50 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->42<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">95</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Archaedas</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 62.42%</div></td></tr></table>",
+  "url": "/item=11118/archaedic-stone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_15.jpg",
+  "id": "11118",
+  "slug": "archaedic-stone"
+}

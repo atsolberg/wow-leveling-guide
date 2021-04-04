@@ -1,0 +1,10 @@
+{
+  "name": "Festive Purple Dress",
+  "quality": "Common",
+  "icon": "inv_chest_cloth_59",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Festive Purple Dress</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Chest</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=21539/festive-purple-dress",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_59.jpg",
+  "id": "21539",
+  "slug": "festive-purple-dress"
+}

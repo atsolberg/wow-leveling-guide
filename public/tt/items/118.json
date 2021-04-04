@@ -1,0 +1,10 @@
+{
+  "name": "Minor Healing Potion",
+  "quality": "Common",
+  "icon": "inv_potion_49",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Minor Healing Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=439\" class=\"q2\">Restores 70 to 90 health.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">5</span></div></td></tr></table>",
+  "url": "/item=118/minor-healing-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_49.jpg",
+  "id": "118",
+  "slug": "minor-healing-potion"
+}

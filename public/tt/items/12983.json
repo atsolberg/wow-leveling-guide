@@ -1,0 +1,10 @@
+{
+  "name": "Rakzur Club",
+  "quality": "Rare",
+  "icon": "inv_hammer_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Rakzur Club</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->38 - 57 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(18.27 damage per second)<br><span><!--stat4-->+4 Strength</span><br><span><!--stat7-->+8 Stamina</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">23</span> <span class=\"moneycopper\">62</span></div></td></tr></table>",
+  "url": "/item=12983/rakzur-club",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_09.jpg",
+  "id": "12983",
+  "slug": "rakzur-club"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Ukko's Ring of Darkness",
+  "quality": "Epic",
+  "icon": "inv_jewelry_ring_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Ukko's Ring of Darkness</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->76</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat7-->+13 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+20 Shadow Resistance<!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=21596\" class=\"q2\">Restores 5 health per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">10</span> <span class=\"moneysilver\">29</span> <span class=\"moneycopper\">95</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Princess Yauj</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 21.66%</div></td></tr></table>",
+  "url": "/item=21687/ukkos-ring-of-darkness",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_ring_24.jpg",
+  "id": "21687",
+  "slug": "ukkos-ring-of-darkness"
+}

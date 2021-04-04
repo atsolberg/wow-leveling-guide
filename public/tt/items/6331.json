@@ -1,0 +1,10 @@
+{
+  "name": "Howling Blade",
+  "quality": "Rare",
+  "icon": "inv_weapon_shortblade_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Howling Blade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br />Binds when equipped<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->23 - 44 Damage</span></td>\n    <th>Speed <!--spd-->1.40</th>\n</tr></table><!--dps-->(23.93 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->31<br><span class=\"q2\">Chance on hit: <a href=\"/spell=13490\" class=\"q2\">Reduces target's attack power by 30 for 30 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">94</span> <span class=\"moneycopper\">66</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Skhowl</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 27.05%</div></td></tr></table>",
+  "url": "/item=6331/howling-blade",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_15.jpg",
+  "id": "6331",
+  "slug": "howling-blade"
+}

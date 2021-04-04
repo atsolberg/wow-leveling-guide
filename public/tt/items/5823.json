@@ -1,0 +1,10 @@
+{
+  "name": "Poisonous Mushroom",
+  "quality": "Common",
+  "icon": "inv_mushroom_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Poisonous Mushroom</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<br><span class=\"q2\">Use: <a href=\"/spell=6727\" class=\"q2\">Don't eat me.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">5</span></div></td></tr></table>",
+  "url": "/item=5823/poisonous-mushroom",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mushroom_06.jpg",
+  "id": "5823",
+  "slug": "poisonous-mushroom"
+}

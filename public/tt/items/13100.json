@@ -1,0 +1,10 @@
+{
+  "name": "Furen's Boots",
+  "quality": "Rare",
+  "icon": "inv_boots_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Furen's Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->44</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->44 Armor</span><br><span><!--stat5-->+7 Intellect</span><br><span><!--stat6-->+16 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->39<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">54</span> <span class=\"moneycopper\">21</span></div></td></tr></table>",
+  "url": "/item=13100/furens-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_03.jpg",
+  "id": "13100",
+  "slug": "furens-boots"
+}

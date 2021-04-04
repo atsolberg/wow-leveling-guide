@@ -1,0 +1,10 @@
+{
+  "name": "Unbestowed Friendship Bracelet",
+  "quality": "Common",
+  "icon": "inv_jewelry_ring_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Unbestowed Friendship Bracelet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=26899\" class=\"q2\">Give to a Heartbroken player to cheer them up.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div></td></tr></table>",
+  "url": "/item=22259/unbestowed-friendship-bracelet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_ring_03.jpg",
+  "id": "22259",
+  "slug": "unbestowed-friendship-bracelet"
+}

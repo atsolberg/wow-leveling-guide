@@ -1,0 +1,10 @@
+{
+  "name": "Fisherman Knife",
+  "quality": "Poor",
+  "icon": "inv_weapon_shortblade_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Fisherman Knife</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->14</span><!--bo--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->4 - 8 Damage</span></td>\n    <th>Speed <!--spd-->1.40</th>\n</tr></table><!--dps-->(4.29 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->9<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">40</span></div></td></tr></table>",
+  "url": "/item=2763/fisherman-knife",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_01.jpg",
+  "id": "2763",
+  "slug": "fisherman-knife"
+}

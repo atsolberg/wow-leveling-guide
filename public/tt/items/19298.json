@@ -1,0 +1,10 @@
+{
+  "name": "Minor Darkmoon Prize",
+  "quality": "Uncommon",
+  "icon": "inv_misc_bag_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Minor Darkmoon Prize</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><span class=\"q\">&quot;Guaranteed to contain an item of value!&quot;</span><br><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=19298/minor-darkmoon-prize",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_04.jpg",
+  "id": "19298",
+  "slug": "minor-darkmoon-prize"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Outfitter Boots",
+  "quality": "Common",
+  "icon": "inv_boots_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Outfitter Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->46 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=2691/outfitter-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_01.jpg",
+  "id": "2691",
+  "slug": "outfitter-boots"
+}

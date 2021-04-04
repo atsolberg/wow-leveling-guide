@@ -1,0 +1,10 @@
+{
+  "name": "Tough Scorpid Shoulders",
+  "quality": "Uncommon",
+  "icon": "inv_shoulder_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Tough Scorpid Shoulders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->48</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->197 Armor</span><br><span><!--stat3-->+10 Agility</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->43<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">89</span> <span class=\"moneycopper\">78</span></div></td></tr></table>",
+  "url": "/item=8207/tough-scorpid-shoulders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_04.jpg",
+  "id": "8207",
+  "slug": "tough-scorpid-shoulders"
+}

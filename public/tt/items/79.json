@@ -1,0 +1,10 @@
+{
+  "name": "Dwarven Cloth Britches",
+  "quality": "Common",
+  "icon": "inv_pants_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dwarven Cloth Britches</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->9 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=79/dwarven-cloth-britches",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_09.jpg",
+  "id": "79",
+  "slug": "dwarven-cloth-britches"
+}

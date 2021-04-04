@@ -1,0 +1,10 @@
+{
+  "name": "Overspark's Pledge of Secrecy",
+  "quality": "Common",
+  "icon": "inv_misc_note_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Overspark's Pledge of Secrecy</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=14227\" class=\"q2\">Sign the pledge, swearing to Tinkmaster Overspark that you will keep the knowledge of Gnome Engineering in eternal secrecy.</a></span></td></tr></table>",
+  "url": "/item=10793/oversparks-pledge-of-secrecy",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_02.jpg",
+  "id": "10793",
+  "slug": "oversparks-pledge-of-secrecy"
+}

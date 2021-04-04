@@ -1,0 +1,10 @@
+{
+  "name": "Elixir of Greater Water Breathing",
+  "quality": "Common",
+  "icon": "inv_potion_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Elixir of Greater Water Breathing</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<br><span class=\"q2\">Use: <a href=\"/spell=22807\" class=\"q2\">Allows the Imbiber to breathe water for 1 hour.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=18294/elixir-of-greater-water-breathing",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_05.jpg",
+  "id": "18294",
+  "slug": "elixir-of-greater-water-breathing"
+}

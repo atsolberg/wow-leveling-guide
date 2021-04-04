@@ -1,0 +1,10 @@
+{
+  "name": "A Small Container of Gems",
+  "quality": "Common",
+  "icon": "inv_misc_ornatebox",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">A Small Container of Gems</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=6755/a-small-container-of-gems",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_ornatebox.jpg",
+  "id": "6755",
+  "slug": "a-small-container-of-gems"
+}

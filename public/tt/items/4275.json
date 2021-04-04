@@ -1,0 +1,11 @@
+{
+  "name": "Codex of Mind Rot",
+  "quality": "Common",
+  "icon": "inv_misc_book_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Codex of Mind Rot</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->38</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=5\" class=\"c5\">Priest</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->38<br><span class=\"q2\">Use: <a href=\"/spell=628\" class=\"q2\">Teaches Mind Rot.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">42</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=4275/codex-of-mind-rot",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_09.jpg",
+  "id": "4275",
+  "slug": "codex-of-mind-rot"
+}

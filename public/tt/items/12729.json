@@ -1,0 +1,10 @@
+{
+  "name": "Viagra",
+  "quality": "Common",
+  "icon": "inv_potion_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Viagra</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=12729/viagra",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_12.jpg",
+  "id": "12729",
+  "slug": "viagra"
+}

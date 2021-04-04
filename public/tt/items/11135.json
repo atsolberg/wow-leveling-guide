@@ -1,0 +1,10 @@
+{
+  "name": "Greater Mystic Essence",
+  "quality": "Uncommon",
+  "icon": "inv_enchant_essencemysticallarge",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Greater Mystic Essence</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=13633\" class=\"q2\">Turn a greater mystic essence into three lesser ones.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div></td></tr></table>",
+  "url": "/item=11135/greater-mystic-essence",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_enchant_essencemysticallarge.jpg",
+  "id": "11135",
+  "slug": "greater-mystic-essence"
+}

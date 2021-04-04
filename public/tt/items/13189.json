@@ -1,0 +1,10 @@
+{
+  "name": "Empty Gahrron's Withering Bottle",
+  "quality": "Common",
+  "icon": "inv_potion_90",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Empty Gahrron's Withering Bottle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=13189/empty-gahrrons-withering-bottle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_90.jpg",
+  "id": "13189",
+  "slug": "empty-gahrrons-withering-bottle"
+}

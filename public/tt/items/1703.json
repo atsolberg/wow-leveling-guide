@@ -1,0 +1,10 @@
+{
+  "name": "Crystal Basilisk Spine",
+  "quality": "Common",
+  "icon": "inv_misc_bone_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Crystal Basilisk Spine</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->25<br><span class=\"q2\">Use: <a href=\"/spell=1138\" class=\"q2\">Increases Frost and Shadow resistance by 10 for 1 min.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">81</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Crystal Spine Basilisk</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 16.82%</div></td></tr></table>",
+  "url": "/item=1703/crystal-basilisk-spine",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_03.jpg",
+  "id": "1703",
+  "slug": "crystal-basilisk-spine"
+}

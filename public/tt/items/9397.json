@@ -1,0 +1,10 @@
+{
+  "name": "Energy Cloak",
+  "quality": "Rare",
+  "icon": "inv_misc_cape_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Energy Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->39</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->28 Armor</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->34<br><span class=\"q2\">Use: <a href=\"/spell=5405\" class=\"q2\">Restores 375 to 425 mana.</a> (1 Hour Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">36</span> <span class=\"moneycopper\">72</span></div></td></tr></table>",
+  "url": "/item=9397/energy-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_18.jpg",
+  "id": "9397",
+  "slug": "energy-cloak"
+}

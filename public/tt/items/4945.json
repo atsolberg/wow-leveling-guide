@@ -1,0 +1,10 @@
+{
+  "name": "Faintly Glowing Skull",
+  "quality": "Common",
+  "icon": "inv_misc_bone_dwarfskull_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Faintly Glowing Skull</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->9</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=16375\" class=\"q2\">Steals 75 to 125 life from target enemy.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">37</span></div></td></tr></table>",
+  "url": "/item=4945/faintly-glowing-skull",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_dwarfskull_01.jpg",
+  "id": "4945",
+  "slug": "faintly-glowing-skull"
+}

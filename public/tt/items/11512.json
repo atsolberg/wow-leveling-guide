@@ -1,0 +1,10 @@
+{
+  "name": "Patch of Tainted Skin",
+  "quality": "Common",
+  "icon": "inv_misc_pelt_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Patch of Tainted Skin</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=11512/patch-of-tainted-skin",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_pelt_02.jpg",
+  "id": "11512",
+  "slug": "patch-of-tainted-skin"
+}

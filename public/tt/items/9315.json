@@ -1,0 +1,10 @@
+{
+  "name": "Yellow Rose Firework",
+  "quality": "Common",
+  "icon": "spell_holy_holybolt",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Yellow Rose Firework</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=11544\" class=\"q2\">Shoots a firework into the air that bursts in a yellow pattern.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=9315/yellow-rose-firework",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_holy_holybolt.jpg",
+  "id": "9315",
+  "slug": "yellow-rose-firework"
+}

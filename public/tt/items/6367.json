@@ -1,0 +1,10 @@
+{
+  "name": "Big Iron Fishing Pole",
+  "quality": "Common",
+  "icon": "inv_fishingpole_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Big Iron Fishing Pole</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->30</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:20--><span class=\"q1\">Fishing Pole</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->45 - 69 Damage</span></td>\n    <th>Speed <!--spd-->3.00</th>\n</tr></table><!--dps-->(19.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->25<br>Requires <a href=\"/skill=356\" class=\"q1\">Fishing</a> (100)<br><span class=\"q2\">Equip: <a href=\"/spell=7826\" class=\"q2\">Increased Fishing +20.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">33</span> <span class=\"moneycopper\">78</span></div></td></tr></table>",
+  "url": "/item=6367/big-iron-fishing-pole",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_fishingpole_01.jpg",
+  "id": "6367",
+  "slug": "big-iron-fishing-pole"
+}

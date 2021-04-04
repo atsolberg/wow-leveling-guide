@@ -1,0 +1,10 @@
+{
+  "name": "Wartorn Cloth Scrap",
+  "quality": "Rare",
+  "icon": "inv_misc_wartornscrap_cloth",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Wartorn Cloth Scrap</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div></td></tr></table>",
+  "url": "/item=22376/wartorn-cloth-scrap",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_wartornscrap_cloth.jpg",
+  "id": "22376",
+  "slug": "wartorn-cloth-scrap"
+}

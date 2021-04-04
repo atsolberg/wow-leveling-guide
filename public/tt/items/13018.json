@@ -1,0 +1,10 @@
+{
+  "name": "Executioner's Cleaver",
+  "quality": "Rare",
+  "icon": "inv_axe_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Executioner's Cleaver</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->48</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->127 - 191 Damage</span></td>\n    <th>Speed <!--spd-->3.80</th>\n</tr></table><!--dps-->(41.84 damage per second)<br><span><!--stat4-->+23 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->43<br><span class=\"q2\">Equip: <a href=\"/spell=15464\" class=\"q2\">Improves your chance to hit by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">19</span> <span class=\"moneycopper\">67</span></div></td></tr></table>",
+  "url": "/item=13018/executioners-cleaver",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_24.jpg",
+  "id": "13018",
+  "slug": "executioners-cleaver"
+}

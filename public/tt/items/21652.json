@@ -1,0 +1,10 @@
+{
+  "name": "Silithid Carapace Chestguard",
+  "quality": "Epic",
+  "icon": "inv_chest_plate09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Silithid Carapace Chestguard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->77</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->867 Armor</span><br><span><!--stat4-->+17 Strength</span><br><span><!--stat3-->+14 Agility</span><br><span><!--stat7-->+23 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+35 Nature Resistance<!--e--><!--ps--><br>Durability 165 / 165</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">90</span> <span class=\"moneycopper\">78</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Fankriss the Unyielding</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 16.03%</div></td></tr></table>",
+  "url": "/item=21652/silithid-carapace-chestguard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_plate09.jpg",
+  "id": "21652",
+  "slug": "silithid-carapace-chestguard"
+}

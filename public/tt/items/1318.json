@@ -1,0 +1,10 @@
+{
+  "name": "Night Reaver",
+  "quality": "Rare",
+  "icon": "inv_throwingaxe_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Night Reaver</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->52 - 78 Damage</span></td>\n    <th>Speed <!--spd-->3.30</th>\n</tr><tr><td colspan=\"2\">+ 1 - 5 Shadow Damage</td></tr></table><!--dps-->(20.61 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<br><span class=\"q2\">Chance on hit: <a href=\"/spell=13480\" class=\"q2\">Sends a shadowy bolt at the enemy causing 60 to 90 Shadow damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">66</span></div></td></tr></table>",
+  "url": "/item=1318/night-reaver",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_throwingaxe_06.jpg",
+  "id": "1318",
+  "slug": "night-reaver"
+}

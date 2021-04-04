@@ -1,0 +1,10 @@
+{
+  "name": "Starbreeze Village Relic",
+  "quality": "Common",
+  "icon": "trade_engraving",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Starbreeze Village Relic</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;This night elvic antiquity has been frozen solid by the Frostmaul giants. Handle with care.&quot;</span></td></tr></table>",
+  "url": "/item=22227/starbreeze-village-relic",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/trade_engraving.jpg",
+  "id": "22227",
+  "slug": "starbreeze-village-relic"
+}

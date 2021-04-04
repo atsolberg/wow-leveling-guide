@@ -1,0 +1,10 @@
+{
+  "name": "Head of the Broodlord Lashlayer",
+  "quality": "Epic",
+  "icon": "spell_shadow_curseoftounges",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Head of the Broodlord Lashlayer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Only ONE May Rise... (and consequently, only ONE may loot this head)&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Broodlord Lashlayer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 53.10%</div></td></tr></table>",
+  "url": "/item=20383/head-of-the-broodlord-lashlayer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_curseoftounges.jpg",
+  "id": "20383",
+  "slug": "head-of-the-broodlord-lashlayer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Scroll of Intellect II",
+  "quality": "Common",
+  "icon": "inv_scroll_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Scroll of Intellect II</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<br><span class=\"q2\">Use: <a href=\"/spell=8097\" class=\"q2\">Increases the target's Intellect by 8 for 30 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=2290/scroll-of-intellect-ii",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_01.jpg",
+  "id": "2290",
+  "slug": "scroll-of-intellect-ii"
+}

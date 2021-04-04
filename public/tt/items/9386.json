@@ -1,0 +1,10 @@
+{
+  "name": "Excavator's Brand",
+  "quality": "Rare",
+  "icon": "inv_torch_lit",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Excavator's Brand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br />Binds when equipped<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->43 - 82 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(24.04 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->31<br><span class=\"q2\">Chance on hit: <a href=\"/spell=13438\" class=\"q2\">Hurls a fiery ball that causes 40 Fire damage and an additional 9 damage over 6 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">98</span> <span class=\"moneycopper\">59</span></div></td></tr></table>",
+  "url": "/item=9386/excavators-brand",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_torch_lit.jpg",
+  "id": "9386",
+  "slug": "excavators-brand"
+}

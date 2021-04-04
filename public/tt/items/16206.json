@@ -1,0 +1,10 @@
+{
+  "name": "Arcanite Rod",
+  "quality": "Common",
+  "icon": "inv_staff_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Arcanite Rod</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Needed by Enchanters.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div></td></tr></table>",
+  "url": "/item=16206/arcanite-rod",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_19.jpg",
+  "id": "16206",
+  "slug": "arcanite-rod"
+}

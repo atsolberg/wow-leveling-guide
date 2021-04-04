@@ -1,0 +1,10 @@
+{
+  "name": "Grime-Encrusted Object",
+  "quality": "Common",
+  "icon": "inv_ammo_firetar",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Grime-Encrusted Object</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Caked grime obscures the true identity of this object.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">38</span></div></td></tr></table>",
+  "url": "/item=9308/grime-encrusted-object",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ammo_firetar.jpg",
+  "id": "9308",
+  "slug": "grime-encrusted-object"
+}

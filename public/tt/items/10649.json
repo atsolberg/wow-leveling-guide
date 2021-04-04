@@ -1,0 +1,10 @@
+{
+  "name": "Nightmare Shard",
+  "quality": "Common",
+  "icon": "inv_stone_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Nightmare Shard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=10649/nightmare-shard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_03.jpg",
+  "id": "10649",
+  "slug": "nightmare-shard"
+}

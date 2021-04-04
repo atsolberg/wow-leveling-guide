@@ -1,0 +1,10 @@
+{
+  "name": "Greater Frost Protection Potion",
+  "quality": "Common",
+  "icon": "inv_potion_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Greater Frost Protection Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->58</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->48<br><span class=\"q2\">Use: <a href=\"/spell=17544\" class=\"q2\">Absorbs 1950 to 3250 frost damage. &nbsp;Lasts 1 hour.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=13456/greater-frost-protection-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_20.jpg",
+  "id": "13456",
+  "slug": "greater-frost-protection-potion"
+}

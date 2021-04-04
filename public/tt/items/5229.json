@@ -1,0 +1,10 @@
+{
+  "name": "Empty Greater Bloodstone",
+  "quality": "Common",
+  "icon": "inv_stone_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Empty Greater Bloodstone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->38</span><br />Conjured Item<!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=5229/empty-greater-bloodstone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_04.jpg",
+  "id": "5229",
+  "slug": "empty-greater-bloodstone"
+}

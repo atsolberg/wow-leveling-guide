@@ -1,0 +1,10 @@
+{
+  "name": "Tabard of the Scarlet Crusade",
+  "quality": "Common",
+  "icon": "inv_misc_cape_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tabard of the Scarlet Crusade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Tabard</td><th><!--scstart4:-7--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">71</span> <span class=\"moneycopper\">43</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Scarlet Trainee</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 1.92%</div></td></tr></table>",
+  "url": "/item=23192/tabard-of-the-scarlet-crusade",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_18.jpg",
+  "id": "23192",
+  "slug": "tabard-of-the-scarlet-crusade"
+}

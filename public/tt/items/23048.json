@@ -1,0 +1,10 @@
+{
+  "name": "Sapphiron's Right Eye",
+  "quality": "Epic",
+  "icon": "inv_offhand_naxxramas_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Sapphiron's Right Eye</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->90</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat5-->+10 Intellect</span><br><span><!--stat7-->+9 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=18039\" class=\"q2\">Increases healing done by spells and effects by up to 62.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=21619\" class=\"q2\">Restores 4 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">7</span> <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">51</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Sapphiron</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 16.36%</div></td></tr></table>",
+  "url": "/item=23048/sapphirons-right-eye",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_offhand_naxxramas_02.jpg",
+  "id": "23048",
+  "slug": "sapphirons-right-eye"
+}

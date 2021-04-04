@@ -1,0 +1,10 @@
+{
+  "name": "Bow of Searing Arrows",
+  "quality": "Epic",
+  "icon": "inv_weapon_bow_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Bow of Searing Arrows</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->42</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->47 - 88 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(25.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->37<br><span class=\"q2\">Equip: <a href=\"/spell=29624\" class=\"q2\">Chance to strike your ranged target with a Searing Arrow for 18 to 26 Fire damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">47</span> <span class=\"moneycopper\">22</span></div></td></tr></table>",
+  "url": "/item=2825/bow-of-searing-arrows",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_09.jpg",
+  "id": "2825",
+  "slug": "bow-of-searing-arrows"
+}

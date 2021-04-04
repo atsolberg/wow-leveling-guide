@@ -1,0 +1,10 @@
+{
+  "name": "Whispersilk Leggings",
+  "quality": "Uncommon",
+  "icon": "inv_pants_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Whispersilk Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->68 Armor</span><br><span><!--stat6-->+20 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=9344\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 15.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">68</span> <span class=\"moneycopper\">85</span></div></td></tr></table>",
+  "url": "/item=12107/whispersilk-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_06.jpg",
+  "id": "12107",
+  "slug": "whispersilk-leggings"
+}

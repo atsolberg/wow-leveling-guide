@@ -1,0 +1,10 @@
+{
+  "name": "Nature Mantle of the Dawn",
+  "quality": "Uncommon",
+  "icon": "spell_nature_protectionformnature",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Nature Mantle of the Dawn</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=22597\" class=\"q2\">Permanently adds 5 nature resistance to a shoulder slot item.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=18172/nature-mantle-of-the-dawn",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_protectionformnature.jpg",
+  "id": "18172",
+  "slug": "nature-mantle-of-the-dawn"
+}

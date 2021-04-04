@@ -1,0 +1,10 @@
+{
+  "name": "Shield of Thorsen",
+  "quality": "Rare",
+  "icon": "inv_shield_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Shield of Thorsen</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->30</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->711 Armor</span><br>14 Block<br><span><!--stat4-->+7 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->25<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">33</span> <span class=\"moneycopper\">59</span></div></td></tr></table>",
+  "url": "/item=13079/shield-of-thorsen",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_10.jpg",
+  "id": "13079",
+  "slug": "shield-of-thorsen"
+}

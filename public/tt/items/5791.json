@@ -1,0 +1,10 @@
+{
+  "name": "Henrig Lonebrow's Journal",
+  "quality": "Common",
+  "icon": "inv_misc_book_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Henrig Lonebrow's Journal</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->29</span><!--bo--><br />Unique<br /><a href=\"/quest=1100\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->29</td></tr></table>",
+  "url": "/item=5791/henrig-lonebrows-journal",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_09.jpg",
+  "id": "5791",
+  "slug": "henrig-lonebrows-journal"
+}

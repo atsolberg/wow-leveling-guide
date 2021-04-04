@@ -1,0 +1,10 @@
+{
+  "name": "Tigerbane",
+  "quality": "Uncommon",
+  "icon": "inv_weapon_shortblade_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Tigerbane</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->38</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->27 - 51 Damage</span></td>\n    <th>Speed <!--spd-->1.90</th>\n</tr></table><!--dps-->(20.53 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->33<br><span class=\"q2\">Equip: <a href=\"/spell=19691\" class=\"q2\">Attack Power increased by 18 when fighting Beasts.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">98</span> <span class=\"moneycopper\">24</span></div></td></tr></table>",
+  "url": "/item=1465/tigerbane",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_15.jpg",
+  "id": "1465",
+  "slug": "tigerbane"
+}

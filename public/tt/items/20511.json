@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Sandstalker Breastplate",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pattern: Sandstalker Breastplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=165\" class=\"q1\">Leatherworking</a> (300)<br>Requires <a href=\"/faction=609\" class=\"q1\">Cenarion Circle</a> - Revered<br><span class=\"q2\">Use: <a href=\"/spell=24862\" class=\"q2\">Teaches you how to craft Sandstalker Breastplate.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span></div><br /><span class=\"q3\"><a href=\"/item=20478\">Sandstalker Breastplate</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->485 Armor</span><br><span><!--stat7-->+13 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+25 Nature Resistance<!--e--><!--ps--><br>Durability 120 / 120<br>Requires Level <!--rlvl-->57<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">39</span> <span class=\"moneycopper\">17</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=20501\">Heavy Silithid Carapace</a>&nbsp;(3), <a href=\"/item=20498\">Silithid Chitin</a>&nbsp;(40), <a href=\"/item=18512\">Larval Acid</a>&nbsp;(2), <a href=\"/item=15407\">Cured Rugged Hide</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=20511/pattern-sandstalker-breastplate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "20511",
+  "slug": "pattern-sandstalker-breastplate"
+}

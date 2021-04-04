@@ -1,0 +1,10 @@
+{
+  "name": "Tunnel Pick",
+  "quality": "Uncommon",
+  "icon": "inv_pick_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Tunnel Pick</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->49 - 74 Damage</span></td>\n    <th>Speed <!--spd-->3.10</th>\n</tr></table><!--dps-->(19.84 damage per second)<br><span><!--stat3-->+7 Agility</span><br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->24<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">49</span> <span class=\"moneycopper\">63</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Dark Iron Tunneler</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 3.63%</div></td></tr></table>",
+  "url": "/item=756/tunnel-pick",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pick_02.jpg",
+  "id": "756",
+  "slug": "tunnel-pick"
+}

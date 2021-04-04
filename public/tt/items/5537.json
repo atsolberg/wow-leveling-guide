@@ -1,0 +1,10 @@
+{
+  "name": "Sarilus Foulborne's Head",
+  "quality": "Common",
+  "icon": "inv_misc_head_scourge_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sarilus Foulborne's Head</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Sarilus Foulborne</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 98.12%</div></td></tr></table>",
+  "url": "/item=5537/sarilus-foulbornes-head",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_scourge_01.jpg",
+  "id": "5537",
+  "slug": "sarilus-foulbornes-head"
+}

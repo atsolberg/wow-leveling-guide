@@ -1,0 +1,10 @@
+{
+  "name": "Belnistrasz's Oathstone",
+  "quality": "Common",
+  "icon": "inv_misc_rune_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Belnistrasz's Oathstone</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=10682/belnistraszs-oathstone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_rune_07.jpg",
+  "id": "10682",
+  "slug": "belnistraszs-oathstone"
+}

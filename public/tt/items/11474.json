@@ -1,0 +1,11 @@
+{
+  "name": "Sprite Darter Egg",
+  "quality": "Common",
+  "icon": "inv_egg_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sprite Darter Egg</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->47</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=15067\" class=\"q2\">Right Click to summon and dismiss your sprite darter hatchling.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div></td></tr></table>",
+  "completion_category": "15-2",
+  "url": "/item=11474/sprite-darter-egg",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_egg_02.jpg",
+  "id": "11474",
+  "slug": "sprite-darter-egg"
+}

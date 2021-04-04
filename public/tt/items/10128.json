@@ -1,0 +1,10 @@
+{
+  "name": "Revenant Chestplate",
+  "quality": "Uncommon",
+  "icon": "inv_chest_plate11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Revenant Chestplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->54</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->515 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 115 / 115</td></tr></table><table><tr><td>Requires Level <!--rlvl-->49<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">19</span> <span class=\"moneycopper\">7</span></div></td></tr></table>",
+  "url": "/item=10128/revenant-chestplate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_plate11.jpg",
+  "id": "10128",
+  "slug": "revenant-chestplate"
+}

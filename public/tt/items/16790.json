@@ -1,0 +1,10 @@
+{
+  "name": "Damp Note",
+  "quality": "Common",
+  "icon": "inv_misc_note_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Damp Note</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->17</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=6564\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<div class=\"whtt-extra whtt-droppedby\">Dropped by: Blackfathom Tide Priestess</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 13.17%</div></td></tr></table>",
+  "url": "/item=16790/damp-note",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_06.jpg",
+  "id": "16790",
+  "slug": "damp-note"
+}

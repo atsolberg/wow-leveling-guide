@@ -1,0 +1,10 @@
+{
+  "name": "Reinforced Leather Belt",
+  "quality": "Common",
+  "icon": "inv_belt_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Reinforced Leather Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->71 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">34</span> <span class=\"moneycopper\">8</span></div></td></tr></table>",
+  "url": "/item=2471/reinforced-leather-belt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_16.jpg",
+  "id": "2471",
+  "slug": "reinforced-leather-belt"
+}

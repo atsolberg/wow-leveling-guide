@@ -1,0 +1,10 @@
+{
+  "name": "World Enlarger",
+  "quality": "Uncommon",
+  "icon": "inv_misc_enggizmos_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">World Enlarger</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (250)<br>Requires <a href=\"/spells=11.202.20219\" class=\"q1\">Gnomish Engineer</a><br><span class=\"q2\">Use: <a href=\"/spell=23126\" class=\"q2\">Enlarges the entire world for 5 min or until you attack.</a> (1 Hour Cooldown)</span><br><span class=\"q\">&quot;Only Gnomish Technology could invent a device that affects the entire world!&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">75</span></div></td></tr></table>",
+  "url": "/item=18660/world-enlarger",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_enggizmos_08.jpg",
+  "id": "18660",
+  "slug": "world-enlarger"
+}

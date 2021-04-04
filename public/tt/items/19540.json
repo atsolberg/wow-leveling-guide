@@ -1,0 +1,10 @@
+{
+  "name": "Sentinel's Medallion",
+  "quality": "Rare",
+  "icon": "inv_jewelry_necklace_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Sentinel's Medallion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->43</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat3-->+11 Agility</span><br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->38<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=19540/sentinels-medallion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_13.jpg",
+  "id": "19540",
+  "slug": "sentinels-medallion"
+}

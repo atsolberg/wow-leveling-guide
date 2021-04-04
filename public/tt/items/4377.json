@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Blasting Powder",
+  "quality": "Common",
+  "icon": "classic_inv_misc_dust_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Heavy Blasting Powder</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=4377/heavy-blasting-powder",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/classic_inv_misc_dust_06.jpg",
+  "id": "4377",
+  "slug": "heavy-blasting-powder"
+}

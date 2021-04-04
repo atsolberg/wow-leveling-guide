@@ -1,0 +1,10 @@
+{
+  "name": "Torn Recipe Page",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Torn Recipe Page</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=20467/torn-recipe-page",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "20467",
+  "slug": "torn-recipe-page"
+}

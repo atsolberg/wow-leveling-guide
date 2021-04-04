@@ -1,0 +1,10 @@
+{
+  "name": "Black Malice",
+  "quality": "Rare",
+  "icon": "inv_mace_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Black Malice</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->48 - 73 Damage</span></td>\n    <th>Speed <!--spd-->3.30</th>\n</tr><tr><td colspan=\"2\">+ 1 - 6 Shadow Damage</td></tr></table><!--dps-->(19.39 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<br><span class=\"q2\">Chance on hit: <a href=\"/spell=18205\" class=\"q2\">Sends a shadowy bolt at the enemy causing 55 to 85 Shadow damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">24</span> <span class=\"moneycopper\">95</span></div></td></tr></table>",
+  "url": "/item=3194/black-malice",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_01.jpg",
+  "id": "3194",
+  "slug": "black-malice"
+}

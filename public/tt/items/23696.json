@@ -1,0 +1,10 @@
+{
+  "name": "[PH] Potion of Heightened Senses [DEP]",
+  "quality": "Common",
+  "icon": "inv_potion_33",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">[PH] Potion of Heightened Senses [DEP]</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=30297\" class=\"q2\">Decreases your chance to be crit by 5%.</a></span></td></tr></table>",
+  "url": "/item=23696/ph-potion-of-heightened-senses-dep",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_33.jpg",
+  "id": "23696",
+  "slug": "ph-potion-of-heightened-senses-dep"
+}

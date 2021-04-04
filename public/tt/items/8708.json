@@ -1,0 +1,10 @@
+{
+  "name": "Hammer of Expertise",
+  "quality": "Epic",
+  "icon": "inv_hammer_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Hammer of Expertise</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when picked up<br />Unique<br />Duration: 1 hour<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->54 - 101 Damage</span></td>\n    <th>Speed <!--spd-->2.10</th>\n</tr></table><!--dps-->(36.90 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<!--itemEffects:1--></td></tr></table>",
+  "url": "/item=8708/hammer-of-expertise",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_24.jpg",
+  "id": "8708",
+  "slug": "hammer-of-expertise"
+}

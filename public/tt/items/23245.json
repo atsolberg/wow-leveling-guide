@@ -1,0 +1,10 @@
+{
+  "name": "[PH] Everburning Elixir",
+  "quality": "Common",
+  "icon": "inv_summerfest_firepotion",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">[PH] Everburning Elixir</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=23245/ph-everburning-elixir",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_summerfest_firepotion.jpg",
+  "id": "23245",
+  "slug": "ph-everburning-elixir"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Magic Knucklebone (DND)",
+  "quality": "Common",
+  "icon": "inv_misc_bone_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Magic Knucklebone (DND)</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=16195\" class=\"q2\">Place 7 Magic Knucklebones in the Charm Pouch to create a Knucklebone Pouch.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=12440/magic-knucklebone-dnd",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_06.jpg",
+  "id": "12440",
+  "slug": "magic-knucklebone-dnd"
+}

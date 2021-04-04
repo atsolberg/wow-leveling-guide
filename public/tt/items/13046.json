@@ -1,0 +1,10 @@
+{
+  "name": "Blanchard's Stout",
+  "quality": "Rare",
+  "icon": "inv_hammer_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Blanchard's Stout</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->107 - 162 Damage</span></td>\n    <th>Speed <!--spd-->3.10</th>\n</tr></table><!--dps-->(43.39 damage per second)<br><span><!--stat4-->+20 Strength</span><br><span><!--stat7-->+15 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+5 Fire Resistance<!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">42</span></div></td></tr></table>",
+  "url": "/item=13046/blanchards-stout",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_04.jpg",
+  "id": "13046",
+  "slug": "blanchards-stout"
+}

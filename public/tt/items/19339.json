@@ -1,0 +1,10 @@
+{
+  "name": "Mind Quickening Gem",
+  "quality": "Epic",
+  "icon": "spell_nature_wispheal",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Mind Quickening Gem</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->76</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=8\" class=\"c8\">Mage</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=23723\" class=\"q2\">Quickens the mind, increasing the Mage's casting speed by 33% for 20 sec.</a> (5 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">7</span> <span class=\"moneysilver\">20</span> <span class=\"moneycopper\">39</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Vaelastrasz the Corrupt</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 19.20%</div></td></tr></table>",
+  "url": "/item=19339/mind-quickening-gem",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_wispheal.jpg",
+  "id": "19339",
+  "slug": "mind-quickening-gem"
+}

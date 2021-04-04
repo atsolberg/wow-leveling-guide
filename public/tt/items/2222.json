@@ -1,0 +1,10 @@
+{
+  "name": "Tower Shield",
+  "quality": "Poor",
+  "icon": "inv_shield_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Tower Shield</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->483 Armor</span><br>8 Block<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->24<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span> <span class=\"moneycopper\">5</span></div></td></tr></table>",
+  "url": "/item=2222/tower-shield",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_11.jpg",
+  "id": "2222",
+  "slug": "tower-shield"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Imperial Jewel",
+  "quality": "Rare",
+  "icon": "inv_misc_gem_sapphire_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Imperial Jewel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Equip: <a href=\"/spell=15807\" class=\"q2\">+32 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">96</span> <span class=\"moneycopper\">46</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Emperor Dagran Thaurissan</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 16.27%</div></td></tr></table>",
+  "url": "/item=11933/imperial-jewel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_sapphire_01.jpg",
+  "id": "11933",
+  "slug": "imperial-jewel"
+}

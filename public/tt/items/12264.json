@@ -1,0 +1,11 @@
+{
+  "name": "Worg Carrier",
+  "quality": "Common",
+  "icon": "inv_box_petcarrier_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Worg Carrier</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=15999\" class=\"q2\">Right Click to summon and dismiss your worg pup.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span></div></td></tr></table>",
+  "completion_category": "15-2",
+  "url": "/item=12264/worg-carrier",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_petcarrier_01.jpg",
+  "id": "12264",
+  "slug": "worg-carrier"
+}

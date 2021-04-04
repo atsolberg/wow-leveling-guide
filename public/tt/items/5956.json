@@ -1,0 +1,10 @@
+{
+  "name": "Blacksmith Hammer",
+  "quality": "Common",
+  "icon": "inv_hammer_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Blacksmith Hammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->2 - 3 Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(1.25 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">3</span></div></td></tr></table>",
+  "url": "/item=5956/blacksmith-hammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_20.jpg",
+  "id": "5956",
+  "slug": "blacksmith-hammer"
+}

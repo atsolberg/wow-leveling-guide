@@ -1,0 +1,10 @@
+{
+  "name": "Draconian Aegis of the Legion",
+  "quality": "Rare",
+  "icon": "inv_shield_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Draconian Aegis of the Legion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->2153 Armor</span><br>40 Block<br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=14799\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 20.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">51</span> <span class=\"moneycopper\">50</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lord Valthalak</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 23.93%</div></td></tr></table>",
+  "url": "/item=22336/draconian-aegis-of-the-legion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_02.jpg",
+  "id": "22336",
+  "slug": "draconian-aegis-of-the-legion"
+}

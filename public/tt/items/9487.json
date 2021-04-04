@@ -1,0 +1,10 @@
+{
+  "name": "Hi-tech Supergun",
+  "quality": "Rare",
+  "icon": "inv_weapon_rifle_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Hi-tech Supergun</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->23 - 43 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(14.35 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->24<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">36</span> <span class=\"moneycopper\">32</span></div></td></tr></table>",
+  "url": "/item=9487/hi-tech-supergun",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_06.jpg",
+  "id": "9487",
+  "slug": "hi-tech-supergun"
+}

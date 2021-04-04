@@ -1,0 +1,10 @@
+{
+  "name": "Nixx's Signed Pledge",
+  "quality": "Common",
+  "icon": "inv_misc_note_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Nixx's Signed Pledge</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=11270/nixxs-signed-pledge",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_02.jpg",
+  "id": "11270",
+  "slug": "nixxs-signed-pledge"
+}

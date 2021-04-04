@@ -1,0 +1,10 @@
+{
+  "name": "Spineshatter",
+  "quality": "Epic",
+  "icon": "inv_mace_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Spineshatter</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->73</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->99 - 184 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(54.42 damage per second)<br><span><!--stat4-->+9 Strength</span><br><span><!--stat7-->+16 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=7518\" class=\"q2\">Increased Defense +5.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">12</span> <span class=\"moneysilver\">88</span> <span class=\"moneycopper\">25</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Razorgore the Untamed</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 9.37%</div></td></tr></table>",
+  "url": "/item=19335/spineshatter",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_06.jpg",
+  "id": "19335",
+  "slug": "spineshatter"
+}

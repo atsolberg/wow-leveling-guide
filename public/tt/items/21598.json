@@ -1,0 +1,10 @@
+{
+  "name": "Royal Qiraji Belt",
+  "quality": "Epic",
+  "icon": "inv_belt_31",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Royal Qiraji Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->81</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->512 Armor</span><br><span><!--stat4-->+13 Strength</span><br><span><!--stat3-->+13 Agility</span><br><span><!--stat7-->+22 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=13665\" class=\"q2\">Increases your chance to parry an attack by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=13387\" class=\"q2\">Increased Defense +8.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">57</span> <span class=\"moneycopper\">53</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Emperor Vek'lor</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 15.03%</div></td></tr></table>",
+  "url": "/item=21598/royal-qiraji-belt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_31.jpg",
+  "id": "21598",
+  "slug": "royal-qiraji-belt"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Atal'alarion's Tusk Ring",
+  "quality": "Rare",
+  "icon": "inv_belt_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Atal'alarion's Tusk Ring</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->51</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->302 Armor</span><br><span><!--stat4-->+18 Strength</span><br><span><!--stat7-->+8 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->46<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">62</span> <span class=\"moneycopper\">63</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Atal'alarion</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 37.08%</div></td></tr></table>",
+  "url": "/item=10798/atalalarions-tusk-ring",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_15.jpg",
+  "id": "10798",
+  "slug": "atalalarions-tusk-ring"
+}

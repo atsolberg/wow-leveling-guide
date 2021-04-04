@@ -1,0 +1,10 @@
+{
+  "name": "Libram of Hope",
+  "quality": "Rare",
+  "icon": "inv_relics_libramofhope",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Libram of Hope</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Relic</td><th><!--scstart4:7--><span class=\"q1\">Libram</span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=27848\" class=\"q2\">Reduces the mana cost of your Seal spells by 20.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">70</span> <span class=\"moneycopper\">78</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Isalien</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 12.08%</div></td></tr></table>",
+  "url": "/item=22401/libram-of-hope",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_relics_libramofhope.jpg",
+  "id": "22401",
+  "slug": "libram-of-hope"
+}

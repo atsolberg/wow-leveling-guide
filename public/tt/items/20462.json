@@ -1,0 +1,10 @@
+{
+  "name": "Hallow's End Medallion",
+  "quality": "Common",
+  "icon": "inv_misc_food_59",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hallow's End Medallion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=20462/hallows-end-medallion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_59.jpg",
+  "id": "20462",
+  "slug": "hallows-end-medallion"
+}

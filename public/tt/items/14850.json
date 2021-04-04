@@ -1,0 +1,10 @@
+{
+  "name": "Sunscale Legplates",
+  "quality": "Uncommon",
+  "icon": "inv_pants_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Sunscale Legplates</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->52</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->435 Armor</span><br><span><!--stat4-->+19 Strength</span><br><span><!--stat3-->+3 Agility</span><br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->47<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">42</span></div></td></tr></table>",
+  "url": "/item=14850/sunscale-legplates",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_02.jpg",
+  "id": "14850",
+  "slug": "sunscale-legplates"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Soulkeeper",
+  "quality": "Rare",
+  "icon": "spell_shadow_haunting",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Soulkeeper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->54</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->141 - 213 Damage</span></td>\n    <th>Speed <!--spd-->3.80</th>\n</tr></table><!--dps-->(46.58 damage per second)<br><span><!--stat5-->+11 Intellect</span><br><span><!--stat6-->+26 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->49<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">34</span> <span class=\"moneycopper\">20</span></div></td></tr></table>",
+  "url": "/item=1607/soulkeeper",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_haunting.jpg",
+  "id": "1607",
+  "slug": "soulkeeper"
+}

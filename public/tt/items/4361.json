@@ -1,0 +1,10 @@
+{
+  "name": "Copper Tube",
+  "quality": "Common",
+  "icon": "inv_gizmo_pipe_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Copper Tube</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">20</span></div></td></tr></table>",
+  "url": "/item=4361/copper-tube",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_pipe_02.jpg",
+  "id": "4361",
+  "slug": "copper-tube"
+}

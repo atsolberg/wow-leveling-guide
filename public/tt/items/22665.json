@@ -1,0 +1,10 @@
+{
+  "name": "Icy Scale Bracers",
+  "quality": "Epic",
+  "icon": "inv_bracer_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Icy Scale Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->80</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->221 Armor</span><br><span><!--stat7-->+17 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+20 Frost Resistance<!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=15807\" class=\"q2\">+32 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">16</span></div></td></tr></table>",
+  "url": "/item=22665/icy-scale-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_07.jpg",
+  "id": "22665",
+  "slug": "icy-scale-bracers"
+}

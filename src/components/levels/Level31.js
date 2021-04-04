@@ -11,25 +11,39 @@ function Level31() {
       </p>
       <ul>
         <li>
-          <span className="quest">[30] Hardened Shells</span>
+          <TtLink type="quest" id="1105">
+            [30] Hardened Shells
+          </TtLink>
         </li>
         <li>
-          <span className="quest">[30] Salt Flat Venom</span>
+          <TtLink type="quest" id="1104">
+            [30] Salt Flat Venom
+          </TtLink>
         </li>
         <li>
-          <span className="quest">[30] Load Lightening</span>
+          <TtLink type="quest" id="1176">
+            [30] Load Lightening
+          </TtLink>
         </li>
         <li>
-          <span className="quest">[31] Rocket Car Parts</span>
+          <TtLink type="quest" id="1110">
+            [31] Rocket Car Parts
+          </TtLink>
         </li>
         <li>
-          <span className="quest">[31] Hemet Nesingwary Jr.</span>
+          <TtLink type="quest" id="5762">
+            [31] Hemet Nesingwary
+          </TtLink>
         </li>
         <li>
-          <span className="quest">[33] A Bump in the Road</span>
+          <TtLink type="quest" id="1175">
+            [33] A Bump in the Road
+          </TtLink>
         </li>
         <li>
-          <span className="quest">[36] Wharfmaster Dizzywig</span>
+          <TtLink type="quest" id="1111">
+            [36] Wharfmaster Dizzywig
+          </TtLink>
         </li>
       </ul>
       <p>

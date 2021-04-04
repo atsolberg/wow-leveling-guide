@@ -1,0 +1,10 @@
+{
+  "name": "Blackwood Nut Sample",
+  "quality": "Common",
+  "icon": "inv_misc_food_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Blackwood Nut Sample</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=12343/blackwood-nut-sample",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_02.jpg",
+  "id": "12343",
+  "slug": "blackwood-nut-sample"
+}

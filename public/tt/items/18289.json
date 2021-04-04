@@ -1,0 +1,10 @@
+{
+  "name": "Barbed Thorn Necklace",
+  "quality": "Rare",
+  "icon": "inv_jewelry_necklace_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Barbed Thorn Necklace</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->56</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat5-->+6 Intellect</span><br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->51<br><span class=\"q2\">Equip: <a href=\"/spell=9358\" class=\"q2\">Increases damage done by Nature spells and effects by up to 17.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">97</span> <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=18289/barbed-thorn-necklace",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_09.jpg",
+  "id": "18289",
+  "slug": "barbed-thorn-necklace"
+}

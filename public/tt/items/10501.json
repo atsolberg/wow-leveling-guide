@@ -1,0 +1,10 @@
+{
+  "name": "Catseye Ultra Goggles",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_47",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Catseye Ultra Goggles</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->44</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->47 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (220)<br><span class=\"q2\">Equip: <a href=\"/spell=12418\" class=\"q2\">Increases your stealth detection.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">43</span> <span class=\"moneycopper\">98</span></div></td></tr></table>",
+  "url": "/item=10501/catseye-ultra-goggles",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_47.jpg",
+  "id": "10501",
+  "slug": "catseye-ultra-goggles"
+}

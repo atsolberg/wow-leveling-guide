@@ -1,0 +1,10 @@
+{
+  "name": "Pugilist Bracers",
+  "quality": "Rare",
+  "icon": "inv_bracer_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Pugilist Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->30</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->95 Armor</span><br><span><!--stat4-->+8 Strength</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->25<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">92</span></div></td></tr></table>",
+  "url": "/item=4438/pugilist-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_03.jpg",
+  "id": "4438",
+  "slug": "pugilist-bracers"
+}

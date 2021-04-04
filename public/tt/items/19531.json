@@ -1,0 +1,10 @@
+{
+  "name": "Caretaker's Cape",
+  "quality": "Rare",
+  "icon": "inv_misc_cape_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Caretaker's Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->53</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->38 Armor</span><br><span><!--stat7-->+9 Stamina</span><br><span><!--stat6-->+6 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->48<br><span class=\"q2\">Equip: <a href=\"/spell=9408\" class=\"q2\">Increases healing done by spells and effects by up to 22.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneycopper\">48</span></div></td></tr></table>",
+  "url": "/item=19531/caretakers-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_13.jpg",
+  "id": "19531",
+  "slug": "caretakers-cape"
+}

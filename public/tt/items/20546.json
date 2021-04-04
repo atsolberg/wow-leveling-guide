@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Runed Stygian Leggings",
+  "quality": "Rare",
+  "icon": "inv_scroll_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Pattern: Runed Stygian Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->62</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=197\" class=\"q1\">Tailoring</a> (300)<br><span class=\"q2\">Use: <a href=\"/spell=24908\" class=\"q2\">Teaches you how to sew Runed Stygian Leggings.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span></div><br /><span class=\"q3\"><a href=\"/item=20538\">Runed Stygian Leggings</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->78 Armor</span><br><span><!--stat7-->+13 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+25 Shadow Resistance<!--e--><!--ps--><br>Durability 65 / 65<br>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=21626\" class=\"q2\">Restores 6 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">37</span> <span class=\"moneycopper\">33</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=14048\">Bolt of Runecloth</a>&nbsp;(6), <a href=\"/item=20520\">Dark Rune</a>&nbsp;(8), <a href=\"/item=14256\">Felcloth</a>&nbsp;(6), <a href=\"/item=14227\">Ironweb Spider Silk</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=20546/pattern-runed-stygian-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_05.jpg",
+  "id": "20546",
+  "slug": "pattern-runed-stygian-leggings"
+}

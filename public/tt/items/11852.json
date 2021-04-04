@@ -1,0 +1,10 @@
+{
+  "name": "Roamer's Leggings",
+  "quality": "Common",
+  "icon": "inv_pants_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Roamer's Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->58 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">14</span></div></td></tr></table>",
+  "url": "/item=11852/roamers-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_03.jpg",
+  "id": "11852",
+  "slug": "roamers-leggings"
+}

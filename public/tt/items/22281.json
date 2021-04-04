@@ -1,0 +1,10 @@
+{
+  "name": "Blue Dinner Suit",
+  "quality": "Common",
+  "icon": "inv_shirt_blue_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Blue Dinner Suit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Chest</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=22281/blue-dinner-suit",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_blue_01.jpg",
+  "id": "22281",
+  "slug": "blue-dinner-suit"
+}

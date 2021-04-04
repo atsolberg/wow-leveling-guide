@@ -1,0 +1,10 @@
+{
+  "name": "Flimsy Male Undead Mask",
+  "quality": "Common",
+  "icon": "inv_misc_head_undead_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Flimsy Male Undead Mask</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Duration: 7 days (real time)<table width=\"100%\"><tr><td>Head</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=20573/flimsy-male-undead-mask",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_undead_01.jpg",
+  "id": "20573",
+  "slug": "flimsy-male-undead-mask"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Warblade of Caer Darrow",
+  "quality": "Rare",
+  "icon": "inv_sword_39",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Warblade of Caer Darrow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->142 - 214 Damage</span></td>\n    <th>Speed <!--spd-->3.30</th>\n</tr><tr><td colspan=\"2\">+ 1 - 22 Frost Damage</td></tr></table><!--dps-->(57.42 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">98</span> <span class=\"moneycopper\">26</span></div></td></tr></table>",
+  "url": "/item=13982/warblade-of-caer-darrow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_39.jpg",
+  "id": "13982",
+  "slug": "warblade-of-caer-darrow"
+}

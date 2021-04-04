@@ -1,0 +1,10 @@
+{
+  "name": "Meteor Shard",
+  "quality": "Rare",
+  "icon": "inv_weapon_shortblade_25",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Meteor Shard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->23 - 43 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(18.33 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->24<br><span class=\"q2\">Chance on hit: <a href=\"/spell=13442\" class=\"q2\">Blasts a target for 35 Fire damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">48</span> <span class=\"moneycopper\">93</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Archmage Arugal</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 17.59%</div></td></tr></table>",
+  "url": "/item=6220/meteor-shard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_25.jpg",
+  "id": "6220",
+  "slug": "meteor-shard"
+}

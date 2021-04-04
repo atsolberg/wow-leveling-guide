@@ -1,0 +1,10 @@
+{
+  "name": "Dusk Wand",
+  "quality": "Common",
+  "icon": "inv_wand_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dusk Wand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->21 - 39 Shadow Damage</span></td>\n    <th>Speed <!--spd-->1.70</th>\n</tr></table><!--dps-->(17.65 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">66</span></div></td></tr></table>",
+  "url": "/item=5211/dusk-wand",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_07.jpg",
+  "id": "5211",
+  "slug": "dusk-wand"
+}

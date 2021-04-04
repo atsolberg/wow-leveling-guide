@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Greater Adept's Robe",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pattern: Greater Adept's Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->23</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=197\" class=\"q1\">Tailoring</a> (115)<br><span class=\"q2\">Use: <a href=\"/spell=7644\" class=\"q2\">Teaches you how to sew a Greater Adept's Robe.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span></div><br /><span class=\"q2\"><a href=\"/item=6264\">Greater Adept's Robe</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->37 Armor</span><br><span><!--stat5-->+2 Intellect</span><br><span><!--stat7-->+1 Stamina</span><br><span><!--stat6-->+7 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65<br>Requires Level <!--rlvl-->18<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">84</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=2997\">Bolt of Woolen Cloth</a>&nbsp;(5), <a href=\"/item=2321\">Fine Thread</a>&nbsp;(3), <a href=\"/item=2604\">Red Dye</a>&nbsp;(3)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=6275/pattern-greater-adepts-robe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "6275",
+  "slug": "pattern-greater-adepts-robe"
+}

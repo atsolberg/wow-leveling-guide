@@ -1,0 +1,10 @@
+{
+  "name": "Cold Snap",
+  "quality": "Epic",
+  "icon": "inv_wand_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Cold Snap</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->101 - 189 Frost Damage</span></td>\n    <th>Speed <!--spd-->1.70</th>\n</tr></table><!--dps-->(85.29 damage per second)<br><span><!--stat5-->+7 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=9307\" class=\"q2\">Increases damage done by Frost spells and effects by up to 20.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">7</span> <span class=\"moneysilver\">77</span> <span class=\"moneycopper\">91</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Azuregos</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 16.64%</div></td></tr></table>",
+  "url": "/item=19130/cold-snap",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_01.jpg",
+  "id": "19130",
+  "slug": "cold-snap"
+}

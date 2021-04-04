@@ -1,0 +1,10 @@
+{
+  "name": "Rune of Duty",
+  "quality": "Rare",
+  "icon": "inv_misc_rune_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Rune of Duty</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a>, <a href=\"/class=2\" class=\"c2\">Paladin</a>, <a href=\"/class=3\" class=\"c3\">Hunter</a>, <a href=\"/class=4\" class=\"c4\">Rogue</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br><span class=\"q2\">Equip: <a href=\"/spell=21599\" class=\"q2\">Restores 6 health per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span></div></td></tr></table>",
+  "url": "/item=21567/rune-of-duty",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_rune_02.jpg",
+  "id": "21567",
+  "slug": "rune-of-duty"
+}

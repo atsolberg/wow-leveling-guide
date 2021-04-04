@@ -1,0 +1,10 @@
+{
+  "name": "Padre's Trousers",
+  "quality": "Rare",
+  "icon": "inv_pants_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Padre's Trousers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->76 Armor</span><br><span><!--stat5-->+20 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<br><span class=\"q2\">Equip: <a href=\"/spell=21626\" class=\"q2\">Restores 6 mana per 5 sec.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=18032\" class=\"q2\">Increases healing done by spells and effects by up to 42.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">88</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Illyanna Ravenoak</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 22.11%</div></td></tr></table>",
+  "url": "/item=18386/padres-trousers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_06.jpg",
+  "id": "18386",
+  "slug": "padres-trousers"
+}

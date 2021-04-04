@@ -1,0 +1,10 @@
+{
+  "name": "Bonelink Helmet",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Bonelink Helmet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->46</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->206 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->41<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">75</span> <span class=\"moneycopper\">84</span></div></td></tr></table>",
+  "url": "/item=15615/bonelink-helmet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_02.jpg",
+  "id": "15615",
+  "slug": "bonelink-helmet"
+}

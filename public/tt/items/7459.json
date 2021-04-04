@@ -1,0 +1,10 @@
+{
+  "name": "Knight's Pauldrons",
+  "quality": "Uncommon",
+  "icon": "inv_shoulder_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Knight's Pauldrons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->38</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->167 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->33<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">43</span> <span class=\"moneycopper\">17</span></div></td></tr></table>",
+  "url": "/item=7459/knights-pauldrons",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_27.jpg",
+  "id": "7459",
+  "slug": "knights-pauldrons"
+}

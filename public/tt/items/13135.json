@@ -1,0 +1,10 @@
+{
+  "name": "Lordly Armguards",
+  "quality": "Rare",
+  "icon": "inv_bracer_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Lordly Armguards</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->153 Armor</span><br><span><!--stat4-->+7 Strength</span><br><span><!--stat3-->+7 Agility</span><br><span><!--stat5-->+7 Intellect</span><br><span><!--stat7-->+8 Stamina</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">40</span> <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=13135/lordly-armguards",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_17.jpg",
+  "id": "13135",
+  "slug": "lordly-armguards"
+}

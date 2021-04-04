@@ -1,0 +1,10 @@
+{
+  "name": "Linked Chain Pants",
+  "quality": "Poor",
+  "icon": "inv_pants_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Linked Chain Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->144 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">76</span></div></td></tr></table>",
+  "url": "/item=1751/linked-chain-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_03.jpg",
+  "id": "1751",
+  "slug": "linked-chain-pants"
+}

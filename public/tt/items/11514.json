@@ -1,0 +1,10 @@
+{
+  "name": "Fel Creep",
+  "quality": "Common",
+  "icon": "spell_nature_acid_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fel Creep</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Mishellena</div></td></tr></table>",
+  "url": "/item=11514/fel-creep",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_acid_01.jpg",
+  "id": "11514",
+  "slug": "fel-creep"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "A Dull and Flat Elven Blade",
+  "quality": "Epic",
+  "icon": "inv_sword_47",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">A Dull and Flat Elven Blade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=7508\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=18513/a-dull-and-flat-elven-blade",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_47.jpg",
+  "id": "18513",
+  "slug": "a-dull-and-flat-elven-blade"
+}

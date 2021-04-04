@@ -1,0 +1,10 @@
+{
+  "name": "Empty Thaumaturgy Vessel",
+  "quality": "Common",
+  "icon": "inv_potion_87",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Empty Thaumaturgy Vessel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=9712\" class=\"q2\">Fills the empty thaumaturgy vessel when used on Scorched Guardians.</a> (1 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=7866/empty-thaumaturgy-vessel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_87.jpg",
+  "id": "7866",
+  "slug": "empty-thaumaturgy-vessel"
+}

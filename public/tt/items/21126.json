@@ -1,0 +1,10 @@
+{
+  "name": "Death's Sting",
+  "quality": "Epic",
+  "icon": "inv_weapon_shortblade_33",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Death's Sting</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->84</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->95 - 144 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(66.39 damage per second)<br><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=15808\" class=\"q2\">+38 Attack Power.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=7574\" class=\"q2\">Increased Daggers +3.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">20</span> <span class=\"moneysilver\">69</span> <span class=\"moneycopper\">67</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: C'Thun</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 8.64%</div></td></tr></table>",
+  "url": "/item=21126/deaths-sting",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_33.jpg",
+  "id": "21126",
+  "slug": "deaths-sting"
+}

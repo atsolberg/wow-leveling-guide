@@ -1,0 +1,10 @@
+{
+  "name": "Twain's Shoulder",
+  "quality": "Common",
+  "icon": "inv_shoulder_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Twain's Shoulder</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->165 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--></td></tr></table>",
+  "url": "/item=4728/twains-shoulder",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_03.jpg",
+  "id": "4728",
+  "slug": "twains-shoulder"
+}

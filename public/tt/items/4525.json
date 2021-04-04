@@ -1,0 +1,10 @@
+{
+  "name": "Trelane's Wand of Invocation",
+  "quality": "Common",
+  "icon": "inv_wand_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Trelane's Wand of Invocation</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Kor'gresh Coldrage</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 90.62%</div></td></tr></table>",
+  "url": "/item=4525/trelanes-wand-of-invocation",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_02.jpg",
+  "id": "4525",
+  "slug": "trelanes-wand-of-invocation"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Staff of the Friar",
+  "quality": "Rare",
+  "icon": "inv_staff_32",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Staff of the Friar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->42 - 64 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(20.38 damage per second)<br><span><!--stat5-->+3 Intellect</span><br><span><!--stat7-->+4 Stamina</span><br><span><!--stat6-->+11 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->19<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">35</span> <span class=\"moneycopper\">98</span></div></td></tr></table>",
+  "url": "/item=3415/staff-of-the-friar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_32.jpg",
+  "id": "3415",
+  "slug": "staff-of-the-friar"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Idol of Rejuvenation",
+  "quality": "Rare",
+  "icon": "inv_relics_idolofrejuvenation",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Idol of Rejuvenation</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Relic</td><th><!--scstart4:8--><span class=\"q1\">Idol</span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=27853\" class=\"q2\">Increases healing done by Rejuvenation by up to 50.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">68</span> <span class=\"moneycopper\">98</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Mor Grayhoof</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 17.55%</div></td></tr></table>",
+  "url": "/item=22398/idol-of-rejuvenation",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_relics_idolofrejuvenation.jpg",
+  "id": "22398",
+  "slug": "idol-of-rejuvenation"
+}

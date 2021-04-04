@@ -1,0 +1,10 @@
+{
+  "name": "Toasted Smorc",
+  "quality": "Common",
+  "icon": "inv_summerfest_smorc",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Toasted Smorc</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Duration: 14 days<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=29334\" class=\"q2\">Increases healing done by magical spells by up to 44 for 1 hour.</a></span><br><span class=\"q\">&quot;Gooey, melty, good.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=23211/toasted-smorc",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_summerfest_smorc.jpg",
+  "id": "23211",
+  "slug": "toasted-smorc"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Linen Bandage",
+  "quality": "Common",
+  "icon": "inv_misc_bandage_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Heavy Linen Bandage</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=129\" class=\"q1\">First Aid</a> (20)<br><span class=\"q2\">Use: <a href=\"/spell=1159\" class=\"q2\">Heals 114 damage over 6 sec.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">20</span></div></td></tr></table>",
+  "url": "/item=2581/heavy-linen-bandage",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bandage_18.jpg",
+  "id": "2581",
+  "slug": "heavy-linen-bandage"
+}

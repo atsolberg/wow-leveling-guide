@@ -1,0 +1,10 @@
+{
+  "name": "Sayge's Fortune #28",
+  "quality": "Common",
+  "icon": "inv_scroll_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sayge's Fortune #28</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Hunters who specialize in survival are not guaranteed to survive.&quot;</span></td></tr></table>",
+  "url": "/item=19453/sayges-fortune-28",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_02.jpg",
+  "id": "19453",
+  "slug": "sayges-fortune-28"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Shimmering Silk Robes",
+  "quality": "Common",
+  "icon": "inv_chest_cloth_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Shimmering Silk Robes</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->35 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">31</span></div></td></tr></table>",
+  "url": "/item=2616/shimmering-silk-robes",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_04.jpg",
+  "id": "2616",
+  "slug": "shimmering-silk-robes"
+}

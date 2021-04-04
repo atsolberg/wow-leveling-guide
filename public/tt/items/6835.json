@@ -1,0 +1,10 @@
+{
+  "name": "Black Tuxedo Pants",
+  "quality": "Common",
+  "icon": "inv_pants_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Black Tuxedo Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><table width=\"100%\"><tr><td>Legs</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">4</span></div></td></tr></table>",
+  "url": "/item=6835/black-tuxedo-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_01.jpg",
+  "id": "6835",
+  "slug": "black-tuxedo-pants"
+}

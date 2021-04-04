@@ -1,0 +1,10 @@
+{
+  "name": "Mithril Tube",
+  "quality": "Common",
+  "icon": "inv_musket_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Mithril Tube</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->39</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=10559/mithril-tube",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_musket_01.jpg",
+  "id": "10559",
+  "slug": "mithril-tube"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Halycon's Muzzle",
+  "quality": "Rare",
+  "icon": "inv_shoulder_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Halycon's Muzzle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->127 Armor</span><br><span><!--stat5-->+22 Intellect</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Arcane Resistance<!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">80</span> <span class=\"moneycopper\">28</span></div></td></tr></table>",
+  "url": "/item=13961/halycons-muzzle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_24.jpg",
+  "id": "13961",
+  "slug": "halycons-muzzle"
+}

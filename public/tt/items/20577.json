@@ -1,0 +1,10 @@
+{
+  "name": "Nightmare Blade",
+  "quality": "Epic",
+  "icon": "inv_sword_44",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Nightmare Blade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->71</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:7--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->99 - 185 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(52.59 damage per second)<br><span><!--amr-->70 Armor</span><br><span><!--stat7-->+9 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=15807\" class=\"q2\">+32 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">10</span> <span class=\"moneysilver\">80</span> <span class=\"moneycopper\">80</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Taerar</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 16.89%</div></td></tr></table>",
+  "url": "/item=20577/nightmare-blade",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_44.jpg",
+  "id": "20577",
+  "slug": "nightmare-blade"
+}

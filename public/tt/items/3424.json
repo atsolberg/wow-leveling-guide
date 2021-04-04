@@ -1,0 +1,10 @@
+{
+  "name": "Bouquet of Black Roses",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bouquet of Black Roses</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">12</span> <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=3424/bouquet-of-black-roses",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_03.jpg",
+  "id": "3424",
+  "slug": "bouquet-of-black-roses"
+}

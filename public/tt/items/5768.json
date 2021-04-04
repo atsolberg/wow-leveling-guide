@@ -1,0 +1,10 @@
+{
+  "name": "Gnome Race Ticket",
+  "quality": "Common",
+  "icon": "inv_scroll_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gnome Race Ticket</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<br />Duration: 10 min<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=5768/gnome-race-ticket",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_05.jpg",
+  "id": "5768",
+  "slug": "gnome-race-ticket"
+}

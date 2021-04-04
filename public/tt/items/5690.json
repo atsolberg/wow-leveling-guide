@@ -1,0 +1,10 @@
+{
+  "name": "Claw Key",
+  "quality": "Common",
+  "icon": "inv_misc_key_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Claw Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=5690/claw-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_02.jpg",
+  "id": "5690",
+  "slug": "claw-key"
+}

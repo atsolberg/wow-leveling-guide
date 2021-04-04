@@ -1,0 +1,11 @@
+{
+  "name": "Horn of the Winter Wolf",
+  "quality": "Common",
+  "icon": "ability_mount_whitedirewolf",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Horn of the Winter Wolf</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when used<br />Mount<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-races\">Races: <a href=\"/race=1\" class=\"q1\">Human</a>, <a href=\"/race=2\" class=\"q1\">Orc</a>, <a href=\"/race=3\" class=\"q1\">Dwarf</a>, <a href=\"/race=4\" class=\"q1\">Night Elf</a>, <a href=\"/race=5\" class=\"q1\">Undead</a>, <a href=\"/race=7\" class=\"q1\">Gnome</a>, <a href=\"/race=8\" class=\"q1\">Troll</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br>Requires <a href=\"/skill=149\" class=\"q1\">Wolf Riding</a> (1)<br><span class=\"q2\">Use: <a href=\"/spell=581\" class=\"q2\">Summons and dismisses a rideable winter wolf.</a> (3 Sec Cooldown)</span></td></tr></table>",
+  "completion_category": "15-5",
+  "url": "/item=1133/horn-of-the-winter-wolf",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_mount_whitedirewolf.jpg",
+  "id": "1133",
+  "slug": "horn-of-the-winter-wolf"
+}

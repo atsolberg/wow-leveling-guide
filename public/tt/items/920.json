@@ -1,0 +1,10 @@
+{
+  "name": "Wicked Spiked Mace",
+  "quality": "Uncommon",
+  "icon": "inv_mace_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Wicked Spiked Mace</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->22 - 42 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(12.80 damage per second)<br><span><!--stat3-->+4 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">28</span> <span class=\"moneycopper\">21</span></div></td></tr></table>",
+  "url": "/item=920/wicked-spiked-mace",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_11.jpg",
+  "id": "920",
+  "slug": "wicked-spiked-mace"
+}

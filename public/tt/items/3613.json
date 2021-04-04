@@ -1,0 +1,10 @@
+{
+  "name": "Valdred's Hands",
+  "quality": "Common",
+  "icon": "inv_gauntlets_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Valdred's Hands</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Valdred Moray</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 80.86%</div></td></tr></table>",
+  "url": "/item=3613/valdreds-hands",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_09.jpg",
+  "id": "3613",
+  "slug": "valdreds-hands"
+}

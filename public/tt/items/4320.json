@@ -1,0 +1,10 @@
+{
+  "name": "Spidersilk Boots",
+  "quality": "Rare",
+  "icon": "inv_boots_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Spidersilk Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->29 Armor</span><br><span><!--stat5-->+4 Intellect</span><br><span><!--stat7-->+4 Stamina</span><br><span><!--stat6-->+7 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">79</span></div></td></tr></table>",
+  "url": "/item=4320/spidersilk-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_05.jpg",
+  "id": "4320",
+  "slug": "spidersilk-boots"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Tome of Conjure Food VII",
+  "quality": "Rare",
+  "icon": "inv_misc_book_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Tome of Conjure Food VII</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=8\" class=\"c8\">Mage</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=28613\" class=\"q2\">Teaches Conjure Food (Rank 7).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Archivist Galford</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 0.71%</div><br /><span class=\"q1\"><a href=\"/item=22895\">Conjured Cinnamon Roll</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->65</span><br />Conjured Item<!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires Level <!--rlvl-->55<br><span class=\"q2\">Use: <a href=\"/spell=29073\" class=\"q2\">Restores 3180 health over 30 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"q1 whtt-extra whtt-reagents\"><br /></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=22897/tome-of-conjure-food-vii",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_07.jpg",
+  "id": "22897",
+  "slug": "tome-of-conjure-food-vii"
+}

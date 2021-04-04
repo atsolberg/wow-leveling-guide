@@ -1,0 +1,10 @@
+{
+  "name": "Runecloth Bag",
+  "quality": "Common",
+  "icon": "inv_misc_bag_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Runecloth Bag</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->52</span><!--bo--><br />14 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=14046/runecloth-bag",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_19.jpg",
+  "id": "14046",
+  "slug": "runecloth-bag"
+}

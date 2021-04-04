@@ -1,0 +1,10 @@
+{
+  "name": "Seer's Mantle",
+  "quality": "Common",
+  "icon": "inv_shoulder_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Seer's Mantle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->25 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=4698/seers-mantle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_09.jpg",
+  "id": "4698",
+  "slug": "seers-mantle"
+}

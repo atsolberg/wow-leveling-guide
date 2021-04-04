@@ -1,0 +1,10 @@
+{
+  "name": "Handmade Leather Bag",
+  "quality": "Common",
+  "icon": "inv_misc_bag_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Handmade Leather Bag</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><br />Binds when picked up<br />Unique<br />6 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=4930/handmade-leather-bag",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_10.jpg",
+  "id": "4930",
+  "slug": "handmade-leather-bag"
+}

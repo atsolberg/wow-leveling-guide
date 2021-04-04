@@ -1,0 +1,10 @@
+{
+  "name": "The Widow's Embrace",
+  "quality": "Epic",
+  "icon": "inv_mace_29",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">The Widow's Embrace</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->81</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->43 - 116 Damage</span></td>\n    <th>Speed <!--spd-->1.90</th>\n</tr></table><!--dps-->(41.84 damage per second)<br><span><!--stat5-->+12 Intellect</span><br><span><!--stat7-->+12 Stamina</span><br><span><!--stat6-->+14 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=28686\" class=\"q2\">Increases healing done by spells and effects by up to 161.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">18</span> <span class=\"moneysilver\">91</span> <span class=\"moneycopper\">14</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Grand Widow Faerlina</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.38%</div></td></tr></table>",
+  "url": "/item=22942/the-widows-embrace",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_29.jpg",
+  "id": "22942",
+  "slug": "the-widows-embrace"
+}

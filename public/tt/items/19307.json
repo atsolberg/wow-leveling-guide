@@ -1,0 +1,10 @@
+{
+  "name": "Alterac Heavy Runecloth Bandage",
+  "quality": "Common",
+  "icon": "inv_misc_bandage_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Alterac Heavy Runecloth Bandage</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=129\" class=\"q1\">First Aid</a> (225)<br><span class=\"q2\">Use: <a href=\"/spell=23696\" class=\"q2\">Heals 2000 damage over 8 sec.</a></span><br><span class=\"q\">&quot;May only be used in Alterac Valley.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 100</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span></div></td></tr></table>",
+  "url": "/item=19307/alterac-heavy-runecloth-bandage",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bandage_12.jpg",
+  "id": "19307",
+  "slug": "alterac-heavy-runecloth-bandage"
+}

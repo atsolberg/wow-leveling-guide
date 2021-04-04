@@ -1,0 +1,10 @@
+{
+  "name": "Worn Hatchet",
+  "quality": "Poor",
+  "icon": "inv_throwingaxe_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Worn Hatchet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->14</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->6 - 12 Damage</span></td>\n    <th>Speed <!--spd-->2.10</th>\n</tr></table><!--dps-->(4.29 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->9<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">37</span></div></td></tr></table>",
+  "url": "/item=1516/worn-hatchet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_throwingaxe_01.jpg",
+  "id": "1516",
+  "slug": "worn-hatchet"
+}

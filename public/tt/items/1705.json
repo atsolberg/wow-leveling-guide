@@ -1,0 +1,10 @@
+{
+  "name": "Lesser Moonstone",
+  "quality": "Uncommon",
+  "icon": "inv_misc_gem_crystal_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Lesser Moonstone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span></div></td></tr></table>",
+  "url": "/item=1705/lesser-moonstone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_crystal_01.jpg",
+  "id": "1705",
+  "slug": "lesser-moonstone"
+}

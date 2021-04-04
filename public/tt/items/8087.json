@@ -1,0 +1,10 @@
+{
+  "name": "Sample of Zanzil's Altered Mixture",
+  "quality": "Common",
+  "icon": "inv_poison_mindnumbing",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sample of Zanzil's Altered Mixture</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=8087/sample-of-zanzils-altered-mixture",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_poison_mindnumbing.jpg",
+  "id": "8087",
+  "slug": "sample-of-zanzils-altered-mixture"
+}

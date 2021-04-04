@@ -1,0 +1,10 @@
+{
+  "name": "Cortello's Riddle",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Cortello's Riddle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><br />Unique<br /><a href=\"/quest=624\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->35</td></tr></table>",
+  "url": "/item=4056/cortellos-riddle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "4056",
+  "slug": "cortellos-riddle"
+}

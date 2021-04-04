@@ -1,0 +1,10 @@
+{
+  "name": "Elementium Ore",
+  "quality": "Epic",
+  "icon": "inv_stone_sharpeningstone_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Elementium Ore</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">10</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Blackwing Technician</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 33.81%</div></td></tr></table>",
+  "url": "/item=18562/elementium-ore",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_sharpeningstone_01.jpg",
+  "id": "18562",
+  "slug": "elementium-ore"
+}

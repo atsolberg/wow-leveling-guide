@@ -1,0 +1,10 @@
+{
+  "name": "Stoley's Bottle",
+  "quality": "Common",
+  "icon": "inv_drink_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Stoley's Bottle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=9245/stoleys-bottle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_11.jpg",
+  "id": "9245",
+  "slug": "stoleys-bottle"
+}

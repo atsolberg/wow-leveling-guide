@@ -1,0 +1,10 @@
+{
+  "name": "Threshadon Fang",
+  "quality": "Poor",
+  "icon": "inv_misc_bone_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Threshadon Fang</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->16</span><!--bo--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->5 - 10 Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(5.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->11<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">17</span></div></td></tr></table>",
+  "url": "/item=5516/threshadon-fang",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_06.jpg",
+  "id": "5516",
+  "slug": "threshadon-fang"
+}

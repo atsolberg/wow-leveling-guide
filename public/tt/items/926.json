@@ -1,0 +1,10 @@
+{
+  "name": "Battle Axe",
+  "quality": "Common",
+  "icon": "inv_throwingaxe_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Battle Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->46 - 70 Damage</span></td>\n    <th>Speed <!--spd-->3.80</th>\n</tr></table><!--dps-->(15.26 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">19</span> <span class=\"moneycopper\">56</span></div></td></tr></table>",
+  "url": "/item=926/battle-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_throwingaxe_05.jpg",
+  "id": "926",
+  "slug": "battle-axe"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Azure Idol",
+  "quality": "Rare",
+  "icon": "inv_qirajidol_azure",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Azure Idol</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->61</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=3\" class=\"c3\">Hunter</a>, <a href=\"/class=4\" class=\"c4\">Rogue</a>, <a href=\"/class=8\" class=\"c8\">Mage</a></div></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div></td></tr></table>",
+  "url": "/item=20866/azure-idol",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_qirajidol_azure.jpg",
+  "id": "20866",
+  "slug": "azure-idol"
+}

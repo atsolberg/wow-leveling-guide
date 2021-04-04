@@ -1,0 +1,10 @@
+{
+  "name": "Eye of the Beast",
+  "quality": "Rare",
+  "icon": "inv_jewelry_talisman_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Eye of the Beast</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=5\" class=\"c5\">Priest</a>, <a href=\"/class=7\" class=\"c7\">Shaman</a>, <a href=\"/class=8\" class=\"c8\">Mage</a>, <a href=\"/class=9\" class=\"c9\">Warlock</a>, <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=18382\" class=\"q2\">Improves your chance to get a critical strike with spells by 2%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">62</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=13968/eye-of-the-beast",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_08.jpg",
+  "id": "13968",
+  "slug": "eye-of-the-beast"
+}

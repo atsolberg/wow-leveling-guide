@@ -1,0 +1,10 @@
+{
+  "name": "Icy Scale Gauntlets",
+  "quality": "Epic",
+  "icon": "inv_gauntlets_28",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Icy Scale Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->80</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->316 Armor</span><br><span><!--stat7-->+22 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+30 Frost Resistance<!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=9332\" class=\"q2\">+22 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=22666/icy-scale-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_28.jpg",
+  "id": "22666",
+  "slug": "icy-scale-gauntlets"
+}

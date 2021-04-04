@@ -1,0 +1,10 @@
+{
+  "name": "Feral Staff",
+  "quality": "Rare",
+  "icon": "inv_staff_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Feral Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->52</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->108 - 162 Damage</span></td>\n    <th>Speed <!--spd-->3.00</th>\n</tr></table><!--dps-->(45.00 damage per second)<br><span><!--amr-->110 Armor</span><br><span><!--stat4-->+17 Strength</span><br><span><!--stat3-->+16 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">15</span> <span class=\"moneycopper\">54</span></div></td></tr></table>",
+  "url": "/item=20522/feral-staff",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_20.jpg",
+  "id": "20522",
+  "slug": "feral-staff"
+}

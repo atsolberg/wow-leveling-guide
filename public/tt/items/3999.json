@@ -1,0 +1,10 @@
+{
+  "name": "Laminated Scale Armor",
+  "quality": "Poor",
+  "icon": "inv_chest_chain_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Laminated Scale Armor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->54</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->264 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->49<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">71</span> <span class=\"moneycopper\">9</span></div></td></tr></table>",
+  "url": "/item=3999/laminated-scale-armor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_05.jpg",
+  "id": "3999",
+  "slug": "laminated-scale-armor"
+}

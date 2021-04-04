@@ -1,0 +1,10 @@
+{
+  "name": "Silithid Carapace Fragment",
+  "quality": "Common",
+  "icon": "inv_misc_monsterscales_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Silithid Carapace Fragment</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div></td></tr></table>",
+  "url": "/item=20384/silithid-carapace-fragment",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_13.jpg",
+  "id": "20384",
+  "slug": "silithid-carapace-fragment"
+}

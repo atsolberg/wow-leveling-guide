@@ -1,0 +1,10 @@
+{
+  "name": "Scum Covered Bag",
+  "quality": "Common",
+  "icon": "inv_misc_bag_10_green",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Scum Covered Bag</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=20767/scum-covered-bag",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_10_green.jpg",
+  "id": "20767",
+  "slug": "scum-covered-bag"
+}

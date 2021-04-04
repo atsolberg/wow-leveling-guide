@@ -1,0 +1,10 @@
+{
+  "name": "Green Silk Pack",
+  "quality": "Common",
+  "icon": "inv_misc_bag_07_green",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Green Silk Pack</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br />10 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span></div></td></tr></table>",
+  "url": "/item=5764/green-silk-pack",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_07_green.jpg",
+  "id": "5764",
+  "slug": "green-silk-pack"
+}

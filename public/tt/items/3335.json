@@ -1,0 +1,10 @@
+{
+  "name": "Farmer's Broom",
+  "quality": "Common",
+  "icon": "inv_staff_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Farmer's Broom</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->6</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->9 - 14 Damage</span></td>\n    <th>Speed <!--spd-->3.50</th>\n</tr></table><!--dps-->(3.29 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->3<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">46</span></div></td></tr></table>",
+  "url": "/item=3335/farmers-broom",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_08.jpg",
+  "id": "3335",
+  "slug": "farmers-broom"
+}

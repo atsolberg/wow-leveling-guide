@@ -1,0 +1,10 @@
+{
+  "name": "Worn Running Shoes",
+  "quality": "Poor",
+  "icon": "inv_boots_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Worn Running Shoes</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">40</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Vanndar Stormpike</div></td></tr></table>",
+  "url": "/item=18225/worn-running-shoes",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_02.jpg",
+  "id": "18225",
+  "slug": "worn-running-shoes"
+}

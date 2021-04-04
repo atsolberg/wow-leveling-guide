@@ -1,0 +1,10 @@
+{
+  "name": "Death Capsule",
+  "quality": "Common",
+  "icon": "spell_shadow_soulgem",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Death Capsule</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=5172/death-capsule",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_soulgem.jpg",
+  "id": "5172",
+  "slug": "death-capsule"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Stinger of Ayamiss",
+  "quality": "Epic",
+  "icon": "inv_mace23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Stinger of Ayamiss</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->69</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->63 - 136 Damage</span></td>\n    <th>Speed <!--spd-->2.40</th>\n</tr></table><!--dps-->(41.46 damage per second)<br><span><!--stat5-->+7 Intellect</span><br><span><!--stat7-->+9 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=18384\" class=\"q2\">Improves your chance to get a critical strike with spells by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=18053\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 36.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">9</span> <span class=\"moneysilver\">99</span> <span class=\"moneycopper\">35</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ayamiss the Hunter</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 4.32%</div></td></tr></table>",
+  "url": "/item=21466/stinger-of-ayamiss",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace23.jpg",
+  "id": "21466",
+  "slug": "stinger-of-ayamiss"
+}

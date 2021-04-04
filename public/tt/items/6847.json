@@ -1,0 +1,10 @@
+{
+  "name": "Dark Iron Script",
+  "quality": "Common",
+  "icon": "inv_letter_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dark Iron Script</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Read&gt;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Dark Iron Spy</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 8.06%</div></td></tr></table>",
+  "url": "/item=6847/dark-iron-script",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_16.jpg",
+  "id": "6847",
+  "slug": "dark-iron-script"
+}

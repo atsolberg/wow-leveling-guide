@@ -1,0 +1,10 @@
+{
+  "name": "Mageflame Cloak",
+  "quality": "Rare",
+  "icon": "inv_misc_cape_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Mageflame Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->41 Armor</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Fire Resistance<!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->53<br><span class=\"q2\">Equip: <a href=\"/spell=9298\" class=\"q2\">Increases damage done by Fire spells and effects by up to 21.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">35</span> <span class=\"moneycopper\">85</span></div></td></tr></table>",
+  "url": "/item=13007/mageflame-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_18.jpg",
+  "id": "13007",
+  "slug": "mageflame-cloak"
+}

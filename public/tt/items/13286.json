@@ -1,0 +1,10 @@
+{
+  "name": "Rivenspike",
+  "quality": "Rare",
+  "icon": "inv_pick_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Rivenspike</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->77 - 144 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(38.10 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->53<br><span class=\"q2\">Chance on hit: <a href=\"/spell=17315\" class=\"q2\">Punctures target's armor lowering it by 200. Can be applied up to 3 times.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">41</span> <span class=\"moneycopper\">6</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Spirestone Butcher</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 37.41%</div></td></tr></table>",
+  "url": "/item=13286/rivenspike",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pick_05.jpg",
+  "id": "13286",
+  "slug": "rivenspike"
+}

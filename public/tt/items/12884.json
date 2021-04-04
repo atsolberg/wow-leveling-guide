@@ -1,0 +1,10 @@
+{
+  "name": "Arnak's Hoof",
+  "quality": "Common",
+  "icon": "inv_misc_foot_centaur",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Arnak's Hoof</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Arnak Grimtotem</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 90.23%</div></td></tr></table>",
+  "url": "/item=12884/arnaks-hoof",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_foot_centaur.jpg",
+  "id": "12884",
+  "slug": "arnaks-hoof"
+}

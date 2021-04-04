@@ -1,0 +1,10 @@
+{
+  "name": "The Plague Bearer",
+  "quality": "Epic",
+  "icon": "inv_shield_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">The Plague Bearer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->83</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->3106 Armor</span><br>59 Block<br><span><!--stat7-->+21 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+15 Frost Resistance<!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=18369\" class=\"q2\">Increased Defense +9.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">12</span> <span class=\"moneysilver\">47</span> <span class=\"moneycopper\">17</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Patchwerk</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.99%</div></td></tr></table>",
+  "url": "/item=22818/the-plague-bearer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_27.jpg",
+  "id": "22818",
+  "slug": "the-plague-bearer"
+}

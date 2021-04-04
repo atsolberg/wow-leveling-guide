@@ -1,0 +1,10 @@
+{
+  "name": "Blue Ribboned Wrapping Paper",
+  "quality": "Common",
+  "icon": "inv_misc_giftwrap_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Blue Ribboned Wrapping Paper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=5048/blue-ribboned-wrapping-paper",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_giftwrap_03.jpg",
+  "id": "5048",
+  "slug": "blue-ribboned-wrapping-paper"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "QAEnchant Chest +4 Stats",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QAEnchant Chest +4 Stats</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27107\" class=\"q2\">Permanently enchant a piece of chest armor to grant +4 to all stats.</a></span></td></tr></table>",
+  "url": "/item=22028/qaenchant-chest-4-stats",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "22028",
+  "slug": "qaenchant-chest-4-stats"
+}

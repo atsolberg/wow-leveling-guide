@@ -1,0 +1,10 @@
+{
+  "name": "Skeleton Key",
+  "quality": "Common",
+  "icon": "inv_misc_key_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Skeleton Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=13704/skeleton-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_11.jpg",
+  "id": "13704",
+  "slug": "skeleton-key"
+}

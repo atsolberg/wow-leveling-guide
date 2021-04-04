@@ -1,0 +1,10 @@
+{
+  "name": "Padded Pants",
+  "quality": "Common",
+  "icon": "inv_pants_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Padded Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->34 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->22<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">29</span></div></td></tr></table>",
+  "url": "/item=2159/padded-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_07.jpg",
+  "id": "2159",
+  "slug": "padded-pants"
+}

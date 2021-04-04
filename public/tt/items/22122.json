@@ -1,0 +1,10 @@
+{
+  "name": "Pledge of Loyalty: Thunder Bluff",
+  "quality": "Common",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pledge of Loyalty: Thunder Bluff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Duration: 7 days<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27716\" class=\"q2\">Combines 5 Pledges of Loyalty: Thunder Bluff into an Thunder Bluff Pledge Collection.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=22122/pledge-of-loyalty-thunder-bluff",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "22122",
+  "slug": "pledge-of-loyalty-thunder-bluff"
+}

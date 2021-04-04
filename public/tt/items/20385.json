@@ -1,0 +1,10 @@
+{
+  "name": "Deathclasp's Pincer",
+  "quality": "Common",
+  "icon": "inv_misc_birdbeck_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Deathclasp's Pincer</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Deathclasp</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 79.66%</div></td></tr></table>",
+  "url": "/item=20385/deathclasps-pincer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_birdbeck_02.jpg",
+  "id": "20385",
+  "slug": "deathclasps-pincer"
+}

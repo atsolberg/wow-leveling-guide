@@ -1,0 +1,10 @@
+{
+  "name": "Mooncloth Leggings",
+  "quality": "Rare",
+  "icon": "inv_pants_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Mooncloth Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->72 Armor</span><br><span><!--stat5-->+14 Intellect</span><br><span><!--stat7-->+12 Stamina</span><br><span><!--stat6-->+21 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->53<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">81</span> <span class=\"moneycopper\">13</span></div></td></tr></table>",
+  "url": "/item=14137/mooncloth-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_13.jpg",
+  "id": "14137",
+  "slug": "mooncloth-leggings"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Ebon Hand",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Plans: Ebon Hand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (300)<br>Requires <a href=\"/spells=11.164.17040\" class=\"q1\">Master Hammersmith</a><br><span class=\"q2\">Use: <a href=\"/spell=23651\" class=\"q2\">Teaches you how to make the Ebon Hand.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span></div><br /><span class=\"q4\"><a href=\"/item=19170\">Ebon Hand</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->90 - 168 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(51.60 damage per second)<br><span><!--stat7-->+9 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+7 Fire Resistance<!--e--><!--ps--><br>Durability 105 / 105<br>Requires Level <!--rlvl-->60<br><span class=\"q2\">Chance on hit: <a href=\"/spell=18211\" class=\"q2\">Sends a shadowy bolt at the enemy causing 125 to 275 Shadow damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">10</span> <span class=\"moneysilver\">36</span> <span class=\"moneycopper\">89</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=17011\">Lava Core</a>&nbsp;(4), <a href=\"/item=17010\">Fiery Core</a>&nbsp;(7), <a href=\"/item=12360\">Arcanite Bar</a>&nbsp;(12), <a href=\"/item=11371\">Dark Iron Bar</a>&nbsp;(8), <a href=\"/item=12800\">Azerothian Diamond</a>&nbsp;(4)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=19210/plans-ebon-hand",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "19210",
+  "slug": "plans-ebon-hand"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Living Action Potion",
+  "quality": "Common",
+  "icon": "inv_potion_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Living Action Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->57</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->47<br><span class=\"q2\">Use: <a href=\"/spell=24364\" class=\"q2\">Makes you immune to Stun and Movement Impairing effects for the next 5 sec. &nbsp;Also removes existing Stun and Movement Impairing effects.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span></div></td></tr></table>",
+  "url": "/item=20008/living-action-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_07.jpg",
+  "id": "20008",
+  "slug": "living-action-potion"
+}

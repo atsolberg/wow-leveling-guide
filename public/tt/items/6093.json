@@ -1,0 +1,10 @@
+{
+  "name": "Orc Crusher",
+  "quality": "Uncommon",
+  "icon": "inv_mace_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Orc Crusher</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->52 - 79 Damage</span></td>\n    <th>Speed <!--spd-->3.60</th>\n</tr></table><!--dps-->(18.19 damage per second)<br><span><!--stat4-->+8 Strength</span><br><span><!--stat7-->+4 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">44</span> <span class=\"moneycopper\">18</span></div></td></tr></table>",
+  "url": "/item=6093/orc-crusher",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_07.jpg",
+  "id": "6093",
+  "slug": "orc-crusher"
+}

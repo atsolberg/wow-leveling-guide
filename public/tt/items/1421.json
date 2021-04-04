@@ -1,0 +1,10 @@
+{
+  "name": "Worn Hide Cloak",
+  "quality": "Poor",
+  "icon": "inv_misc_cape_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Worn Hide Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->9 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">28</span></div></td></tr></table>",
+  "url": "/item=1421/worn-hide-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_14.jpg",
+  "id": "1421",
+  "slug": "worn-hide-cloak"
+}

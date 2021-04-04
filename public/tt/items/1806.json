@@ -1,0 +1,10 @@
+{
+  "name": "Tough Cloak",
+  "quality": "Poor",
+  "icon": "inv_misc_cape_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Tough Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->28</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->19 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->23<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">66</span></div></td></tr></table>",
+  "url": "/item=1806/tough-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_06.jpg",
+  "id": "1806",
+  "slug": "tough-cloak"
+}

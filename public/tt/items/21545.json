@@ -1,0 +1,10 @@
+{
+  "name": "Smokywood Supplies",
+  "quality": "Common",
+  "icon": "inv_crate_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Smokywood Supplies</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Use before 2010&quot;</span></td></tr></table>",
+  "url": "/item=21545/smokywood-supplies",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crate_01.jpg",
+  "id": "21545",
+  "slug": "smokywood-supplies"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Revenant Gauntlets",
+  "quality": "Uncommon",
+  "icon": "inv_gauntlets_31",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Revenant Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->300 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">46</span> <span class=\"moneycopper\">89</span></div></td></tr></table>",
+  "url": "/item=10129/revenant-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_31.jpg",
+  "id": "10129",
+  "slug": "revenant-gauntlets"
+}

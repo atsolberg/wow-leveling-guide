@@ -1,0 +1,10 @@
+{
+  "name": "Extinguished Torch",
+  "quality": "Poor",
+  "icon": "inv_torch_unlit",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Extinguished Torch</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">56</span></div></td></tr></table>",
+  "url": "/item=7296/extinguished-torch",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_torch_unlit.jpg",
+  "id": "7296",
+  "slug": "extinguished-torch"
+}

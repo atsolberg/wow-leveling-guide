@@ -1,0 +1,10 @@
+{
+  "name": "Dreamscale Breastplate",
+  "quality": "Epic",
+  "icon": "inv_chest_plate08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Dreamscale Breastplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->68</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->434 Armor</span><br><span><!--stat3-->+15 Agility</span><br><span><!--stat5-->+14 Intellect</span><br><span><!--stat7-->+15 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+30 Nature Resistance<!--e--><!--ps--><br>Durability 140 / 140</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=21618\" class=\"q2\">Restores 4 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">79</span> <span class=\"moneycopper\">58</span></div></td></tr></table>",
+  "url": "/item=20380/dreamscale-breastplate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_plate08.jpg",
+  "id": "20380",
+  "slug": "dreamscale-breastplate"
+}

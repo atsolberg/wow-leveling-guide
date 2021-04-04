@@ -1,0 +1,10 @@
+{
+  "name": "Barbarous Blade",
+  "quality": "Rare",
+  "icon": "inv_sword_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Barbarous Blade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->138 - 207 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(53.91 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=14052\" class=\"q2\">+60 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">7</span> <span class=\"moneysilver\">31</span> <span class=\"moneycopper\">1</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: King Gordok</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 23.66%</div></td></tr></table>",
+  "url": "/item=18520/barbarous-blade",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_11.jpg",
+  "id": "18520",
+  "slug": "barbarous-blade"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Ancient Petrified Leaf",
+  "quality": "Epic",
+  "icon": "spell_nature_resistnature",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Ancient Petrified Leaf</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->71</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=7632\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=3\" class=\"c3\">Hunter</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q\">&quot;A very large petrified leaf.&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Majordomo Executus</div></td></tr></table>",
+  "url": "/item=18703/ancient-petrified-leaf",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_resistnature.jpg",
+  "id": "18703",
+  "slug": "ancient-petrified-leaf"
+}

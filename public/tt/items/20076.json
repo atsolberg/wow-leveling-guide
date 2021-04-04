@@ -1,0 +1,10 @@
+{
+  "name": "Zandalar Signet of Mojo",
+  "quality": "Rare",
+  "icon": "inv_jewelry_ring_46",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Zandalar Signet of Mojo</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=24421\" class=\"q2\">Permanently adds to a shoulder slot item increased damage and healing done by magical spells and effects up to 18.</a></span></td></tr></table>",
+  "url": "/item=20076/zandalar-signet-of-mojo",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_ring_46.jpg",
+  "id": "20076",
+  "slug": "zandalar-signet-of-mojo"
+}

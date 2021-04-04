@@ -1,0 +1,10 @@
+{
+  "name": "Icebane Leggings",
+  "quality": "Epic",
+  "icon": "inv_pants_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Icebane Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->80</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->787 Armor</span><br><span><!--stat4-->+10 Strength</span><br><span><!--stat7-->+25 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+40 Frost Resistance<!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=13384\" class=\"q2\">Increased Defense +6.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">7</span> <span class=\"moneysilver\">28</span> <span class=\"moneycopper\">32</span></div></td></tr></table>",
+  "url": "/item=22699/icebane-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_04.jpg",
+  "id": "22699",
+  "slug": "icebane-leggings"
+}

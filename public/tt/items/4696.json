@@ -1,0 +1,10 @@
+{
+  "name": "Lapidis Tankard of Tidesippe",
+  "quality": "Rare",
+  "icon": "inv_drink_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Lapidis Tankard of Tidesippe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat3-->-15 Agility</span><br><span><!--stat5-->+5 Intellect</span><br><span><!--stat6-->+16 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<br><span class=\"q2\">Use: <a href=\"/spell=1135\" class=\"q2\">Restores 1992 mana over 30 sec. &nbsp;Must remain seated while drinking.</a> (10 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">55</span> <span class=\"moneycopper\">37</span></div></td></tr></table>",
+  "url": "/item=4696/lapidis-tankard-of-tidesippe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_03.jpg",
+  "id": "4696",
+  "slug": "lapidis-tankard-of-tidesippe"
+}

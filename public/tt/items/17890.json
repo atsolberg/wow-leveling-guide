@@ -1,0 +1,10 @@
+{
+  "name": "zzOLD - QAEnchant Shield +7 Spirit",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">zzOLD - QAEnchant Shield +7 Spirit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=17890/zzold-qaenchant-shield-7-spirit",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "17890",
+  "slug": "zzold-qaenchant-shield-7-spirit"
+}

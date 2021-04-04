@@ -1,0 +1,10 @@
+{
+  "name": "Lady Alizabeth's Pendant",
+  "quality": "Rare",
+  "icon": "inv_jewelry_amulet_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Lady Alizabeth's Pendant</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat7-->+8 Stamina</span><br><span><!--stat6-->+15 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">46</span> <span class=\"moneycopper\">17</span></div></td></tr></table>",
+  "url": "/item=13002/lady-alizabeths-pendant",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_amulet_03.jpg",
+  "id": "13002",
+  "slug": "lady-alizabeths-pendant"
+}

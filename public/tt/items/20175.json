@@ -1,0 +1,10 @@
+{
+  "name": "Defiler's Lizardhide Shoulders",
+  "quality": "Epic",
+  "icon": "inv_shoulder_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Defiler's Lizardhide Shoulders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->258 Armor</span><br><span><!--stat3-->+12 Agility</span><br><span><!--stat5-->+12 Intellect</span><br><span><!--stat7-->+17 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=4\" class=\"c4\">Rogue</a>, <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br>Requires <a href=\"/faction=510\" class=\"q1\">The Defilers</a> - Exalted<br><span class=\"q2\">Equip: <a href=\"/spell=9336\" class=\"q2\">+30 Attack Power.</a></span><!--itemEffects:1--><br /><br /><span class=\"q\"><a href=\"/item-set=488\" class=\"q\">The Defiler's Will</a> (0/3)</span><div class=\"q0 indent\"><span><!--si20167--><a href=\"/item=20167\">Defiler's Lizardhide Boots</a></span><br /><span><!--si20171--><a href=\"/item=20171\">Defiler's Lizardhide Girdle</a></span><br /><span><!--si20175--><a href=\"/item=20175\">Defiler's Lizardhide Shoulders</a></span></div><br /><span class=\"q0\"><span>(2) Set : <a href=\"/spell=7503\">+5 Stamina.</a></span><br /><span>(3) Set : <a href=\"/spell=18384\">Improves your chance to get a critical strike with spells by 1%.</a></span></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">22</span> <span class=\"moneycopper\">43</span></div></td></tr></table>",
+  "url": "/item=20175/defilers-lizardhide-shoulders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_24.jpg",
+  "id": "20175",
+  "slug": "defilers-lizardhide-shoulders"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Small Glowing Shard",
+  "quality": "Rare",
+  "icon": "inv_enchant_shardglowingsmall",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Small Glowing Shard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=11138/small-glowing-shard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_enchant_shardglowingsmall.jpg",
+  "id": "11138",
+  "slug": "small-glowing-shard"
+}

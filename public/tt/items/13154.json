@@ -1,0 +1,10 @@
+{
+  "name": "Jael'marin's Studies of the Arcane",
+  "quality": "Common",
+  "icon": "inv_misc_book_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Jael'marin's Studies of the Arcane</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=13154/jaelmarins-studies-of-the-arcane",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_04.jpg",
+  "id": "13154",
+  "slug": "jaelmarins-studies-of-the-arcane"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "OLDPrimitive Leather Belt",
+  "quality": "Common",
+  "icon": "inv_belt_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">OLDPrimitive Leather Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><table width=\"100%\"><tr><td>Waist</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=152/oldprimitive-leather-belt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_05.jpg",
+  "id": "152",
+  "slug": "oldprimitive-leather-belt"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Box of Spells",
+  "quality": "Common",
+  "icon": "inv_box_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Box of Spells</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=9540/box-of-spells",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_02.jpg",
+  "id": "9540",
+  "slug": "box-of-spells"
+}

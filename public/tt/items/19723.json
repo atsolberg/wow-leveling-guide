@@ -1,0 +1,10 @@
+{
+  "name": "Primal Hakkari Kossack",
+  "quality": "Epic",
+  "icon": "inv_shirt_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Primal Hakkari Kossack</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a>, <a href=\"/class=8\" class=\"c8\">Mage</a>, <a href=\"/class=9\" class=\"c9\">Warlock</a></div></td></tr></table><table><tr><td><span class=\"q\">&quot;A legendary Paragon of Power from the old Gurubashi Empire.&quot;</span></td></tr></table>",
+  "url": "/item=19723/primal-hakkari-kossack",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_07.jpg",
+  "id": "19723",
+  "slug": "primal-hakkari-kossack"
+}

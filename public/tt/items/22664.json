@@ -1,0 +1,10 @@
+{
+  "name": "Icy Scale Breastplate",
+  "quality": "Epic",
+  "icon": "inv_chest_plate09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Icy Scale Breastplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->80</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->506 Armor</span><br><span><!--stat7-->+24 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+40 Frost Resistance<!--e--><!--ps--><br>Durability 140 / 140</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=14049\" class=\"q2\">+40 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">10</span> <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">42</span></div></td></tr></table>",
+  "url": "/item=22664/icy-scale-breastplate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_plate09.jpg",
+  "id": "22664",
+  "slug": "icy-scale-breastplate"
+}

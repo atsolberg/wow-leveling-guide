@@ -1,0 +1,10 @@
+{
+  "name": "Ectoplasmic Distiller",
+  "quality": "Common",
+  "icon": "inv_misc_enggizmos_essencedistiller",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ectoplasmic Distiller</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27433\" class=\"q2\">Places Ectoplasmic Distiller on the ground, allowing Ectoplasm to be gathered. &nbsp; Requires Goblin Rocket Fuel.</a> (1 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=21946/ectoplasmic-distiller",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_enggizmos_essencedistiller.jpg",
+  "id": "21946",
+  "slug": "ectoplasmic-distiller"
+}

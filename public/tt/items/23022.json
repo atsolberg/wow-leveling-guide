@@ -1,0 +1,10 @@
+{
+  "name": "Curmudgeon's Payoff",
+  "quality": "Common",
+  "icon": "inv_misc_bag_10_black",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Curmudgeon's Payoff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;A bag of 5 gold. &nbsp;For those who like telling children there's no Great Father Winter...&quot;</span><br><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=23022/curmudgeons-payoff",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_10_black.jpg",
+  "id": "23022",
+  "slug": "curmudgeons-payoff"
+}

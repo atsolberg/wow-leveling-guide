@@ -1,0 +1,10 @@
+{
+  "name": "Elixir of Minor Agility",
+  "quality": "Common",
+  "icon": "inv_potion_91",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Elixir of Minor Agility</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->12</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->2<br><span class=\"q2\">Use: <a href=\"/spell=2374\" class=\"q2\">Increases Agility by 4 for 1 hour.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">15</span></div></td></tr></table>",
+  "url": "/item=2457/elixir-of-minor-agility",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_91.jpg",
+  "id": "2457",
+  "slug": "elixir-of-minor-agility"
+}

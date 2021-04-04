@@ -1,0 +1,10 @@
+{
+  "name": "Gilded Gauntlets",
+  "quality": "Rare",
+  "icon": "inv_gauntlets_29",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Gilded Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->221 Armor</span><br><span><!--stat5-->+15 Intellect</span><br><span><!--stat7-->+14 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Equip: <a href=\"/spell=21362\" class=\"q2\">Restores 4 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">44</span> <span class=\"moneycopper\">82</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Mother Smolderweb</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 26.82%</div></td></tr></table>",
+  "url": "/item=13244/gilded-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_29.jpg",
+  "id": "13244",
+  "slug": "gilded-gauntlets"
+}

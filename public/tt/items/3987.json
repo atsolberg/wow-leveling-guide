@@ -1,0 +1,10 @@
+{
+  "name": "Deflecting Tower",
+  "quality": "Poor",
+  "icon": "inv_shield_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Deflecting Tower</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->53</span><!--bo--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->1442 Armor</span><br>21 Block<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->48<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">68</span> <span class=\"moneycopper\">37</span></div></td></tr></table>",
+  "url": "/item=3987/deflecting-tower",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_11.jpg",
+  "id": "3987",
+  "slug": "deflecting-tower"
+}

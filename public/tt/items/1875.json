@@ -1,0 +1,10 @@
+{
+  "name": "Thistlenettle's Badge",
+  "quality": "Common",
+  "icon": "inv_jewelry_amulet_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Thistlenettle's Badge</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Foreman Thistlenettle - Member of the Explorers' League&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Foreman Thistlenettle</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 84.66%</div></td></tr></table>",
+  "url": "/item=1875/thistlenettles-badge",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_amulet_03.jpg",
+  "id": "1875",
+  "slug": "thistlenettles-badge"
+}

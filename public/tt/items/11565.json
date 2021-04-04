@@ -1,0 +1,10 @@
+{
+  "name": "Crystal Yield",
+  "quality": "Common",
+  "icon": "inv_misc_gem_amethyst_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Crystal Yield</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=15235\" class=\"q2\">Decreases an enemy target's Armor by 200 for 2 min.</a> (1 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div></td></tr></table>",
+  "url": "/item=11565/crystal-yield",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_amethyst_01.jpg",
+  "id": "11565",
+  "slug": "crystal-yield"
+}

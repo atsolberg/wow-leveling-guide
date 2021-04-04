@@ -1,0 +1,10 @@
+{
+  "name": "Red Streaks Firework",
+  "quality": "Common",
+  "icon": "spell_fire_flare",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Red Streaks Firework</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=11542\" class=\"q2\">Shoots a firework into the air that bursts into red streaks.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=9314/red-streaks-firework",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_fire_flare.jpg",
+  "id": "9314",
+  "slug": "red-streaks-firework"
+}

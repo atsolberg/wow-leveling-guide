@@ -1,0 +1,10 @@
+{
+  "name": "Runed Stygian Boots",
+  "quality": "Rare",
+  "icon": "inv_boots_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Runed Stygian Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->61 Armor</span><br><span><!--stat7-->+8 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+20 Shadow Resistance<!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=21618\" class=\"q2\">Restores 4 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">77</span> <span class=\"moneycopper\">36</span></div></td></tr></table>",
+  "url": "/item=20537/runed-stygian-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_05.jpg",
+  "id": "20537",
+  "slug": "runed-stygian-boots"
+}

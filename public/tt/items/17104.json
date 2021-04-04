@@ -1,0 +1,10 @@
+{
+  "name": "Spinal Reaper",
+  "quality": "Epic",
+  "icon": "inv_axe_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Spinal Reaper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->76</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->203 - 305 Damage</span></td>\n    <th>Speed <!--spd-->3.40</th>\n</tr></table><!--dps-->(74.71 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=21185\" class=\"q2\">Restores 150 mana or 20 rage when you kill a target that gives experience; this effect cannot occur more than once every 10 seconds.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=15806\" class=\"q2\">+34 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">17</span> <span class=\"moneysilver\">90</span> <span class=\"moneycopper\">67</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ragnaros</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 2.65%</div></td></tr></table>",
+  "url": "/item=17104/spinal-reaper",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_09.jpg",
+  "id": "17104",
+  "slug": "spinal-reaper"
+}

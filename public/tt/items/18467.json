@@ -1,0 +1,10 @@
+{
+  "name": "Royal Seal of Eldre'Thalas",
+  "quality": "Rare",
+  "icon": "inv_jewelry_talisman_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Royal Seal of Eldre'Thalas</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats-->+10 Fire Resistance<!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=9\" class=\"c9\">Warlock</a></div></td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=14047\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 23.</a></span><!--itemEffects:1--><br><span class=\"q\">&quot;Blessed by the Shen'dralar Ancients.&quot;</span></td></tr></table>",
+  "url": "/item=18467/royal-seal-of-eldrethalas",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_10.jpg",
+  "id": "18467",
+  "slug": "royal-seal-of-eldrethalas"
+}

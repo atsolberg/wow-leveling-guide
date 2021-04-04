@@ -1,0 +1,10 @@
+{
+  "name": "Darkrune Gauntlets",
+  "quality": "Rare",
+  "icon": "inv_gauntlets_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Darkrune Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->410 Armor</span><br><span><!--stat7-->+8 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+20 Shadow Resistance<!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=13675\" class=\"q2\">Increases your chance to block attacks with a shield by 2%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">84</span></div></td></tr></table>",
+  "url": "/item=20549/darkrune-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_27.jpg",
+  "id": "20549",
+  "slug": "darkrune-gauntlets"
+}

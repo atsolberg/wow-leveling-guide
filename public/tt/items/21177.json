@@ -1,0 +1,10 @@
+{
+  "name": "Symbol of Kings",
+  "quality": "Common",
+  "icon": "inv_misc_symbolofkings_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Symbol of Kings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 100</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">37</span></div></td></tr></table>",
+  "url": "/item=21177/symbol-of-kings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_symbolofkings_01.jpg",
+  "id": "21177",
+  "slug": "symbol-of-kings"
+}

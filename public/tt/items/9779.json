@@ -1,0 +1,10 @@
+{
+  "name": "Bandit Cloak",
+  "quality": "Uncommon",
+  "icon": "inv_misc_cape_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Bandit Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->16 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->13<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">34</span></div></td></tr></table>",
+  "url": "/item=9779/bandit-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_19.jpg",
+  "id": "9779",
+  "slug": "bandit-cloak"
+}

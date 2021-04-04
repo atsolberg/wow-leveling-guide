@@ -1,0 +1,10 @@
+{
+  "name": "Insignia of the Alliance",
+  "quality": "Rare",
+  "icon": "inv_jewelry_trinketpvp_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Insignia of the Alliance</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=8\" class=\"c8\">Mage</a></div></td></tr></table><table><tr><td>Requires <span class=\"icon-horde\">Grunt</span> <span class=\"icon-alliance\">Corporal</span><br><span class=\"q2\">Use: <a href=\"/spell=23274\" class=\"q2\">Dispels all Fear, Polymorph and Slowing effects.</a> (5 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">37</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=18859/insignia-of-the-alliance",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_trinketpvp_01.jpg",
+  "id": "18859",
+  "slug": "insignia-of-the-alliance"
+}

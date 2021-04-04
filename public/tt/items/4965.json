@@ -1,0 +1,10 @@
+{
+  "name": "Bloodhoof Hand Axe",
+  "quality": "Common",
+  "icon": "inv_axe_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bloodhoof Hand Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->8 - 16 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(4.44 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">49</span></div></td></tr></table>",
+  "url": "/item=4965/bloodhoof-hand-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_11.jpg",
+  "id": "4965",
+  "slug": "bloodhoof-hand-axe"
+}

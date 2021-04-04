@@ -1,0 +1,10 @@
+{
+  "name": "Cauldron Stirrer",
+  "quality": "Uncommon",
+  "icon": "inv_staff_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Cauldron Stirrer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->25 - 38 Damage</span></td>\n    <th>Speed <!--spd-->3.10</th>\n</tr></table><!--dps-->(10.16 damage per second)<br><span><!--stat7-->+4 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">19</span></div></td></tr></table>",
+  "url": "/item=5340/cauldron-stirrer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_08.jpg",
+  "id": "5340",
+  "slug": "cauldron-stirrer"
+}

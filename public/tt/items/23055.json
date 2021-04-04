@@ -1,0 +1,10 @@
+{
+  "name": "Word of Thawing",
+  "quality": "Common",
+  "icon": "inv_scroll_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Word of Thawing</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=28800\" class=\"q2\">Use on a Frozen Rune to melt it free.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div></td></tr></table>",
+  "url": "/item=23055/word-of-thawing",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_02.jpg",
+  "id": "23055",
+  "slug": "word-of-thawing"
+}

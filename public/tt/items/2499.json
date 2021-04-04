@@ -1,0 +1,10 @@
+{
+  "name": "Double-bladed Axe",
+  "quality": "Common",
+  "icon": "inv_throwingaxe_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Double-bladed Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->9</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->12 - 19 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(4.84 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->4<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">43</span></div></td></tr></table>",
+  "url": "/item=2499/double-bladed-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_throwingaxe_06.jpg",
+  "id": "2499",
+  "slug": "double-bladed-axe"
+}

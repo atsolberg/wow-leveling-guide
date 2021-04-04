@@ -1,0 +1,10 @@
+{
+  "name": "Warstrike Cape",
+  "quality": "Uncommon",
+  "icon": "inv_misc_cape_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Warstrike Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->37 Armor</span><br><span><!--stat4-->+7 Strength</span><br><span><!--stat3-->+3 Agility</span><br><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=14813/warstrike-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_01.jpg",
+  "id": "14813",
+  "slug": "warstrike-cape"
+}

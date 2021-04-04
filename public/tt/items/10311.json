@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Orange Martial Shirt",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pattern: Orange Martial Shirt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->44</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=197\" class=\"q1\">Tailoring</a> (220)<br><span class=\"q2\">Use: <a href=\"/spell=12171\" class=\"q2\">Teaches you how to sew an Orange Martial Shirt.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q1\"><a href=\"/item=10052\">Orange Martial Shirt</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><table width=\"100%\"><tr><td>Shirt</td><th><!--scstart4:-8--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4339\">Bolt of Mageweave</a>&nbsp;(2), <a href=\"/item=6261\">Orange Dye</a>&nbsp;(2), <a href=\"/item=8343\">Heavy Silken Thread</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=10311/pattern-orange-martial-shirt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "10311",
+  "slug": "pattern-orange-martial-shirt"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Horde Commendation Signet",
+  "quality": "Common",
+  "icon": "inv_bannerpvp_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Horde Commendation Signet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Seek out an Horde Commendation Officer to exchange signets for recognition.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 100</div></td></tr></table>",
+  "url": "/item=21438/horde-commendation-signet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bannerpvp_01.jpg",
+  "id": "21438",
+  "slug": "horde-commendation-signet"
+}

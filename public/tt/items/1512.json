@@ -1,0 +1,10 @@
+{
+  "name": "Crude Battle Axe",
+  "quality": "Poor",
+  "icon": "inv_throwingaxe_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Crude Battle Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->12</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->12 - 18 Damage</span></td>\n    <th>Speed <!--spd-->3.00</th>\n</tr></table><!--dps-->(5.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->7<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">94</span></div></td></tr></table>",
+  "url": "/item=1512/crude-battle-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_throwingaxe_05.jpg",
+  "id": "1512",
+  "slug": "crude-battle-axe"
+}

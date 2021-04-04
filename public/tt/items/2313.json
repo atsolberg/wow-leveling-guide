@@ -1,0 +1,10 @@
+{
+  "name": "Medium Armor Kit",
+  "quality": "Common",
+  "icon": "inv_misc_armorkit_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Medium Armor Kit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<br><span class=\"q2\">Use: <a href=\"/spell=2832\" class=\"q2\">Permanently increase the armor value of an item worn on the chest, legs, hands or feet by 16.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Olaf</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 26.40%</div></td></tr></table>",
+  "url": "/item=2313/medium-armor-kit",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_armorkit_15.jpg",
+  "id": "2313",
+  "slug": "medium-armor-kit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Really Sticky Glue",
+  "quality": "Common",
+  "icon": "inv_potion_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Really Sticky Glue</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=8312\" class=\"q2\">Renders a target unable to move for 10 sec.</a> (1 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">11</span></div></td></tr></table>",
+  "url": "/item=4941/really-sticky-glue",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_01.jpg",
+  "id": "4941",
+  "slug": "really-sticky-glue"
+}

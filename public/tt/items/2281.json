@@ -1,0 +1,10 @@
+{
+  "name": "Rodentia Flint Axe",
+  "quality": "Uncommon",
+  "icon": "inv_axe_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Rodentia Flint Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->8 - 16 Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(6.00 damage per second)<br><span><!--stat6-->+1 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span></div></td></tr></table>",
+  "url": "/item=2281/rodentia-flint-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_19.jpg",
+  "id": "2281",
+  "slug": "rodentia-flint-axe"
+}

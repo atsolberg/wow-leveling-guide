@@ -1,0 +1,10 @@
+{
+  "name": "Armor Piercer",
+  "quality": "Uncommon",
+  "icon": "inv_spear_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Armor Piercer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:6--><span class=\"q1\">Polearm</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->41 - 62 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(19.81 damage per second)<br><span><!--stat3-->+11 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->24<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">48</span> <span class=\"moneycopper\">52</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Razorfen Spearhide</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 60.34%</div></td></tr></table>",
+  "url": "/item=6679/armor-piercer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_spear_05.jpg",
+  "id": "6679",
+  "slug": "armor-piercer"
+}

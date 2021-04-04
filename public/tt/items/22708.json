@@ -1,0 +1,10 @@
+{
+  "name": "Fate of Ramaladni",
+  "quality": "Common",
+  "icon": "inv_jewelry_ring_35",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fate of Ramaladni</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Inscribed on the band: Ramaladni&quot;</span></td></tr></table>",
+  "url": "/item=22708/fate-of-ramaladni",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_ring_35.jpg",
+  "id": "22708",
+  "slug": "fate-of-ramaladni"
+}

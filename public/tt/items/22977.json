@@ -1,0 +1,10 @@
+{
+  "name": "A Torn Letter",
+  "quality": "Common",
+  "icon": "inv_letter_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">A Torn Letter</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=9295\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->45</td></tr></table>",
+  "url": "/item=22977/a-torn-letter",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_04.jpg",
+  "id": "22977",
+  "slug": "a-torn-letter"
+}

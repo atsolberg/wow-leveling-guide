@@ -1,0 +1,10 @@
+{
+  "name": "Drake Fang Talisman",
+  "quality": "Epic",
+  "icon": "inv_misc_bone_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Drake Fang Talisman</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->75</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=15814\" class=\"q2\">+56 Attack Power.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=15465\" class=\"q2\">Improves your chance to hit by 2%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=13669\" class=\"q2\">Increases your chance to dodge an attack by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">9</span> <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">60</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ebonroc</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.11%</div></td></tr></table>",
+  "url": "/item=19406/drake-fang-talisman",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_06.jpg",
+  "id": "19406",
+  "slug": "drake-fang-talisman"
+}

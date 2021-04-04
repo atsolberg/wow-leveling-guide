@@ -1,0 +1,10 @@
+{
+  "name": "Major Healthstone",
+  "quality": "Common",
+  "icon": "inv_stone_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Major Healthstone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->58</span><br />Conjured Item<!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->48<br><span class=\"q2\">Use: <a href=\"/spell=23476\" class=\"q2\">Instantly restores 1320 life.</a> (2 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=19012/major-healthstone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_04.jpg",
+  "id": "19012",
+  "slug": "major-healthstone"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Green Tea Leaf",
+  "quality": "Common",
+  "icon": "inv_misc_herb_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Green Tea Leaf</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->14</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->4<br><span class=\"q2\">Use: <a href=\"/spell=833\" class=\"q2\">Instantly heals 30 damage. &nbsp;Also restores 60 mana over 10 sec. &nbsp;Must remain seated while drinking.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">14</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Riverpaw Herbalist</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 26.43%</div></td></tr></table>",
+  "url": "/item=1401/green-tea-leaf",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_herb_10.jpg",
+  "id": "1401",
+  "slug": "green-tea-leaf"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Festival of Nian Firework",
+  "quality": "Common",
+  "icon": "inv_torch_unlit",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Festival of Nian Firework</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=25465\" class=\"q2\">Shoots a firework at target.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">3</span></div></td></tr></table>",
+  "url": "/item=20908/festival-of-nian-firework",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_torch_unlit.jpg",
+  "id": "20908",
+  "slug": "festival-of-nian-firework"
+}

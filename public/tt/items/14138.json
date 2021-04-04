@@ -1,0 +1,10 @@
+{
+  "name": "Mooncloth Vest",
+  "quality": "Rare",
+  "icon": "inv_chest_cloth_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Mooncloth Vest</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->85 Armor</span><br><span><!--stat5-->+20 Intellect</span><br><span><!--stat7-->+12 Stamina</span><br><span><!--stat6-->+19 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneycopper\">42</span></div></td></tr></table>",
+  "url": "/item=14138/mooncloth-vest",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_08.jpg",
+  "id": "14138",
+  "slug": "mooncloth-vest"
+}

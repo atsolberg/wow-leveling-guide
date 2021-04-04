@@ -1,0 +1,10 @@
+{
+  "name": "Anthion's Holy Water",
+  "quality": "Common",
+  "icon": "inv_potion_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Anthion's Holy Water</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique (5)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=17291\" class=\"q2\">Inflicts between 438 and 562 damage to Undead in a 10 yard radius.</a> (1 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div></td></tr></table>",
+  "url": "/item=22151/anthions-holy-water",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_05.jpg",
+  "id": "22151",
+  "slug": "anthions-holy-water"
+}

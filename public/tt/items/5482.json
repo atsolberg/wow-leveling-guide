@@ -1,0 +1,11 @@
+{
+  "name": "Recipe: Kaldorei Spider Kabob",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Recipe: Kaldorei Spider Kabob</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=185\" class=\"q1\">Cooking</a> (10)<br><span class=\"q2\">Use: <a href=\"/spell=6423\" class=\"q2\">Teaches you how to cook a Kaldorei Spider Kabob.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">10</span></div><br /><span class=\"q1\"><a href=\"/item=5472\">Kaldorei Spider Kabob</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->7</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br><span class=\"q2\">Use: <a href=\"/spell=5004\" class=\"q2\">Restores 61.2 health over 18 sec. &nbsp;Must remain seated while eating. &nbsp;If you spend at least 10 seconds eating you will become well fed and gain 2 Stamina and Spirit for 15 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">10</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=5465\">Small Spider Leg</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=5482/recipe-kaldorei-spider-kabob",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "5482",
+  "slug": "recipe-kaldorei-spider-kabob"
+}

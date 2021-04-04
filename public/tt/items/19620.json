@@ -1,0 +1,10 @@
+{
+  "name": "Maelstrom's Tendril",
+  "quality": "Rare",
+  "icon": "inv_jewelry_necklace_25",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Maelstrom's Tendril</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->68</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat3-->+15 Agility</span><br><span><!--stat5-->+6 Intellect</span><br><span><!--stat7-->+9 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=3\" class=\"c3\">Hunter</a></div></td></tr></table><table><tr><td><!--itemEffects:0--></td></tr></table>",
+  "url": "/item=19620/maelstroms-tendril",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_25.jpg",
+  "id": "19620",
+  "slug": "maelstroms-tendril"
+}

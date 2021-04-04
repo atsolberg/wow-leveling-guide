@@ -1,0 +1,10 @@
+{
+  "name": "Snapvine Watermelon",
+  "quality": "Common",
+  "icon": "inv_misc_food_22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Snapvine Watermelon</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><span class=\"q2\">Use: <a href=\"/spell=435\" class=\"q2\">Restores 552 health over 24 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=4538/snapvine-watermelon",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_22.jpg",
+  "id": "4538",
+  "slug": "snapvine-watermelon"
+}

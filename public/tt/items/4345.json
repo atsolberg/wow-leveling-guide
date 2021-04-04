@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Red Woolen Boots",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Pattern: Red Woolen Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->19</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=197\" class=\"q1\">Tailoring</a> (95)<br><span class=\"q2\">Use: <a href=\"/spell=3896\" class=\"q2\">Teaches you how to sew Red Woolen Boots.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span></div><br /><span class=\"q2\"><a href=\"/item=4313\">Red Woolen Boots</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->23 Armor</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30<br>Requires Level <!--rlvl-->15<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">16</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=2997\">Bolt of Woolen Cloth</a>&nbsp;(4), <a href=\"/item=2318\">Light Leather</a>&nbsp;(2), <a href=\"/item=2321\">Fine Thread</a>, <a href=\"/item=2604\">Red Dye</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=4345/pattern-red-woolen-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "4345",
+  "slug": "pattern-red-woolen-boots"
+}

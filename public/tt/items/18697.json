@@ -1,0 +1,10 @@
+{
+  "name": "Coldstone Slippers",
+  "quality": "Rare",
+  "icon": "inv_boots_fabric_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Coldstone Slippers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->54 Armor</span><br><span><!--stat5-->+14 Intellect</span><br><span><!--stat7-->+9 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br><span class=\"q2\">Equip: <a href=\"/spell=21618\" class=\"q2\">Restores 4 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">67</span></div></td></tr></table>",
+  "url": "/item=18697/coldstone-slippers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_fabric_01.jpg",
+  "id": "18697",
+  "slug": "coldstone-slippers"
+}

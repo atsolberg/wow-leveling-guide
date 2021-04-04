@@ -1,0 +1,10 @@
+{
+  "name": "Rough Broad Axe",
+  "quality": "Common",
+  "icon": "inv_throwingaxe_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rough Broad Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->3</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->3 - 6 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(1.61 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">14</span></div></td></tr></table>",
+  "url": "/item=2483/rough-broad-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_throwingaxe_02.jpg",
+  "id": "2483",
+  "slug": "rough-broad-axe"
+}

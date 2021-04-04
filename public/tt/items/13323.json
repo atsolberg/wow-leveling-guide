@@ -1,0 +1,11 @@
+{
+  "name": "Purple Mechanostrider",
+  "quality": "Rare",
+  "icon": "ability_mount_mechastrider",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Purple Mechanostrider</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when used<br />Mount<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-races\">Races: <a href=\"/race=3\" class=\"q1\">Dwarf</a>, <a href=\"/race=7\" class=\"q1\">Gnome</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br>Requires <a href=\"/skill=553\" class=\"q1\">Mechanostrider Piloting</a> (1)<br><span class=\"q2\">Use: <a href=\"/spell=17455\" class=\"q2\">Summons and dismisses a rideable mechanical tallstrider.</a> (3 Sec Cooldown)</span></td></tr></table>",
+  "completion_category": "15-5",
+  "url": "/item=13323/purple-mechanostrider",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_mount_mechastrider.jpg",
+  "id": "13323",
+  "slug": "purple-mechanostrider"
+}

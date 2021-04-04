@@ -1,0 +1,10 @@
+{
+  "name": "Combatant Claymore",
+  "quality": "Rare",
+  "icon": "inv_sword_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Combatant Claymore</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->64 - 97 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(27.76 damage per second)<br><span><!--stat7-->+10 Stamina</span><br><span><!--stat6-->+15 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->28<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">85</span> <span class=\"moneycopper\">24</span></div></td></tr></table>",
+  "url": "/item=2877/combatant-claymore",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_23.jpg",
+  "id": "2877",
+  "slug": "combatant-claymore"
+}

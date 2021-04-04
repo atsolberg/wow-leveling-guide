@@ -1,0 +1,10 @@
+{
+  "name": "Black Blood of the Tormented",
+  "quality": "Common",
+  "icon": "inv_potion_69",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Black Blood of the Tormented</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;The putrid scent of burned blood assaults your senses.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div></td></tr></table>",
+  "url": "/item=11752/black-blood-of-the-tormented",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_69.jpg",
+  "id": "11752",
+  "slug": "black-blood-of-the-tormented"
+}

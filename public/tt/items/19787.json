@@ -1,0 +1,10 @@
+{
+  "name": "Presence of Sight",
+  "quality": "Rare",
+  "icon": "spell_shadow_detectlesserinvisibility",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Presence of Sight</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=8\" class=\"c8\">Mage</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=24164\" class=\"q2\">Permanently adds 18 to all healing and damage spells and 1% chance to hit with spells to a leg or head slot item. Does not stack with other enchantments for the selected equipment slot.</a></span></td></tr></table>",
+  "url": "/item=19787/presence-of-sight",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_detectlesserinvisibility.jpg",
+  "id": "19787",
+  "slug": "presence-of-sight"
+}

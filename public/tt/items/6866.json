@@ -1,0 +1,10 @@
+{
+  "name": "Symbol of Life",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Symbol of Life</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->12</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->12<br><span class=\"q2\">Use: <a href=\"/spell=8593\" class=\"q2\">The Symbol of Life will bring the person attuned to it back to life.</a></span></td></tr></table>",
+  "url": "/item=6866/symbol-of-life",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_06.jpg",
+  "id": "6866",
+  "slug": "symbol-of-life"
+}

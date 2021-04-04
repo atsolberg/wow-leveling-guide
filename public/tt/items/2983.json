@@ -1,0 +1,10 @@
+{
+  "name": "Seer's Boots",
+  "quality": "Uncommon",
+  "icon": "inv_boots_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Seer's Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->21 Armor</span><br><span><!--stat5-->+1 Intellect</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->12<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">80</span></div></td></tr></table>",
+  "url": "/item=2983/seers-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_05.jpg",
+  "id": "2983",
+  "slug": "seers-boots"
+}

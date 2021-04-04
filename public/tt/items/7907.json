@@ -1,0 +1,10 @@
+{
+  "name": "Certificate of Thievery",
+  "quality": "Common",
+  "icon": "inv_misc_note_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Certificate of Thievery</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->16</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=7907/certificate-of-thievery",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_02.jpg",
+  "id": "7907",
+  "slug": "certificate-of-thievery"
+}

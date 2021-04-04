@@ -1,0 +1,10 @@
+{
+  "name": "Empty Brown Waterskin",
+  "quality": "Common",
+  "icon": "inv_drink_waterskin_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Empty Brown Waterskin</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=9586\" class=\"q2\">This container needs to be filled with water from the watering hole near Brine's hut in the Barrens.</a></span></td></tr></table>",
+  "url": "/item=7766/empty-brown-waterskin",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_waterskin_06.jpg",
+  "id": "7766",
+  "slug": "empty-brown-waterskin"
+}

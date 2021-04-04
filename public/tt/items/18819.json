@@ -1,0 +1,10 @@
+{
+  "name": "Rohan's Exorcism Censer",
+  "quality": "Common",
+  "icon": "spell_holy_holyprotection",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rohan's Exorcism Censer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=18819/rohans-exorcism-censer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_holy_holyprotection.jpg",
+  "id": "18819",
+  "slug": "rohans-exorcism-censer"
+}

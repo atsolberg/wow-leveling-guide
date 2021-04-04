@@ -1,0 +1,10 @@
+{
+  "name": "Hive Defiler Wristguards",
+  "quality": "Epic",
+  "icon": "inv_bracer_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Hive Defiler Wristguards</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->78</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->384 Armor</span><br><span><!--stat4-->+23 Strength</span><br><span><!--stat3-->+18 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">27</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Princess Huhuran</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 15.78%</div></td></tr></table>",
+  "url": "/item=21618/hive-defiler-wristguards",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_02.jpg",
+  "id": "21618",
+  "slug": "hive-defiler-wristguards"
+}

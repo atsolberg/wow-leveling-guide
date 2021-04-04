@@ -1,0 +1,10 @@
+{
+  "name": "Discolored Healing Potion",
+  "quality": "Common",
+  "icon": "inv_potion_35",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Discolored Healing Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<br><span class=\"q2\">Use: <a href=\"/spell=440\" class=\"q2\">Restores 140 to 180 health.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=4596/discolored-healing-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_35.jpg",
+  "id": "4596",
+  "slug": "discolored-healing-potion"
+}

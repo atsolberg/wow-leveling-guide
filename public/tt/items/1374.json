@@ -1,0 +1,10 @@
+{
+  "name": "Frayed Shoes",
+  "quality": "Poor",
+  "icon": "inv_boots_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Frayed Shoes</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->4</span><!--bo--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->5 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 18 / 18</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">3</span></div></td></tr></table>",
+  "url": "/item=1374/frayed-shoes",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_09.jpg",
+  "id": "1374",
+  "slug": "frayed-shoes"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Canvas Scraps",
+  "quality": "Common",
+  "icon": "inv_fabric_silk_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Canvas Scraps</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=4870/canvas-scraps",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_fabric_silk_01.jpg",
+  "id": "4870",
+  "slug": "canvas-scraps"
+}

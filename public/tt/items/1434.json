@@ -1,0 +1,10 @@
+{
+  "name": "Glowing Wax Stick",
+  "quality": "Common",
+  "icon": "inv_misc_candle_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Glowing Wax Stick</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->7</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=13424\" class=\"q2\">Decrease the armor of the target by 50 for 30 sec. &nbsp;While affected, the target cannot stealth or turn invisible.</a> (1 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">43</span></div></td></tr></table>",
+  "url": "/item=1434/glowing-wax-stick",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_candle_03.jpg",
+  "id": "1434",
+  "slug": "glowing-wax-stick"
+}

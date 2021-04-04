@@ -1,0 +1,10 @@
+{
+  "name": "Aquadynamic Fish Lens",
+  "quality": "Common",
+  "icon": "inv_misc_spyglass_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Aquadynamic Fish Lens</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=356\" class=\"q1\">Fishing</a> (50)<br><span class=\"q2\">Use: <a href=\"/spell=8532\" class=\"q2\">When applied to your fishing pole, increases Fishing by 50 for 10 minutes.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=6811/aquadynamic-fish-lens",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_01.jpg",
+  "id": "6811",
+  "slug": "aquadynamic-fish-lens"
+}

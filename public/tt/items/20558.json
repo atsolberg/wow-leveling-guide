@@ -1,0 +1,10 @@
+{
+  "name": "Warsong Gulch Mark of Honor",
+  "quality": "Uncommon",
+  "icon": "inv_misc_rune_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Warsong Gulch Mark of Honor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique (20)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Medal awarded for fighting in Warsong Gulch&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=20558/warsong-gulch-mark-of-honor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_rune_07.jpg",
+  "id": "20558",
+  "slug": "warsong-gulch-mark-of-honor"
+}

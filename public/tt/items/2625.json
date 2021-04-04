@@ -1,0 +1,10 @@
+{
+  "name": "Menethil Statuette",
+  "quality": "Common",
+  "icon": "spell_holy_divineintervention",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Menethil Statuette</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=2625/menethil-statuette",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_holy_divineintervention.jpg",
+  "id": "2625",
+  "slug": "menethil-statuette"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Essence of Hakkar",
+  "quality": "Common",
+  "icon": "spell_shadow_demonbreath",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Essence of Hakkar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=12735\" class=\"q2\">Use to fill the Egg of Hakkar.</a></span></td></tr></table>",
+  "url": "/item=10663/essence-of-hakkar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_demonbreath.jpg",
+  "id": "10663",
+  "slug": "essence-of-hakkar"
+}

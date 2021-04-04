@@ -1,0 +1,10 @@
+{
+  "name": "Scratched Claymore",
+  "quality": "Common",
+  "icon": "inv_sword_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Scratched Claymore</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->4</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->4 - 7 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(1.96 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">20</span></div></td></tr></table>",
+  "url": "/item=2128/scratched-claymore",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_06.jpg",
+  "id": "2128",
+  "slug": "scratched-claymore"
+}

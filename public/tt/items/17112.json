@@ -1,0 +1,10 @@
+{
+  "name": "Empyrean Demolisher",
+  "quality": "Epic",
+  "icon": "inv_hammer_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Empyrean Demolisher</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->66</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->94 - 175 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(48.04 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Chance on hit: <a href=\"/spell=21165\" class=\"q2\">Increases your attack speed by 20% for 10 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">9</span> <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">58</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lord Kazzak</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 15.67%</div></td></tr></table>",
+  "url": "/item=17112/empyrean-demolisher",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_05.jpg",
+  "id": "17112",
+  "slug": "empyrean-demolisher"
+}

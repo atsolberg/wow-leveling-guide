@@ -1,0 +1,10 @@
+{
+  "name": "Hulking Cloak",
+  "quality": "Uncommon",
+  "icon": "inv_misc_cape_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Hulking Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->17 Armor</span><br><span><!--stat4-->+1 Strength</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">44</span></div></td></tr></table>",
+  "url": "/item=14745/hulking-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_20.jpg",
+  "id": "14745",
+  "slug": "hulking-cloak"
+}

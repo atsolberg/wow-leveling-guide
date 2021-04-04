@@ -1,0 +1,10 @@
+{
+  "name": "Flimsy Chain Boots",
+  "quality": "Poor",
+  "icon": "inv_boots_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Flimsy Chain Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->3</span><!--bo--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->34 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">3</span></div></td></tr></table>",
+  "url": "/item=2650/flimsy-chain-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_01.jpg",
+  "id": "2650",
+  "slug": "flimsy-chain-boots"
+}

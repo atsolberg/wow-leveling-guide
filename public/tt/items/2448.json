@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Pavise",
+  "quality": "Common",
+  "icon": "inv_shield_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Heavy Pavise</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->646 Armor</span><br>14 Block<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">32</span> <span class=\"moneycopper\">31</span></div></td></tr></table>",
+  "url": "/item=2448/heavy-pavise",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_03.jpg",
+  "id": "2448",
+  "slug": "heavy-pavise"
+}

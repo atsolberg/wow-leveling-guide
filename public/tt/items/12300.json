@@ -1,0 +1,10 @@
+{
+  "name": "Orb of Draconic Energy",
+  "quality": "Common",
+  "icon": "inv_misc_orb_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Orb of Draconic Energy</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=16053\" class=\"q2\">Controls Emberstrife's mind when his will falters.</a></span><br />5 Charges</td></tr></table>",
+  "url": "/item=12300/orb-of-draconic-energy",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_orb_02.jpg",
+  "id": "12300",
+  "slug": "orb-of-draconic-energy"
+}

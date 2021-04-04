@@ -1,0 +1,10 @@
+{
+  "name": "Ironfel",
+  "quality": "Common",
+  "icon": "inv_hammer_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ironfel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Etched into the face of the hammer are the letters: F.F.F.&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Fineous Darkvire</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 41.20%</div></td></tr></table>",
+  "url": "/item=10999/ironfel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_23.jpg",
+  "id": "10999",
+  "slug": "ironfel"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Spellbinder Pants",
+  "quality": "Uncommon",
+  "icon": "inv_pants_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Spellbinder Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->16</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->25 Armor</span><br><span><!--stat5-->+3 Intellect</span><br><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->11<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">33</span></div></td></tr></table>",
+  "url": "/item=2970/spellbinder-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_10.jpg",
+  "id": "2970",
+  "slug": "spellbinder-pants"
+}

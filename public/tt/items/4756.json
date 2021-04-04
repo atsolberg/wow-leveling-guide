@@ -1,0 +1,10 @@
+{
+  "name": "Ruined Cat Pelt",
+  "quality": "Common",
+  "icon": "inv_misc_pelt_bear_ruin_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ruined Cat Pelt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">5</span></div></td></tr></table>",
+  "url": "/item=4756/ruined-cat-pelt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_pelt_bear_ruin_03.jpg",
+  "id": "4756",
+  "slug": "ruined-cat-pelt"
+}

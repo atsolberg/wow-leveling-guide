@@ -1,0 +1,10 @@
+{
+  "name": "Light Obsidian Belt",
+  "quality": "Rare",
+  "icon": "inv_belt_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Light Obsidian Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->68</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->224 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=15807\" class=\"q2\">+32 Attack Power.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=18676\" class=\"q2\">+5 All Resistances.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">28</span> <span class=\"moneycopper\">85</span></div></td></tr></table>",
+  "url": "/item=22195/light-obsidian-belt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_16.jpg",
+  "id": "22195",
+  "slug": "light-obsidian-belt"
+}

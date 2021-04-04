@@ -1,0 +1,10 @@
+{
+  "name": "Wartorn Plate Scrap",
+  "quality": "Rare",
+  "icon": "inv_misc_wartornscrap_plate",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Wartorn Plate Scrap</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div></td></tr></table>",
+  "url": "/item=22375/wartorn-plate-scrap",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_wartornscrap_plate.jpg",
+  "id": "22375",
+  "slug": "wartorn-plate-scrap"
+}

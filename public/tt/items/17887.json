@@ -1,0 +1,10 @@
+{
+  "name": "QAEnchant 2H Weapon +9 Damage",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QAEnchant 2H Weapon +9 Damage</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=22094\" class=\"q2\">Permanently enchant a two-handed melee weapon to do +9 damage.</a></span></td></tr></table>",
+  "url": "/item=17887/qaenchant-2h-weapon-9-damage",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "17887",
+  "slug": "qaenchant-2h-weapon-9-damage"
+}

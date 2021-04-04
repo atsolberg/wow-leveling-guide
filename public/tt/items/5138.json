@@ -1,0 +1,10 @@
+{
+  "name": "Harvester's Head",
+  "quality": "Common",
+  "icon": "inv_misc_monsterspidercarapace_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Harvester's Head</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=897\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<div class=\"whtt-extra whtt-droppedby\">Dropped by: Silithid Harvester</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 93.03%</div></td></tr></table>",
+  "url": "/item=5138/harvesters-head",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterspidercarapace_01.jpg",
+  "id": "5138",
+  "slug": "harvesters-head"
+}

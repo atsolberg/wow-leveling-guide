@@ -1,0 +1,10 @@
+{
+  "name": "Frostwolf Assault Orders",
+  "quality": "Common",
+  "icon": "inv_scroll_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Frostwolf Assault Orders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><br /><a href=\"/zone=2597\" class=\"q1\">Alterac Valley</a><!--bo--><br />Binds when picked up<br />Unique<br />Duration: 15 min<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Give to Warmaster Garrick in the Field of Strife&quot;</span></td></tr></table>",
+  "url": "/item=17442/frostwolf-assault-orders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_04.jpg",
+  "id": "17442",
+  "slug": "frostwolf-assault-orders"
+}

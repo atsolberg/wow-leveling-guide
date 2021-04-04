@@ -1,0 +1,10 @@
+{
+  "name": "Slayer's Crest",
+  "quality": "Epic",
+  "icon": "inv_trinket_naxxramas03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Slayer's Crest</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->90</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=15817\" class=\"q2\">+64 Attack Power.</a></span><br><span class=\"q2\">Use: <a href=\"/spell=28777\" class=\"q2\">Increases Attack Power by 260 for 20 sec.</a> (2 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">9</span> <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">60</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Sapphiron</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 21.82%</div></td></tr></table>",
+  "url": "/item=23041/slayers-crest",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_trinket_naxxramas03.jpg",
+  "id": "23041",
+  "slug": "slayers-crest"
+}

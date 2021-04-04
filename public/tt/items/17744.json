@@ -1,0 +1,10 @@
+{
+  "name": "Heart of Noxxion",
+  "quality": "Rare",
+  "icon": "inv_misc_gem_pearl_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Heart of Noxxion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->51</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats-->+10 Nature Resistance<!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->46<br><span class=\"q2\">Use: <a href=\"/spell=21954\" class=\"q2\">Removes 1 poison effect.</a> (5 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">90</span> <span class=\"moneycopper\">31</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Noxxion</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 35.98%</div></td></tr></table>",
+  "url": "/item=17744/heart-of-noxxion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_pearl_06.jpg",
+  "id": "17744",
+  "slug": "heart-of-noxxion"
+}

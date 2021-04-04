@@ -1,0 +1,10 @@
+{
+  "name": "Staff of Protection",
+  "quality": "Uncommon",
+  "icon": "inv_staff_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Staff of Protection</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->39</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->66 - 100 Damage</span></td>\n    <th>Speed <!--spd-->3.00</th>\n</tr></table><!--dps-->(27.67 damage per second)<br><span><!--amr-->100 Armor</span><!--ebstats--><!--egstats--><!--eistats--><br>+6 Arcane Resistance<br>+6 Fire Resistance<br>+6 Nature Resistance<br>+6 Frost Resistance<br>+6 Shadow Resistance<!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->34<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">19</span></div></td></tr></table>",
+  "url": "/item=12252/staff-of-protection",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_07.jpg",
+  "id": "12252",
+  "slug": "staff-of-protection"
+}

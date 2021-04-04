@@ -1,0 +1,10 @@
+{
+  "name": "Papal Fez",
+  "quality": "Rare",
+  "icon": "inv_helmet_28",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Papal Fez</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->43</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->51 Armor</span><br><span><!--stat5-->+17 Intellect</span><br><span><!--stat6-->+9 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->38<br><span class=\"q2\">Equip: <a href=\"/spell=9408\" class=\"q2\">Increases healing done by spells and effects by up to 22.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">48</span> <span class=\"moneycopper\">85</span></div></td></tr></table>",
+  "url": "/item=9431/papal-fez",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_28.jpg",
+  "id": "9431",
+  "slug": "papal-fez"
+}

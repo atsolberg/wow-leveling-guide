@@ -1,0 +1,10 @@
+{
+  "name": "The Burrower's Shell",
+  "quality": "Epic",
+  "icon": "inv_shield_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">The Burrower's Shell</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->81</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=29506\" class=\"q2\">Absorbs 900 damage. &nbsp;Lasts 20 sec.</a> (2 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">18</span> <span class=\"moneycopper\">7</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ouro</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 13.43%</div></td></tr></table>",
+  "url": "/item=23558/the-burrowers-shell",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_23.jpg",
+  "id": "23558",
+  "slug": "the-burrowers-shell"
+}

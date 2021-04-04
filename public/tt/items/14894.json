@@ -1,0 +1,10 @@
+{
+  "name": "Lily Root",
+  "quality": "Common",
+  "icon": "inv_misc_herb_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Lily Root</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->51</span><br />Conjured Item<!--bo--><br />Binds when picked up<br />Duration: 1 hour<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=18832\" class=\"q2\">Restores 525 to 675 mana and health.</a> (2 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=14894/lily-root",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_herb_02.jpg",
+  "id": "14894",
+  "slug": "lily-root"
+}

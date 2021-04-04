@@ -1,0 +1,10 @@
+{
+  "name": "Defender Tunic",
+  "quality": "Uncommon",
+  "icon": "inv_chest_chain_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Defender Tunic</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->177 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">13</span> <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=6580/defender-tunic",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_04.jpg",
+  "id": "6580",
+  "slug": "defender-tunic"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Pet Fish",
+  "quality": "Common",
+  "icon": "inv_misc_fish_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pet Fish</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when used<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=17468\" class=\"q2\">Summons your pet fish. &nbsp; He used to look healthier....</a> (3 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=13342/pet-fish",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_03.jpg",
+  "id": "13342",
+  "slug": "pet-fish"
+}

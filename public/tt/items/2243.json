@@ -1,0 +1,10 @@
+{
+  "name": "Hand of Edward the Odd",
+  "quality": "Epic",
+  "icon": "inv_mace_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Hand of Edward the Odd</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->50 - 94 Damage</span></td>\n    <th>Speed <!--spd-->1.60</th>\n</tr></table><!--dps-->(45.00 damage per second)<br><span><!--stat5-->+13 Intellect</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<br><span class=\"q2\">Chance on hit: <a href=\"/spell=18803\" class=\"q2\">Next spell cast within 4 sec will cast instantly.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">7</span> <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">54</span></div></td></tr></table>",
+  "url": "/item=2243/hand-of-edward-the-odd",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_14.jpg",
+  "id": "2243",
+  "slug": "hand-of-edward-the-odd"
+}

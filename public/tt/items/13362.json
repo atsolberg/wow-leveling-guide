@@ -1,0 +1,10 @@
+{
+  "name": "Letter from the Front",
+  "quality": "Poor",
+  "icon": "inv_letter_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Letter from the Front</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Undead Postman</div></td></tr></table>",
+  "url": "/item=13362/letter-from-the-front",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_08.jpg",
+  "id": "13362",
+  "slug": "letter-from-the-front"
+}

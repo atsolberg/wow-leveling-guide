@@ -1,0 +1,10 @@
+{
+  "name": "Heart of Obsidion",
+  "quality": "Common",
+  "icon": "inv_misc_gem_pearl_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Heart of Obsidion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;The cold black heart is still pulsing&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Obsidion</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 84.05%</div></td></tr></table>",
+  "url": "/item=10446/heart-of-obsidion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_pearl_01.jpg",
+  "id": "10446",
+  "slug": "heart-of-obsidion"
+}

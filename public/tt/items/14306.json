@@ -1,0 +1,10 @@
+{
+  "name": "Bonecaster's Vest",
+  "quality": "Uncommon",
+  "icon": "inv_chest_cloth_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Bonecaster's Vest</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->77 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">68</span> <span class=\"moneycopper\">30</span></div></td></tr></table>",
+  "url": "/item=14306/bonecasters-vest",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_17.jpg",
+  "id": "14306",
+  "slug": "bonecasters-vest"
+}

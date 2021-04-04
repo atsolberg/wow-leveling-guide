@@ -1,0 +1,10 @@
+{
+  "name": "Magma Core",
+  "quality": "Common",
+  "icon": "inv_misc_gem_bloodstone_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Magma Core</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Magma Lord Bokk</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 58.80%</div></td></tr></table>",
+  "url": "/item=21938/magma-core",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_bloodstone_02.jpg",
+  "id": "21938",
+  "slug": "magma-core"
+}

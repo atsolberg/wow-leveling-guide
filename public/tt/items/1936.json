@@ -1,0 +1,10 @@
+{
+  "name": "Goblin Screwdriver",
+  "quality": "Uncommon",
+  "icon": "inv_weapon_shortblade_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Goblin Screwdriver</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->8 - 17 Damage</span></td>\n    <th>Speed <!--spd-->1.40</th>\n</tr></table><!--dps-->(8.93 damage per second)<br><span><!--stat3-->+2 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->13<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">13</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Goblin Engineer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 5.61%</div></td></tr></table>",
+  "url": "/item=1936/goblin-screwdriver",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_05.jpg",
+  "id": "1936",
+  "slug": "goblin-screwdriver"
+}

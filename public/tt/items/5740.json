@@ -1,0 +1,10 @@
+{
+  "name": "Red Fireworks Rocket",
+  "quality": "Common",
+  "icon": "spell_fire_fireball02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Red Fireworks Rocket</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=6668\" class=\"q2\">Shoots a firework into the air that bursts into a thousand red stars.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Blastmaster Emi Shortfuse</div></td></tr></table>",
+  "url": "/item=5740/red-fireworks-rocket",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_fire_fireball02.jpg",
+  "id": "5740",
+  "slug": "red-fireworks-rocket"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Craftsman's Writ - Greater Frost Protection Potion",
+  "quality": "Common",
+  "icon": "inv_misc_note_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Craftsman's Writ - Greater Frost Protection Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q\">&quot;Bears the seal of the Argent Dawn.&quot;</span></td></tr></table>",
+  "url": "/item=22619/craftsmans-writ-greater-frost-protection-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_02.jpg",
+  "id": "22619",
+  "slug": "craftsmans-writ-greater-frost-protection-potion"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Head of Balnazzar",
+  "quality": "Common",
+  "icon": "spell_shadow_possession",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Head of Balnazzar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=5262\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=13250/head-of-balnazzar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_possession.jpg",
+  "id": "13250",
+  "slug": "head-of-balnazzar"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Shiny Bracelet",
+  "quality": "Poor",
+  "icon": "inv_belt_33",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Shiny Bracelet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">71</span></div></td></tr></table>",
+  "url": "/item=11939/shiny-bracelet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_33.jpg",
+  "id": "11939",
+  "slug": "shiny-bracelet"
+}

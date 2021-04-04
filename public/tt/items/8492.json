@@ -1,0 +1,11 @@
+{
+  "name": "Parrot Cage (Green Wing Macaw)",
+  "quality": "Common",
+  "icon": "spell_nature_forceofnature",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Parrot Cage (Green Wing Macaw)</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when used<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=10683\" class=\"q2\">Right Click to summon and dismiss your bird.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Defias Pirate</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 2.72%</div></td></tr></table>",
+  "completion_category": "15-2",
+  "url": "/item=8492/parrot-cage-green-wing-macaw",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_forceofnature.jpg",
+  "id": "8492",
+  "slug": "parrot-cage-green-wing-macaw"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Frenzied Striker",
+  "quality": "Rare",
+  "icon": "inv_spear_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Frenzied Striker</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->56</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:6--><span class=\"q1\">Polearm</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->108 - 162 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(48.21 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->51<br><span class=\"q2\">Equip: <a href=\"/spell=13665\" class=\"q2\">Increases your chance to parry an attack by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=15465\" class=\"q2\">Improves your chance to hit by 2%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">83</span> <span class=\"moneycopper\">30</span></div></td></tr></table>",
+  "url": "/item=13056/frenzied-striker",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_spear_07.jpg",
+  "id": "13056",
+  "slug": "frenzied-striker"
+}

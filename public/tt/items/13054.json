@@ -1,0 +1,10 @@
+{
+  "name": "Grim Reaper",
+  "quality": "Rare",
+  "icon": "inv_spear_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Grim Reaper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:6--><span class=\"q1\">Polearm</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->88 - 133 Damage</span></td>\n    <th>Speed <!--spd-->3.10</th>\n</tr></table><!--dps-->(35.65 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<br><span class=\"q2\">Chance on hit: <a href=\"/spell=14126\" class=\"q2\">Wounds the target for 130 damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">58</span> <span class=\"moneycopper\">5</span></div></td></tr></table>",
+  "url": "/item=13054/grim-reaper",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_spear_02.jpg",
+  "id": "13054",
+  "slug": "grim-reaper"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Whetted Claymore",
+  "quality": "Poor",
+  "icon": "inv_sword_39",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Whetted Claymore</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->42</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->46 - 70 Damage</span></td>\n    <th>Speed <!--spd-->3.10</th>\n</tr></table><!--dps-->(18.71 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->37<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">63</span> <span class=\"moneycopper\">72</span></div></td></tr></table>",
+  "url": "/item=4018/whetted-claymore",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_39.jpg",
+  "id": "4018",
+  "slug": "whetted-claymore"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Choker of Enlightenment",
+  "quality": "Epic",
+  "icon": "inv_jewelry_necklace_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Choker of Enlightenment</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat5-->+10 Intellect</span><br><span><!--stat7-->+9 Stamina</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=9346\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 18.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">36</span> <span class=\"moneycopper\">25</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lucifron</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 22.68%</div></td></tr></table>",
+  "url": "/item=17109/choker-of-enlightenment",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_10.jpg",
+  "id": "17109",
+  "slug": "choker-of-enlightenment"
+}

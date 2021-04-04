@@ -1,0 +1,10 @@
+{
+  "name": "Cloak of the Unseen Path",
+  "quality": "Epic",
+  "icon": "inv_misc_cape_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Cloak of the Unseen Path</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->67</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->52 Armor</span><br><span><!--stat3-->+17 Agility</span><br><span><!--stat7-->+13 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=3\" class=\"c3\">Hunter</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=15464\" class=\"q2\">Improves your chance to hit by 1%.</a></span><!--itemEffects:1--><br /><br /><span class=\"q\"><a href=\"/item-set=510\" class=\"q\">Trappings of the Unseen Path</a> (0/3)</span><div class=\"q0 indent\"><span><!--si21403--><a href=\"/item=21403\">Cloak of the Unseen Path</a></span><br /><span><!--si21401--><a href=\"/item=21401\">Scythe of the Unseen Path</a></span><br /><span><!--si21402--><a href=\"/item=21402\">Signet of the Unseen Path</a></span></div><br /><span class=\"q0\"><span>(3) Set : <a href=\"/spell=26176\">Increases your pet's damage by 3%.</a></span></span></td></tr></table>",
+  "url": "/item=21403/cloak-of-the-unseen-path",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_15.jpg",
+  "id": "21403",
+  "slug": "cloak-of-the-unseen-path"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Alabaster Idol",
+  "quality": "Rare",
+  "icon": "inv_qirajidol_alabaster",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Alabaster Idol</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->61</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a>, <a href=\"/class=8\" class=\"c8\">Mage</a>, <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div></td></tr></table>",
+  "url": "/item=20873/alabaster-idol",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_qirajidol_alabaster.jpg",
+  "id": "20873",
+  "slug": "alabaster-idol"
+}

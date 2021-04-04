@@ -1,0 +1,10 @@
+{
+  "name": "Blackforge Cowl",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Blackforge Cowl</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->202 Armor</span><br><span><!--stat5-->+7 Intellect</span><br><span><!--stat7-->+12 Stamina</span><br><span><!--stat6-->+7 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">74</span> <span class=\"moneycopper\">69</span></div></td></tr></table>",
+  "url": "/item=4080/blackforge-cowl",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_16.jpg",
+  "id": "4080",
+  "slug": "blackforge-cowl"
+}

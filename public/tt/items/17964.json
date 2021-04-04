@@ -1,0 +1,10 @@
+{
+  "name": "Gray Sack of Gems",
+  "quality": "Uncommon",
+  "icon": "inv_misc_bag_10_black",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Gray Sack of Gems</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">55</span> <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=17964/gray-sack-of-gems",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_10_black.jpg",
+  "id": "17964",
+  "slug": "gray-sack-of-gems"
+}

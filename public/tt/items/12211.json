@@ -1,0 +1,10 @@
+{
+  "name": "Spiced Wolf Ribs",
+  "quality": "Common",
+  "icon": "inv_misc_food_48",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Spiced Wolf Ribs</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->25<br><span class=\"q2\">Use: <a href=\"/spell=5007\" class=\"q2\">Restores 874.8 health over 27 sec. &nbsp;Must remain seated while eating. &nbsp;If you spend at least 10 seconds eating you will become well fed and gain 8 Stamina and Spirit for 15 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span></div></td></tr></table>",
+  "url": "/item=12211/spiced-wolf-ribs",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_48.jpg",
+  "id": "12211",
+  "slug": "spiced-wolf-ribs"
+}

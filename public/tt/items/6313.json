@@ -1,0 +1,10 @@
+{
+  "name": "Comar's Heart",
+  "quality": "Common",
+  "icon": "inv_misc_organ_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Comar's Heart</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Comar Villard</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 94.49%</div></td></tr></table>",
+  "url": "/item=6313/comars-heart",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_organ_01.jpg",
+  "id": "6313",
+  "slug": "comars-heart"
+}

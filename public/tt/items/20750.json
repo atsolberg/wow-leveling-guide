@@ -1,0 +1,10 @@
+{
+  "name": "Wizard Oil",
+  "quality": "Common",
+  "icon": "inv_potion_104",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Wizard Oil</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br><span class=\"q2\">Use: <a href=\"/spell=25121\" class=\"q2\">While applied to target weapon it increases spell damage by up to 24. &nbsp;Lasts for 30 minutes.</a></span><br />5 Charges<div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div></td></tr></table>",
+  "url": "/item=20750/wizard-oil",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_104.jpg",
+  "id": "20750",
+  "slug": "wizard-oil"
+}

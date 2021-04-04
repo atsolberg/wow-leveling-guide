@@ -1,0 +1,10 @@
+{
+  "name": "Greatfather's Winter Ale",
+  "quality": "Common",
+  "icon": "inv_drink_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Greatfather's Winter Ale</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=11009\" class=\"q2\">A strong alcoholic beverage.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div></td></tr></table>",
+  "url": "/item=17402/greatfathers-winter-ale",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_13.jpg",
+  "id": "17402",
+  "slug": "greatfathers-winter-ale"
+}

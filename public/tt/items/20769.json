@@ -1,0 +1,11 @@
+{
+  "name": "Disgusting Oozeling",
+  "quality": "Common",
+  "icon": "ability_creature_poison_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Disgusting Oozeling</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when used<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=25162\" class=\"q2\">Right Click to summon and dismiss your disgusting oozeling. &nbsp;Your oozeling has a disgusting aura about him and will significantly reduce your defenses while he is around.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">25</span></div></td></tr></table>",
+  "completion_category": "15-2",
+  "url": "/item=20769/disgusting-oozeling",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_creature_poison_05.jpg",
+  "id": "20769",
+  "slug": "disgusting-oozeling"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "A Short Note",
+  "quality": "Common",
+  "icon": "inv_letter_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">A Short Note</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Tied with a bow.&quot;</span><br><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=9329/a-short-note",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_13.jpg",
+  "id": "9329",
+  "slug": "a-short-note"
+}

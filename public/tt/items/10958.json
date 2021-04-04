@@ -1,0 +1,10 @@
+{
+  "name": "Hilary's Necklace",
+  "quality": "Common",
+  "icon": "inv_jewelry_necklace_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hilary's Necklace</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=10958/hilarys-necklace",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_11.jpg",
+  "id": "10958",
+  "slug": "hilarys-necklace"
+}

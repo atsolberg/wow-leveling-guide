@@ -1,0 +1,10 @@
+{
+  "name": "Hunting Bow",
+  "quality": "Uncommon",
+  "icon": "inv_weapon_bow_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Hunting Bow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->8 - 16 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(4.62 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">40</span></div></td></tr></table>",
+  "url": "/item=8180/hunting-bow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_03.jpg",
+  "id": "8180",
+  "slug": "hunting-bow"
+}

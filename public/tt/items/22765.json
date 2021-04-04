@@ -1,0 +1,10 @@
+{
+  "name": "Mildewed Letter",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Mildewed Letter</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;A few words are still legible...&quot;</span><br><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=22765/mildewed-letter",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "22765",
+  "slug": "mildewed-letter"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Linked Chain Gloves",
+  "quality": "Poor",
+  "icon": "inv_gauntlets_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Linked Chain Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->101 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->19<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">98</span></div></td></tr></table>",
+  "url": "/item=1750/linked-chain-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_04.jpg",
+  "id": "1750",
+  "slug": "linked-chain-gloves"
+}

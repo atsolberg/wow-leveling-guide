@@ -1,0 +1,10 @@
+{
+  "name": "Mechanical Squirrel Box",
+  "quality": "Common",
+  "icon": "inv_crate_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Mechanical Squirrel Box</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />Binds when used<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=4055\" class=\"q2\">Creates a Mechanical Squirrel that follows you around. &nbsp;Right Click to summon and dismiss your Squirrel.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span></div></td></tr></table>",
+  "url": "/item=4401/mechanical-squirrel-box",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crate_01.jpg",
+  "id": "4401",
+  "slug": "mechanical-squirrel-box"
+}

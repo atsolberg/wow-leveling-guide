@@ -1,0 +1,10 @@
+{
+  "name": "Worn Axe",
+  "quality": "Common",
+  "icon": "inv_axe_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Worn Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->2</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->1 - 3 Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(1.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">7</span></div></td></tr></table>",
+  "url": "/item=37/worn-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_11.jpg",
+  "id": "37",
+  "slug": "worn-axe"
+}

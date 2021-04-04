@@ -1,0 +1,10 @@
+{
+  "name": "Scarlet Cannonball",
+  "quality": "Common",
+  "icon": "inv_ammo_bullet_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Scarlet Cannonball</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Unique<br />Duration: 10 min<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Cannon Master Willey</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 9.50%</div></td></tr></table>",
+  "url": "/item=12973/scarlet-cannonball",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ammo_bullet_01.jpg",
+  "id": "12973",
+  "slug": "scarlet-cannonball"
+}

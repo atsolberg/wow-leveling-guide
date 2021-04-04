@@ -1,0 +1,10 @@
+{
+  "name": "Smoldering Coal",
+  "quality": "Common",
+  "icon": "inv_ore_mithril_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Smoldering Coal</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Burning Exile</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 0.83%</div></td></tr></table>",
+  "url": "/item=6991/smoldering-coal",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ore_mithril_01.jpg",
+  "id": "6991",
+  "slug": "smoldering-coal"
+}

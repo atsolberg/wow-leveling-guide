@@ -1,0 +1,10 @@
+{
+  "name": "Gadgetzan Water Co. Care Package",
+  "quality": "Common",
+  "icon": "inv_crate_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gadgetzan Water Co. Care Package</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Model 103-XB!&quot;</span><br><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">68</span></div></td></tr></table>",
+  "url": "/item=8484/gadgetzan-water-co-care-package",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crate_04.jpg",
+  "id": "8484",
+  "slug": "gadgetzan-water-co-care-package"
+}

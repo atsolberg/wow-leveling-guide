@@ -1,0 +1,10 @@
+{
+  "name": "Scorpid Stinger",
+  "quality": "Common",
+  "icon": "spell_nature_nullifypoison",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Scorpid Stinger</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->8</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">8</span></div></td></tr></table>",
+  "url": "/item=5466/scorpid-stinger",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_nullifypoison.jpg",
+  "id": "5466",
+  "slug": "scorpid-stinger"
+}

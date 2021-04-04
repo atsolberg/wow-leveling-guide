@@ -1,0 +1,10 @@
+{
+  "name": "Idol of Brutality",
+  "quality": "Rare",
+  "icon": "inv_relics_idolofferocity",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Idol of Brutality</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Relic</td><th><!--scstart4:8--><span class=\"q1\">Idol</span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=28855\" class=\"q2\">Reduces the rage cost of Maul and Swipe by 3.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">81</span> <span class=\"moneycopper\">65</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Magistrate Barthilas</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 3.50%</div></td></tr></table>",
+  "url": "/item=23198/idol-of-brutality",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_relics_idolofferocity.jpg",
+  "id": "23198",
+  "slug": "idol-of-brutality"
+}

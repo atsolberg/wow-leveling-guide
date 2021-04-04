@@ -1,0 +1,10 @@
+{
+  "name": "Heart of Agamaggan",
+  "quality": "Rare",
+  "icon": "inv_shield_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Heart of Agamaggan</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->776 Armor</span><br>17 Block<br><span><!--stat7-->+7 Stamina</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->31<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">63</span> <span class=\"moneycopper\">9</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Charlga Razorflank</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 32.71%</div></td></tr></table>",
+  "url": "/item=6694/heart-of-agamaggan",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_02.jpg",
+  "id": "6694",
+  "slug": "heart-of-agamaggan"
+}

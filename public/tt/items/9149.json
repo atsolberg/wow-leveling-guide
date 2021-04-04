@@ -1,0 +1,10 @@
+{
+  "name": "Philosopher's Stone",
+  "quality": "Common",
+  "icon": "inv_misc_orb_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Philosopher's Stone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Required for Alchemical Transmutation.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=9149/philosophers-stone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_orb_01.jpg",
+  "id": "9149",
+  "slug": "philosophers-stone"
+}

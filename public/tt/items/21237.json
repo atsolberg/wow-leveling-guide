@@ -1,0 +1,10 @@
+{
+  "name": "Imperial Qiraji Regalia",
+  "quality": "Epic",
+  "icon": "inv_staff_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Imperial Qiraji Regalia</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q\">&quot;Regalia of Qiraji Nobility. Used by Qiraji spell casters.&quot;</span></td></tr></table>",
+  "url": "/item=21237/imperial-qiraji-regalia",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_20.jpg",
+  "id": "21237",
+  "slug": "imperial-qiraji-regalia"
+}

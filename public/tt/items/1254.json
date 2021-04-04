@@ -1,0 +1,10 @@
+{
+  "name": "Lesser Firestone",
+  "quality": "Common",
+  "icon": "inv_misc_gem_bloodstone_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Lesser Firestone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->28</span><br />Conjured Item<!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=758\" class=\"q2\">Enchants the main hand weapon with fire, granting each attack a chance to deal 25 to 35 additional fire damage.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=23480\" class=\"q2\">Increases damage done by Fire spells and effects by up to 10.</a></span><!--itemEffects:1--></td></tr></table>",
+  "url": "/item=1254/lesser-firestone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_bloodstone_02.jpg",
+  "id": "1254",
+  "slug": "lesser-firestone"
+}

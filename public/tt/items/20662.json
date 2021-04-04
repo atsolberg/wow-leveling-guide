@@ -1,0 +1,10 @@
+{
+  "name": "Abyssal Plate Greaves",
+  "quality": "Uncommon",
+  "icon": "inv_boots_plate_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Abyssal Plate Greaves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->392 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">24</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Earthen Templar</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 13.82%</div></td></tr></table>",
+  "url": "/item=20662/abyssal-plate-greaves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_plate_05.jpg",
+  "id": "20662",
+  "slug": "abyssal-plate-greaves"
+}

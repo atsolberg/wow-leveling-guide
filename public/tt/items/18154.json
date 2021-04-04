@@ -1,0 +1,10 @@
+{
+  "name": "Blizzard Stationery",
+  "quality": "Common",
+  "icon": "mail_gmicon",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Blizzard Stationery</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=18154/blizzard-stationery",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/mail_gmicon.jpg",
+  "id": "18154",
+  "slug": "blizzard-stationery"
+}

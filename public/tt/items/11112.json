@@ -1,0 +1,10 @@
+{
+  "name": "Research Equipment",
+  "quality": "Common",
+  "icon": "inv_gizmo_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Research Equipment</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Property of Marshal Expeditions.&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Simone the Inconspicuous</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 8.76%</div></td></tr></table>",
+  "url": "/item=11112/research-equipment",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_06.jpg",
+  "id": "11112",
+  "slug": "research-equipment"
+}

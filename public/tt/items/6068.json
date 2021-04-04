@@ -1,0 +1,11 @@
+{
+  "name": "Recipe: Shadow Oil",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Recipe: Shadow Oil</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->33</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=171\" class=\"q1\">Alchemy</a> (165)<br><span class=\"q2\">Use: <a href=\"/spell=7280\" class=\"q2\">Teaches you how to make Shadow Oil.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">75</span></div><br /><span class=\"q1\"><a href=\"/item=3824\">Shadow Oil</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->34</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires Level <!--rlvl-->24<br><span class=\"q2\">Use: <a href=\"/spell=3594\" class=\"q2\">When applied to a melee weapon it gives a 15% chance of casting Shadowbolt III at the opponent when it hits. &nbsp;Lasts 30 minutes.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">50</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=3818\">Fadeleaf</a>&nbsp;(4), <a href=\"/item=3369\">Grave Moss</a>&nbsp;(4), <a href=\"/item=3372\">Leaded Vial</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=6068/recipe-shadow-oil",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "6068",
+  "slug": "recipe-shadow-oil"
+}

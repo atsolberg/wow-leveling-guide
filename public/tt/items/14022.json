@@ -1,0 +1,10 @@
+{
+  "name": "Barov Peasant Caller",
+  "quality": "Rare",
+  "icon": "inv_misc_bell_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Barov Peasant Caller</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=18307\" class=\"q2\">Calls forth 3 servants of the House Barov that will fight, cook, and clean for you.</a> (10 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">89</span> <span class=\"moneycopper\">91</span></div></td></tr></table>",
+  "url": "/item=14022/barov-peasant-caller",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bell_01.jpg",
+  "id": "14022",
+  "slug": "barov-peasant-caller"
+}

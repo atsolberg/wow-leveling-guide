@@ -1,0 +1,10 @@
+{
+  "name": "Brazier of Invocation",
+  "quality": "Common",
+  "icon": "inv_misc_enggizmos_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Brazier of Invocation</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27203\" class=\"q2\">Summon the spirits of the dead at haunted locations.</a> (10 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=22057/brazier-of-invocation",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_enggizmos_23.jpg",
+  "id": "22057",
+  "slug": "brazier-of-invocation"
+}

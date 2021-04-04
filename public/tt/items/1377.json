@@ -1,0 +1,10 @@
+{
+  "name": "Frayed Gloves",
+  "quality": "Poor",
+  "icon": "inv_gauntlets_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Frayed Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->3</span><!--bo--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->4 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 12 / 12</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=1377/frayed-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_18.jpg",
+  "id": "1377",
+  "slug": "frayed-gloves"
+}

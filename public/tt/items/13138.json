@@ -1,0 +1,10 @@
+{
+  "name": "The Silencer",
+  "quality": "Rare",
+  "icon": "inv_weapon_rifle_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">The Silencer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->42</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->43 - 82 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(22.32 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->37<br><span class=\"q2\">Equip: <a href=\"/spell=9142\" class=\"q2\">+14 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">15</span> <span class=\"moneycopper\">32</span></div></td></tr></table>",
+  "url": "/item=13138/the-silencer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_08.jpg",
+  "id": "13138",
+  "slug": "the-silencer"
+}

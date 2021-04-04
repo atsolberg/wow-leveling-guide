@@ -1,0 +1,10 @@
+{
+  "name": "Barbaric Iron Breastplate",
+  "quality": "Uncommon",
+  "icon": "inv_chest_chain_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Barbaric Iron Breastplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->204 Armor</span><br><span><!--stat4-->+12 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->27<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">33</span> <span class=\"moneycopper\">30</span></div></td></tr></table>",
+  "url": "/item=7914/barbaric-iron-breastplate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_14.jpg",
+  "id": "7914",
+  "slug": "barbaric-iron-breastplate"
+}

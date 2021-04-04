@@ -1,0 +1,10 @@
+{
+  "name": "Starfaller",
+  "quality": "Rare",
+  "icon": "inv_staff_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Starfaller</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->34</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->32 - 60 Arcane Damage</span></td>\n    <th>Speed <!--spd-->1.40</th>\n</tr></table><!--dps-->(32.86 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->29<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">58</span> <span class=\"moneycopper\">51</span></div></td></tr></table>",
+  "url": "/item=13063/starfaller",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_02.jpg",
+  "id": "13063",
+  "slug": "starfaller"
+}

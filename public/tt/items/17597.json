@@ -1,0 +1,10 @@
+{
+  "name": "Knight-Captain's Satin Cord",
+  "quality": "Rare",
+  "icon": "inv_belt_22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Knight-Captain's Satin Cord</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->48 Armor</span><br><span><!--stat5-->+17 Intellect</span><br><span><!--stat7-->+10 Stamina</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=5\" class=\"c5\">Priest</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br>Requires <span class=\"icon-horde\">Legionnaire</span> <span class=\"icon-alliance\">Knight-Captain</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">47</span> <span class=\"moneycopper\">44</span></div></td></tr></table>",
+  "url": "/item=17597/knight-captains-satin-cord",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_22.jpg",
+  "id": "17597",
+  "slug": "knight-captains-satin-cord"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Crystallized Note",
+  "quality": "Common",
+  "icon": "inv_misc_rune_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Crystallized Note</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;A note encased in azsharite crystal.&quot;</span><br><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=10840/crystallized-note",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_rune_03.jpg",
+  "id": "10840",
+  "slug": "crystallized-note"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Patchwork Belt",
+  "quality": "Poor",
+  "icon": "inv_belt_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Patchwork Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->8</span><!--bo--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->8 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 14 / 14</td></tr></table><table><tr><td>Requires Level <!--rlvl-->3<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=3370/patchwork-belt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_03.jpg",
+  "id": "3370",
+  "slug": "patchwork-belt"
+}

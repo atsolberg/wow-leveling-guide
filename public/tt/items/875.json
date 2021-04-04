@@ -1,0 +1,11 @@
+{
+  "name": "Brown Horse Summoning",
+  "quality": "Common",
+  "icon": "inv_scroll_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Brown Horse Summoning</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Mount<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=458\" class=\"q2\">Summons and dismisses a rideable brown horse.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "completion_category": "15-5",
+  "url": "/item=875/brown-horse-summoning",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_08.jpg",
+  "id": "875",
+  "slug": "brown-horse-summoning"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Lesser Magic Essence",
+  "quality": "Uncommon",
+  "icon": "inv_enchant_essencemagicsmall",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Lesser Magic Essence</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=13361\" class=\"q2\">Turn three lesser magic essences into a greater one.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div></td></tr></table>",
+  "url": "/item=10938/lesser-magic-essence",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_enchant_essencemagicsmall.jpg",
+  "id": "10938",
+  "slug": "lesser-magic-essence"
+}

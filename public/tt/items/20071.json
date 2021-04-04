@@ -1,0 +1,10 @@
+{
+  "name": "Talisman of Arathor",
+  "quality": "Rare",
+  "icon": "inv_jewelry_talisman_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Talisman of Arathor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br>Requires <a href=\"/faction=509\" class=\"q1\">The League of Arathor</a> - Friendly<br><span class=\"q2\">Use: <a href=\"/spell=23991\" class=\"q2\">Absorbs 495 to 605 physical damage. &nbsp;Lasts 15 sec.</a> (3 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">7</span></div></td></tr></table>",
+  "url": "/item=20071/talisman-of-arathor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_05.jpg",
+  "id": "20071",
+  "slug": "talisman-of-arathor"
+}

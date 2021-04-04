@@ -1,0 +1,10 @@
+{
+  "name": "Hand of Gehennas",
+  "quality": "Common",
+  "icon": "spell_fire_immolation",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hand of Gehennas</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Gehennas</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 5.01%</div></td></tr></table>",
+  "url": "/item=17331/hand-of-gehennas",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_fire_immolation.jpg",
+  "id": "17331",
+  "slug": "hand-of-gehennas"
+}

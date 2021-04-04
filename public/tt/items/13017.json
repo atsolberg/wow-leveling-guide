@@ -1,0 +1,10 @@
+{
+  "name": "Hellslayer Battle Axe",
+  "quality": "Rare",
+  "icon": "inv_axe_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Hellslayer Battle Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->82 - 124 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(35.52 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<br><span class=\"q2\">Equip: <a href=\"/spell=18198\" class=\"q2\">+66 Attack Power when fighting Undead.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">72</span> <span class=\"moneycopper\">9</span></div></td></tr></table>",
+  "url": "/item=13017/hellslayer-battle-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_24.jpg",
+  "id": "13017",
+  "slug": "hellslayer-battle-axe"
+}

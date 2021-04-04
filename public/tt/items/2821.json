@@ -1,0 +1,10 @@
+{
+  "name": "Mo'grosh Masher",
+  "quality": "Uncommon",
+  "icon": "inv_hammer_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Mo'grosh Masher</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->16 - 30 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(9.20 damage per second)<br><span><!--stat4-->+2 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->13<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">17</span></div></td></tr></table>",
+  "url": "/item=2821/mogrosh-masher",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_15.jpg",
+  "id": "2821",
+  "slug": "mogrosh-masher"
+}

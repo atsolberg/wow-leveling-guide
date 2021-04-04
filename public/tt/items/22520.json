@@ -1,0 +1,10 @@
+{
+  "name": "The Phylactery of Kel'Thuzad",
+  "quality": "Epic",
+  "icon": "inv_misc_urn_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">The Phylactery of Kel'Thuzad</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=9120\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<div class=\"whtt-extra whtt-droppedby\">Dropped by: Kel'Thuzad</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 91.80%</div></td></tr></table>",
+  "url": "/item=22520/the-phylactery-of-kelthuzad",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_urn_01.jpg",
+  "id": "22520",
+  "slug": "the-phylactery-of-kelthuzad"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Encased Fiery Essence",
+  "quality": "Common",
+  "icon": "spell_fire_sealoffire",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Encased Fiery Essence</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;The fiery essence of Bael'Gar wrapped tightly inside black dragonflight molt.&quot;</span></td></tr></table>",
+  "url": "/item=11230/encased-fiery-essence",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_fire_sealoffire.jpg",
+  "id": "11230",
+  "slug": "encased-fiery-essence"
+}

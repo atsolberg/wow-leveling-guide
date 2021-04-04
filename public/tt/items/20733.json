@@ -1,0 +1,11 @@
+{
+  "name": "Formula: Enchant Cloak - Greater Nature Resistance",
+  "quality": "Common",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Formula: Enchant Cloak - Greater Nature Resistance</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=333\" class=\"q1\">Enchanting</a> (300)<br>Requires <a href=\"/faction=609\" class=\"q1\">Cenarion Circle</a> - Honored<br><span class=\"q2\">Use: <a href=\"/spell=25094\" class=\"q2\">Teaches you how to permanently enchant a cloak to increase Nature Resistance by 15 .</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=20733/formula-enchant-cloak-greater-nature-resistance",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "20733",
+  "slug": "formula-enchant-cloak-greater-nature-resistance"
+}

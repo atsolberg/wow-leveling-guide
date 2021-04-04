@@ -1,0 +1,10 @@
+{
+  "name": "Impenetrable Bindings",
+  "quality": "Uncommon",
+  "icon": "inv_bracer_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Impenetrable Bindings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->130 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">95</span> <span class=\"moneycopper\">8</span></div></td></tr></table>",
+  "url": "/item=15659/impenetrable-bindings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_15.jpg",
+  "id": "15659",
+  "slug": "impenetrable-bindings"
+}

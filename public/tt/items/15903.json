@@ -1,0 +1,10 @@
+{
+  "name": "Right-Handed Claw",
+  "quality": "Common",
+  "icon": "inv_gauntlets_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Right-Handed Claw</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:13--><span class=\"q1\">Fist Weapon</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->12 - 23 Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(11.67 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">23</span></div></td></tr></table>",
+  "url": "/item=15903/right-handed-claw",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_07.jpg",
+  "id": "15903",
+  "slug": "right-handed-claw"
+}

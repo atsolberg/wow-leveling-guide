@@ -1,0 +1,10 @@
+{
+  "name": "Junglevine Wine",
+  "quality": "Common",
+  "icon": "inv_drink_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Junglevine Wine</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=11009\" class=\"q2\">A strong alcoholic beverage.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">75</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Stomper Kreeg</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 14.24%</div></td></tr></table>",
+  "url": "/item=4595/junglevine-wine",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_09.jpg",
+  "id": "4595",
+  "slug": "junglevine-wine"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Mithril Spurs",
+  "quality": "Uncommon",
+  "icon": "ability_rogue_sprint",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Mithril Spurs</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->43</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (215)<br><span class=\"q2\">Use: <a href=\"/spell=9783\" class=\"q2\">Attaches spurs to your boots that increase your mounted movement speed slightly.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=7969/mithril-spurs",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_rogue_sprint.jpg",
+  "id": "7969",
+  "slug": "mithril-spurs"
+}

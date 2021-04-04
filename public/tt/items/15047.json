@@ -1,0 +1,10 @@
+{
+  "name": "Red Dragonscale Breastplate",
+  "quality": "Rare",
+  "icon": "inv_chest_chain_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Red Dragonscale Breastplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->360 Armor</span><!--ebstats--><!--egstats--><!--eistats--><br>+12 Fire Resistance<!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<br><span class=\"q2\">Equip: <a href=\"/spell=18041\" class=\"q2\">Increases healing done by spells and effects by up to 66.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">98</span> <span class=\"moneycopper\">36</span></div></td></tr></table>",
+  "url": "/item=15047/red-dragonscale-breastplate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_06.jpg",
+  "id": "15047",
+  "slug": "red-dragonscale-breastplate"
+}

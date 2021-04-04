@@ -1,0 +1,10 @@
+{
+  "name": "Eternal Cord",
+  "quality": "Uncommon",
+  "icon": "inv_belt_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Eternal Cord</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->44 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">85</span> <span class=\"moneycopper\">46</span></div></td></tr></table>",
+  "url": "/item=14337/eternal-cord",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_10.jpg",
+  "id": "14337",
+  "slug": "eternal-cord"
+}

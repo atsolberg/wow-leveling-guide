@@ -1,0 +1,10 @@
+{
+  "name": "Linked Chain Shoulderpads",
+  "quality": "Poor",
+  "icon": "inv_shoulder_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Linked Chain Shoulderpads</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->115 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">86</span></div></td></tr></table>",
+  "url": "/item=1752/linked-chain-shoulderpads",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_07.jpg",
+  "id": "1752",
+  "slug": "linked-chain-shoulderpads"
+}

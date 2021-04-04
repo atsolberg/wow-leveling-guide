@@ -1,0 +1,10 @@
+{
+  "name": "Nat Pagle's Guide to Extreme Anglin'",
+  "quality": "Poor",
+  "icon": "inv_misc_book_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Nat Pagle's Guide to Extreme Anglin'</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;This book is missing every page but the last.&quot;</span><br><span class=\"q2\">&lt;Right Click to Read&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">90</span></div></td></tr></table>",
+  "url": "/item=18229/nat-pagles-guide-to-extreme-anglin",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_02.jpg",
+  "id": "18229",
+  "slug": "nat-pagles-guide-to-extreme-anglin"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Field Plate Armor",
+  "quality": "Uncommon",
+  "icon": "inv_chest_plate14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Field Plate Armor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->44</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->428 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 115 / 115</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">60</span> <span class=\"moneycopper\">40</span></div></td></tr></table>",
+  "url": "/item=9286/field-plate-armor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_plate14.jpg",
+  "id": "9286",
+  "slug": "field-plate-armor"
+}

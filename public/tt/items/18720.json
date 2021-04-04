@@ -1,0 +1,10 @@
+{
+  "name": "Shroud of the Nathrezim",
+  "quality": "Rare",
+  "icon": "inv_shoulder_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Shroud of the Nathrezim</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->67 Armor</span><br><span><!--stat5-->+16 Intellect</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=18384\" class=\"q2\">Improves your chance to get a critical strike with spells by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">67</span> <span class=\"moneycopper\">6</span></div></td></tr></table>",
+  "url": "/item=18720/shroud-of-the-nathrezim",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_23.jpg",
+  "id": "18720",
+  "slug": "shroud-of-the-nathrezim"
+}

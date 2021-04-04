@@ -1,0 +1,10 @@
+{
+  "name": "Thin Cloth Armor",
+  "quality": "Common",
+  "icon": "inv_shirt_red_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Thin Cloth Armor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->10 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=2121/thin-cloth-armor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_red_01.jpg",
+  "id": "2121",
+  "slug": "thin-cloth-armor"
+}

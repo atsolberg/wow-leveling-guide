@@ -1,0 +1,10 @@
+{
+  "name": "Weighted Sap",
+  "quality": "Uncommon",
+  "icon": "inv_mace_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Weighted Sap</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->12 - 22 Damage</span></td>\n    <th>Speed <!--spd-->2.20</th>\n</tr></table><!--dps-->(7.73 damage per second)<br><span><!--stat4-->+1 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">87</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Defias Digger</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 2.26%</div></td></tr></table>",
+  "url": "/item=1926/weighted-sap",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_06.jpg",
+  "id": "1926",
+  "slug": "weighted-sap"
+}

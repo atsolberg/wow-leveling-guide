@@ -1,0 +1,10 @@
+{
+  "name": "Nat Pagle's Fish Terminator",
+  "quality": "Epic",
+  "icon": "inv_fishingpole_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Nat Pagle's Fish Terminator</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->172 - 258 Damage</span></td>\n    <th>Speed <!--spd-->3.50</th>\n</tr></table><!--dps-->(61.43 damage per second)<br><span><!--stat4-->+41 Strength</span><br><span><!--stat7-->+19 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><br><span class=\"q\">&quot;The inscription reads: Fishin's fer sissies -Nat Pagle&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">10</span> <span class=\"moneysilver\">27</span> <span class=\"moneycopper\">29</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Gahz'ranka</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 6.47%</div></td></tr></table>",
+  "url": "/item=19944/nat-pagles-fish-terminator",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_fishingpole_02.jpg",
+  "id": "19944",
+  "slug": "nat-pagles-fish-terminator"
+}

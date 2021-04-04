@@ -1,0 +1,10 @@
+{
+  "name": "Twill Cover",
+  "quality": "Poor",
+  "icon": "inv_helmet_33",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Twill Cover</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->56</span><!--bo--><table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->53 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->51<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">39</span> <span class=\"moneycopper\">37</span></div></td></tr></table>",
+  "url": "/item=8754/twill-cover",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_33.jpg",
+  "id": "8754",
+  "slug": "twill-cover"
+}

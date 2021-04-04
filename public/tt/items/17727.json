@@ -1,0 +1,10 @@
+{
+  "name": "Smokywood Pastures Gift Pack",
+  "quality": "Common",
+  "icon": "inv_misc_gift_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Smokywood Pastures Gift Pack</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=17727/smokywood-pastures-gift-pack",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gift_01.jpg",
+  "id": "17727",
+  "slug": "smokywood-pastures-gift-pack"
+}

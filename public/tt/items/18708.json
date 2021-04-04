@@ -1,0 +1,10 @@
+{
+  "name": "Petrified Bark",
+  "quality": "Common",
+  "icon": "spell_nature_naturetouchdecay",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Petrified Bark</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->71</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=3\" class=\"c3\">Hunter</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=18708/petrified-bark",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_naturetouchdecay.jpg",
+  "id": "18708",
+  "slug": "petrified-bark"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Incantations from the Nether",
+  "quality": "Common",
+  "icon": "inv_misc_book_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Incantations from the Nether</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;You're glad you don't understand the runes inscribed on the cover.&quot;</span></td></tr></table>",
+  "url": "/item=14396/incantations-from-the-nether",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_06.jpg",
+  "id": "14396",
+  "slug": "incantations-from-the-nether"
+}

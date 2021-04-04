@@ -1,0 +1,10 @@
+{
+  "name": "Ridgewell's Crate",
+  "quality": "Common",
+  "icon": "inv_crate_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ridgewell's Crate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=12437/ridgewells-crate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crate_03.jpg",
+  "id": "12437",
+  "slug": "ridgewells-crate"
+}

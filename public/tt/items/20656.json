@@ -1,0 +1,10 @@
+{
+  "name": "Abyssal Mail Sabatons",
+  "quality": "Uncommon",
+  "icon": "inv_boots_chain_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Abyssal Mail Sabatons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->221 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">82</span> <span class=\"moneycopper\">69</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Crimson Templar</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 13.58%</div></td></tr></table>",
+  "url": "/item=20656/abyssal-mail-sabatons",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_chain_09.jpg",
+  "id": "20656",
+  "slug": "abyssal-mail-sabatons"
+}

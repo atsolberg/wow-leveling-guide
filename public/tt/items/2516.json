@@ -1,0 +1,10 @@
+{
+  "name": "Light Shot",
+  "quality": "Common",
+  "icon": "inv_ammo_bullet_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Light Shot</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><table width=\"100%\"><tr><td>Ammo</td><th><!--scstart6:3--><span class=\"q1\">Bullet</span><!--scend--></th></tr></table><span>Adds 1.5 damage per second</span>\n<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div></td></tr></table>",
+  "url": "/item=2516/light-shot",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ammo_bullet_02.jpg",
+  "id": "2516",
+  "slug": "light-shot"
+}

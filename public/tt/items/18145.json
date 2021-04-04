@@ -1,0 +1,10 @@
+{
+  "name": "Tauren Hoof",
+  "quality": "Common",
+  "icon": "inv_misc_foot_centaur",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tauren Hoof</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 100</div></td></tr></table>",
+  "url": "/item=18145/tauren-hoof",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_foot_centaur.jpg",
+  "id": "18145",
+  "slug": "tauren-hoof"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Gnome Head on a Stick",
+  "quality": "Common",
+  "icon": "mail_gmicon",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gnome Head on a Stick</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><table width=\"100%\"><tr><td>Off Hand</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">8</span> <span class=\"moneysilver\">53</span> <span class=\"moneycopper\">57</span></div></td></tr></table>",
+  "url": "/item=20337/gnome-head-on-a-stick",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/mail_gmicon.jpg",
+  "id": "20337",
+  "slug": "gnome-head-on-a-stick"
+}

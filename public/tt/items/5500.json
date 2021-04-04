@@ -1,0 +1,10 @@
+{
+  "name": "Iridescent Pearl",
+  "quality": "Uncommon",
+  "icon": "inv_misc_gem_pearl_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Iridescent Pearl</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=5500/iridescent-pearl",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_pearl_02.jpg",
+  "id": "5500",
+  "slug": "iridescent-pearl"
+}

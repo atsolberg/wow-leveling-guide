@@ -1,0 +1,10 @@
+{
+  "name": "Grenka's Claw",
+  "quality": "Common",
+  "icon": "inv_misc_monsterclaw_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Grenka's Claw</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Grenka Bloodscreech</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 90.71%</div></td></tr></table>",
+  "url": "/item=5843/grenkas-claw",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterclaw_02.jpg",
+  "id": "5843",
+  "slug": "grenkas-claw"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Brown Ram",
+  "quality": "Rare",
+  "icon": "ability_mount_mountainram",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Brown Ram</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when used<br />Mount<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-races\">Races: <a href=\"/race=1\" class=\"q1\">Human</a>, <a href=\"/race=3\" class=\"q1\">Dwarf</a>, <a href=\"/race=4\" class=\"q1\">Night Elf</a>, <a href=\"/race=7\" class=\"q1\">Gnome</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br>Requires <a href=\"/skill=152\" class=\"q1\">Ram Riding</a> (1)<br><span class=\"q2\">Use: <a href=\"/spell=6899\" class=\"q2\">Summons and dismisses a rideable brown ram.</a> (3 Sec Cooldown)</span></td></tr></table>",
+  "completion_category": "15-5",
+  "url": "/item=5872/brown-ram",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_mount_mountainram.jpg",
+  "id": "5872",
+  "slug": "brown-ram"
+}

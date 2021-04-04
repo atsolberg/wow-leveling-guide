@@ -1,0 +1,10 @@
+{
+  "name": "Stiff Recurve Bow",
+  "quality": "Poor",
+  "icon": "inv_weapon_bow_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Stiff Recurve Bow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->28</span><!--bo--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->13 - 25 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(6.79 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->23<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span> <span class=\"moneycopper\">62</span></div></td></tr></table>",
+  "url": "/item=2785/stiff-recurve-bow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_05.jpg",
+  "id": "2785",
+  "slug": "stiff-recurve-bow"
+}

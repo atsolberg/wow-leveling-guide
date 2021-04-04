@@ -1,0 +1,10 @@
+{
+  "name": "Eldritch Shackles",
+  "quality": "Common",
+  "icon": "inv_bracer_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Eldritch Shackles</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Myzrael</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 90.23%</div></td></tr></table>",
+  "url": "/item=4473/eldritch-shackles",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_13.jpg",
+  "id": "4473",
+  "slug": "eldritch-shackles"
+}

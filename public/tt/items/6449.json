@@ -1,0 +1,10 @@
+{
+  "name": "Glowing Lizardscale Cloak",
+  "quality": "Rare",
+  "icon": "inv_chest_cloth_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Glowing Lizardscale Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->20 Armor</span><br><span><!--stat3-->+6 Agility</span><br><span><!--stat6-->+2 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">1</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Skum</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 45.82%</div></td></tr></table>",
+  "url": "/item=6449/glowing-lizardscale-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_15.jpg",
+  "id": "6449",
+  "slug": "glowing-lizardscale-cloak"
+}

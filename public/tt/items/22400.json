@@ -1,0 +1,10 @@
+{
+  "name": "Libram of Truth",
+  "quality": "Rare",
+  "icon": "inv_relics_libramoftruth",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Libram of Truth</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Relic</td><th><!--scstart4:7--><span class=\"q1\">Libram</span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<br><span class=\"q2\">Equip: <a href=\"/spell=27850\" class=\"q2\">Increases the armor from your Devotion Aura by 55.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">32</span> <span class=\"moneycopper\">8</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Magmus</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 13.07%</div></td></tr></table>",
+  "url": "/item=22400/libram-of-truth",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_relics_libramoftruth.jpg",
+  "id": "22400",
+  "slug": "libram-of-truth"
+}

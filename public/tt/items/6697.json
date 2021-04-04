@@ -1,0 +1,10 @@
+{
+  "name": "Batwing Mantle",
+  "quality": "Rare",
+  "icon": "inv_shoulder_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Batwing Mantle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->37 Armor</span><br><span><!--stat3-->+3 Agility</span><br><span><!--stat5-->+10 Intellect</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->27<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span> <span class=\"moneycopper\">41</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Blind Hunter</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 33.47%</div></td></tr></table>",
+  "url": "/item=6697/batwing-mantle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_05.jpg",
+  "id": "6697",
+  "slug": "batwing-mantle"
+}

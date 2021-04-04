@@ -1,0 +1,10 @@
+{
+  "name": "Wooden Maul",
+  "quality": "Poor",
+  "icon": "inv_hammer_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Wooden Maul</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->20 - 30 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(8.62 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">63</span></div></td></tr></table>",
+  "url": "/item=1820/wooden-maul",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_15.jpg",
+  "id": "1820",
+  "slug": "wooden-maul"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Oiled Blunderbuss",
+  "quality": "Poor",
+  "icon": "inv_weapon_rifle_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Oiled Blunderbuss</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->9 - 19 Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(7.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->24<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">73</span></div></td></tr></table>",
+  "url": "/item=2786/oiled-blunderbuss",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_01.jpg",
+  "id": "2786",
+  "slug": "oiled-blunderbuss"
+}

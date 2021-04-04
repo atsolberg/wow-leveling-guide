@@ -1,0 +1,10 @@
+{
+  "name": "Embersilk Cord",
+  "quality": "Uncommon",
+  "icon": "inv_belt_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Embersilk Cord</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->28 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">89</span></div></td></tr></table>",
+  "url": "/item=14235/embersilk-cord",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_11.jpg",
+  "id": "14235",
+  "slug": "embersilk-cord"
+}

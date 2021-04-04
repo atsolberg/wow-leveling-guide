@@ -1,0 +1,10 @@
+{
+  "name": "Pitchwood Wand",
+  "quality": "Common",
+  "icon": "inv_staff_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pitchwood Wand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->41 - 77 Fire Damage</span></td>\n    <th>Speed <!--spd-->1.70</th>\n</tr></table><!--dps-->(34.71 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">71</span> <span class=\"moneycopper\">45</span></div></td></tr></table>",
+  "url": "/item=5238/pitchwood-wand",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_02.jpg",
+  "id": "5238",
+  "slug": "pitchwood-wand"
+}

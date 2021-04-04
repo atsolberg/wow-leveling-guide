@@ -1,0 +1,10 @@
+{
+  "name": "Frostwhisper's Embalming Fluid",
+  "quality": "Common",
+  "icon": "inv_drink_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Frostwhisper's Embalming Fluid</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div></td></tr></table>",
+  "url": "/item=12736/frostwhispers-embalming-fluid",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_17.jpg",
+  "id": "12736",
+  "slug": "frostwhispers-embalming-fluid"
+}

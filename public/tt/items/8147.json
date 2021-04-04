@@ -1,0 +1,10 @@
+{
+  "name": "Tiny Copper Key",
+  "quality": "Common",
+  "icon": "inv_misc_key_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tiny Copper Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->42</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=8\" class=\"c8\">Mage</a></div></td></tr></table><table><tr><td><span class=\"q\">&quot;A reagent for mage spells.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span></div></td></tr></table>",
+  "url": "/item=8147/tiny-copper-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_12.jpg",
+  "id": "8147",
+  "slug": "tiny-copper-key"
+}

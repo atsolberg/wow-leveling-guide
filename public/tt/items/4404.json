@@ -1,0 +1,10 @@
+{
+  "name": "Silver Contact",
+  "quality": "Common",
+  "icon": "inv_ingot_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Silver Contact</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->18</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=4404/silver-contact",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ingot_04.jpg",
+  "id": "4404",
+  "slug": "silver-contact"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Book of Moonfire VIII",
+  "quality": "Common",
+  "icon": "inv_misc_book_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Book of Moonfire VIII</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->46</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->46<br><span class=\"q2\">Use: <a href=\"/spell=962\" class=\"q2\">Teaches Moonfire (Rank 4).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">70</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=8904/book-of-moonfire-viii",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_11.jpg",
+  "id": "8904",
+  "slug": "book-of-moonfire-viii"
+}

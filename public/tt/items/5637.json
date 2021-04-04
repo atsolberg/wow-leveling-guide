@@ -1,0 +1,10 @@
+{
+  "name": "Large Fang",
+  "quality": "Common",
+  "icon": "inv_misc_bone_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Large Fang</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=5637/large-fang",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_08.jpg",
+  "id": "5637",
+  "slug": "large-fang"
+}

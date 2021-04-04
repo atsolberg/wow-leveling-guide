@@ -1,0 +1,10 @@
+{
+  "name": "Wildthorn Mail",
+  "quality": "Rare",
+  "icon": "inv_chest_chain_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Wildthorn Mail</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->54</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->322 Armor</span><br><span><!--stat7-->+5 Stamina</span><br><span><!--stat6-->+11 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->49<br><span class=\"q2\">Equip: <a href=\"/spell=16638\" class=\"q2\">Increases damage done by Nature spells and effects by up to 34.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">42</span></div></td></tr></table>",
+  "url": "/item=12624/wildthorn-mail",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_12.jpg",
+  "id": "12624",
+  "slug": "wildthorn-mail"
+}

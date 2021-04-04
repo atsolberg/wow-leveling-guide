@@ -1,0 +1,10 @@
+{
+  "name": "Flare Gun",
+  "quality": "Common",
+  "icon": "inv_musket_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Flare Gun</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=10113\" class=\"q2\">Shoots a flare into the air.</a></span><br />10 Charges</td></tr></table>",
+  "url": "/item=8051/flare-gun",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_musket_02.jpg",
+  "id": "8051",
+  "slug": "flare-gun"
+}

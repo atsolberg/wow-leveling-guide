@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Persuader",
+  "quality": "Epic",
+  "icon": "inv_scroll_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Plans: Persuader</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->63</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (300)<br>Requires <a href=\"/spells=11.164.17040\" class=\"q1\">Master Hammersmith</a><br><span class=\"q2\">Use: <a href=\"/spell=27835\" class=\"q2\">Teaches you how to make the Persuader.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span></div><br /><span class=\"q4\"><a href=\"/item=22384\">Persuader</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->86 - 161 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(45.74 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105<br>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=15464\" class=\"q2\">Improves your chance to hit by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">8</span> <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">54</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=12360\">Arcanite Bar</a>&nbsp;(15), <a href=\"/item=11371\">Dark Iron Bar</a>&nbsp;(10), <a href=\"/item=12808\">Essence of Undeath</a>&nbsp;(20), <a href=\"/item=20520\">Dark Rune</a>&nbsp;(20), <a href=\"/item=15417\">Devilsaur Leather</a>&nbsp;(10), <a href=\"/item=12753\">Skin of Shadow</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=22390/plans-persuader",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_05.jpg",
+  "id": "22390",
+  "slug": "plans-persuader"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Deptecated White Stallion Summoning (Mount)",
+  "quality": "Common",
+  "icon": "inv_scroll_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Deptecated White Stallion Summoning (Mount)</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Mount<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=468\" class=\"q2\">Summons and dismisses a rideable white stallion.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "completion_category": "15-5",
+  "url": "/item=901/deptecated-white-stallion-summoning-mount",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_01.jpg",
+  "id": "901",
+  "slug": "deptecated-white-stallion-summoning-mount"
+}

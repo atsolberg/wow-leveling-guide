@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Green Iron Boots",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Plans: Green Iron Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->29</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (145)<br><span class=\"q2\">Use: <a href=\"/spell=3352\" class=\"q2\">Teaches you how to make Green Iron Boots.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div><br /><span class=\"q2\"><a href=\"/item=3484\">Green Iron Boots</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->134 Armor</span><br><span><!--stat4-->+3 Strength</span><br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50<br>Requires Level <!--rlvl-->24<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">67</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=3575\">Iron Bar</a>&nbsp;(4), <a href=\"/item=1705\">Lesser Moonstone</a>&nbsp;(2), <a href=\"/item=3478\">Coarse Grinding Stone</a>&nbsp;(2), <a href=\"/item=2605\">Green Dye</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=3611/plans-green-iron-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "3611",
+  "slug": "plans-green-iron-boots"
+}

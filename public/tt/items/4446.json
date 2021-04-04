@@ -1,0 +1,10 @@
+{
+  "name": "Blackvenom Blade",
+  "quality": "Rare",
+  "icon": "inv_weapon_shortblade_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Blackvenom Blade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->26</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->21 - 39 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr><tr><td colspan=\"2\">+ 1 - 7 Shadow Damage</td></tr></table><!--dps-->(18.89 damage per second)<br><span><!--stat3-->+1 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->21<br><span class=\"q2\">Chance on hit: <a href=\"/spell=13518\" class=\"q2\">Poisons target for 5 Nature damage every 3 sec for 15 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">35</span> <span class=\"moneycopper\">94</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Rohh the Silent</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 30.86%</div></td></tr></table>",
+  "url": "/item=4446/blackvenom-blade",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_02.jpg",
+  "id": "4446",
+  "slug": "blackvenom-blade"
+}

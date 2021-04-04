@@ -1,0 +1,10 @@
+{
+  "name": "Nondescript Letter",
+  "quality": "Common",
+  "icon": "inv_letter_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Nondescript Letter</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;A sealed letter&quot;</span></td></tr></table>",
+  "url": "/item=7628/nondescript-letter",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_16.jpg",
+  "id": "7628",
+  "slug": "nondescript-letter"
+}

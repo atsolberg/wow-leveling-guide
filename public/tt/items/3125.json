@@ -1,0 +1,11 @@
+{
+  "name": "Tablet of Serpent Totem II",
+  "quality": "Common",
+  "icon": "inv_misc_stonetablet_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tablet of Serpent Totem II</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=7\" class=\"c7\">Shaman</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">87</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=3125/tablet-of-serpent-totem-ii",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_stonetablet_05.jpg",
+  "id": "3125",
+  "slug": "tablet-of-serpent-totem-ii"
+}

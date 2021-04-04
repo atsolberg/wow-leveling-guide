@@ -1,0 +1,10 @@
+{
+  "name": "QAEnchant 2H Weapon +25 Agility",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QAEnchant 2H Weapon +25 Agility</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=30229\" class=\"q2\">Permanently enchant a 2H weapon to give 25 Agility.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">55</span></div></td></tr></table>",
+  "url": "/item=18599/qaenchant-2h-weapon-25-agility",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "18599",
+  "slug": "qaenchant-2h-weapon-25-agility"
+}

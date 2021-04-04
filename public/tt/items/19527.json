@@ -1,0 +1,10 @@
+{
+  "name": "Battle Healer's Cloak",
+  "quality": "Rare",
+  "icon": "inv_misc_cape_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Battle Healer's Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->53</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->38 Armor</span><br><span><!--stat7-->+9 Stamina</span><br><span><!--stat6-->+6 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->48<br><span class=\"q2\">Equip: <a href=\"/spell=9408\" class=\"q2\">Increases healing done by spells and effects by up to 22.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">96</span> <span class=\"moneycopper\">31</span></div></td></tr></table>",
+  "url": "/item=19527/battle-healers-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_18.jpg",
+  "id": "19527",
+  "slug": "battle-healers-cloak"
+}

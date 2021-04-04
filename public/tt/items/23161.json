@@ -1,0 +1,10 @@
+{
+  "name": "Freshly-Squeezed Lemonade",
+  "quality": "Common",
+  "icon": "inv_drink_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Freshly-Squeezed Lemonade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<br><span class=\"q2\">Use: <a href=\"/spell=29007\" class=\"q2\">Restores 2934 mana over 30 sec. &nbsp;Must remain seated while drinking.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span></div></td></tr></table>",
+  "url": "/item=23161/freshly-squeezed-lemonade",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_14.jpg",
+  "id": "23161",
+  "slug": "freshly-squeezed-lemonade"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Kodo Hide Bag",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Pattern: Kodo Hide Bag</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->11</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=165\" class=\"q1\">Leatherworking</a> (40)<br><span class=\"q2\">Use: <a href=\"/spell=5245\" class=\"q2\">Teaches you how to craft a Kodo Hide Bag.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">50</span></div><br /><span class=\"q1\"><a href=\"/item=5081\">Kodo Hide Bag</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><br />6 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=5082\">Thin Kodo Leather</a>&nbsp;(3), <a href=\"/item=2318\">Light Leather</a>&nbsp;(4), <a href=\"/item=2320\">Coarse Thread</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=5083/pattern-kodo-hide-bag",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "5083",
+  "slug": "pattern-kodo-hide-bag"
+}

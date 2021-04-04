@@ -1,0 +1,10 @@
+{
+  "name": "Earth Sapta",
+  "quality": "Common",
+  "icon": "inv_potion_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Earth Sapta</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=8202\" class=\"q2\">Allows the shaman to see elemental spirits.</a></span></td></tr></table>",
+  "url": "/item=6635/earth-sapta",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_12.jpg",
+  "id": "6635",
+  "slug": "earth-sapta"
+}

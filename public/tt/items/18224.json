@@ -1,0 +1,10 @@
+{
+  "name": "Lasher Root",
+  "quality": "Poor",
+  "icon": "inv_misc_root_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Lasher Root</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 40</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">28</span></div></td></tr></table>",
+  "url": "/item=18224/lasher-root",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_root_01.jpg",
+  "id": "18224",
+  "slug": "lasher-root"
+}

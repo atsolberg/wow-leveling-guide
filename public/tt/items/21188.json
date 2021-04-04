@@ -1,0 +1,10 @@
+{
+  "name": "Fist of Cenarius",
+  "quality": "Epic",
+  "icon": "inv_hammer_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Fist of Cenarius</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->66</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->175 - 263 Damage</span></td>\n    <th>Speed <!--spd-->3.50</th>\n</tr></table><!--dps-->(62.57 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=18056\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 40.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=18382\" class=\"q2\">Improves your chance to get a critical strike with spells by 2%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">11</span> <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">20</span></div></td></tr></table>",
+  "url": "/item=21188/fist-of-cenarius",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_23.jpg",
+  "id": "21188",
+  "slug": "fist-of-cenarius"
+}

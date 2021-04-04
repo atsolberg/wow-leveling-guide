@@ -1,0 +1,10 @@
+{
+  "name": "Ultrasafe Transporter: Gadgetzan",
+  "quality": "Uncommon",
+  "icon": "inv_misc_enggizmos_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Ultrasafe Transporter: Gadgetzan</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->52</span><!--bo--><br />Binds when used<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (260)<br>Requires <a href=\"/spells=11.202.20219\" class=\"q1\">Gnomish Engineer</a><br><span class=\"q2\">Use: <a href=\"/spell=23453\" class=\"q2\">Safely transport yourself to Gadgetzan in Tanaris! &nbsp; &nbsp;Emphasis on Safe! &nbsp; Yup, nothing bad could ever happen while using this device!</a> (4 Hrs Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=18986/ultrasafe-transporter-gadgetzan",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_enggizmos_12.jpg",
+  "id": "18986",
+  "slug": "ultrasafe-transporter-gadgetzan"
+}

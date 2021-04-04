@@ -1,0 +1,10 @@
+{
+  "name": "Iron Lockbox",
+  "quality": "Uncommon",
+  "icon": "inv_misc_ornatebox",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Iron Lockbox</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q0\">Locked<br />Requires Lockpicking (70)</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">87</span></div></td></tr></table>",
+  "url": "/item=4634/iron-lockbox",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_ornatebox.jpg",
+  "id": "4634",
+  "slug": "iron-lockbox"
+}

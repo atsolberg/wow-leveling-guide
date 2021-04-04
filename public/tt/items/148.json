@@ -1,0 +1,10 @@
+{
+  "name": "Rugged Trapper's Shirt",
+  "quality": "Common",
+  "icon": "inv_shirt_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rugged Trapper's Shirt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><table width=\"100%\"><tr><td>Shirt</td><th><!--scstart4:-8--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=148/rugged-trappers-shirt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_01.jpg",
+  "id": "148",
+  "slug": "rugged-trappers-shirt"
+}

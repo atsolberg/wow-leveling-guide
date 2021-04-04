@@ -1,0 +1,10 @@
+{
+  "name": "Fractured Canine",
+  "quality": "Poor",
+  "icon": "inv_misc_bone_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Fractured Canine</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">48</span></div></td></tr></table>",
+  "url": "/item=3299/fractured-canine",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_08.jpg",
+  "id": "3299",
+  "slug": "fractured-canine"
+}

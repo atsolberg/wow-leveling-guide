@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Core Armor Kit",
+  "quality": "Rare",
+  "icon": "inv_scroll_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Pattern: Core Armor Kit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=165\" class=\"q1\">Leatherworking</a> (300)<br><span class=\"q2\">Use: <a href=\"/spell=22728\" class=\"q2\">Teaches you how to craft a Core Armor Kit.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span></div><br /><span class=\"q3\"><a href=\"/item=18251\">Core Armor Kit</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires Level <!--rlvl-->50<br><span class=\"q2\">Use: <a href=\"/spell=22725\" class=\"q2\">Permanently increase the defense value of an item worn on the chest, legs, hands or feet by 3. &nbsp;Only usable on items level 45 and above.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=17012\">Core Leather</a>&nbsp;(3), <a href=\"/item=14341\">Rune Thread</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=18252/pattern-core-armor-kit",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_05.jpg",
+  "id": "18252",
+  "slug": "pattern-core-armor-kit"
+}

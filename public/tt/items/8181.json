@@ -1,0 +1,10 @@
+{
+  "name": "Hunting Rifle",
+  "quality": "Common",
+  "icon": "inv_weapon_rifle_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hunting Rifle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->9</span><!--bo--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->5 - 11 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(2.96 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->4<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">79</span></div></td></tr></table>",
+  "url": "/item=8181/hunting-rifle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_04.jpg",
+  "id": "8181",
+  "slug": "hunting-rifle"
+}

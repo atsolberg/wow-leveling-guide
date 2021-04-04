@@ -1,0 +1,10 @@
+{
+  "name": "Unlit Poor Torch",
+  "quality": "Common",
+  "icon": "inv_torch_unlit",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Unlit Poor Torch</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=142\" class=\"q1\">Survival</a> (25)<div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">2</span></div></td></tr></table>",
+  "url": "/item=6183/unlit-poor-torch",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_torch_unlit.jpg",
+  "id": "6183",
+  "slug": "unlit-poor-torch"
+}

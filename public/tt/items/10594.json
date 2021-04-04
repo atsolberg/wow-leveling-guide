@@ -1,0 +1,10 @@
+{
+  "name": "[PH] Hakkar'i Urn",
+  "quality": "Common",
+  "icon": "inv_box_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">[PH] Hakkar'i Urn</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Invalid loot table, crashes when you modify Miscellaneous&quot;</span><br><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=10594/ph-hakkari-urn",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_01.jpg",
+  "id": "10594",
+  "slug": "ph-hakkari-urn"
+}

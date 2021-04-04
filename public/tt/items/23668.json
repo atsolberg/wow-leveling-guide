@@ -1,0 +1,10 @@
+{
+  "name": "Leggings of the Grand Crusader",
+  "quality": "Epic",
+  "icon": "inv_pants_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Leggings of the Grand Crusader</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->85</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->833 Armor</span><br><span><!--stat4-->+21 Strength</span><br><span><!--stat5-->+21 Intellect</span><br><span><!--stat7-->+21 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=2\" class=\"c2\">Paladin</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=18049\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 26.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=7598\" class=\"q2\">Improves your chance to get a critical strike by 2%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">8</span> <span class=\"moneysilver\">79</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=23668/leggings-of-the-grand-crusader",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_04.jpg",
+  "id": "23668",
+  "slug": "leggings-of-the-grand-crusader"
+}

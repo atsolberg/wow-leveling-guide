@@ -1,0 +1,10 @@
+{
+  "name": "Battered Viking Shield",
+  "quality": "Common",
+  "icon": "inv_shield_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Battered Viking Shield</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->907 Armor</span><br>15 Block<br><span><!--stat7-->+8 Stamina</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">13</span> <span class=\"moneycopper\">31</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Olaf</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 78.45%</div></td></tr></table>",
+  "url": "/item=9403/battered-viking-shield",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_07.jpg",
+  "id": "9403",
+  "slug": "battered-viking-shield"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Marshal's Dragonhide Waistguard",
+  "quality": "Epic",
+  "icon": "inv_belt_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Marshal's Dragonhide Waistguard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->111 Armor</span><br><span><!--stat5-->+25 Intellect</span><br><span><!--stat7-->+18 Stamina</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br>Requires <span class=\"icon-horde\">General</span> <span class=\"icon-alliance\">Marshal</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">6</span></div></td></tr></table>",
+  "url": "/item=16447/marshals-dragonhide-waistguard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_23.jpg",
+  "id": "16447",
+  "slug": "marshals-dragonhide-waistguard"
+}

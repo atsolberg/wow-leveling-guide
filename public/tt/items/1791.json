@@ -1,0 +1,10 @@
+{
+  "name": "Patched Leather Gloves",
+  "quality": "Poor",
+  "icon": "inv_gauntlets_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Patched Leather Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->41 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->12<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">90</span></div></td></tr></table>",
+  "url": "/item=1791/patched-leather-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_05.jpg",
+  "id": "1791",
+  "slug": "patched-leather-gloves"
+}

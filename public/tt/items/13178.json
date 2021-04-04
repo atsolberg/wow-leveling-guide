@@ -1,0 +1,10 @@
+{
+  "name": "Rosewine Circle",
+  "quality": "Rare",
+  "icon": "inv_jewelry_ring_22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Rosewine Circle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Equip: <a href=\"/spell=21363\" class=\"q2\">Restores 5 mana per 5 sec.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=9316\" class=\"q2\">Increases healing done by spells and effects by up to 29.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">37</span> <span class=\"moneycopper\">82</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Urok Doomhowl</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.88%</div></td></tr></table>",
+  "url": "/item=13178/rosewine-circle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_ring_22.jpg",
+  "id": "13178",
+  "slug": "rosewine-circle"
+}

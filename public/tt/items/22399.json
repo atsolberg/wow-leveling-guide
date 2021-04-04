@@ -1,0 +1,10 @@
+{
+  "name": "Idol of Health",
+  "quality": "Epic",
+  "icon": "inv_relics_idolofhealth",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Idol of Health</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->78</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Relic</td><th><!--scstart4:8--><span class=\"q1\">Idol</span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=27846\" class=\"q2\">Reduces the casting time of your Healing Touch spell by 0.15 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">93</span> <span class=\"moneycopper\">54</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Viscidus</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 14.45%</div></td></tr></table>",
+  "url": "/item=22399/idol-of-health",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_relics_idolofhealth.jpg",
+  "id": "22399",
+  "slug": "idol-of-health"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Blackbone Wand",
+  "quality": "Common",
+  "icon": "inv_misc_bone_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Blackbone Wand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->46</span><!--bo--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->39 - 74 Shadow Damage</span></td>\n    <th>Speed <!--spd-->1.60</th>\n</tr></table><!--dps-->(35.31 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->41<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">77</span> <span class=\"moneycopper\">46</span></div></td></tr></table>",
+  "url": "/item=5239/blackbone-wand",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_01.jpg",
+  "id": "5239",
+  "slug": "blackbone-wand"
+}

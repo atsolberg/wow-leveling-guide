@@ -1,0 +1,10 @@
+{
+  "name": "Mugger's Belt",
+  "quality": "Rare",
+  "icon": "inv_belt_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Mugger's Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->98 Armor</span><br><span><!--stat7-->+16 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=7576\" class=\"q2\">Increased Daggers +5.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">76</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Captain Kromcrush</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 22.27%</div></td></tr></table>",
+  "url": "/item=18505/muggers-belt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_02.jpg",
+  "id": "18505",
+  "slug": "muggers-belt"
+}

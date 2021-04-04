@@ -1,0 +1,10 @@
+{
+  "name": "Simple Cord",
+  "quality": "Common",
+  "icon": "inv_belt_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Simple Cord</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->12</span><!--bo--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->12 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 16 / 16</td></tr></table><table><tr><td>Requires Level <!--rlvl-->7<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">49</span></div></td></tr></table>",
+  "url": "/item=9742/simple-cord",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_02.jpg",
+  "id": "9742",
+  "slug": "simple-cord"
+}

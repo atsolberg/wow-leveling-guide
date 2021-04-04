@@ -1,0 +1,10 @@
+{
+  "name": "Sayge's Fortune #27",
+  "quality": "Common",
+  "icon": "inv_scroll_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sayge's Fortune #27</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=7945\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<br><span class=\"q\">&quot;Your fortune awaits you outside Palemane Rock.&quot;</span></td></tr></table>",
+  "url": "/item=19452/sayges-fortune-27",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_02.jpg",
+  "id": "19452",
+  "slug": "sayges-fortune-27"
+}

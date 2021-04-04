@@ -1,0 +1,10 @@
+{
+  "name": "Cross-stitched Gloves",
+  "quality": "Poor",
+  "icon": "inv_gauntlets_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Cross-stitched Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->26</span><!--bo--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->22 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->21<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">47</span></div></td></tr></table>",
+  "url": "/item=1783/cross-stitched-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_18.jpg",
+  "id": "1783",
+  "slug": "cross-stitched-gloves"
+}

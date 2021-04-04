@@ -1,0 +1,10 @@
+{
+  "name": "Sergeant Major's Silk Cuffs",
+  "quality": "Rare",
+  "icon": "inv_bracer_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Sergeant Major's Silk Cuffs</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->39 Armor</span><br><span><!--stat5-->+7 Intellect</span><br><span><!--stat7-->+17 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=5\" class=\"c5\">Priest</a>, <a href=\"/class=8\" class=\"c8\">Mage</a>, <a href=\"/class=9\" class=\"c9\">Warlock</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br>Requires <span class=\"icon-horde\">First Sergeant</span> <span class=\"icon-alliance\">Sergeant Major</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">56</span> <span class=\"moneycopper\">13</span></div></td></tr></table>",
+  "url": "/item=18456/sergeant-majors-silk-cuffs",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_07.jpg",
+  "id": "18456",
+  "slug": "sergeant-majors-silk-cuffs"
+}

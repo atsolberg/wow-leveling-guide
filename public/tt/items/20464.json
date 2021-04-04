@@ -1,0 +1,10 @@
+{
+  "name": "Glyphs of Calling",
+  "quality": "Common",
+  "icon": "spell_shadow_sealofkings",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Glyphs of Calling</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=24815\" class=\"q2\">Required to draw ancient glyphs into the sand at the Bones of Grakkarond.</a></span></td></tr></table>",
+  "url": "/item=20464/glyphs-of-calling",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_sealofkings.jpg",
+  "id": "20464",
+  "slug": "glyphs-of-calling"
+}

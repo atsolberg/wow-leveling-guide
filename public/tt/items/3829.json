@@ -1,0 +1,10 @@
+{
+  "name": "Frost Oil",
+  "quality": "Common",
+  "icon": "inv_potion_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Frost Oil</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<br><span class=\"q2\">Use: <a href=\"/spell=3595\" class=\"q2\">When applied to a melee weapon it gives a 10% chance of casting Frostbolt at the opponent when it hits. &nbsp;Lasts 30 minutes.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">50</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Cenarion Hold Infantry</div></td></tr></table>",
+  "url": "/item=3829/frost-oil",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_20.jpg",
+  "id": "3829",
+  "slug": "frost-oil"
+}

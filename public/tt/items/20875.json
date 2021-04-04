@@ -1,0 +1,10 @@
+{
+  "name": "Idol of Night",
+  "quality": "Rare",
+  "icon": "inv_qirajidol_night",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Idol of Night</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->61</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a>, <a href=\"/class=4\" class=\"c4\">Rogue</a>, <a href=\"/class=8\" class=\"c8\">Mage</a>, <a href=\"/class=9\" class=\"c9\">Warlock</a></div></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div></td></tr></table>",
+  "url": "/item=20875/idol-of-night",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_qirajidol_night.jpg",
+  "id": "20875",
+  "slug": "idol-of-night"
+}

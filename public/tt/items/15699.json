@@ -1,0 +1,10 @@
+{
+  "name": "Small Brown-wrapped Package",
+  "quality": "Common",
+  "icon": "inv_misc_gift_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Small Brown-wrapped Package</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=15699/small-brown-wrapped-package",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gift_05.jpg",
+  "id": "15699",
+  "slug": "small-brown-wrapped-package"
+}

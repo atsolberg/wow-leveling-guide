@@ -1,0 +1,10 @@
+{
+  "name": "Frostsaber Leather",
+  "quality": "Common",
+  "icon": "inv_misc_pelt_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Frostsaber Leather</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div></td></tr></table>",
+  "url": "/item=15422/frostsaber-leather",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_pelt_06.jpg",
+  "id": "15422",
+  "slug": "frostsaber-leather"
+}

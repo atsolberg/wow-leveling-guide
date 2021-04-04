@@ -1,0 +1,10 @@
+{
+  "name": "Master Sergeant's Insignia",
+  "quality": "Rare",
+  "icon": "inv_misc_monsterscales_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Master Sergeant's Insignia</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat7-->+9 Stamina</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<br>Requires <span class=\"icon-horde\">Senior Sergeant</span> <span class=\"icon-alliance\">Master Sergeant</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=18442/master-sergeants-insignia",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_09.jpg",
+  "id": "18442",
+  "slug": "master-sergeants-insignia"
+}

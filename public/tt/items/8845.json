@@ -1,0 +1,10 @@
+{
+  "name": "Ghost Mushroom",
+  "quality": "Common",
+  "icon": "inv_mushroom_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ghost Mushroom</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->47</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=8845/ghost-mushroom",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mushroom_08.jpg",
+  "id": "8845",
+  "slug": "ghost-mushroom"
+}

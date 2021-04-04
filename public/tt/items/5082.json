@@ -1,0 +1,10 @@
+{
+  "name": "Thin Kodo Leather",
+  "quality": "Common",
+  "icon": "inv_misc_leatherscrap_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Thin Kodo Leather</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;'Thin' is a relative term....&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=5082/thin-kodo-leather",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_leatherscrap_06.jpg",
+  "id": "5082",
+  "slug": "thin-kodo-leather"
+}

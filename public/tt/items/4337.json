@@ -1,0 +1,10 @@
+{
+  "name": "Thick Spider's Silk",
+  "quality": "Common",
+  "icon": "spell_nature_web",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Thick Spider's Silk</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=4337/thick-spiders-silk",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_web.jpg",
+  "id": "4337",
+  "slug": "thick-spiders-silk"
+}

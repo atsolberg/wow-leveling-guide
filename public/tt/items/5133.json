@@ -1,0 +1,10 @@
+{
+  "name": "Seeping Gizzard",
+  "quality": "Poor",
+  "icon": "inv_misc_organ_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Seeping Gizzard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span></div></td></tr></table>",
+  "url": "/item=5133/seeping-gizzard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_organ_06.jpg",
+  "id": "5133",
+  "slug": "seeping-gizzard"
+}

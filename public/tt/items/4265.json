@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Armor Kit",
+  "quality": "Common",
+  "icon": "inv_misc_armorkit_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Heavy Armor Kit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<br><span class=\"q2\">Use: <a href=\"/spell=2833\" class=\"q2\">Permanently increase the armor value of an item worn on the chest, legs, hands or feet by 24. &nbsp;Only usable on items level 15 and above.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">50</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Olaf</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 14.00%</div></td></tr></table>",
+  "url": "/item=4265/heavy-armor-kit",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_armorkit_16.jpg",
+  "id": "4265",
+  "slug": "heavy-armor-kit"
+}

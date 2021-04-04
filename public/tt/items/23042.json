@@ -1,0 +1,10 @@
+{
+  "name": "Loatheb's Reflection",
+  "quality": "Epic",
+  "icon": "inv_trinket_naxxramas05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Loatheb's Reflection</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->85</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats-->+13 Arcane Resistance<br>+13 Fire Resistance<br>+13 Nature Resistance<br>+13 Frost Resistance<br>+13 Shadow Resistance<!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=28778\" class=\"q2\">Increases resistances to all schools of magic by 40 for 20 sec.</a> (2 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">9</span> <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">60</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Loatheb</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.00%</div></td></tr></table>",
+  "url": "/item=23042/loathebs-reflection",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_trinket_naxxramas05.jpg",
+  "id": "23042",
+  "slug": "loathebs-reflection"
+}

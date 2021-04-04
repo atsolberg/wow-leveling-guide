@@ -1,0 +1,10 @@
+{
+  "name": "Girdle of Golem Strength",
+  "quality": "Rare",
+  "icon": "inv_belt_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Girdle of Golem Strength</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->128 Armor</span><br><span><!--stat4-->+12 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->28<br><span class=\"q2\">Equip: <a href=\"/spell=7516\" class=\"q2\">Increased Defense +3.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span> <span class=\"moneycopper\">55</span></div></td></tr></table>",
+  "url": "/item=9405/girdle-of-golem-strength",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_27.jpg",
+  "id": "9405",
+  "slug": "girdle-of-golem-strength"
+}

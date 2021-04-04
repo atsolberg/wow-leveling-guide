@@ -1,0 +1,10 @@
+{
+  "name": "Eye of Burning Shadow",
+  "quality": "Common",
+  "icon": "inv_misc_gem_bloodstone_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Eye of Burning Shadow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->4</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=832\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->4</td></tr></table>",
+  "url": "/item=4903/eye-of-burning-shadow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_bloodstone_02.jpg",
+  "id": "4903",
+  "slug": "eye-of-burning-shadow"
+}

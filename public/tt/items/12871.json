@@ -1,0 +1,10 @@
+{
+  "name": "Chromatic Carapace",
+  "quality": "Epic",
+  "icon": "inv_shield_21",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Chromatic Carapace</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">80</span> <span class=\"moneycopper\">48</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Gyth</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 4.81%</div></td></tr></table>",
+  "url": "/item=12871/chromatic-carapace",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_21.jpg",
+  "id": "12871",
+  "slug": "chromatic-carapace"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Grimoire of Sense Demons",
+  "quality": "Common",
+  "icon": "inv_misc_book_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Grimoire of Sense Demons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->24</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=9\" class=\"c9\">Warlock</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->24<br><span class=\"q2\">Use: <a href=\"/spell=1017\" class=\"q2\">Teaches Sense Demons.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">13</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=1224/grimoire-of-sense-demons",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_06.jpg",
+  "id": "1224",
+  "slug": "grimoire-of-sense-demons"
+}

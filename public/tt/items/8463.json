@@ -1,0 +1,10 @@
+{
+  "name": "Warchief's Orders",
+  "quality": "Common",
+  "icon": "inv_letter_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Warchief's Orders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;The seal is broken.&quot;</span><br><span class=\"q2\">&lt;Right Click to Read&gt;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Swamp Talker</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 83.24%</div></td></tr></table>",
+  "url": "/item=8463/warchiefs-orders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_17.jpg",
+  "id": "8463",
+  "slug": "warchiefs-orders"
+}

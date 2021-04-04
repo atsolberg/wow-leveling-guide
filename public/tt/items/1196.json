@@ -1,0 +1,10 @@
+{
+  "name": "Tabar",
+  "quality": "Common",
+  "icon": "inv_axe_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tabar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->14</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->21 - 32 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(8.28 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->9<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">42</span></div></td></tr></table>",
+  "url": "/item=1196/tabar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_04.jpg",
+  "id": "1196",
+  "slug": "tabar"
+}

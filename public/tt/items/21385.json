@@ -1,0 +1,10 @@
+{
+  "name": "Logistics Task Briefing X",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Logistics Task Briefing X</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=8810\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60</td></tr></table>",
+  "url": "/item=21385/logistics-task-briefing-x",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "21385",
+  "slug": "logistics-task-briefing-x"
+}

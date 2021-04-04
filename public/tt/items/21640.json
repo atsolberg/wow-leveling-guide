@@ -1,0 +1,10 @@
+{
+  "name": "Lunar Festival Fireworks Pack",
+  "quality": "Common",
+  "icon": "inv_box_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Lunar Festival Fireworks Pack</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Filled with fireworks to celebrate the Lunar Festival in style!&quot;</span><br><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=21640/lunar-festival-fireworks-pack",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_02.jpg",
+  "id": "21640",
+  "slug": "lunar-festival-fireworks-pack"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Worn Mail Boots",
+  "quality": "Poor",
+  "icon": "inv_boots_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Worn Mail Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->13</span><!--bo--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->80 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->8<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">92</span></div></td></tr></table>",
+  "url": "/item=1731/worn-mail-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_01.jpg",
+  "id": "1731",
+  "slug": "worn-mail-boots"
+}

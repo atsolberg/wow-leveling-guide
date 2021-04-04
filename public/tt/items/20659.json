@@ -1,0 +1,10 @@
+{
+  "name": "Abyssal Mail Handguards",
+  "quality": "Uncommon",
+  "icon": "inv_gauntlets_32",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Abyssal Mail Handguards</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->201 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">22</span> <span class=\"moneycopper\">63</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Hoary Templar</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 14.29%</div></td></tr></table>",
+  "url": "/item=20659/abyssal-mail-handguards",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_32.jpg",
+  "id": "20659",
+  "slug": "abyssal-mail-handguards"
+}

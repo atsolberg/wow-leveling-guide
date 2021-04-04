@@ -1,0 +1,11 @@
+{
+  "name": "Polar Bear Collar",
+  "quality": "Common",
+  "icon": "inv_belt_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Polar Bear Collar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=28505\" class=\"q2\">Right Click to summon and dismiss your pet.</a></span></td></tr></table>",
+  "completion_category": "15-2",
+  "url": "/item=22781/polar-bear-collar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_09.jpg",
+  "id": "22781",
+  "slug": "polar-bear-collar"
+}

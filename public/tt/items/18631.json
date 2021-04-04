@@ -1,0 +1,10 @@
+{
+  "name": "Truesilver Transformer",
+  "quality": "Common",
+  "icon": "inv_staff_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Truesilver Transformer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span></div></td></tr></table>",
+  "url": "/item=18631/truesilver-transformer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_18.jpg",
+  "id": "18631",
+  "slug": "truesilver-transformer"
+}

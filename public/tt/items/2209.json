@@ -1,0 +1,10 @@
+{
+  "name": "Kris",
+  "quality": "Common",
+  "icon": "inv_sword_32",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Kris</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->12 - 23 Damage</span></td>\n    <th>Speed <!--spd-->1.60</th>\n</tr></table><!--dps-->(10.94 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->19<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">23</span></div></td></tr></table>",
+  "url": "/item=2209/kris",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_32.jpg",
+  "id": "2209",
+  "slug": "kris"
+}

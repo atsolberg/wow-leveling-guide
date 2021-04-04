@@ -1,0 +1,10 @@
+{
+  "name": "A Careworn Note",
+  "quality": "Common",
+  "icon": "inv_letter_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">A Careworn Note</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=9299\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->45</td></tr></table>",
+  "url": "/item=22972/a-careworn-note",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_01.jpg",
+  "id": "22972",
+  "slug": "a-careworn-note"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Exalted Girdle",
+  "quality": "Uncommon",
+  "icon": "inv_belt_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Exalted Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->320 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">79</span> <span class=\"moneycopper\">82</span></div></td></tr></table>",
+  "url": "/item=14977/exalted-girdle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_24.jpg",
+  "id": "14977",
+  "slug": "exalted-girdle"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Arcanite Reaper",
+  "quality": "Rare",
+  "icon": "inv_axe_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Arcanite Reaper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->153 - 256 Damage</span></td>\n    <th>Speed <!--spd-->3.80</th>\n</tr></table><!--dps-->(53.82 damage per second)<br><span><!--stat7-->+13 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=15816\" class=\"q2\">+62 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">7</span> <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">36</span></div></td></tr></table>",
+  "url": "/item=12784/arcanite-reaper",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_09.jpg",
+  "id": "12784",
+  "slug": "arcanite-reaper"
+}

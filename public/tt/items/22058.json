@@ -1,0 +1,10 @@
+{
+  "name": "Valentine's Day Stationery",
+  "quality": "Common",
+  "icon": "inv_valentinescard01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Valentine's Day Stationery</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=22058/valentines-day-stationery",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_valentinescard01.jpg",
+  "id": "22058",
+  "slug": "valentines-day-stationery"
+}

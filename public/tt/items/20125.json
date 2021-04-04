@@ -1,0 +1,10 @@
+{
+  "name": "Highlander's Plate Girdle",
+  "quality": "Rare",
+  "icon": "inv_belt_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Highlander's Plate Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->43</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->236 Armor</span><br><span><!--stat4-->+15 Strength</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a>, <a href=\"/class=2\" class=\"c2\">Paladin</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br>Requires <a href=\"/faction=509\" class=\"q1\">The League of Arathor</a> - Honored<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">31</span> <span class=\"moneycopper\">76</span></div></td></tr></table>",
+  "url": "/item=20125/highlanders-plate-girdle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_14.jpg",
+  "id": "20125",
+  "slug": "highlanders-plate-girdle"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Kazon's Maul",
+  "quality": "Uncommon",
+  "icon": "inv_hammer_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Kazon's Maul</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->49 - 75 Damage</span></td>\n    <th>Speed <!--spd-->3.40</th>\n</tr></table><!--dps-->(18.24 damage per second)<br><span><!--stat4-->+8 Strength</span><br><span><!--stat7-->+4 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->22<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">41</span> <span class=\"moneycopper\">97</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Kazon</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 24.18%</div></td></tr></table>",
+  "url": "/item=2058/kazons-maul",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_16.jpg",
+  "id": "2058",
+  "slug": "kazons-maul"
+}

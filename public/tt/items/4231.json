@@ -1,0 +1,10 @@
+{
+  "name": "Cured Light Hide",
+  "quality": "Common",
+  "icon": "inv_misc_pelt_wolf_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Cured Light Hide</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=4231/cured-light-hide",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_pelt_wolf_01.jpg",
+  "id": "4231",
+  "slug": "cured-light-hide"
+}

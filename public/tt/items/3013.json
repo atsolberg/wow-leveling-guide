@@ -1,0 +1,10 @@
+{
+  "name": "Scroll of Protection",
+  "quality": "Common",
+  "icon": "inv_scroll_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Scroll of Protection</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=8091\" class=\"q2\">Increases the target's Armor by 60 for 30 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=3013/scroll-of-protection",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_07.jpg",
+  "id": "3013",
+  "slug": "scroll-of-protection"
+}

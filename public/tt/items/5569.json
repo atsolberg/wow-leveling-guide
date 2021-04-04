@@ -1,0 +1,10 @@
+{
+  "name": "Seaweed",
+  "quality": "Poor",
+  "icon": "inv_misc_herb_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Seaweed</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">3</span></div></td></tr></table>",
+  "url": "/item=5569/seaweed",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_herb_06.jpg",
+  "id": "5569",
+  "slug": "seaweed"
+}

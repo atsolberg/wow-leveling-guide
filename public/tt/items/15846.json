@@ -1,0 +1,10 @@
+{
+  "name": "Salt Shaker",
+  "quality": "Common",
+  "icon": "inv_egg_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Salt Shaker</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=165\" class=\"q1\">Leatherworking</a> (250)<br><span class=\"q2\">Use: <a href=\"/spell=19566\" class=\"q2\">Allows an experienced leatherworker to turn Deeprock Salt into Refined Deeprock Salt. &nbsp;Use of the device exposes the user to sub-core micro radiation and should not be used more than once every few days.</a> (3 Days Cooldown)</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">75</span></div></td></tr></table>",
+  "url": "/item=15846/salt-shaker",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_egg_05.jpg",
+  "id": "15846",
+  "slug": "salt-shaker"
+}

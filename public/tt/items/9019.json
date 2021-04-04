@@ -1,0 +1,11 @@
+{
+  "name": "Codex of Renew IX",
+  "quality": "Common",
+  "icon": "inv_misc_book_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Codex of Renew IX</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->56</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=5\" class=\"c5\">Priest</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<br><span class=\"q2\">Use: <a href=\"/spell=997\" class=\"q2\">Teaches Prayer of Healing (Rank 2).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">20</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=9019/codex-of-renew-ix",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_09.jpg",
+  "id": "9019",
+  "slug": "codex-of-renew-ix"
+}

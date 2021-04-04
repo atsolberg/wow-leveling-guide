@@ -1,0 +1,10 @@
+{
+  "name": "Flowing Ritual Robes",
+  "quality": "Epic",
+  "icon": "inv_chest_cloth_25",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Flowing Ritual Robes</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->100 Armor</span><br><span><!--stat5-->+23 Intellect</span><br><span><!--stat7-->+15 Stamina</span><br><span><!--stat6-->+24 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=15714\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 22.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">22</span> <span class=\"moneycopper\">57</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: High Priestess Mar'li</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 9.66%</div></td></tr></table>",
+  "url": "/item=20032/flowing-ritual-robes",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_25.jpg",
+  "id": "20032",
+  "slug": "flowing-ritual-robes"
+}

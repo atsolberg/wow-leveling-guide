@@ -1,0 +1,10 @@
+{
+  "name": "Formal Dangui",
+  "quality": "Common",
+  "icon": "inv_chest_cloth_29",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Formal Dangui</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><table width=\"100%\"><tr><td>Chest</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">10</span> <span class=\"moneysilver\">13</span> <span class=\"moneycopper\">24</span></div></td></tr></table>",
+  "url": "/item=13895/formal-dangui",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_29.jpg",
+  "id": "13895",
+  "slug": "formal-dangui"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "The Black Book",
+  "quality": "Epic",
+  "icon": "inv_misc_book_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">The Black Book</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->76</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=9\" class=\"c9\">Warlock</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=23720\" class=\"q2\">Empowers your pet, increasing pet damage by 100% and increasing pet armor by 100% for 30 sec. This spell will only affect an Imp, Succubus, Voidwalker, or Felhunter.</a> (5 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">7</span> <span class=\"moneysilver\">20</span> <span class=\"moneycopper\">39</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Razorgore the Untamed</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 20.11%</div></td></tr></table>",
+  "url": "/item=19337/the-black-book",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_06.jpg",
+  "id": "19337",
+  "slug": "the-black-book"
+}

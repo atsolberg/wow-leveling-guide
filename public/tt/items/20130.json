@@ -1,0 +1,10 @@
+{
+  "name": "Diamond Flask",
+  "quality": "Rare",
+  "icon": "inv_drink_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Diamond Flask</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->52</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=24427\" class=\"q2\">Restores 9 health every 5 sec and increases your Strength by 75. &nbsp;Lasts 1 min.</a> (6 Min Cooldown)</span><!--itemEffects:1--><br><span class=\"q\">&quot;Served on the rocks.&quot;</span></td></tr></table>",
+  "url": "/item=20130/diamond-flask",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_01.jpg",
+  "id": "20130",
+  "slug": "diamond-flask"
+}

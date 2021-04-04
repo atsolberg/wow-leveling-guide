@@ -1,0 +1,10 @@
+{
+  "name": "Assassination Note",
+  "quality": "Common",
+  "icon": "inv_letter_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Assassination Note</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->23</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=4881\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->23<br><span class=\"q2\">&lt;Right Click to Read&gt;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Galak Messenger</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 85.16%</div></td></tr></table>",
+  "url": "/item=12564/assassination-note",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_17.jpg",
+  "id": "12564",
+  "slug": "assassination-note"
+}

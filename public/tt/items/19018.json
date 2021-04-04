@@ -1,0 +1,10 @@
+{
+  "name": "Dormant Wind Kissed Blade",
+  "quality": "Legendary",
+  "icon": "inv_sword_39",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q5\">Dormant Wind Kissed Blade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->80</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=7787\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<div class=\"whtt-extra whtt-droppedby\">Dropped by: Prince Thunderaan</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 97.27%</div></td></tr></table>",
+  "url": "/item=19018/dormant-wind-kissed-blade",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_39.jpg",
+  "id": "19018",
+  "slug": "dormant-wind-kissed-blade"
+}

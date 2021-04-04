@@ -1,0 +1,10 @@
+{
+  "name": "Remote Detonator (Blue)",
+  "quality": "Common",
+  "icon": "inv_gizmo_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Remote Detonator (Blue)</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=6656\" class=\"q2\">Detonates NG-5 Charge (Blue) after it's been set.</a></span></td></tr></table>",
+  "url": "/item=5693/remote-detonator-blue",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_01.jpg",
+  "id": "5693",
+  "slug": "remote-detonator-blue"
+}

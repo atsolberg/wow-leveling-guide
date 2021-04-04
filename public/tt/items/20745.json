@@ -1,0 +1,10 @@
+{
+  "name": "Minor Mana Oil",
+  "quality": "Common",
+  "icon": "inv_potion_98",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Minor Mana Oil</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<br><span class=\"q2\">Use: <a href=\"/spell=25118\" class=\"q2\">While applied to target weapon it restores 4 mana to the caster every 5 seconds. &nbsp;Lasts for 30 minutes.</a></span><br />5 Charges<div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div></td></tr></table>",
+  "url": "/item=20745/minor-mana-oil",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_98.jpg",
+  "id": "20745",
+  "slug": "minor-mana-oil"
+}

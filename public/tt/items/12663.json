@@ -1,0 +1,10 @@
+{
+  "name": "Glyphed Oaken Branch",
+  "quality": "Common",
+  "icon": "inv_weapon_shortblade_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Glyphed Oaken Branch</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Glyphs of a druidic nature adorn the branch.&quot;</span></td></tr></table>",
+  "url": "/item=12663/glyphed-oaken-branch",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_09.jpg",
+  "id": "12663",
+  "slug": "glyphed-oaken-branch"
+}

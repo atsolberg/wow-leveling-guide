@@ -1,0 +1,11 @@
+{
+  "name": "Manual of Taunt",
+  "quality": "Common",
+  "icon": "inv_misc_book_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Manual of Taunt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<br><span class=\"q2\">Use: <a href=\"/spell=8133\" class=\"q2\">Teaches Taunt (Rank 1).</a></span></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=6621/manual-of-taunt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_03.jpg",
+  "id": "6621",
+  "slug": "manual-of-taunt"
+}

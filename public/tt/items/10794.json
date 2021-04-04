@@ -1,0 +1,10 @@
+{
+  "name": "Oglethorpe's Pledge of Secrecy",
+  "quality": "Common",
+  "icon": "inv_misc_note_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Oglethorpe's Pledge of Secrecy</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=14210\" class=\"q2\">Sign the pledge, swearing to Oglethorpe Obnoticus that you will keep the knowledge of Gnome Engineering in eternal secrecy.</a></span></td></tr></table>",
+  "url": "/item=10794/oglethorpes-pledge-of-secrecy",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_02.jpg",
+  "id": "10794",
+  "slug": "oglethorpes-pledge-of-secrecy"
+}

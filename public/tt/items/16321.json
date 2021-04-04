@@ -1,0 +1,11 @@
+{
+  "name": "Grimoire of Blood Pact (Rank 1)",
+  "quality": "Common",
+  "icon": "inv_misc_book_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Grimoire of Blood Pact (Rank 1)</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->4</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=9\" class=\"c9\">Warlock</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->4<br><span class=\"q2\">Use: <a href=\"/spell=20397\" class=\"q2\">Teaches Imp Blood Pact (Rank 1).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=16321/grimoire-of-blood-pact-rank-1",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_06.jpg",
+  "id": "16321",
+  "slug": "grimoire-of-blood-pact-rank-1"
+}

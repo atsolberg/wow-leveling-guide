@@ -1,0 +1,10 @@
+{
+  "name": "Mantle of the Horusath",
+  "quality": "Epic",
+  "icon": "inv_shoulder_28",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Mantle of the Horusath</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->72</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->610 Armor</span><br><span><!--stat4-->+12 Strength</span><br><span><!--stat5-->+20 Intellect</span><br><span><!--stat7-->+19 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=9343\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 14.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">56</span> <span class=\"moneycopper\">31</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ossirian the Unscarred</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 10.52%</div></td></tr></table>",
+  "url": "/item=21453/mantle-of-the-horusath",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_28.jpg",
+  "id": "21453",
+  "slug": "mantle-of-the-horusath"
+}

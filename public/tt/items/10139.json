@@ -1,0 +1,10 @@
+{
+  "name": "High Councillor's Circlet",
+  "quality": "Uncommon",
+  "icon": "inv_crown_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">High Councillor's Circlet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->65 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">42</span> <span class=\"moneycopper\">58</span></div></td></tr></table>",
+  "url": "/item=10139/high-councillors-circlet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crown_02.jpg",
+  "id": "10139",
+  "slug": "high-councillors-circlet"
+}

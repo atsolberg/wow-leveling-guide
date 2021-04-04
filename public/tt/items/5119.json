@@ -1,0 +1,10 @@
+{
+  "name": "Fine Loose Hair",
+  "quality": "Poor",
+  "icon": "inv_misc_monstertail_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Fine Loose Hair</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">18</span></div></td></tr></table>",
+  "url": "/item=5119/fine-loose-hair",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monstertail_02.jpg",
+  "id": "5119",
+  "slug": "fine-loose-hair"
+}

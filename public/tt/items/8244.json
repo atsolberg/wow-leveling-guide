@@ -1,0 +1,10 @@
+{
+  "name": "Flawless Draenethyst Sphere",
+  "quality": "Rare",
+  "icon": "inv_ore_arcanite_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Flawless Draenethyst Sphere</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span></div></td></tr></table>",
+  "url": "/item=8244/flawless-draenethyst-sphere",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ore_arcanite_02.jpg",
+  "id": "8244",
+  "slug": "flawless-draenethyst-sphere"
+}

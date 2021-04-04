@@ -1,0 +1,10 @@
+{
+  "name": "Apprentice Sash",
+  "quality": "Common",
+  "icon": "inv_misc_bandana_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Apprentice Sash</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->12</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->12 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 16 / 16</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">44</span></div></td></tr></table>",
+  "url": "/item=3442/apprentice-sash",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bandana_01.jpg",
+  "id": "3442",
+  "slug": "apprentice-sash"
+}

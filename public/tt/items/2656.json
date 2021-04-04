@@ -1,0 +1,10 @@
+{
+  "name": "Flimsy Chain Vest",
+  "quality": "Poor",
+  "icon": "inv_chest_chain",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Flimsy Chain Vest</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->63 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">9</span></div></td></tr></table>",
+  "url": "/item=2656/flimsy-chain-vest",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain.jpg",
+  "id": "2656",
+  "slug": "flimsy-chain-vest"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Book of Remove Curse",
+  "quality": "Common",
+  "icon": "inv_misc_book_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Book of Remove Curse</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->22</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->22<div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=8758/book-of-remove-curse",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_11.jpg",
+  "id": "8758",
+  "slug": "book-of-remove-curse"
+}

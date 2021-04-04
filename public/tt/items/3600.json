@@ -1,0 +1,10 @@
+{
+  "name": "Thin Cloth Bracers",
+  "quality": "Common",
+  "icon": "inv_bracer_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Thin Cloth Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->4 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 14 / 14</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">4</span></div></td></tr></table>",
+  "url": "/item=3600/thin-cloth-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_03.jpg",
+  "id": "3600",
+  "slug": "thin-cloth-bracers"
+}

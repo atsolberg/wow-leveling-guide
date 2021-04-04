@@ -1,0 +1,10 @@
+{
+  "name": "Imperial Plate Shoulders",
+  "quality": "Uncommon",
+  "icon": "inv_shoulder_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Imperial Plate Shoulders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->53</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->380 Armor</span><br><span><!--stat4-->+12 Strength</span><br><span><!--stat7-->+11 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->47<!--itemEffects:1--><br /><br /><span class=\"q\"><a href=\"/item-set=321\" class=\"q\">Imperial Plate</a> (0/7)</span><div class=\"q0 indent\"><span><!--si12424--><a href=\"/item=12424\">Imperial Plate Belt</a></span><br /><span><!--si12426--><a href=\"/item=12426\">Imperial Plate Boots</a></span><br /><span><!--si12425--><a href=\"/item=12425\">Imperial Plate Bracers</a></span><br /><span><!--si12422--><a href=\"/item=12422\">Imperial Plate Chest</a></span><br /><span><!--si12427--><a href=\"/item=12427\">Imperial Plate Helm</a></span><br /><span><!--si12429--><a href=\"/item=12429\">Imperial Plate Leggings</a></span><br /><span><!--si12428--><a href=\"/item=12428\">Imperial Plate Shoulders</a></span></div><br /><span class=\"q0\"><span>(2) Set : <a href=\"/spell=15666\">+100 Armor.</a></span><br /><span>(4) Set : <a href=\"/spell=9335\">+28 Attack Power.</a></span><br /><span>(6) Set : <a href=\"/spell=14465\">+18 Stamina.</a></span></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">86</span> <span class=\"moneycopper\">46</span></div></td></tr></table>",
+  "url": "/item=12428/imperial-plate-shoulders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_02.jpg",
+  "id": "12428",
+  "slug": "imperial-plate-shoulders"
+}

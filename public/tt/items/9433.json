@@ -1,0 +1,10 @@
+{
+  "name": "Forgotten Wraps",
+  "quality": "Rare",
+  "icon": "inv_bracer_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Forgotten Wraps</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->46</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->29 Armor</span><br><span><!--stat3-->+3 Agility</span><br><span><!--stat5-->+12 Intellect</span><br><span><!--stat7-->+4 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->41<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">41</span> <span class=\"moneycopper\">33</span></div></td></tr></table>",
+  "url": "/item=9433/forgotten-wraps",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_12.jpg",
+  "id": "9433",
+  "slug": "forgotten-wraps"
+}

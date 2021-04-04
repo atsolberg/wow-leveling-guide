@@ -1,0 +1,10 @@
+{
+  "name": "Evermurky",
+  "quality": "Common",
+  "icon": "inv_drink_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Evermurky</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=11008\" class=\"q2\">A typical alcoholic beverage.</a></span><br><span class=\"q\">&quot;Tastes better going down than coming up!&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=18287/evermurky",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_11.jpg",
+  "id": "18287",
+  "slug": "evermurky"
+}

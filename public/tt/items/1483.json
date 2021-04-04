@@ -1,0 +1,10 @@
+{
+  "name": "Face Smasher",
+  "quality": "Rare",
+  "icon": "inv_hammer_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Face Smasher</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->25 - 48 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(14.04 damage per second)<br><span><!--stat4-->+3 Strength</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=1483/face-smasher",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_08.jpg",
+  "id": "1483",
+  "slug": "face-smasher"
+}

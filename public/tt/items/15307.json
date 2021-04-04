@@ -1,0 +1,10 @@
+{
+  "name": "Feral Buckler",
+  "quality": "Uncommon",
+  "icon": "inv_shield_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Feral Buckler</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->395 Armor</span><br>7 Block<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->14<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">15</span></div></td></tr></table>",
+  "url": "/item=15307/feral-buckler",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_09.jpg",
+  "id": "15307",
+  "slug": "feral-buckler"
+}

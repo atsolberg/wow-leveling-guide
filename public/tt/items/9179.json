@@ -1,0 +1,10 @@
+{
+  "name": "Elixir of Greater Intellect",
+  "quality": "Common",
+  "icon": "inv_potion_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Elixir of Greater Intellect</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->47</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->37<br><span class=\"q2\">Use: <a href=\"/spell=11396\" class=\"q2\">Increases Intellect by 25 for 1 hour.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div></td></tr></table>",
+  "url": "/item=9179/elixir-of-greater-intellect",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_10.jpg",
+  "id": "9179",
+  "slug": "elixir-of-greater-intellect"
+}

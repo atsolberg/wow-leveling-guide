@@ -1,0 +1,10 @@
+{
+  "name": "OOX-22/FE Distress Beacon",
+  "quality": "Uncommon",
+  "icon": "inv_egg_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">OOX-22/FE Distress Beacon</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=2766\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40</td></tr></table>",
+  "url": "/item=8705/oox-22-fe-distress-beacon",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_egg_05.jpg",
+  "id": "8705",
+  "slug": "oox-22-fe-distress-beacon"
+}

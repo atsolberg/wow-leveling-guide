@@ -1,0 +1,10 @@
+{
+  "name": "Garrett Family Treasure",
+  "quality": "Common",
+  "icon": "inv_banner_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Garrett Family Treasure</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=8026/garrett-family-treasure",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_banner_01.jpg",
+  "id": "8026",
+  "slug": "garrett-family-treasure"
+}

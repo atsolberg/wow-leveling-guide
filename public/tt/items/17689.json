@@ -1,0 +1,10 @@
+{
+  "name": "Stormpike Training Collar",
+  "quality": "Common",
+  "icon": "inv_misc_bandage_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Stormpike Training Collar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><br /><a href=\"/zone=2597\" class=\"q1\">Alterac Valley</a><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=21866\" class=\"q2\">Use to train an Alterac Ram. Return the tamed animal to the Stormpike Stable Master.</a></span></td></tr></table>",
+  "url": "/item=17689/stormpike-training-collar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bandage_06.jpg",
+  "id": "17689",
+  "slug": "stormpike-training-collar"
+}

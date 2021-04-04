@@ -1,0 +1,10 @@
+{
+  "name": "Torch of Austen",
+  "quality": "Rare",
+  "icon": "inv_wand_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Torch of Austen</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->55 - 104 Fire Damage</span></td>\n    <th>Speed <!--spd-->1.40</th>\n</tr></table><!--dps-->(56.79 damage per second)<!--ebstats--><!--egstats--><!--eistats--><br>+10 Fire Resistance<!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->53<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">35</span> <span class=\"moneycopper\">90</span></div></td></tr></table>",
+  "url": "/item=13004/torch-of-austen",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_11.jpg",
+  "id": "13004",
+  "slug": "torch-of-austen"
+}

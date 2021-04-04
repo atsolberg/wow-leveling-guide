@@ -1,0 +1,10 @@
+{
+  "name": "Staff of Hale Magefire",
+  "quality": "Rare",
+  "icon": "inv_staff_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Staff of Hale Magefire</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->140 - 210 Damage</span></td>\n    <th>Speed <!--spd-->3.30</th>\n</tr></table><!--dps-->(53.03 damage per second)<br><span><!--stat5-->+25 Intellect</span><br><span><!--stat6-->+22 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">52</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=13000/staff-of-hale-magefire",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_23.jpg",
+  "id": "13000",
+  "slug": "staff-of-hale-magefire"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Codex of Sleep",
+  "quality": "Common",
+  "icon": "inv_misc_book_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Codex of Sleep</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->6</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=5\" class=\"c5\">Priest</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<br><span class=\"q2\">Use: <a href=\"/spell=726\" class=\"q2\">Teaches Sleep (Rank 1).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=1111/codex-of-sleep",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_09.jpg",
+  "id": "1111",
+  "slug": "codex-of-sleep"
+}

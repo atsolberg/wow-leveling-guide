@@ -1,0 +1,10 @@
+{
+  "name": "Garona: A Study on Stealth and Treachery",
+  "quality": "Rare",
+  "icon": "inv_misc_book_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Garona: A Study on Stealth and Treachery</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Unique<br /><a href=\"/quest=7498\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=4\" class=\"c4\">Rogue</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<br><span class=\"q\">&quot;The tome is magically sealed.&quot;</span></td></tr></table>",
+  "url": "/item=18356/garona-a-study-on-stealth-and-treachery",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_06.jpg",
+  "id": "18356",
+  "slug": "garona-a-study-on-stealth-and-treachery"
+}

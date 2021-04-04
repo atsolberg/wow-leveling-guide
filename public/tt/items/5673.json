@@ -1,0 +1,11 @@
+{
+  "name": "Libram: Exorcism II",
+  "quality": "Common",
+  "icon": "inv_misc_book_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Libram: Exorcism II</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->28</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=2\" class=\"c2\">Paladin</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->28<br><span class=\"q2\">Use: <a href=\"/spell=931\" class=\"q2\">Teaches Exorcism (Rank 2).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=5673/libram-exorcism-ii",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_08.jpg",
+  "id": "5673",
+  "slug": "libram-exorcism-ii"
+}

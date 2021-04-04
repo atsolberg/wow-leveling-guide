@@ -1,0 +1,10 @@
+{
+  "name": "Arcanite Fishing Pole",
+  "quality": "Rare",
+  "icon": "inv_fishingpole_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Arcanite Fishing Pole</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:20--><span class=\"q1\">Fishing Pole</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->42 - 63 Damage</span></td>\n    <th>Speed <!--spd-->3.00</th>\n</tr></table><!--dps-->(17.50 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires <a href=\"/skill=356\" class=\"q1\">Fishing</a> (300)<br><span class=\"q2\">Equip: <a href=\"/spell=24301\" class=\"q2\">Increased Fishing +35.</a></span><!--itemEffects:1--><br><span class=\"q\">&quot;It looks like Nat Pagle himself used this.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">21</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=19970/arcanite-fishing-pole",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_fishingpole_01.jpg",
+  "id": "19970",
+  "slug": "arcanite-fishing-pole"
+}

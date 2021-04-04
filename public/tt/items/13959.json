@@ -1,0 +1,10 @@
+{
+  "name": "Omokk's Girth Restrainer",
+  "quality": "Rare",
+  "icon": "inv_belt_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Omokk's Girth Restrainer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->353 Armor</span><br><span><!--stat4-->+15 Strength</span><br><span><!--stat7-->+9 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">95</span> <span class=\"moneycopper\">42</span></div></td></tr></table>",
+  "url": "/item=13959/omokks-girth-restrainer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_13.jpg",
+  "id": "13959",
+  "slug": "omokks-girth-restrainer"
+}

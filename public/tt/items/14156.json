@@ -1,0 +1,10 @@
+{
+  "name": "Bottomless Bag",
+  "quality": "Rare",
+  "icon": "inv_misc_bag_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Bottomless Bag</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<br />18 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span></div></td></tr></table>",
+  "url": "/item=14156/bottomless-bag",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_13.jpg",
+  "id": "14156",
+  "slug": "bottomless-bag"
+}

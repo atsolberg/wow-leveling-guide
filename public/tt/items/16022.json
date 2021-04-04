@@ -1,0 +1,10 @@
+{
+  "name": "Arcanite Dragonling",
+  "quality": "Rare",
+  "icon": "inv_misc_head_dragon_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Arcanite Dragonling</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when equipped<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (300)<br><span class=\"q2\">Use: <a href=\"/spell=23074\" class=\"q2\">Activates your Arcanite Dragonling to fight for you for 1 min. &nbsp;It requires an hour to cool down before it can be used again.</a> (1 Hour Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span></div></td></tr></table>",
+  "url": "/item=16022/arcanite-dragonling",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_dragon_01.jpg",
+  "id": "16022",
+  "slug": "arcanite-dragonling"
+}

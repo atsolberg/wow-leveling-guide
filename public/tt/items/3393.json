@@ -1,0 +1,11 @@
+{
+  "name": "Recipe: Minor Magic Resistance Potion",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Recipe: Minor Magic Resistance Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->22</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=171\" class=\"q1\">Alchemy</a> (110)<br><span class=\"q2\">Use: <a href=\"/spell=3180\" class=\"q2\">Teaches you how to make a Minor Magic Resistance Potion.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q1\"><a href=\"/item=3384\">Minor Magic Resistance Potion</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->22</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires Level <!--rlvl-->12<br><span class=\"q2\">Use: <a href=\"/spell=2380\" class=\"q2\">Increases your resistance to all schools of magic by 25 for 3 min.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">20</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=785\">Mageroyal</a>&nbsp;(3), <a href=\"/item=3355\">Wild Steelbloom</a>, <a href=\"/item=3371\">Empty Vial</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=3393/recipe-minor-magic-resistance-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "3393",
+  "slug": "recipe-minor-magic-resistance-potion"
+}

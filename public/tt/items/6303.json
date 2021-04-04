@@ -1,0 +1,10 @@
+{
+  "name": "Raw Slitherskin Mackerel",
+  "quality": "Common",
+  "icon": "inv_misc_fish_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Raw Slitherskin Mackerel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=7737\" class=\"q2\">Restores 30 health over 15 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=6303/raw-slitherskin-mackerel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_24.jpg",
+  "id": "6303",
+  "slug": "raw-slitherskin-mackerel"
+}

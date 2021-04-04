@@ -1,0 +1,10 @@
+{
+  "name": "Gemstone of Spirestone",
+  "quality": "Uncommon",
+  "icon": "inv_misc_gem_diamond_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Gemstone of Spirestone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Highlord Omokk</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 28.02%</div></td></tr></table>",
+  "url": "/item=12336/gemstone-of-spirestone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_diamond_02.jpg",
+  "id": "12336",
+  "slug": "gemstone-of-spirestone"
+}

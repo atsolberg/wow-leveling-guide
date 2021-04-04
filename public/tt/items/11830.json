@@ -1,0 +1,10 @@
+{
+  "name": "Webbed Diemetradon Scale",
+  "quality": "Common",
+  "icon": "inv_misc_monsterscales_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Webbed Diemetradon Scale</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=11830/webbed-diemetradon-scale",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_16.jpg",
+  "id": "11830",
+  "slug": "webbed-diemetradon-scale"
+}

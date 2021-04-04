@@ -1,0 +1,10 @@
+{
+  "name": "Maexxna's Fang",
+  "quality": "Epic",
+  "icon": "inv_knife_1h_stratholme_d_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Maexxna's Fang</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->83</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->94 - 141 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(65.28 damage per second)<br><span><!--stat7-->+8 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=14089\" class=\"q2\">+36 Attack Power.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=15464\" class=\"q2\">Improves your chance to hit by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">19</span> <span class=\"moneysilver\">93</span> <span class=\"moneycopper\">92</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Maexxna</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 17.23%</div></td></tr></table>",
+  "url": "/item=22804/maexxnas-fang",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_knife_1h_stratholme_d_01.jpg",
+  "id": "22804",
+  "slug": "maexxnas-fang"
+}

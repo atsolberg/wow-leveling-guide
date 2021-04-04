@@ -1,0 +1,10 @@
+{
+  "name": "Explosive Shell",
+  "quality": "Common",
+  "icon": "spell_fire_firebolt",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Explosive Shell</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=5105/explosive-shell",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_fire_firebolt.jpg",
+  "id": "5105",
+  "slug": "explosive-shell"
+}

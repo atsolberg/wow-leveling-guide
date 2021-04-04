@@ -1,0 +1,10 @@
+{
+  "name": "Unbalanced Axe",
+  "quality": "Poor",
+  "icon": "inv_throwingaxe_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Unbalanced Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->9 - 18 Damage</span></td>\n    <th>Speed <!--spd-->2.40</th>\n</tr></table><!--dps-->(5.63 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->14<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">86</span></div></td></tr></table>",
+  "url": "/item=1816/unbalanced-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_throwingaxe_03.jpg",
+  "id": "1816",
+  "slug": "unbalanced-axe"
+}

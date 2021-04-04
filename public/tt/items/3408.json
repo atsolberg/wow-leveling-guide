@@ -1,0 +1,10 @@
+{
+  "name": "Rune of Nesting",
+  "quality": "Common",
+  "icon": "inv_misc_rune_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rune of Nesting</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=3408/rune-of-nesting",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_rune_01.jpg",
+  "id": "3408",
+  "slug": "rune-of-nesting"
+}

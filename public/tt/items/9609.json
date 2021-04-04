@@ -1,0 +1,10 @@
+{
+  "name": "Shilly Mitts",
+  "quality": "Uncommon",
+  "icon": "inv_gauntlets_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Shilly Mitts</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->31</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->27 Armor</span><br><span><!--stat5-->+6 Intellect</span><br><span><!--stat6-->+6 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span> <span class=\"moneycopper\">9</span></div></td></tr></table>",
+  "url": "/item=9609/shilly-mitts",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_27.jpg",
+  "id": "9609",
+  "slug": "shilly-mitts"
+}

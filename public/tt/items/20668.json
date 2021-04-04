@@ -1,0 +1,10 @@
+{
+  "name": "Abyssal Mail Legguards",
+  "quality": "Rare",
+  "icon": "inv_pants_mail_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Abyssal Mail Legguards</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->320 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">35</span> <span class=\"moneycopper\">36</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: The Duke of Fathoms</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 25.53%</div></td></tr></table>",
+  "url": "/item=20668/abyssal-mail-legguards",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_mail_16.jpg",
+  "id": "20668",
+  "slug": "abyssal-mail-legguards"
+}

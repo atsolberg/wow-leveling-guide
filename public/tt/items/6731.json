@@ -1,0 +1,10 @@
+{
+  "name": "Ironforge Breastplate",
+  "quality": "Uncommon",
+  "icon": "inv_chest_plate05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Ironforge Breastplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->198 Armor</span><br><span><!--stat4-->+3 Strength</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">71</span></div></td></tr></table>",
+  "url": "/item=6731/ironforge-breastplate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_plate05.jpg",
+  "id": "6731",
+  "slug": "ironforge-breastplate"
+}

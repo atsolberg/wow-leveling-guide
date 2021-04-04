@@ -1,0 +1,10 @@
+{
+  "name": "Blackened Leather Belt",
+  "quality": "Common",
+  "icon": "inv_belt_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Blackened Leather Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->19 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 16 / 16</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">6</span></div></td></tr></table>",
+  "url": "/item=6058/blackened-leather-belt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_03.jpg",
+  "id": "6058",
+  "slug": "blackened-leather-belt"
+}

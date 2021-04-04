@@ -1,0 +1,10 @@
+{
+  "name": "Rusty Thieves' Tools",
+  "quality": "Common",
+  "icon": "inv_misc_gear_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rusty Thieves' Tools</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->15</td></tr></table>",
+  "url": "/item=7872/rusty-thieves-tools",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gear_03.jpg",
+  "id": "7872",
+  "slug": "rusty-thieves-tools"
+}

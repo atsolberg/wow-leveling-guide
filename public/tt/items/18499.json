@@ -1,0 +1,10 @@
+{
+  "name": "Barrier Shield",
+  "quality": "Rare",
+  "icon": "inv_shield_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Barrier Shield</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->2121 Armor</span><br>39 Block<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=13675\" class=\"q2\">Increases your chance to block attacks with a shield by 2%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=22912\" class=\"q2\">Increases the block value of your shield by 18.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">45</span> <span class=\"moneycopper\">89</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Mizzle the Crafty</div></td></tr></table>",
+  "url": "/item=18499/barrier-shield",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_10.jpg",
+  "id": "18499",
+  "slug": "barrier-shield"
+}

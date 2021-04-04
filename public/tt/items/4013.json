@@ -1,0 +1,10 @@
+{
+  "name": "Sterling Chain Pants",
+  "quality": "Poor",
+  "icon": "inv_pants_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Sterling Chain Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->64</span><!--bo--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->269 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->59<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">59</span></div></td></tr></table>",
+  "url": "/item=4013/sterling-chain-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_03.jpg",
+  "id": "4013",
+  "slug": "sterling-chain-pants"
+}

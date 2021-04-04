@@ -1,0 +1,10 @@
+{
+  "name": "Hallowed Wand - Leper Gnome",
+  "quality": "Common",
+  "icon": "inv_wand_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hallowed Wand - Leper Gnome</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=24719\" class=\"q2\">Puts a leper gnome costume on targeted party member.</a></span><br />5 Charges</td></tr></table>",
+  "url": "/item=20399/hallowed-wand-leper-gnome",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_12.jpg",
+  "id": "20399",
+  "slug": "hallowed-wand-leper-gnome"
+}

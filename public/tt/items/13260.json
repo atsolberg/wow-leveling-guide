@@ -1,0 +1,10 @@
+{
+  "name": "Wind Dancer Boots",
+  "quality": "Rare",
+  "icon": "inv_boots_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Wind Dancer Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->247 Armor</span><br><span><!--stat5-->+9 Intellect</span><br><span><!--stat6-->+16 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<br><span class=\"q2\">Equip: <a href=\"/spell=13669\" class=\"q2\">Increases your chance to dodge an attack by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">25</span> <span class=\"moneycopper\">61</span></div></td></tr></table>",
+  "url": "/item=13260/wind-dancer-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_01.jpg",
+  "id": "13260",
+  "slug": "wind-dancer-boots"
+}

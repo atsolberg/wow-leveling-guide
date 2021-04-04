@@ -1,0 +1,10 @@
+{
+  "name": "Death's Embrace",
+  "quality": "Rare",
+  "icon": "spell_shadow_scourgebuild",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Death's Embrace</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=4\" class=\"c4\">Rogue</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=24161\" class=\"q2\">Permanently adds 28 Attack Power and 1% Dodge to a leg or head slot item. Does not stack with other enchantments for the selected equipment slot.</a></span></td></tr></table>",
+  "url": "/item=19784/deaths-embrace",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_scourgebuild.jpg",
+  "id": "19784",
+  "slug": "deaths-embrace"
+}

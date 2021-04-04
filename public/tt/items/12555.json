@@ -1,0 +1,10 @@
+{
+  "name": "Battlechaser's Greaves",
+  "quality": "Rare",
+  "icon": "inv_boots_plate_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Battlechaser's Greaves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->397 Armor</span><br><span><!--stat4-->+14 Strength</span><br><span><!--stat3-->+13 Agility</span><br><span><!--stat7-->+8 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">6</span></div></td></tr></table>",
+  "url": "/item=12555/battlechasers-greaves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_plate_06.jpg",
+  "id": "12555",
+  "slug": "battlechasers-greaves"
+}

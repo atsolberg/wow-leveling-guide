@@ -1,0 +1,10 @@
+{
+  "name": "Top Half of Advanced Armorsmithing: Volume I",
+  "quality": "Rare",
+  "icon": "inv_misc_note_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Top Half of Advanced Armorsmithing: Volume I</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br><span class=\"q2\">Use: <a href=\"/spell=23231\" class=\"q2\">Combines the Top and Bottom Half of Advanced Armorsmithing: Volume I.</a></span><div class=\"whtt-extra whtt-droppedby\">Dropped by: King Gordok</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 8.88%</div></td></tr></table>",
+  "url": "/item=18780/top-half-of-advanced-armorsmithing-volume-i",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_06.jpg",
+  "id": "18780",
+  "slug": "top-half-of-advanced-armorsmithing-volume-i"
+}

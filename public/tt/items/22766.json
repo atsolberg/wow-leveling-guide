@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Ironvine Breastplate",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Plans: Ironvine Breastplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (300)<br>Requires <a href=\"/faction=609\" class=\"q1\">Cenarion Circle</a> - Revered<br><span class=\"q2\">Use: <a href=\"/spell=28464\" class=\"q2\">Teaches you how to make an Ironvine Breastplate</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">25</span></div><br /><span class=\"q3\"><a href=\"/item=22762\">Ironvine Breastplate</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->726 Armor</span><br><span><!--stat7-->+15 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+30 Nature Resistance<!--e--><!--ps--><br>Durability 135 / 135<br>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=13385\" class=\"q2\">Increased Defense +7.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">92</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=12655\">Enchanted Thorium Bar</a>&nbsp;(12), <a href=\"/item=19726\">Bloodvine</a>&nbsp;(2), <a href=\"/item=12360\">Arcanite Bar</a>&nbsp;(2), <a href=\"/item=12803\">Living Essence</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=22766/plans-ironvine-breastplate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "22766",
+  "slug": "plans-ironvine-breastplate"
+}

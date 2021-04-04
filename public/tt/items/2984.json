@@ -1,0 +1,10 @@
+{
+  "name": "Seer's Gloves",
+  "quality": "Uncommon",
+  "icon": "inv_gauntlets_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Seer's Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->20 Armor</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->13<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">15</span></div></td></tr></table>",
+  "url": "/item=2984/seers-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_18.jpg",
+  "id": "2984",
+  "slug": "seers-gloves"
+}

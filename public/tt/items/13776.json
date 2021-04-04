@@ -1,0 +1,10 @@
+{
+  "name": "[PH] Cloth Leggings of the Shining Dawn",
+  "quality": "Common",
+  "icon": "inv_pants_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">[PH] Cloth Leggings of the Shining Dawn</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->100</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->103 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->100<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">97</span> <span class=\"moneycopper\">91</span></div></td></tr></table>",
+  "url": "/item=13776/ph-cloth-leggings-of-the-shining-dawn",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_01.jpg",
+  "id": "13776",
+  "slug": "ph-cloth-leggings-of-the-shining-dawn"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "A Talking Head",
+  "quality": "Common",
+  "icon": "inv_misc_head_scourge_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">A Talking Head</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->12</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=460\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->12<br><span class=\"q\">&quot;Its lips are moving!&quot;</span></td></tr></table>",
+  "url": "/item=3317/a-talking-head",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_scourge_01.jpg",
+  "id": "3317",
+  "slug": "a-talking-head"
+}

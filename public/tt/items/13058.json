@@ -1,0 +1,10 @@
+{
+  "name": "Khoo's Point",
+  "quality": "Rare",
+  "icon": "inv_spear_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Khoo's Point</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->44</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:6--><span class=\"q1\">Polearm</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->77 - 117 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(38.80 damage per second)<br><span><!--stat7-->+20 Stamina</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->39<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">18</span> <span class=\"moneycopper\">33</span></div></td></tr></table>",
+  "url": "/item=13058/khoos-point",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_spear_02.jpg",
+  "id": "13058",
+  "slug": "khoos-point"
+}

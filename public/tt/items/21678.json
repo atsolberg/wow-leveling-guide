@@ -1,0 +1,10 @@
+{
+  "name": "Necklace of Purity",
+  "quality": "Epic",
+  "icon": "inv_jewelry_necklace_ahnqiraj_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Necklace of Purity</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->76</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat5-->+13 Intellect</span><br><span><!--stat7-->+9 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+20 Nature Resistance<!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=9398\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 8.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">9</span> <span class=\"moneysilver\">96</span> <span class=\"moneycopper\">41</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Battleguard Sartura</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 15.83%</div></td></tr></table>",
+  "url": "/item=21678/necklace-of-purity",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_ahnqiraj_04.jpg",
+  "id": "21678",
+  "slug": "necklace-of-purity"
+}

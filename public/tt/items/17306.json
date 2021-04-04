@@ -1,0 +1,10 @@
+{
+  "name": "Stormpike Soldier's Blood",
+  "quality": "Common",
+  "icon": "inv_potion_50",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Stormpike Soldier's Blood</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><br /><a href=\"/zone=2597\" class=\"q1\">Alterac Valley</a><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 100</div></td></tr></table>",
+  "url": "/item=17306/stormpike-soldiers-blood",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_50.jpg",
+  "id": "17306",
+  "slug": "stormpike-soldiers-blood"
+}

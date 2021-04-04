@@ -1,0 +1,10 @@
+{
+  "name": "Punctured Dew Gland",
+  "quality": "Poor",
+  "icon": "inv_misc_slime_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Punctured Dew Gland</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">31</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Thistleshrub Dew Collector</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 46.21%</div></td></tr></table>",
+  "url": "/item=8429/punctured-dew-gland",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_slime_01.jpg",
+  "id": "8429",
+  "slug": "punctured-dew-gland"
+}

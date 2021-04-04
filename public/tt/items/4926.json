@@ -1,0 +1,10 @@
+{
+  "name": "Chen's Empty Keg",
+  "quality": "Common",
+  "icon": "inv_cask_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Chen's Empty Keg</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->11</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=819\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->11</td></tr></table>",
+  "url": "/item=4926/chens-empty-keg",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_cask_04.jpg",
+  "id": "4926",
+  "slug": "chens-empty-keg"
+}

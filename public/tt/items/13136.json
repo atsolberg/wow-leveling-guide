@@ -1,0 +1,10 @@
+{
+  "name": "Lil Timmy's Peashooter",
+  "quality": "Rare",
+  "icon": "inv_weapon_rifle_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Lil Timmy's Peashooter</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->20 - 37 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(10.96 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">56</span></div></td></tr></table>",
+  "url": "/item=13136/lil-timmys-peashooter",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_08.jpg",
+  "id": "13136",
+  "slug": "lil-timmys-peashooter"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Stonesplinter Dagger",
+  "quality": "Uncommon",
+  "icon": "inv_weapon_shortblade_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Stonesplinter Dagger</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->13</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->7 - 14 Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(7.00 damage per second)<br><span><!--stat3-->+1 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->8<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">79</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Stonesplinter Seer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 3.85%</div></td></tr></table>",
+  "url": "/item=2266/stonesplinter-dagger",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_08.jpg",
+  "id": "2266",
+  "slug": "stonesplinter-dagger"
+}

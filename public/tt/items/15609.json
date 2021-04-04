@@ -1,0 +1,10 @@
+{
+  "name": "Bonelink Armor",
+  "quality": "Uncommon",
+  "icon": "inv_chest_chain_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Bonelink Armor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->47</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->258 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->42<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">18</span> <span class=\"moneycopper\">6</span></div></td></tr></table>",
+  "url": "/item=15609/bonelink-armor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_05.jpg",
+  "id": "15609",
+  "slug": "bonelink-armor"
+}

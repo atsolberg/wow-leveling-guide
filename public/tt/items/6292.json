@@ -1,0 +1,10 @@
+{
+  "name": "10 Pound Mud Snapper",
+  "quality": "Common",
+  "icon": "inv_misc_fish_33",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">10 Pound Mud Snapper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">8</span></div></td></tr></table>",
+  "url": "/item=6292/10-pound-mud-snapper",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_33.jpg",
+  "id": "6292",
+  "slug": "10-pound-mud-snapper"
+}

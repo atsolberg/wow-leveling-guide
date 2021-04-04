@@ -1,0 +1,10 @@
+{
+  "name": "Dirt-caked Pendant",
+  "quality": "Common",
+  "icon": "inv_jewelry_necklace_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dirt-caked Pendant</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=6625/dirt-caked-pendant",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_03.jpg",
+  "id": "6625",
+  "slug": "dirt-caked-pendant"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Soft Frenzy Flesh",
+  "quality": "Common",
+  "icon": "inv_misc_fish_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Soft Frenzy Flesh</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=5468/soft-frenzy-flesh",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_04.jpg",
+  "id": "5468",
+  "slug": "soft-frenzy-flesh"
+}

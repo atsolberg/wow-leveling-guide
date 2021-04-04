@@ -1,0 +1,10 @@
+{
+  "name": "Cantation of Manifestation",
+  "quality": "Common",
+  "icon": "inv_scroll_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Cantation of Manifestation</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Use near a mana rift disturbance&quot;</span></td></tr></table>",
+  "url": "/item=7308/cantation-of-manifestation",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_01.jpg",
+  "id": "7308",
+  "slug": "cantation-of-manifestation"
+}

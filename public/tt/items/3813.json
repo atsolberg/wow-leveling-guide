@@ -1,0 +1,10 @@
+{
+  "name": "Double Mail Pants",
+  "quality": "Poor",
+  "icon": "inv_pants_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Double Mail Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->168 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">72</span></div></td></tr></table>",
+  "url": "/item=3813/double-mail-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_03.jpg",
+  "id": "3813",
+  "slug": "double-mail-pants"
+}

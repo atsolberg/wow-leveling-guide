@@ -1,0 +1,10 @@
+{
+  "name": "Snakeskin Bag",
+  "quality": "Common",
+  "icon": "inv_misc_bag_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Snakeskin Bag</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br />Unique<br />10 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">32</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lady Anacondra</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 4.68%</div></td></tr></table>",
+  "url": "/item=6446/snakeskin-bag",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_12.jpg",
+  "id": "6446",
+  "slug": "snakeskin-bag"
+}

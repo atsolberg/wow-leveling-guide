@@ -1,0 +1,10 @@
+{
+  "name": "Fine Parchment",
+  "quality": "Poor",
+  "icon": "inv_scroll_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Fine Parchment</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">23</span></div></td></tr></table>",
+  "url": "/item=3767/fine-parchment",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_08.jpg",
+  "id": "3767",
+  "slug": "fine-parchment"
+}

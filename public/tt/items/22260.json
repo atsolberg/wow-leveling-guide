@@ -1,0 +1,10 @@
+{
+  "name": "Friendship Bracelet",
+  "quality": "Common",
+  "icon": "inv_jewelry_ring_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Friendship Bracelet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;These are received from true friends...&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 100</div></td></tr></table>",
+  "url": "/item=22260/friendship-bracelet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_ring_03.jpg",
+  "id": "22260",
+  "slug": "friendship-bracelet"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Mood Ring",
+  "quality": "Common",
+  "icon": "inv_jewelry_ring_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Mood Ring</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><span class=\"q\">&quot;It's blue, wait, it's green!&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">25</span></div></td></tr></table>",
+  "url": "/item=7338/mood-ring",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_ring_12.jpg",
+  "id": "7338",
+  "slug": "mood-ring"
+}

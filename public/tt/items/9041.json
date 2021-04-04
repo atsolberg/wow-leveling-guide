@@ -1,0 +1,11 @@
+{
+  "name": "Tablet of Earthbind Totem",
+  "quality": "Common",
+  "icon": "inv_misc_stonetablet_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tablet of Earthbind Totem</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->6</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=7\" class=\"c7\">Shaman</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">20</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=9041/tablet-of-earthbind-totem",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_stonetablet_05.jpg",
+  "id": "9041",
+  "slug": "tablet-of-earthbind-totem"
+}

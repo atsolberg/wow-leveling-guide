@@ -1,0 +1,10 @@
+{
+  "name": "Trogg Brew",
+  "quality": "Common",
+  "icon": "inv_drink_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Trogg Brew</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->17</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=5021\" class=\"q2\">Increases your health by 23 to 37, but decreases your spirit by 4 for 5 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">88</span></div></td></tr></table>",
+  "url": "/item=4953/trogg-brew",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_13.jpg",
+  "id": "4953",
+  "slug": "trogg-brew"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Beheading Blade",
+  "quality": "Uncommon",
+  "icon": "inv_sword_29",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Beheading Blade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->52</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->113 - 170 Damage</span></td>\n    <th>Speed <!--spd-->3.50</th>\n</tr></table><!--dps-->(40.43 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->47<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">15</span> <span class=\"moneycopper\">47</span></div></td></tr></table>",
+  "url": "/item=15253/beheading-blade",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_29.jpg",
+  "id": "15253",
+  "slug": "beheading-blade"
+}

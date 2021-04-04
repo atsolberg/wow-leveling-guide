@@ -1,0 +1,10 @@
+{
+  "name": "Brown Linen Vest",
+  "quality": "Common",
+  "icon": "inv_shirt_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Brown Linen Vest</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->8</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->15 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->3<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">31</span></div></td></tr></table>",
+  "url": "/item=2568/brown-linen-vest",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_05.jpg",
+  "id": "2568",
+  "slug": "brown-linen-vest"
+}

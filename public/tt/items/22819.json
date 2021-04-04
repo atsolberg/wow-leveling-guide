@@ -1,0 +1,10 @@
+{
+  "name": "Shield of Condemnation",
+  "quality": "Epic",
+  "icon": "inv_shield_28",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Shield of Condemnation</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->92</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->3425 Armor</span><br>68 Block<br><span><!--stat5-->+10 Intellect</span><br><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=18379\" class=\"q2\">Restores 6 mana per 5 sec.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=18038\" class=\"q2\">Increases healing done by spells and effects by up to 59.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">19</span> <span class=\"moneysilver\">42</span> <span class=\"moneycopper\">25</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Kel'Thuzad</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 15.00%</div></td></tr></table>",
+  "url": "/item=22819/shield-of-condemnation",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_28.jpg",
+  "id": "22819",
+  "slug": "shield-of-condemnation"
+}

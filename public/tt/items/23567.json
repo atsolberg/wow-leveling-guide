@@ -1,0 +1,10 @@
+{
+  "name": "[PH] Silithus PvP Dust [DEP]",
+  "quality": "Common",
+  "icon": "inv_misc_orb_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">[PH] Silithus PvP Dust [DEP]</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div></td></tr></table>",
+  "url": "/item=23567/ph-silithus-pvp-dust-dep",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_orb_05.jpg",
+  "id": "23567",
+  "slug": "ph-silithus-pvp-dust-dep"
+}

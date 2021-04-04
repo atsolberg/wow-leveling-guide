@@ -1,0 +1,11 @@
+{
+  "name": "Schematic: Parachute Cloak",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Schematic: Parachute Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (225)<br><span class=\"q2\">Use: <a href=\"/spell=12650\" class=\"q2\">Teaches you how to make a Parachute Cloak.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">75</span></div><br /><span class=\"q2\"><a href=\"/item=10518\">Parachute Cloak</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->30 Armor</span><br><span><!--stat3-->+8 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (225)<br><span class=\"q2\">Use: <a href=\"/spell=12438\" class=\"q2\">Reduces your fall speed for 10 sec.</a> (30 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">46</span> <span class=\"moneycopper\">96</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4339\">Bolt of Mageweave</a>&nbsp;(4), <a href=\"/item=10285\">Shadow Silk</a>&nbsp;(2), <a href=\"/item=10560\">Unstable Trigger</a>, <a href=\"/item=10505\">Solid Blasting Powder</a>&nbsp;(4)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=10606/schematic-parachute-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "10606",
+  "slug": "schematic-parachute-cloak"
+}

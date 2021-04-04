@@ -1,0 +1,10 @@
+{
+  "name": "QAEnchant Gloves +2% Threat",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QAEnchant Gloves +2% Threat</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27113\" class=\"q2\">Permanently enchant gloves to increase threat from all attacks and spells by 2%.</a></span></td></tr></table>",
+  "url": "/item=22034/qaenchant-gloves-2-threat",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "22034",
+  "slug": "qaenchant-gloves-2-threat"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Forged Steel Bars",
+  "quality": "Common",
+  "icon": "inv_ingot_mithril",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Forged Steel Bars</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=6534/forged-steel-bars",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ingot_mithril.jpg",
+  "id": "6534",
+  "slug": "forged-steel-bars"
+}

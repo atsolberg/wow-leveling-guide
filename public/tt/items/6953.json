@@ -1,0 +1,10 @@
+{
+  "name": "Verigan's Fist",
+  "quality": "Rare",
+  "icon": "inv_hammer_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Verigan's Fist</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->31</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->65 - 99 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(25.63 damage per second)<br><span><!--stat5-->+6 Intellect</span><br><span><!--stat7-->+7 Stamina</span><br><span><!--stat6-->+12 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=2\" class=\"c2\">Paladin</a></div></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">74</span> <span class=\"moneycopper\">59</span></div></td></tr></table>",
+  "url": "/item=6953/verigans-fist",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_05.jpg",
+  "id": "6953",
+  "slug": "verigans-fist"
+}

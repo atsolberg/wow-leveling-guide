@@ -1,0 +1,10 @@
+{
+  "name": "Ogre Tannin",
+  "quality": "Uncommon",
+  "icon": "inv_potion_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Ogre Tannin</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=18240/ogre-tannin",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_08.jpg",
+  "id": "18240",
+  "slug": "ogre-tannin"
+}

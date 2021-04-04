@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Scorpid Leg",
+  "quality": "Poor",
+  "icon": "inv_misc_organ_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Heavy Scorpid Leg</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">80</span></div></td></tr></table>",
+  "url": "/item=19938/heavy-scorpid-leg",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_organ_06.jpg",
+  "id": "19938",
+  "slug": "heavy-scorpid-leg"
+}

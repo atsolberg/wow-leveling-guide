@@ -1,0 +1,10 @@
+{
+  "name": "Longjaw Mud Snapper",
+  "quality": "Common",
+  "icon": "inv_misc_fish_32",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Longjaw Mud Snapper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<br><span class=\"q2\">Use: <a href=\"/spell=434\" class=\"q2\">Restores 243.6 health over 21 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=4592/longjaw-mud-snapper",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_32.jpg",
+  "id": "4592",
+  "slug": "longjaw-mud-snapper"
+}

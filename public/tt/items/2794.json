@@ -1,0 +1,10 @@
+{
+  "name": "An Old History Book",
+  "quality": "Common",
+  "icon": "inv_misc_book_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">An Old History Book</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=337\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->20</td></tr></table>",
+  "url": "/item=2794/an-old-history-book",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_09.jpg",
+  "id": "2794",
+  "slug": "an-old-history-book"
+}

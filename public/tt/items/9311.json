@@ -1,0 +1,10 @@
+{
+  "name": "Default Stationery",
+  "quality": "Common",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Default Stationery</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=9311/default-stationery",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "9311",
+  "slug": "default-stationery"
+}

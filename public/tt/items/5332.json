@@ -1,0 +1,11 @@
+{
+  "name": "Glowing Cat Figurine",
+  "quality": "Common",
+  "icon": "inv_misc_head_tiger_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Glowing Cat Figurine</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=6084\" class=\"q2\">Summons a Ghost Saber to fight for you for 10 min.</a> (10 Min Cooldown)</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">15</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ghost Saber</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 47.02%</div></td></tr></table>",
+  "completion_category": "15-2",
+  "url": "/item=5332/glowing-cat-figurine",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_tiger_01.jpg",
+  "id": "5332",
+  "slug": "glowing-cat-figurine"
+}

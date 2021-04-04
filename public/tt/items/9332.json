@@ -1,0 +1,10 @@
+{
+  "name": "Crusted Bandages",
+  "quality": "Poor",
+  "icon": "inv_misc_bandage_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Crusted Bandages</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">38</span></div></td></tr></table>",
+  "url": "/item=9332/crusted-bandages",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bandage_08.jpg",
+  "id": "9332",
+  "slug": "crusted-bandages"
+}

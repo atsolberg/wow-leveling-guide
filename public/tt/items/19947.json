@@ -1,0 +1,10 @@
+{
+  "name": "Nat Pagle's Broken Reel",
+  "quality": "Rare",
+  "icon": "inv_gizmo_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Nat Pagle's Broken Reel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->68</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=24610\" class=\"q2\">Increases the chance to hit with spells by 10% for 15 sec.</a> (1 Min, 15 Sec Cooldown)</span><!--itemEffects:1--><br><span class=\"q\">&quot;The inscription reads: Fer really long castin'.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">8</span> <span class=\"moneysilver\">65</span> <span class=\"moneycopper\">28</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Gahz'ranka</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 39.06%</div></td></tr></table>",
+  "url": "/item=19947/nat-pagles-broken-reel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_09.jpg",
+  "id": "19947",
+  "slug": "nat-pagles-broken-reel"
+}

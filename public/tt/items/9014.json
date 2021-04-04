@@ -1,0 +1,11 @@
+{
+  "name": "Codex of Mind Soothe III",
+  "quality": "Common",
+  "icon": "inv_misc_book_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Codex of Mind Soothe III</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->52</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=5\" class=\"c5\">Priest</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<br><span class=\"q2\">Use: <a href=\"/spell=3085\" class=\"q2\">Teaches Greater Heal.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=9014/codex-of-mind-soothe-iii",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_09.jpg",
+  "id": "9014",
+  "slug": "codex-of-mind-soothe-iii"
+}

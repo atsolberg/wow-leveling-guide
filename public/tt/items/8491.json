@@ -1,0 +1,11 @@
+{
+  "name": "Cat Carrier (Black Tabby)",
+  "quality": "Common",
+  "icon": "inv_box_petcarrier_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Cat Carrier (Black Tabby)</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when used<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=10675\" class=\"q2\">Right Click to summon and dismiss your cat.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span></div></td></tr></table>",
+  "completion_category": "15-2",
+  "url": "/item=8491/cat-carrier-black-tabby",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_petcarrier_01.jpg",
+  "id": "8491",
+  "slug": "cat-carrier-black-tabby"
+}

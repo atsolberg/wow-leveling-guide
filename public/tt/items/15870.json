@@ -1,0 +1,10 @@
+{
+  "name": "Golden Skeleton Key",
+  "quality": "Uncommon",
+  "icon": "inv_misc_key_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Golden Skeleton Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (150)<br><span class=\"q2\">Use: <a href=\"/spell=19649\" class=\"q2\">Allows opening of standard locks. &nbsp;The skeleton key is consumed in the process.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span></div></td></tr></table>",
+  "url": "/item=15870/golden-skeleton-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_13.jpg",
+  "id": "15870",
+  "slug": "golden-skeleton-key"
+}

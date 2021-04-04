@@ -1,0 +1,10 @@
+{
+  "name": "Gypsy Sash",
+  "quality": "Common",
+  "icon": "inv_belt_25",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gypsy Sash</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->12</span><!--bo--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->33 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->7<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">57</span></div></td></tr></table>",
+  "url": "/item=9750/gypsy-sash",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_25.jpg",
+  "id": "9750",
+  "slug": "gypsy-sash"
+}

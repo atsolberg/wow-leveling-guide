@@ -1,0 +1,10 @@
+{
+  "name": "Mallet of Zul'Farrak",
+  "quality": "Uncommon",
+  "icon": "inv_hammer_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Mallet of Zul'Farrak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=9240/mallet-of-zulfarrak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_19.jpg",
+  "id": "9240",
+  "slug": "mallet-of-zulfarrak"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Beatstick",
+  "quality": "Common",
+  "icon": "inv_mace_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Beatstick</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->8</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->9 - 14 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(4.42 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->3<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">99</span></div></td></tr></table>",
+  "url": "/item=3190/beatstick",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_02.jpg",
+  "id": "3190",
+  "slug": "beatstick"
+}

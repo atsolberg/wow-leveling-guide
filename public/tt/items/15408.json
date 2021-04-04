@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Scorpid Scale",
+  "quality": "Common",
+  "icon": "inv_misc_monsterscales_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Heavy Scorpid Scale</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div></td></tr></table>",
+  "url": "/item=15408/heavy-scorpid-scale",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_03.jpg",
+  "id": "15408",
+  "slug": "heavy-scorpid-scale"
+}

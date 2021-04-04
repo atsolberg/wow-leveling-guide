@@ -1,0 +1,10 @@
+{
+  "name": "Rockshard Pellets",
+  "quality": "Rare",
+  "icon": "inv_ammo_bullet_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Rockshard Pellets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->52</span><!--bo--><table width=\"100%\"><tr><td>Ammo</td><th><!--scstart6:3--><span class=\"q1\">Bullet</span><!--scend--></th></tr></table><span>Adds 18 damage per second</span>\n<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->47<!--itemEffects:1--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">5</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lord Roccor</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 16.08%</div></td></tr></table>",
+  "url": "/item=11630/rockshard-pellets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ammo_bullet_02.jpg",
+  "id": "11630",
+  "slug": "rockshard-pellets"
+}

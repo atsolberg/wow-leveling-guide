@@ -1,0 +1,10 @@
+{
+  "name": "Blackguard",
+  "quality": "Epic",
+  "icon": "inv_sword_39",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Blackguard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:7--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->65 - 121 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(51.67 damage per second)<br><span><!--stat7-->+9 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=13665\" class=\"q2\">Increases your chance to parry an attack by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">10</span> <span class=\"moneysilver\">28</span> <span class=\"moneycopper\">90</span></div></td></tr></table>",
+  "url": "/item=19168/blackguard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_39.jpg",
+  "id": "19168",
+  "slug": "blackguard"
+}

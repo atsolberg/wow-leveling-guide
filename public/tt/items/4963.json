@@ -1,0 +1,10 @@
+{
+  "name": "Thunderhorn Cloak",
+  "quality": "Common",
+  "icon": "inv_misc_cape_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Thunderhorn Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->8</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->7 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">30</span></div></td></tr></table>",
+  "url": "/item=4963/thunderhorn-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_03.jpg",
+  "id": "4963",
+  "slug": "thunderhorn-cloak"
+}

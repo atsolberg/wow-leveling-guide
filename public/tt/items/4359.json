@@ -1,0 +1,10 @@
+{
+  "name": "Handful of Copper Bolts",
+  "quality": "Common",
+  "icon": "inv_misc_gear_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Handful of Copper Bolts</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->8</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=4359/handful-of-copper-bolts",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gear_06.jpg",
+  "id": "4359",
+  "slug": "handful-of-copper-bolts"
+}

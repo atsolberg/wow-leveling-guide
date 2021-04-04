@@ -1,0 +1,10 @@
+{
+  "name": "Cold Forged Hammer",
+  "quality": "Rare",
+  "icon": "inv_hammer_22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Cold Forged Hammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->72 - 135 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(41.40 damage per second)<br><span><!--stat5-->+9 Intellect</span><br><span><!--stat7-->+5 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=21625\" class=\"q2\">Restores 3 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">86</span> <span class=\"moneycopper\">93</span></div></td></tr></table>",
+  "url": "/item=20648/cold-forged-hammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_22.jpg",
+  "id": "20648",
+  "slug": "cold-forged-hammer"
+}

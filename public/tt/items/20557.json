@@ -1,0 +1,10 @@
+{
+  "name": "Hallow's End Pumpkin Treat",
+  "quality": "Common",
+  "icon": "inv_misc_food_59",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hallow's End Pumpkin Treat</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Duration: 14 days (real time)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=24930\" class=\"q2\">Enjoy a tasty Hallow's End treat! &nbsp;Better eat it quick before they go bad...</a> (1 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 100</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=20557/hallows-end-pumpkin-treat",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_59.jpg",
+  "id": "20557",
+  "slug": "hallows-end-pumpkin-treat"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Gnome Camera Key",
+  "quality": "Common",
+  "icon": "inv_misc_key_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gnome Camera Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=6974\" class=\"q2\">Use on the Gnome Camera Terminal.</a></span><br><span class=\"q\">&quot;NYI&quot;</span></td></tr></table>",
+  "url": "/item=5916/gnome-camera-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_02.jpg",
+  "id": "5916",
+  "slug": "gnome-camera-key"
+}

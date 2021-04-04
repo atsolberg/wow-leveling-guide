@@ -1,0 +1,11 @@
+{
+  "name": "Grimoire of Blood Boil II",
+  "quality": "Common",
+  "icon": "inv_misc_book_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Grimoire of Blood Boil II</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->18</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=9\" class=\"c9\">Warlock</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<br><span class=\"q2\">Use: <a href=\"/spell=655\" class=\"q2\">Teaches Blood Boil (Rank 2).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=3140/grimoire-of-blood-boil-ii",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_06.jpg",
+  "id": "3140",
+  "slug": "grimoire-of-blood-boil-ii"
+}

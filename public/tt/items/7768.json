@@ -1,0 +1,10 @@
+{
+  "name": "Empty Red Waterskin",
+  "quality": "Common",
+  "icon": "inv_drink_waterskin_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Empty Red Waterskin</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=9583\" class=\"q2\">This container needs to be filled with water from the well in Tarren Mill.</a></span></td></tr></table>",
+  "url": "/item=7768/empty-red-waterskin",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_waterskin_10.jpg",
+  "id": "7768",
+  "slug": "empty-red-waterskin"
+}

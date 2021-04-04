@@ -1,0 +1,10 @@
+{
+  "name": "Felhound Tracker Kit",
+  "quality": "Common",
+  "icon": "inv_box_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Felhound Tracker Kit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<br />Duration: 10 min<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;FRAGILE - Handle With Care&quot;</span><br><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=10834/felhound-tracker-kit",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_01.jpg",
+  "id": "10834",
+  "slug": "felhound-tracker-kit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Chief Brigadier Girdle",
+  "quality": "Uncommon",
+  "icon": "inv_belt_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Chief Brigadier Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->38</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->125 Armor</span><br><span><!--stat4-->+10 Strength</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->33<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">27</span> <span class=\"moneycopper\">91</span></div></td></tr></table>",
+  "url": "/item=4727/chief-brigadier-girdle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_16.jpg",
+  "id": "4727",
+  "slug": "chief-brigadier-girdle"
+}

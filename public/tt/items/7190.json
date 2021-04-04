@@ -1,0 +1,10 @@
+{
+  "name": "Scorched Rocket Boots",
+  "quality": "Poor",
+  "icon": "inv_gizmo_rocketboot_destroyed_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Scorched Rocket Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->26</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=7190/scorched-rocket-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_rocketboot_destroyed_02.jpg",
+  "id": "7190",
+  "slug": "scorched-rocket-boots"
+}

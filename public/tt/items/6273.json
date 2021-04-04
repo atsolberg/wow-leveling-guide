@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Green Woolen Robe",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pattern: Green Woolen Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->18</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=197\" class=\"q1\">Tailoring</a> (90)<br><span class=\"q2\">Use: <a href=\"/spell=7637\" class=\"q2\">Teaches you how to sew a Green Woolen Robe.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">87</span></div><br /><span class=\"q2\"><a href=\"/item=6243\">Green Woolen Robe</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->32 Armor</span><br><span><!--stat5-->+3 Intellect</span><br><span><!--stat7-->+2 Stamina</span><br><span><!--stat6-->+3 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55<br>Requires Level <!--rlvl-->13<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">45</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=2997\">Bolt of Woolen Cloth</a>&nbsp;(3), <a href=\"/item=2321\">Fine Thread</a>&nbsp;(2), <a href=\"/item=2605\">Green Dye</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=6273/pattern-green-woolen-robe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "6273",
+  "slug": "pattern-green-woolen-robe"
+}

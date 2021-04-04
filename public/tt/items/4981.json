@@ -1,0 +1,10 @@
+{
+  "name": "Agmond's Belt Pouch",
+  "quality": "Common",
+  "icon": "inv_misc_bag_09_black",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Agmond's Belt Pouch</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><br />Binds when picked up<br />Unique<br />12 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=4981/agmonds-belt-pouch",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_09_black.jpg",
+  "id": "4981",
+  "slug": "agmonds-belt-pouch"
+}

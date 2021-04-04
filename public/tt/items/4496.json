@@ -1,0 +1,10 @@
+{
+  "name": "Small Brown Pouch",
+  "quality": "Common",
+  "icon": "inv_misc_bag_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Small Brown Pouch</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><br />6 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=4496/small-brown-pouch",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_09.jpg",
+  "id": "4496",
+  "slug": "small-brown-pouch"
+}

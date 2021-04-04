@@ -1,0 +1,10 @@
+{
+  "name": "Dancing Sliver",
+  "quality": "Rare",
+  "icon": "inv_staff_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Dancing Sliver</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->98 - 148 Damage</span></td>\n    <th>Speed <!--spd-->2.40</th>\n</tr></table><!--dps-->(51.25 damage per second)<br><span><!--stat5-->+12 Intellect</span><br><span><!--stat6-->+29 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">45</span> <span class=\"moneycopper\">2</span></div></td></tr></table>",
+  "url": "/item=15854/dancing-sliver",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_07.jpg",
+  "id": "15854",
+  "slug": "dancing-sliver"
+}

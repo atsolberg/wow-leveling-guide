@@ -1,0 +1,10 @@
+{
+  "name": "Tome of Fiery Arcana",
+  "quality": "Epic",
+  "icon": "inv_misc_book_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Tome of Fiery Arcana</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=17875\" class=\"q2\">Increases damage done by Fire spells and effects by up to 40.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">12</span> <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=19311/tome-of-fiery-arcana",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_09.jpg",
+  "id": "19311",
+  "slug": "tome-of-fiery-arcana"
+}

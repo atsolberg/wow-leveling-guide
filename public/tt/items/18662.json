@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Leather Ball",
+  "quality": "Common",
+  "icon": "inv_misc_throwingball_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Heavy Leather Ball</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Unique (10)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=23135\" class=\"q2\">Throw the ball to a friendly player. &nbsp; If they have free room in their pack they will catch it!</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">5</span></div></td></tr></table>",
+  "url": "/item=18662/heavy-leather-ball",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_throwingball_01.jpg",
+  "id": "18662",
+  "slug": "heavy-leather-ball"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Thieven' Kit",
+  "quality": "Common",
+  "icon": "inv_crate_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Thieven' Kit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->16</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=4\" class=\"c4\">Rogue</a></div></td></tr></table><table><tr><td><span class=\"q\">&quot;Invalid loot table, crashes when you modify Miscellaneous&quot;</span><br><span class=\"q0\">Locked</span></td></tr></table>",
+  "url": "/item=7868/thieven-kit",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crate_05.jpg",
+  "id": "7868",
+  "slug": "thieven-kit"
+}

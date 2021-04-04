@@ -1,0 +1,10 @@
+{
+  "name": "Pestilent Wand",
+  "quality": "Common",
+  "icon": "inv_wand_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pestilent Wand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->28 - 53 Nature Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(27.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">31</span> <span class=\"moneycopper\">42</span></div></td></tr></table>",
+  "url": "/item=5347/pestilent-wand",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_04.jpg",
+  "id": "5347",
+  "slug": "pestilent-wand"
+}

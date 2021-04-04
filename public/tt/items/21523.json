@@ -1,0 +1,10 @@
+{
+  "name": "Fang of Korialstrasz",
+  "quality": "Epic",
+  "icon": "inv_weapon_shortblade_29",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Fang of Korialstrasz</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->76</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->43 - 106 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(41.39 damage per second)<br><span><!--stat5-->+14 Intellect</span><br><span><!--stat7-->+9 Stamina</span><br><span><!--stat6-->+13 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=26228\" class=\"q2\">Increases healing done by spells and effects by up to 121.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">14</span> <span class=\"moneysilver\">28</span> <span class=\"moneycopper\">5</span></div></td></tr></table>",
+  "url": "/item=21523/fang-of-korialstrasz",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_29.jpg",
+  "id": "21523",
+  "slug": "fang-of-korialstrasz"
+}

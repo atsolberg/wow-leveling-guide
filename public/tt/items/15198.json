@@ -1,0 +1,10 @@
+{
+  "name": "Knight's Colors",
+  "quality": "Common",
+  "icon": "inv_misc_tabardpvp_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Knight's Colors</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Tabard</td><th><!--scstart4:-7--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires <span class=\"icon-horde\">Stone Guard</span> <span class=\"icon-alliance\">Knight</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span></div></td></tr></table>",
+  "url": "/item=15198/knights-colors",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_tabardpvp_03.jpg",
+  "id": "15198",
+  "slug": "knights-colors"
+}

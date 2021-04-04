@@ -1,0 +1,10 @@
+{
+  "name": "Mark of the Dawn",
+  "quality": "Common",
+  "icon": "inv_misc_token_argentdawn2",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Mark of the Dawn</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique (3)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=30089\" class=\"q2\">Increases Stamina for 1 hour.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 3</div></td></tr></table>",
+  "url": "/item=23195/mark-of-the-dawn",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_token_argentdawn2.jpg",
+  "id": "23195",
+  "slug": "mark-of-the-dawn"
+}

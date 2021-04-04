@@ -1,0 +1,10 @@
+{
+  "name": "A Stack of Letters",
+  "quality": "Common",
+  "icon": "inv_letter_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">A Stack of Letters</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=2187/a-stack-of-letters",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_03.jpg",
+  "id": "2187",
+  "slug": "a-stack-of-letters"
+}

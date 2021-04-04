@@ -1,0 +1,10 @@
+{
+  "name": "Breath of Wind",
+  "quality": "Common",
+  "icon": "spell_nature_cyclone",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Breath of Wind</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span></div></td></tr></table>",
+  "url": "/item=7081/breath-of-wind",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_cyclone.jpg",
+  "id": "7081",
+  "slug": "breath-of-wind"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Mark of the Kirin Tor",
+  "quality": "Uncommon",
+  "icon": "inv_jewelry_necklace_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Mark of the Kirin Tor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat5-->+7 Intellect</span><br><span><!--stat6-->+2 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">18</span> <span class=\"moneycopper\">6</span></div></td></tr></table>",
+  "url": "/item=5004/mark-of-the-kirin-tor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_08.jpg",
+  "id": "5004",
+  "slug": "mark-of-the-kirin-tor"
+}

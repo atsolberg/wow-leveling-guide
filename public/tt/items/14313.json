@@ -1,0 +1,10 @@
+{
+  "name": "Celestial Cape",
+  "quality": "Uncommon",
+  "icon": "inv_misc_cape_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Celestial Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->54</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->35 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->49<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">92</span> <span class=\"moneycopper\">98</span></div></td></tr></table>",
+  "url": "/item=14313/celestial-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_05.jpg",
+  "id": "14313",
+  "slug": "celestial-cape"
+}

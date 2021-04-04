@@ -1,0 +1,10 @@
+{
+  "name": "Felcloth",
+  "quality": "Common",
+  "icon": "inv_fabric_felrag",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Felcloth</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span></div></td></tr></table>",
+  "url": "/item=14256/felcloth",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_fabric_felrag.jpg",
+  "id": "14256",
+  "slug": "felcloth"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Bloodforged Legplates",
+  "quality": "Uncommon",
+  "icon": "inv_pants_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Bloodforged Legplates</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->49</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->413 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->44<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">91</span> <span class=\"moneycopper\">58</span></div></td></tr></table>",
+  "url": "/item=14953/bloodforged-legplates",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_06.jpg",
+  "id": "14953",
+  "slug": "bloodforged-legplates"
+}

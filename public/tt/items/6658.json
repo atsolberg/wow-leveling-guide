@@ -1,0 +1,10 @@
+{
+  "name": "Example Collar",
+  "quality": "Common",
+  "icon": "inv_belt_30",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Example Collar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=6658/example-collar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_30.jpg",
+  "id": "6658",
+  "slug": "example-collar"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Laced Mail Belt",
+  "quality": "Poor",
+  "icon": "inv_belt_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Laced Mail Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->83 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->14<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">47</span></div></td></tr></table>",
+  "url": "/item=1738/laced-mail-belt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_06.jpg",
+  "id": "1738",
+  "slug": "laced-mail-belt"
+}

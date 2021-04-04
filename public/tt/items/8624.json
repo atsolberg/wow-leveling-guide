@@ -1,0 +1,10 @@
+{
+  "name": "Red Sparkler",
+  "quality": "Common",
+  "icon": "inv_wand_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Red Sparkler</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=8624/red-sparkler",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_06.jpg",
+  "id": "8624",
+  "slug": "red-sparkler"
+}

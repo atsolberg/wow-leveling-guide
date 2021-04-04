@@ -1,0 +1,10 @@
+{
+  "name": "Rich Purple Silk Shirt",
+  "quality": "Common",
+  "icon": "inv_shirt_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rich Purple Silk Shirt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><table width=\"100%\"><tr><td>Shirt</td><th><!--scstart4:-8--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span></div></td></tr></table>",
+  "url": "/item=4335/rich-purple-silk-shirt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_16.jpg",
+  "id": "4335",
+  "slug": "rich-purple-silk-shirt"
+}

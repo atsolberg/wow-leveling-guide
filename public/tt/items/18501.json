@@ -1,0 +1,10 @@
+{
+  "name": "Felvine Shard",
+  "quality": "Common",
+  "icon": "inv_enchant_shardradientsmall",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Felvine Shard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=18501/felvine-shard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_enchant_shardradientsmall.jpg",
+  "id": "18501",
+  "slug": "felvine-shard"
+}

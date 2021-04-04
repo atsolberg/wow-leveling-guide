@@ -1,0 +1,10 @@
+{
+  "name": "Sara Balloo's Plea",
+  "quality": "Common",
+  "icon": "inv_letter_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sara Balloo's Plea</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;To My Honorable King&quot;</span><br><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=4514/sara-balloos-plea",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_04.jpg",
+  "id": "4514",
+  "slug": "sara-balloos-plea"
+}

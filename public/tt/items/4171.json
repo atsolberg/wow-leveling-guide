@@ -1,0 +1,11 @@
+{
+  "name": "Tablet of Agitating Totem III",
+  "quality": "Common",
+  "icon": "inv_misc_stonetablet_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tablet of Agitating Totem III</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->28</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=7\" class=\"c7\">Shaman</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->28<div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=4171/tablet-of-agitating-totem-iii",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_stonetablet_05.jpg",
+  "id": "4171",
+  "slug": "tablet-of-agitating-totem-iii"
+}

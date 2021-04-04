@@ -1,0 +1,10 @@
+{
+  "name": "Belt of the Ordained",
+  "quality": "Rare",
+  "icon": "inv_belt_28",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Belt of the Ordained</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->353 Armor</span><br><span><!--stat5-->+8 Intellect</span><br><span><!--stat7-->+9 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Equip: <a href=\"/spell=18032\" class=\"q2\">Increases healing done by spells and effects by up to 42.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">96</span> <span class=\"moneycopper\">95</span></div></td></tr></table>",
+  "url": "/item=18702/belt-of-the-ordained",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_28.jpg",
+  "id": "18702",
+  "slug": "belt-of-the-ordained"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Goblin Engineer Membership Card",
+  "quality": "Common",
+  "icon": "inv_letter_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Goblin Engineer Membership Card</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Binds when picked up<br />Unique<br />Duration: 14 days<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;A member in good standing of the Goblin Experimental Engineering Korporation.&quot;</span></td></tr></table>",
+  "url": "/item=10791/goblin-engineer-membership-card",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_17.jpg",
+  "id": "10791",
+  "slug": "goblin-engineer-membership-card"
+}

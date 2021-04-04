@@ -1,0 +1,10 @@
+{
+  "name": "Skycaller",
+  "quality": "Rare",
+  "icon": "inv_wand_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Skycaller</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->24 - 45 Arcane Damage</span></td>\n    <th>Speed <!--spd-->1.60</th>\n</tr></table><!--dps-->(21.56 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">23</span></div></td></tr></table>",
+  "url": "/item=12984/skycaller",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_02.jpg",
+  "id": "12984",
+  "slug": "skycaller"
+}

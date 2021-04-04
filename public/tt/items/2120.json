@@ -1,0 +1,10 @@
+{
+  "name": "Thin Cloth Pants",
+  "quality": "Common",
+  "icon": "inv_pants_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Thin Cloth Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->9 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=2120/thin-cloth-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_02.jpg",
+  "id": "2120",
+  "slug": "thin-cloth-pants"
+}

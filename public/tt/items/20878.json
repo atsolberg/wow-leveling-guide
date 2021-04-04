@@ -1,0 +1,10 @@
+{
+  "name": "Idol of Rebirth",
+  "quality": "Rare",
+  "icon": "inv_qirajidol_rebirth",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Idol of Rebirth</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->61</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=2\" class=\"c2\">Paladin</a>, <a href=\"/class=5\" class=\"c5\">Priest</a>, <a href=\"/class=7\" class=\"c7\">Shaman</a>, <a href=\"/class=9\" class=\"c9\">Warlock</a>, <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div></td></tr></table>",
+  "url": "/item=20878/idol-of-rebirth",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_qirajidol_rebirth.jpg",
+  "id": "20878",
+  "slug": "idol-of-rebirth"
+}

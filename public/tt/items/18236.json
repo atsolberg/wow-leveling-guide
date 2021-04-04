@@ -1,0 +1,10 @@
+{
+  "name": "Gordok Chew Toy",
+  "quality": "Poor",
+  "icon": "inv_misc_ear_human_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Gordok Chew Toy</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">27</span> <span class=\"moneycopper\">16</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Gordok Mastiff</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 15.91%</div></td></tr></table>",
+  "url": "/item=18236/gordok-chew-toy",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_ear_human_01.jpg",
+  "id": "18236",
+  "slug": "gordok-chew-toy"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Runed Silver Rod",
+  "quality": "Common",
+  "icon": "inv_staff_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Runed Silver Rod</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">24</span></div></td></tr></table>",
+  "url": "/item=6339/runed-silver-rod",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_01.jpg",
+  "id": "6339",
+  "slug": "runed-silver-rod"
+}

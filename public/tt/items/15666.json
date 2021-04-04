@@ -1,0 +1,10 @@
+{
+  "name": "Impenetrable Pauldrons",
+  "quality": "Uncommon",
+  "icon": "inv_shoulder_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Impenetrable Pauldrons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->238 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">83</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=15666/impenetrable-pauldrons",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_13.jpg",
+  "id": "15666",
+  "slug": "impenetrable-pauldrons"
+}

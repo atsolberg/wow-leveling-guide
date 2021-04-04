@@ -1,0 +1,10 @@
+{
+  "name": "SnowMaster 9000",
+  "quality": "Common",
+  "icon": "spell_frost_windwalkon",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">SnowMaster 9000</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->38</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (190)<br><span class=\"q2\">Use: <a href=\"/spell=21935\" class=\"q2\">Allows an experienced engineer to turn water into a snowball. &nbsp;The Snowmaster requires a day to build up enough chill to freeze another snowball.</a> (1 Day Cooldown)</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">75</span></div></td></tr></table>",
+  "url": "/item=17716/snowmaster-9000",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_frost_windwalkon.jpg",
+  "id": "17716",
+  "slug": "snowmaster-9000"
+}

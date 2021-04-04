@@ -1,0 +1,10 @@
+{
+  "name": "Spiked Collar",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Spiked Collar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<br><span class=\"q2\">Use: <a href=\"/spell=8176\" class=\"q2\">Summons a guardian felhunter that will protect you for 1 hour.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span> <span class=\"moneycopper\">81</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lord Malathrom</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 79.29%</div></td></tr></table>",
+  "url": "/item=1187/spiked-collar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_07.jpg",
+  "id": "1187",
+  "slug": "spiked-collar"
+}

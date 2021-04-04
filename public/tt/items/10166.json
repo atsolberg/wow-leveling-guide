@@ -1,0 +1,10 @@
+{
+  "name": "Templar Girdle",
+  "quality": "Uncommon",
+  "icon": "inv_belt_32",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Templar Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->54</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->290 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->49<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">59</span> <span class=\"moneycopper\">8</span></div></td></tr></table>",
+  "url": "/item=10166/templar-girdle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_32.jpg",
+  "id": "10166",
+  "slug": "templar-girdle"
+}

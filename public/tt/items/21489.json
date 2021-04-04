@@ -1,0 +1,10 @@
+{
+  "name": "Quicksand Waders",
+  "quality": "Rare",
+  "icon": "inv_boots_cloth_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Quicksand Waders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->73</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->70 Armor</span><br><span><!--stat5-->+14 Intellect</span><br><span><!--stat7-->+14 Stamina</span><br><span><!--stat6-->+11 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=9345\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 16.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">76</span> <span class=\"moneycopper\">37</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Buru the Gorger</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 19.39%</div></td></tr></table>",
+  "url": "/item=21489/quicksand-waders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_cloth_05.jpg",
+  "id": "21489",
+  "slug": "quicksand-waders"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Padded Bracers",
+  "quality": "Common",
+  "icon": "inv_bracer_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Padded Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->17 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->22<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">20</span></div></td></tr></table>",
+  "url": "/item=3592/padded-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_11.jpg",
+  "id": "3592",
+  "slug": "padded-bracers"
+}

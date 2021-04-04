@@ -1,0 +1,10 @@
+{
+  "name": "Gray Dye",
+  "quality": "Common",
+  "icon": "inv_drink_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gray Dye</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">87</span></div></td></tr></table>",
+  "url": "/item=4340/gray-dye",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_10.jpg",
+  "id": "4340",
+  "slug": "gray-dye"
+}

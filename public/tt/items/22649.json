@@ -1,0 +1,10 @@
+{
+  "name": "Hive'Regal Dossier",
+  "quality": "Common",
+  "icon": "inv_letter_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hive'Regal Dossier</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=22649/hiveregal-dossier",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_04.jpg",
+  "id": "22649",
+  "slug": "hiveregal-dossier"
+}

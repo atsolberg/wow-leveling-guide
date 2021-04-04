@@ -1,0 +1,10 @@
+{
+  "name": "Shadowstrike",
+  "quality": "Epic",
+  "icon": "inv_spear_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Shadowstrike</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:6--><span class=\"q1\">Polearm</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->147 - 221 Damage</span></td>\n    <th>Speed <!--spd-->3.10</th>\n</tr></table><!--dps-->(59.35 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Chance on hit: <a href=\"/spell=21170\" class=\"q2\">Steals 100 to 180 life from target enemy.</a></span><br><span class=\"q2\">Use: <a href=\"/spell=21180\" class=\"q2\">Transforms Shadowstrike into Thunderstrike.</a> (1 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">9</span> <span class=\"moneysilver\">85</span> <span class=\"moneycopper\">14</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Sulfuron Harbinger</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 33.06%</div></td></tr></table>",
+  "url": "/item=17074/shadowstrike",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_spear_08.jpg",
+  "id": "17074",
+  "slug": "shadowstrike"
+}

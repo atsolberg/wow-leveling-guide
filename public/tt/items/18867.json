@@ -1,0 +1,10 @@
+{
+  "name": "Grand Marshal's Battle Hammer",
+  "quality": "Epic",
+  "icon": "inv_hammer_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Grand Marshal's Battle Hammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->78</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->235 - 353 Damage</span></td>\n    <th>Speed <!--spd-->3.80</th>\n</tr></table><!--dps-->(77.37 damage per second)<br><span><!--stat4-->+26 Strength</span><br><span><!--stat7-->+41 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br>Requires <span class=\"icon-horde\">High Warlord</span> <span class=\"icon-alliance\">Grand Marshal</span><br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">25</span> <span class=\"moneycopper\">42</span></div></td></tr></table>",
+  "url": "/item=18867/grand-marshals-battle-hammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_03.jpg",
+  "id": "18867",
+  "slug": "grand-marshals-battle-hammer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Hookfang Shanker",
+  "quality": "Rare",
+  "icon": "inv_weapon_shortblade_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Hookfang Shanker</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->54</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->35 - 65 Damage</span></td>\n    <th>Speed <!--spd-->1.40</th>\n</tr></table><!--dps-->(35.71 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->49<br><span class=\"q2\">Chance on hit: <a href=\"/spell=13526\" class=\"q2\">Corrosive acid that deals 7 Nature damage every 3 sec and lowers target's armor by 50 for 30 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">54</span> <span class=\"moneycopper\">51</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Hedrum the Creeper</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 21.42%</div></td></tr></table>",
+  "url": "/item=11635/hookfang-shanker",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_10.jpg",
+  "id": "11635",
+  "slug": "hookfang-shanker"
+}

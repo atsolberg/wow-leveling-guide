@@ -1,0 +1,10 @@
+{
+  "name": "Fragile Sprite Darter Egg",
+  "quality": "Common",
+  "icon": "inv_egg_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fragile Sprite Darter Egg</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=11471/fragile-sprite-darter-egg",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_egg_02.jpg",
+  "id": "11471",
+  "slug": "fragile-sprite-darter-egg"
+}

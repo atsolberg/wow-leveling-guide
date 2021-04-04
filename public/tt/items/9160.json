@@ -1,0 +1,11 @@
+{
+  "name": "Tablet of Windfury Weapon III",
+  "quality": "Common",
+  "icon": "inv_misc_stonetablet_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tablet of Windfury Weapon III</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->54</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=7\" class=\"c7\">Shaman</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<br><span class=\"q2\">Use: <a href=\"/spell=952\" class=\"q2\">Teaches Molten Blast (Rank 5).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">87</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=9160/tablet-of-windfury-weapon-iii",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_stonetablet_05.jpg",
+  "id": "9160",
+  "slug": "tablet-of-windfury-weapon-iii"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Brown Linen Robe",
+  "quality": "Uncommon",
+  "icon": "inv_chest_cloth_21",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Brown Linen Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->19 Armor</span><br><span><!--stat6-->+1 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">98</span></div></td></tr></table>",
+  "url": "/item=6238/brown-linen-robe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_21.jpg",
+  "id": "6238",
+  "slug": "brown-linen-robe"
+}

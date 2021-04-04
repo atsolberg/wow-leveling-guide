@@ -1,0 +1,10 @@
+{
+  "name": "Shredder Operating Manual - Chapter 3",
+  "quality": "Common",
+  "icon": "inv_misc_bandage_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Shredder Operating Manual - Chapter 3</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=16644/shredder-operating-manual-chapter-3",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bandage_07.jpg",
+  "id": "16644",
+  "slug": "shredder-operating-manual-chapter-3"
+}

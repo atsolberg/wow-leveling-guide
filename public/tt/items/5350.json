@@ -1,0 +1,10 @@
+{
+  "name": "Conjured Water",
+  "quality": "Common",
+  "icon": "inv_drink_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Conjured Water</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><br />Conjured Item<!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=430\" class=\"q2\">Restores 151.2 mana over 18 sec. &nbsp;Must remain seated while drinking.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=5350/conjured-water",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_06.jpg",
+  "id": "5350",
+  "slug": "conjured-water"
+}

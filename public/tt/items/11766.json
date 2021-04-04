@@ -1,0 +1,10 @@
+{
+  "name": "Flameweave Cuffs",
+  "quality": "Rare",
+  "icon": "inv_bracer_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Flameweave Cuffs</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->35 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Fire Resistance<!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">86</span> <span class=\"moneycopper\">6</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lord Incendius</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 13.40%</div></td></tr></table>",
+  "url": "/item=11766/flameweave-cuffs",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_05.jpg",
+  "id": "11766",
+  "slug": "flameweave-cuffs"
+}

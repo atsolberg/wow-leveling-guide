@@ -1,0 +1,10 @@
+{
+  "name": "Permanent R.O.I.D.S.",
+  "quality": "Common",
+  "icon": "inv_stone_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Permanent R.O.I.D.S.</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=30178\" class=\"q2\">Increases Strength by 25 when consumed.</a></span><br><span class=\"q\">&quot;Robust Operational Imbue Derived From Snickerfang&quot;</span></td></tr></table>",
+  "url": "/item=23722/permanent-r-o-i-d-s",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_15.jpg",
+  "id": "23722",
+  "slug": "permanent-r-o-i-d-s"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Qiraji Martial Drape",
+  "quality": "Rare",
+  "icon": "inv_qiraj_drapemartial",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Qiraji Martial Drape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a>, <a href=\"/class=4\" class=\"c4\">Rogue</a>, <a href=\"/class=5\" class=\"c5\">Priest</a>, <a href=\"/class=8\" class=\"c8\">Mage</a></div></td></tr></table>",
+  "url": "/item=20885/qiraji-martial-drape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_qiraj_drapemartial.jpg",
+  "id": "20885",
+  "slug": "qiraji-martial-drape"
+}

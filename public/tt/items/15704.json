@@ -1,0 +1,10 @@
+{
+  "name": "Hunter's Insignia Medal",
+  "quality": "Uncommon",
+  "icon": "inv_jewelry_amulet_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Hunter's Insignia Medal</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat7-->+15 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">61</span> <span class=\"moneycopper\">45</span></div></td></tr></table>",
+  "url": "/item=15704/hunters-insignia-medal",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_amulet_03.jpg",
+  "id": "15704",
+  "slug": "hunters-insignia-medal"
+}

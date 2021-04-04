@@ -1,0 +1,10 @@
+{
+  "name": "Round Buckler",
+  "quality": "Common",
+  "icon": "inv_shield_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Round Buckler</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->161 Armor</span><br>3 Block<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">89</span></div></td></tr></table>",
+  "url": "/item=2377/round-buckler",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_09.jpg",
+  "id": "2377",
+  "slug": "round-buckler"
+}

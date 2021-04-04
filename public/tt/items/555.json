@@ -1,0 +1,10 @@
+{
+  "name": "Rough Vulture Feathers",
+  "quality": "Poor",
+  "icon": "spell_magic_featherfall",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Rough Vulture Feathers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">8</span></div></td></tr></table>",
+  "url": "/item=555/rough-vulture-feathers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_magic_featherfall.jpg",
+  "id": "555",
+  "slug": "rough-vulture-feathers"
+}

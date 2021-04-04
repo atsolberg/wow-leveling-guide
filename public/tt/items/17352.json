@@ -1,0 +1,10 @@
+{
+  "name": "Superior Mana Draught",
+  "quality": "Common",
+  "icon": "inv_potion_81",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Superior Mana Draught</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when picked up<br />Unique (10)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<br><span class=\"q2\">Use: <a href=\"/spell=21396\" class=\"q2\">Restores 560 to 720 mana. This item may only be used in PvP Battlegrounds.</a> (5 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=17352/superior-mana-draught",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_81.jpg",
+  "id": "17352",
+  "slug": "superior-mana-draught"
+}

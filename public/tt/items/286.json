@@ -1,0 +1,10 @@
+{
+  "name": "Scalemail Pants",
+  "quality": "Common",
+  "icon": "inv_pants_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Scalemail Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->144 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">45</span></div></td></tr></table>",
+  "url": "/item=286/scalemail-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_03.jpg",
+  "id": "286",
+  "slug": "scalemail-pants"
+}

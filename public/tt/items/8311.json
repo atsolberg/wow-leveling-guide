@@ -1,0 +1,10 @@
+{
+  "name": "Alabaster Plate Vambraces",
+  "quality": "Uncommon",
+  "icon": "inv_bracer_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Alabaster Plate Vambraces</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->53</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->222 Armor</span><br><span><!--stat4-->+3 Strength</span><br><span><!--stat3-->+2 Agility</span><br><span><!--stat7-->+12 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->48<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">58</span> <span class=\"moneycopper\">44</span></div></td></tr></table>",
+  "url": "/item=8311/alabaster-plate-vambraces",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_16.jpg",
+  "id": "8311",
+  "slug": "alabaster-plate-vambraces"
+}

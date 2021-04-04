@@ -1,0 +1,10 @@
+{
+  "name": "Jewelry Box",
+  "quality": "Common",
+  "icon": "inv_misc_ornatebox",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Jewelry Box</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><br />Binds when picked up<br />Unique<br />6 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">13</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=6756/jewelry-box",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_ornatebox.jpg",
+  "id": "6756",
+  "slug": "jewelry-box"
+}

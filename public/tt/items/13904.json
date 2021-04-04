@@ -1,0 +1,10 @@
+{
+  "name": "25 Pound Salmon",
+  "quality": "Common",
+  "icon": "inv_misc_fish_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">25 Pound Salmon</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=13904/25-pound-salmon",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_02.jpg",
+  "id": "13904",
+  "slug": "25-pound-salmon"
+}

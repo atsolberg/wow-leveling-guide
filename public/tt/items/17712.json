@@ -1,0 +1,10 @@
+{
+  "name": "Winter Veil Disguise Kit",
+  "quality": "Common",
+  "icon": "spell_frost_frostward",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Winter Veil Disguise Kit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=21848\" class=\"q2\">Change yourself into something more befitting the wintry season. &nbsp;Requires a Snowball to use.</a></span><br><span class=\"q\">&quot;For when the weather outside is frightful...&quot;</span></td></tr></table>",
+  "url": "/item=17712/winter-veil-disguise-kit",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_frost_frostward.jpg",
+  "id": "17712",
+  "slug": "winter-veil-disguise-kit"
+}

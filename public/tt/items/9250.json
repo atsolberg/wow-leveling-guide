@@ -1,0 +1,10 @@
+{
+  "name": "Ship Schedule",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ship Schedule</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=2876\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40</td></tr></table>",
+  "url": "/item=9250/ship-schedule",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "9250",
+  "slug": "ship-schedule"
+}

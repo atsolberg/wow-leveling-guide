@@ -1,0 +1,10 @@
+{
+  "name": "Severed Night Elf Head",
+  "quality": "Common",
+  "icon": "inv_misc_head_elf_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Severed Night Elf Head</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 100</div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Winterax Berserker</div></td></tr></table>",
+  "url": "/item=18142/severed-night-elf-head",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_elf_02.jpg",
+  "id": "18142",
+  "slug": "severed-night-elf-head"
+}

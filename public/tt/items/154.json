@@ -1,0 +1,10 @@
+{
+  "name": "Primitive Mantle",
+  "quality": "Common",
+  "icon": "inv_misc_cape_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Primitive Mantle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><table width=\"100%\"><tr><td>Shirt</td><th><!--scstart4:-8--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=154/primitive-mantle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_14.jpg",
+  "id": "154",
+  "slug": "primitive-mantle"
+}

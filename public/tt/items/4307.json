@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Linen Gloves",
+  "quality": "Common",
+  "icon": "inv_gauntlets_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Heavy Linen Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->11 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 16 / 16</td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">29</span></div></td></tr></table>",
+  "url": "/item=4307/heavy-linen-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_05.jpg",
+  "id": "4307",
+  "slug": "heavy-linen-gloves"
+}

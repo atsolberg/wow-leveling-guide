@@ -1,0 +1,10 @@
+{
+  "name": "Belt of the Grand Crusader",
+  "quality": "Epic",
+  "icon": "inv_belt_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Belt of the Grand Crusader</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->85</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->536 Armor</span><br><span><!--stat4-->+18 Strength</span><br><span><!--stat5-->+18 Intellect</span><br><span><!--stat7-->+18 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=2\" class=\"c2\">Paladin</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=14248\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 21.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=21364\" class=\"q2\">Restores 7 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">36</span> <span class=\"moneycopper\">47</span></div></td></tr></table>",
+  "url": "/item=23666/belt-of-the-grand-crusader",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_27.jpg",
+  "id": "23666",
+  "slug": "belt-of-the-grand-crusader"
+}

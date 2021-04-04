@@ -1,0 +1,10 @@
+{
+  "name": "Warrior's Tunic",
+  "quality": "Uncommon",
+  "icon": "inv_chest_chain",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Warrior's Tunic</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->115 Armor</span><br><span><!--stat4-->+2 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">89</span></div></td></tr></table>",
+  "url": "/item=2965/warriors-tunic",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain.jpg",
+  "id": "2965",
+  "slug": "warriors-tunic"
+}

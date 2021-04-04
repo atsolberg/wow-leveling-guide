@@ -1,0 +1,10 @@
+{
+  "name": "The Minotaur",
+  "quality": "Rare",
+  "icon": "inv_axe_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">The Minotaur</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->49</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->109 - 164 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(42.66 damage per second)<br><span><!--stat4-->+8 Strength</span><br><span><!--stat7-->+24 Stamina</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->44<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">40</span> <span class=\"moneycopper\">67</span></div></td></tr></table>",
+  "url": "/item=9481/the-minotaur",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_03.jpg",
+  "id": "9481",
+  "slug": "the-minotaur"
+}

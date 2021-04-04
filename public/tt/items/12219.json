@@ -1,0 +1,10 @@
+{
+  "name": "Unadorned Seal of Ascension",
+  "quality": "Common",
+  "icon": "racial_dwarf_findtreasure",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Unadorned Seal of Ascension</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Three empty sockets cover the face.&quot;</span></td></tr></table>",
+  "url": "/item=12219/unadorned-seal-of-ascension",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/racial_dwarf_findtreasure.jpg",
+  "id": "12219",
+  "slug": "unadorned-seal-of-ascension"
+}

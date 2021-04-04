@@ -1,0 +1,11 @@
+{
+  "name": "Schematic: Small Seaforium Charge",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Schematic: Small Seaforium Charge</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (100)<br><span class=\"q2\">Use: <a href=\"/spell=4027\" class=\"q2\">Teaches you how to make a Small Seaforium Charge.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span></div><br /><span class=\"q1\"><a href=\"/item=4367\">Small Seaforium Charge</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (100)<br><span class=\"q2\">Use: <a href=\"/spell=4056\" class=\"q2\">Blasts open simple locked doors.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">50</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4364\">Coarse Blasting Powder</a>&nbsp;(2), <a href=\"/item=4363\">Copper Modulator</a>, <a href=\"/item=2318\">Light Leather</a>, <a href=\"/item=159\">Refreshing Spring Water</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=4409/schematic-small-seaforium-charge",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "4409",
+  "slug": "schematic-small-seaforium-charge"
+}

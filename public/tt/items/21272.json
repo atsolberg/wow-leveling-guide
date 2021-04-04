@@ -1,0 +1,10 @@
+{
+  "name": "Blessed Qiraji Musket",
+  "quality": "Epic",
+  "icon": "inv_weapon_rifle_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Blessed Qiraji Musket</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->79</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->86 - 160 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(47.31 damage per second)<br><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=21438\" class=\"q2\">+31 ranged Attack Power.</a></span><!--itemEffects:1--><br><span class=\"q\">&quot;The weapon is infused and reinforced with Elementium.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">13</span> <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">49</span></div></td></tr></table>",
+  "url": "/item=21272/blessed-qiraji-musket",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_11.jpg",
+  "id": "21272",
+  "slug": "blessed-qiraji-musket"
+}

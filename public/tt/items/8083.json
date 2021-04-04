@@ -1,0 +1,10 @@
+{
+  "name": "Light Plate Bracers",
+  "quality": "Poor",
+  "icon": "inv_bracer_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Light Plate Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->53</span><!--bo--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->199 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->48<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">22</span> <span class=\"moneycopper\">61</span></div></td></tr></table>",
+  "url": "/item=8083/light-plate-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_03.jpg",
+  "id": "8083",
+  "slug": "light-plate-bracers"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Powers of the Void",
+  "quality": "Common",
+  "icon": "inv_misc_book_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Powers of the Void</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;By the hand of Khadgar&quot;</span></td></tr></table>",
+  "url": "/item=6785/powers-of-the-void",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_11.jpg",
+  "id": "6785",
+  "slug": "powers-of-the-void"
+}

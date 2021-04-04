@@ -1,0 +1,10 @@
+{
+  "name": "Dark Iron Sunderer",
+  "quality": "Rare",
+  "icon": "inv_weapon_halberd_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Dark Iron Sunderer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->101 - 153 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(48.85 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<br><span class=\"q2\">Chance on hit: <a href=\"/spell=15280\" class=\"q2\">Reduces targets armor by 300 for 20 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=11607/dark-iron-sunderer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_halberd_02.jpg",
+  "id": "11607",
+  "slug": "dark-iron-sunderer"
+}

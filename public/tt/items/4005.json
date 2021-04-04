@@ -1,0 +1,10 @@
+{
+  "name": "Overlinked Chain Pants",
+  "quality": "Poor",
+  "icon": "inv_pants_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Overlinked Chain Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->43</span><!--bo--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->190 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->38<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">34</span> <span class=\"moneycopper\">77</span></div></td></tr></table>",
+  "url": "/item=4005/overlinked-chain-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_03.jpg",
+  "id": "4005",
+  "slug": "overlinked-chain-pants"
+}

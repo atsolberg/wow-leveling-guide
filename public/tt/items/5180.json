@@ -1,0 +1,10 @@
+{
+  "name": "Necklace of Harmony",
+  "quality": "Uncommon",
+  "icon": "inv_jewelry_amulet_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Necklace of Harmony</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->34</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat6-->+7 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->29<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">27</span> <span class=\"moneycopper\">77</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Singer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 23.08%</div></td></tr></table>",
+  "url": "/item=5180/necklace-of-harmony",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_amulet_04.jpg",
+  "id": "5180",
+  "slug": "necklace-of-harmony"
+}

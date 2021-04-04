@@ -1,0 +1,10 @@
+{
+  "name": "Dense Grinding Stone",
+  "quality": "Common",
+  "icon": "inv_stone_grindingstone_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dense Grinding Stone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span></div></td></tr></table>",
+  "url": "/item=12644/dense-grinding-stone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_grindingstone_05.jpg",
+  "id": "12644",
+  "slug": "dense-grinding-stone"
+}

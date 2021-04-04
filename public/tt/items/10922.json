@@ -1,0 +1,10 @@
+{
+  "name": "Wound Poison IV",
+  "quality": "Common",
+  "icon": "ability_poisonsting",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Wound Poison IV</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->56</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=4\" class=\"c4\">Rogue</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<br><span class=\"q2\">Use: <a href=\"/spell=13227\" class=\"q2\">Coats a weapon with poison that lasts for 30 minutes.<br />Each strike has a 30% chance of poisoning the enemy, reducing all healing effects used on them by 135 for 15 sec. &nbsp;Stacks up to 5 times on a single target. &nbsp;105 charges.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=10922/wound-poison-iv",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_poisonsting.jpg",
+  "id": "10922",
+  "slug": "wound-poison-iv"
+}

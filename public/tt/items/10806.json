@@ -1,0 +1,10 @@
+{
+  "name": "Vestments of the Atal'ai Prophet",
+  "quality": "Rare",
+  "icon": "inv_chest_cloth_38",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Vestments of the Atal'ai Prophet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->78 Armor</span><br><span><!--stat5-->+11 Intellect</span><br><span><!--stat6-->+27 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">51</span> <span class=\"moneycopper\">46</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Jammal'an the Prophet</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 27.04%</div></td></tr></table>",
+  "url": "/item=10806/vestments-of-the-atalai-prophet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_38.jpg",
+  "id": "10806",
+  "slug": "vestments-of-the-atalai-prophet"
+}

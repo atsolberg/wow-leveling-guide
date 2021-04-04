@@ -1,0 +1,10 @@
+{
+  "name": "Steadfast Legplates",
+  "quality": "Uncommon",
+  "icon": "inv_pants_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Steadfast Legplates</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->41</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->205 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->36<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">69</span> <span class=\"moneycopper\">9</span></div></td></tr></table>",
+  "url": "/item=15596/steadfast-legplates",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_08.jpg",
+  "id": "15596",
+  "slug": "steadfast-legplates"
+}

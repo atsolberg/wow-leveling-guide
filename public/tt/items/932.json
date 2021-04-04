@@ -1,0 +1,10 @@
+{
+  "name": "Fel Steed Saddlebags",
+  "quality": "Common",
+  "icon": "inv_misc_bag_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fel Steed Saddlebags</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br />Unique<br />10 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">37</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Fel Steed</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 17.63%</div></td></tr></table>",
+  "url": "/item=932/fel-steed-saddlebags",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_08.jpg",
+  "id": "932",
+  "slug": "fel-steed-saddlebags"
+}

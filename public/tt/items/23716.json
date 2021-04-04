@@ -1,0 +1,10 @@
+{
+  "name": "Carved Ogre Idol",
+  "quality": "Common",
+  "icon": "inv_misc_idol_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Carved Ogre Idol</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=30167\" class=\"q2\">Become a hulking purple ogre for 10 min!</a> (1 Hour Cooldown)</span><!--itemEffects:1--></td></tr></table>",
+  "url": "/item=23716/carved-ogre-idol",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_idol_01.jpg",
+  "id": "23716",
+  "slug": "carved-ogre-idol"
+}

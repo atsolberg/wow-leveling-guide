@@ -1,0 +1,11 @@
+{
+  "name": "Schematic: Craftsman's Monocle",
+  "quality": "Rare",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Schematic: Craftsman's Monocle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->37</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (185)<br><span class=\"q2\">Use: <a href=\"/spell=4033\" class=\"q2\">Teaches you how to make a Craftman's Monocle.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q2\"><a href=\"/item=4393\">Craftsman's Monocle</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->40 Armor</span><br><span><!--stat5-->+15 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45<br>Requires Level <!--rlvl-->32<br>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (185)<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">32</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4234\">Heavy Leather</a>&nbsp;(6), <a href=\"/item=3864\">Citrine</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=4415/schematic-craftsmans-monocle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "4415",
+  "slug": "schematic-craftsmans-monocle"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Perfume Bottle",
+  "quality": "Common",
+  "icon": "inv_valentineperfumebottle",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Perfume Bottle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=26682\" class=\"q2\">Give yourself an alluring scent.</a> (2 Min Cooldown)</span><br />10 Charges<div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=21829/perfume-bottle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_valentineperfumebottle.jpg",
+  "id": "21829",
+  "slug": "perfume-bottle"
+}

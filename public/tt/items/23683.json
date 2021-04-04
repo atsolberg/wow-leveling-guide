@@ -1,0 +1,10 @@
+{
+  "name": "Crystal Flake Throat Lozenge",
+  "quality": "Common",
+  "icon": "inv_misc_food_28",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Crystal Flake Throat Lozenge</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<br><span class=\"q2\">Use: <a href=\"/spell=30018\" class=\"q2\">Restores 450 to 750 health.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=23683/crystal-flake-throat-lozenge",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_28.jpg",
+  "id": "23683",
+  "slug": "crystal-flake-throat-lozenge"
+}

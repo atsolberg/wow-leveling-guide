@@ -1,0 +1,10 @@
+{
+  "name": "Infantry Boots",
+  "quality": "Common",
+  "icon": "inv_boots_plate_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Infantry Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->75 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">87</span></div></td></tr></table>",
+  "url": "/item=6506/infantry-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_plate_01.jpg",
+  "id": "6506",
+  "slug": "infantry-boots"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Sacred Mallet",
+  "quality": "Common",
+  "icon": "inv_hammer_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sacred Mallet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=11435\" class=\"q2\">Use at the Jintha'Alor Altar to create the Mallet of Zul'Farrak.</a></span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Qiaga the Keeper</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 96.74%</div></td></tr></table>",
+  "url": "/item=9241/sacred-mallet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_19.jpg",
+  "id": "9241",
+  "slug": "sacred-mallet"
+}

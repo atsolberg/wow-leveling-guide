@@ -1,0 +1,11 @@
+{
+  "name": "Recipe: Lesser Stoneshield Potion",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Recipe: Lesser Stoneshield Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->43</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=171\" class=\"q1\">Alchemy</a> (215)<br><span class=\"q2\">Use: <a href=\"/spell=4943\" class=\"q2\">Teaches you how to make a Lesser Stoneshield Potion.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q1\"><a href=\"/item=4623\">Lesser Stoneshield Potion</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->43</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires Level <!--rlvl-->33<br><span class=\"q2\">Use: <a href=\"/spell=4941\" class=\"q2\">Increases armor by 1000 for 1.50 min.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">75</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=3858\">Mithril Ore</a>, <a href=\"/item=3821\">Goldthorn</a>, <a href=\"/item=3372\">Leaded Vial</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=4624/recipe-lesser-stoneshield-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "4624",
+  "slug": "recipe-lesser-stoneshield-potion"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Necklace and Gem Salvage",
+  "quality": "Common",
+  "icon": "inv_misc_bag_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Necklace and Gem Salvage</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=7887/necklace-and-gem-salvage",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_12.jpg",
+  "id": "7887",
+  "slug": "necklace-and-gem-salvage"
+}

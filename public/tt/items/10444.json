@@ -1,0 +1,10 @@
+{
+  "name": "Standard Issue Flare Gun",
+  "quality": "Common",
+  "icon": "inv_musket_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Standard Issue Flare Gun</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=12283\" class=\"q2\">To be used at the makeshift helipad in Azshara. It will summon Pilot Xiggs Fuselighter to pick up the tablet rubbings.</a></span><br />2 Charges</td></tr></table>",
+  "url": "/item=10444/standard-issue-flare-gun",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_musket_03.jpg",
+  "id": "10444",
+  "slug": "standard-issue-flare-gun"
+}

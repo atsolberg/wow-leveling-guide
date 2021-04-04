@@ -1,0 +1,10 @@
+{
+  "name": "Dreamscale",
+  "quality": "Uncommon",
+  "icon": "inv_misc_monsterscales_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Dreamscale</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->63</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=20381/dreamscale",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_11.jpg",
+  "id": "20381",
+  "slug": "dreamscale"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Worn Battleaxe",
+  "quality": "Common",
+  "icon": "inv_axe_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Worn Battleaxe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->2</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->3 - 5 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(1.38 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">8</span></div></td></tr></table>",
+  "url": "/item=12282/worn-battleaxe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_09.jpg",
+  "id": "12282",
+  "slug": "worn-battleaxe"
+}

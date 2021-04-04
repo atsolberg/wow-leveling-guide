@@ -1,0 +1,10 @@
+{
+  "name": "Fire Protection Potion",
+  "quality": "Common",
+  "icon": "inv_potion_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fire Protection Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->33</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->23<br><span class=\"q2\">Use: <a href=\"/spell=7233\" class=\"q2\">Absorbs 975 to 1625 fire damage. &nbsp;Lasts 1 hour.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">70</span></div></td></tr></table>",
+  "url": "/item=6049/fire-protection-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_16.jpg",
+  "id": "6049",
+  "slug": "fire-protection-potion"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Light Scorpid Armor",
+  "quality": "Common",
+  "icon": "inv_chest_leather_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Light Scorpid Armor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->9</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->49 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">58</span></div></td></tr></table>",
+  "url": "/item=4929/light-scorpid-armor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_leather_01.jpg",
+  "id": "4929",
+  "slug": "light-scorpid-armor"
+}

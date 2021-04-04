@@ -1,0 +1,10 @@
+{
+  "name": "Fire Totem",
+  "quality": "Common",
+  "icon": "spell_totem_wardofdraining",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fire Totem</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=5176/fire-totem",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_totem_wardofdraining.jpg",
+  "id": "5176",
+  "slug": "fire-totem"
+}

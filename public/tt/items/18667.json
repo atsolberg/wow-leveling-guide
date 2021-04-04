@@ -1,0 +1,10 @@
+{
+  "name": "QAEnchant Weapon Icy Chill",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QAEnchant Weapon Icy Chill</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=23142\" class=\"q2\">Permanently enchant a melee weapon to often chill the target reducing their movement and attack speed.</a></span></td></tr></table>",
+  "url": "/item=18667/qaenchant-weapon-icy-chill",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "18667",
+  "slug": "qaenchant-weapon-icy-chill"
+}

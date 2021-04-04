@@ -1,0 +1,10 @@
+{
+  "name": "Frozen Rune",
+  "quality": "Rare",
+  "icon": "inv_misc_rune_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Frozen Rune</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->80</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=29432\" class=\"q2\">Absorbs 1500 to 2500 fire damage. &nbsp;Lasts 1 hour.</a> (3 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span></div></td></tr></table>",
+  "url": "/item=22682/frozen-rune",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_rune_09.jpg",
+  "id": "22682",
+  "slug": "frozen-rune"
+}

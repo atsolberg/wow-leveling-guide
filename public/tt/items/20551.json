@@ -1,0 +1,10 @@
+{
+  "name": "Darkrune Helm",
+  "quality": "Rare",
+  "icon": "inv_helmet_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Darkrune Helm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->534 Armor</span><br><span><!--stat7-->+13 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+25 Shadow Resistance<!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">73</span> <span class=\"moneycopper\">52</span></div></td></tr></table>",
+  "url": "/item=20551/darkrune-helm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_10.jpg",
+  "id": "20551",
+  "slug": "darkrune-helm"
+}

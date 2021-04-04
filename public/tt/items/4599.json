@@ -1,0 +1,10 @@
+{
+  "name": "Cured Ham Steak",
+  "quality": "Common",
+  "icon": "inv_misc_food_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Cured Ham Steak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<br><span class=\"q2\">Use: <a href=\"/spell=1129\" class=\"q2\">Restores 1392 health over 30 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span></div></td></tr></table>",
+  "url": "/item=4599/cured-ham-steak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_14.jpg",
+  "id": "4599",
+  "slug": "cured-ham-steak"
+}

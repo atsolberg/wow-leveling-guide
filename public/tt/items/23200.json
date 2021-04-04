@@ -1,0 +1,10 @@
+{
+  "name": "Totem of Sustaining",
+  "quality": "Rare",
+  "icon": "inv_relics_totemoflife",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Totem of Sustaining</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Relic</td><th><!--scstart4:9--><span class=\"q1\">Totem</span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=28856\" class=\"q2\">Increases healing done by Lesser Healing Wave by up to 53.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">89</span> <span class=\"moneycopper\">29</span></div></td></tr></table>",
+  "url": "/item=23200/totem-of-sustaining",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_relics_totemoflife.jpg",
+  "id": "23200",
+  "slug": "totem-of-sustaining"
+}

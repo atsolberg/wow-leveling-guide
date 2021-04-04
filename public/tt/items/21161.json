@@ -1,0 +1,10 @@
+{
+  "name": "Hive'Ashi Scout Report",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hive'Ashi Scout Report</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->58</td></tr></table>",
+  "url": "/item=21161/hiveashi-scout-report",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "21161",
+  "slug": "hiveashi-scout-report"
+}

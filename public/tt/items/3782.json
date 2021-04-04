@@ -1,0 +1,10 @@
+{
+  "name": "Large War Club",
+  "quality": "Poor",
+  "icon": "inv_mace_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Large War Club</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->35 - 53 Damage</span></td>\n    <th>Speed <!--spd-->3.10</th>\n</tr></table><!--dps-->(14.19 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">34</span> <span class=\"moneycopper\">51</span></div></td></tr></table>",
+  "url": "/item=3782/large-war-club",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_01.jpg",
+  "id": "3782",
+  "slug": "large-war-club"
+}

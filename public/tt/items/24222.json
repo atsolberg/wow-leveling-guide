@@ -1,0 +1,10 @@
+{
+  "name": "The Shadowfoot Stabber",
+  "quality": "Rare",
+  "icon": "inv_weapon_shortblade_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">The Shadowfoot Stabber</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->47 - 88 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(37.50 damage per second)<br><span><!--stat7-->+8 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<br><span class=\"q2\">Equip: <a href=\"/spell=9330\" class=\"q2\">+18 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">42</span> <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=24222/the-shadowfoot-stabber",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_18.jpg",
+  "id": "24222",
+  "slug": "the-shadowfoot-stabber"
+}

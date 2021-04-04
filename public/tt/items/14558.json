@@ -1,0 +1,10 @@
+{
+  "name": "Lady Maye's Pendant",
+  "quality": "Epic",
+  "icon": "inv_jewelry_necklace_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Lady Maye's Pendant</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->64</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat5-->+19 Intellect</span><br><span><!--stat7-->+10 Stamina</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->59<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">5</span></div></td></tr></table>",
+  "url": "/item=14558/lady-mayes-pendant",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_08.jpg",
+  "id": "14558",
+  "slug": "lady-mayes-pendant"
+}

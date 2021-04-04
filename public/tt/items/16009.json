@@ -1,0 +1,10 @@
+{
+  "name": "Voice Amplification Modulator",
+  "quality": "Uncommon",
+  "icon": "inv_jewelry_amulet_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Voice Amplification Modulator</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=19786\" class=\"q2\">Increases your resistance to silence effects by 7%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">59</span> <span class=\"moneycopper\">30</span></div></td></tr></table>",
+  "url": "/item=16009/voice-amplification-modulator",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_amulet_07.jpg",
+  "id": "16009",
+  "slug": "voice-amplification-modulator"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Advisor's Gnarled Staff",
+  "quality": "Rare",
+  "icon": "inv_staff_25",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Advisor's Gnarled Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->45 - 69 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(19.66 damage per second)<br><span><!--stat5-->+4 Intellect</span><br><span><!--stat7-->+8 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<br><span class=\"q2\">Equip: <a href=\"/spell=21361\" class=\"q2\">Restores 3 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">42</span></div></td></tr></table>",
+  "url": "/item=20425/advisors-gnarled-staff",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_25.jpg",
+  "id": "20425",
+  "slug": "advisors-gnarled-staff"
+}

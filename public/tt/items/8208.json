@@ -1,0 +1,10 @@
+{
+  "name": "Tough Scorpid Helm",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Tough Scorpid Helm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->222 Armor</span><br><span><!--stat3-->+14 Agility</span><br><span><!--stat6-->+14 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">72</span></div></td></tr></table>",
+  "url": "/item=8208/tough-scorpid-helm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_20.jpg",
+  "id": "8208",
+  "slug": "tough-scorpid-helm"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Harnessing Shadows",
+  "quality": "Rare",
+  "icon": "inv_misc_book_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Harnessing Shadows</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Unique<br /><a href=\"/quest=7502\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=9\" class=\"c9\">Warlock</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<br><span class=\"q\">&quot;Tales from the Blasted Lands as told by Lady Sevine.&quot;</span></td></tr></table>",
+  "url": "/item=18360/harnessing-shadows",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_05.jpg",
+  "id": "18360",
+  "slug": "harnessing-shadows"
+}

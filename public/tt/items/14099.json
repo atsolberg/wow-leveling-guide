@@ -1,0 +1,10 @@
+{
+  "name": "Native Sash",
+  "quality": "Common",
+  "icon": "inv_belt_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Native Sash</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->12</span><!--bo--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->12 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 16 / 16</td></tr></table><table><tr><td>Requires Level <!--rlvl-->7<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">47</span></div></td></tr></table>",
+  "url": "/item=14099/native-sash",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_24.jpg",
+  "id": "14099",
+  "slug": "native-sash"
+}

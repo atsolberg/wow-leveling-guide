@@ -1,0 +1,10 @@
+{
+  "name": "Swiftfeather Token",
+  "quality": "Common",
+  "icon": "inv_misc_rune_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Swiftfeather Token</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->12</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->2<br><span class=\"q2\">Use: <a href=\"/spell=65\" class=\"q2\">Increases your attack speed by 2% for 30 sec.</a> (5 Min Cooldown)</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">37</span></div></td></tr></table>",
+  "url": "/item=1400/swiftfeather-token",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_rune_01.jpg",
+  "id": "1400",
+  "slug": "swiftfeather-token"
+}

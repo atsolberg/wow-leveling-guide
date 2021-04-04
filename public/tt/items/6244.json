@@ -1,0 +1,10 @@
+{
+  "name": "ggggfg",
+  "quality": "Common",
+  "icon": "ability_ambush",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">ggggfg</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><table width=\"100%\"><tr><td>Feet</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--></td></tr></table>",
+  "url": "/item=6244/ggggfg",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_ambush.jpg",
+  "id": "6244",
+  "slug": "ggggfg"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Bloodstained Journal",
+  "quality": "Common",
+  "icon": "inv_misc_book_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bloodstained Journal</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=7668/bloodstained-journal",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_04.jpg",
+  "id": "7668",
+  "slug": "bloodstained-journal"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Gloomshroud Armor",
+  "quality": "Rare",
+  "icon": "inv_chest_leather_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Gloomshroud Armor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->94 Armor</span><br><span><!--stat4-->+5 Strength</span><br><span><!--stat6-->+12 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 95 / 95</td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span> <span class=\"moneycopper\">53</span></div></td></tr></table>",
+  "url": "/item=1489/gloomshroud-armor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_leather_08.jpg",
+  "id": "1489",
+  "slug": "gloomshroud-armor"
+}

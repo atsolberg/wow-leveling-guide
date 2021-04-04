@@ -1,0 +1,10 @@
+{
+  "name": "Oaken War Staff",
+  "quality": "Poor",
+  "icon": "inv_staff_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Oaken War Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->28</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->33 - 51 Damage</span></td>\n    <th>Speed <!--spd-->3.70</th>\n</tr></table><!--dps-->(11.35 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->23<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">90</span></div></td></tr></table>",
+  "url": "/item=1831/oaken-war-staff",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_08.jpg",
+  "id": "1831",
+  "slug": "oaken-war-staff"
+}

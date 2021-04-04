@@ -1,0 +1,11 @@
+{
+  "name": "Recipe: Cowardly Flight Potion",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Recipe: Cowardly Flight Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=171\" class=\"q1\">Alchemy</a> (125)<br><span class=\"q2\">Use: <a href=\"/spell=6623\" class=\"q2\">Teaches you how to make a Cowardly Flight Potion.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">75</span></div><br /><span class=\"q1\"><a href=\"/item=5632\">Cowardly Flight Potion</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires Level <!--rlvl-->15<br><span class=\"q2\">Use: <a href=\"/spell=6614\" class=\"q2\">You run in fear at a high speed from a nearby enemy in a random direction. &nbsp; If there are no enemies nearby you stand frozen in fear.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">85</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=5636\">Delicate Feather</a>, <a href=\"/item=3356\">Kingsblood</a>, <a href=\"/item=3372\">Leaded Vial</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=5641/recipe-cowardly-flight-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "5641",
+  "slug": "recipe-cowardly-flight-potion"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Hakkari Blood",
+  "quality": "Common",
+  "icon": "spell_shadow_bloodboil",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hakkari Blood</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Unique<br />Duration: 10 min<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=12253\" class=\"q2\">Use on an Eternal Flame.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">29</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Hakkari Bloodkeeper</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 86.41%</div></td></tr></table>",
+  "url": "/item=10460/hakkari-blood",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_bloodboil.jpg",
+  "id": "10460",
+  "slug": "hakkari-blood"
+}

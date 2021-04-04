@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Green Leather Armor",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pattern: Green Leather Armor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->31</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=165\" class=\"q1\">Leatherworking</a> (155)<br><span class=\"q2\">Use: <a href=\"/spell=9440\" class=\"q2\">Teaches you how to craft Green Leather Armor.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div><br /><span class=\"q2\"><a href=\"/item=4255\">Green Leather Armor</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->31</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->95 Armor</span><br><span><!--stat3-->+8 Agility</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85<br>Requires Level <!--rlvl-->26<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">23</span> <span class=\"moneycopper\">66</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4234\">Heavy Leather</a>&nbsp;(9), <a href=\"/item=2605\">Green Dye</a>&nbsp;(2), <a href=\"/item=2321\">Fine Thread</a>&nbsp;(4)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=7613/pattern-green-leather-armor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "7613",
+  "slug": "pattern-green-leather-armor"
+}

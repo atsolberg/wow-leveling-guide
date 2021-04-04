@@ -1,0 +1,10 @@
+{
+  "name": "Glowstar Rod",
+  "quality": "Uncommon",
+  "icon": "inv_staff_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Glowstar Rod</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->52 - 98 Arcane Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(50.00 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">61</span> <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=15281/glowstar-rod",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_10.jpg",
+  "id": "15281",
+  "slug": "glowstar-rod"
+}

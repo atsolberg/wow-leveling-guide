@@ -1,0 +1,10 @@
+{
+  "name": "Eyegouger",
+  "quality": "Rare",
+  "icon": "inv_spear_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Eyegouger</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->48</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:6--><span class=\"q1\">Polearm</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->100 - 151 Damage</span></td>\n    <th>Speed <!--spd-->3.00</th>\n</tr></table><!--dps-->(41.83 damage per second)<br><span><!--stat4-->+10 Strength</span><br><span><!--stat3-->+23 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->43<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=9480/eyegouger",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_spear_05.jpg",
+  "id": "9480",
+  "slug": "eyegouger"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Russet Gloves",
+  "quality": "Common",
+  "icon": "inv_gauntlets_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Russet Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->29 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span> <span class=\"moneycopper\">33</span></div></td></tr></table>",
+  "url": "/item=2434/russet-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_18.jpg",
+  "id": "2434",
+  "slug": "russet-gloves"
+}

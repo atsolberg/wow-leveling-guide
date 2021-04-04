@@ -1,0 +1,10 @@
+{
+  "name": "Vosh'gajin's Strand",
+  "quality": "Rare",
+  "icon": "inv_belt_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Vosh'gajin's Strand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->95 Armor</span><br><span><!--stat4-->+9 Strength</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=13669\" class=\"q2\">Increases your chance to dodge an attack by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">20</span> <span class=\"moneycopper\">64</span></div></td></tr></table>",
+  "url": "/item=13962/voshgajins-strand",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_15.jpg",
+  "id": "13962",
+  "slug": "voshgajins-strand"
+}

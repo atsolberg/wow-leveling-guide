@@ -1,0 +1,10 @@
+{
+  "name": "Zandalarian Hero Charm",
+  "quality": "Epic",
+  "icon": "inv_jewelry_necklace_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Zandalarian Hero Charm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->68</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=24658\" class=\"q2\">Increases your spell damage by up to 204 and your healing by up to 408 for 20 sec. Every time you cast a spell, the bonus is reduced by 17 spell damage and 34 healing.</a> (2 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">11</span> <span class=\"moneysilver\">13</span> <span class=\"moneycopper\">3</span></div></td></tr></table>",
+  "url": "/item=19950/zandalarian-hero-charm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_13.jpg",
+  "id": "19950",
+  "slug": "zandalarian-hero-charm"
+}

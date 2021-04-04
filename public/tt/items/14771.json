@@ -1,0 +1,10 @@
+{
+  "name": "Ravager's Cloak",
+  "quality": "Uncommon",
+  "icon": "inv_misc_cape_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Ravager's Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->39</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->26 Armor</span><br><span><!--stat4-->+2 Strength</span><br><span><!--stat7-->+8 Stamina</span><br><span><!--stat6-->+2 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->34<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">30</span></div></td></tr></table>",
+  "url": "/item=14771/ravagers-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_18.jpg",
+  "id": "14771",
+  "slug": "ravagers-cloak"
+}

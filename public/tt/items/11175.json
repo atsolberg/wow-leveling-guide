@@ -1,0 +1,10 @@
+{
+  "name": "Greater Nether Essence",
+  "quality": "Uncommon",
+  "icon": "inv_enchant_essencenetherlarge",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Greater Nether Essence</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=13740\" class=\"q2\">Turn a greater nether essence into three lesser ones.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div></td></tr></table>",
+  "url": "/item=11175/greater-nether-essence",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_enchant_essencenetherlarge.jpg",
+  "id": "11175",
+  "slug": "greater-nether-essence"
+}

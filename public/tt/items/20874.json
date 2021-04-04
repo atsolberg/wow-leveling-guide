@@ -1,0 +1,10 @@
+{
+  "name": "Idol of the Sun",
+  "quality": "Rare",
+  "icon": "inv_qirajidol_sun",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Idol of the Sun</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->61</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a>, <a href=\"/class=3\" class=\"c3\">Hunter</a>, <a href=\"/class=4\" class=\"c4\">Rogue</a>, <a href=\"/class=8\" class=\"c8\">Mage</a></div></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div></td></tr></table>",
+  "url": "/item=20874/idol-of-the-sun",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_qirajidol_sun.jpg",
+  "id": "20874",
+  "slug": "idol-of-the-sun"
+}

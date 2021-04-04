@@ -1,0 +1,10 @@
+{
+  "name": "Silksand Cape",
+  "quality": "Uncommon",
+  "icon": "inv_misc_cape_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Silksand Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->38</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->25 Armor</span><br><span><!--stat5-->+5 Intellect</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->33<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">28</span> <span class=\"moneycopper\">89</span></div></td></tr></table>",
+  "url": "/item=14420/silksand-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_04.jpg",
+  "id": "14420",
+  "slug": "silksand-cape"
+}

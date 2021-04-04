@@ -1,0 +1,10 @@
+{
+  "name": "Silken Thread",
+  "quality": "Common",
+  "icon": "inv_fabric_silk_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Silken Thread</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=4291/silken-thread",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_fabric_silk_02.jpg",
+  "id": "4291",
+  "slug": "silken-thread"
+}

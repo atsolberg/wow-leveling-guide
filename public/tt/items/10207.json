@@ -1,0 +1,10 @@
+{
+  "name": "Overlord's Crown",
+  "quality": "Uncommon",
+  "icon": "inv_crown_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Overlord's Crown</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->49</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->383 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->44<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">66</span> <span class=\"moneycopper\">95</span></div></td></tr></table>",
+  "url": "/item=10207/overlords-crown",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crown_01.jpg",
+  "id": "10207",
+  "slug": "overlords-crown"
+}

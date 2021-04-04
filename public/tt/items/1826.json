@@ -1,0 +1,10 @@
+{
+  "name": "Rock Maul",
+  "quality": "Poor",
+  "icon": "inv_hammer_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Rock Maul</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->25 - 38 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(10.86 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->22<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">65</span></div></td></tr></table>",
+  "url": "/item=1826/rock-maul",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_09.jpg",
+  "id": "1826",
+  "slug": "rock-maul"
+}

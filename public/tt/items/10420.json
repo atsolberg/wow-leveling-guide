@@ -1,0 +1,10 @@
+{
+  "name": "Skull of the Coldbringer",
+  "quality": "Common",
+  "icon": "inv_misc_bone_humanskull_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Skull of the Coldbringer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Amnennar the Coldbringer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 11.17%</div></td></tr></table>",
+  "url": "/item=10420/skull-of-the-coldbringer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_humanskull_01.jpg",
+  "id": "10420",
+  "slug": "skull-of-the-coldbringer"
+}

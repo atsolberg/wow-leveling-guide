@@ -1,0 +1,10 @@
+{
+  "name": "Legplates of Carnage",
+  "quality": "Epic",
+  "icon": "inv_pants_plate_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Legplates of Carnage</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->83</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->815 Armor</span><br><span><!--stat4-->+42 Strength</span><br><span><!--stat7-->+18 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=7598\" class=\"q2\">Improves your chance to get a critical strike by 2%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">8</span> <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">97</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Heigan the Unclean</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.88%</div></td></tr></table>",
+  "url": "/item=23068/legplates-of-carnage",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_plate_20.jpg",
+  "id": "23068",
+  "slug": "legplates-of-carnage"
+}

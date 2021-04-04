@@ -1,0 +1,10 @@
+{
+  "name": "Withered Staff",
+  "quality": "Poor",
+  "icon": "inv_staff_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Withered Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->8</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->8 - 12 Damage</span></td>\n    <th>Speed <!--spd-->3.00</th>\n</tr></table><!--dps-->(3.33 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->3<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">68</span></div></td></tr></table>",
+  "url": "/item=1411/withered-staff",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_02.jpg",
+  "id": "1411",
+  "slug": "withered-staff"
+}

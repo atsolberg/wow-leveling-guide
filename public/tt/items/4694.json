@@ -1,0 +1,10 @@
+{
+  "name": "Burnished Pauldrons",
+  "quality": "Common",
+  "icon": "inv_shoulder_28",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Burnished Pauldrons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->124 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">15</span></div></td></tr></table>",
+  "url": "/item=4694/burnished-pauldrons",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_28.jpg",
+  "id": "4694",
+  "slug": "burnished-pauldrons"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Defiler's Plate Greaves",
+  "quality": "Rare",
+  "icon": "inv_boots_plate_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Defiler's Plate Greaves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->157 Armor</span><br><span><!--stat4-->+6 Strength</span><br><span><!--stat3-->+6 Agility</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->28<br>Requires <a href=\"/faction=510\" class=\"q1\">The Defilers</a> - Revered<br><span class=\"q2\">Equip: <a href=\"/spell=23990\" class=\"q2\">Run speed increased slightly.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">32</span> <span class=\"moneycopper\">34</span></div></td></tr></table>",
+  "url": "/item=20210/defilers-plate-greaves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_plate_04.jpg",
+  "id": "20210",
+  "slug": "defilers-plate-greaves"
+}

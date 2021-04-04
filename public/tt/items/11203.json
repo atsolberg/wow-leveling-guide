@@ -1,0 +1,11 @@
+{
+  "name": "Formula: Enchant Gloves - Advanced Mining",
+  "quality": "Uncommon",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Formula: Enchant Gloves - Advanced Mining</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->43</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=333\" class=\"q1\">Enchanting</a> (215)<br><span class=\"q2\">Use: <a href=\"/spell=13842\" class=\"q2\">Teaches you how to permanently enchant gloves to give +5 mining skill.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">11</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Venture Co. Strip Miner</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 2.71%</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=11203/formula-enchant-gloves-advanced-mining",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "11203",
+  "slug": "formula-enchant-gloves-advanced-mining"
+}

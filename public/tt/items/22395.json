@@ -1,0 +1,10 @@
+{
+  "name": "Totem of Rage",
+  "quality": "Rare",
+  "icon": "inv_relics_totemofrage",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Totem of Rage</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Relic</td><th><!--scstart4:9--><span class=\"q1\">Totem</span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<br><span class=\"q2\">Equip: <a href=\"/spell=27859\" class=\"q2\">Increases damage done by Earth Shock, Flame Shock, and Frost Shock by up to 30.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">29</span> <span class=\"moneycopper\">73</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Magmus</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 9.95%</div></td></tr></table>",
+  "url": "/item=22395/totem-of-rage",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_relics_totemofrage.jpg",
+  "id": "22395",
+  "slug": "totem-of-rage"
+}

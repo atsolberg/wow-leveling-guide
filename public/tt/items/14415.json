@@ -1,0 +1,10 @@
+{
+  "name": "Stonecloth Britches",
+  "quality": "Uncommon",
+  "icon": "inv_pants_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Stonecloth Britches</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->43 Armor</span><br><span><!--stat5-->+5 Intellect</span><br><span><!--stat7-->+3 Stamina</span><br><span><!--stat6-->+12 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">34</span> <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=14415/stonecloth-britches",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_01.jpg",
+  "id": "14415",
+  "slug": "stonecloth-britches"
+}

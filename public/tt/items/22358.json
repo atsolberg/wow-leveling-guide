@@ -1,0 +1,10 @@
+{
+  "name": "Desecrated Sabatons",
+  "quality": "Epic",
+  "icon": "inv_misc_desecrated_plateboots",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Desecrated Sabatons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a>, <a href=\"/class=4\" class=\"c4\">Rogue</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60</td></tr></table>",
+  "url": "/item=22358/desecrated-sabatons",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_desecrated_plateboots.jpg",
+  "id": "22358",
+  "slug": "desecrated-sabatons"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Greater Holy Protection Potion",
+  "quality": "Common",
+  "icon": "inv_potion_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Greater Holy Protection Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->58</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->48<br><span class=\"q2\">Use: <a href=\"/spell=17545\" class=\"q2\">Absorbs 1950 to 3250 holy damage. &nbsp;Lasts 1 hour.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=13460/greater-holy-protection-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_09.jpg",
+  "id": "13460",
+  "slug": "greater-holy-protection-potion"
+}

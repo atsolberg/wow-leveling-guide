@@ -1,0 +1,11 @@
+{
+  "name": "Cockroach",
+  "quality": "Common",
+  "icon": "spell_shadow_carrionswarm",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Cockroach</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><br />Binds when used<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=10688\" class=\"q2\">Right Click to summon and dismiss your cockroach.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "completion_category": "15-2",
+  "url": "/item=10393/cockroach",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_carrionswarm.jpg",
+  "id": "10393",
+  "slug": "cockroach"
+}

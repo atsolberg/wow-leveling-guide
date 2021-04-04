@@ -1,0 +1,10 @@
+{
+  "name": "Ysida's Locket",
+  "quality": "Common",
+  "icon": "inv_jewelry_necklace_21",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ysida's Locket</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=22139/ysidas-locket",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_21.jpg",
+  "id": "22139",
+  "slug": "ysidas-locket"
+}

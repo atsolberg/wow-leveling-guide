@@ -1,0 +1,11 @@
+{
+  "name": "Sam's Tome",
+  "quality": "Common",
+  "icon": "inv_scroll_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sam's Tome</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Duration: 5 min (real time)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/faction=529\" class=\"q1\">Argent Dawn</a> - Honored<br><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=1164/sams-tome",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_04.jpg",
+  "id": "1164",
+  "slug": "sams-tome"
+}

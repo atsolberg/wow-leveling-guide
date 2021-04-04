@@ -1,0 +1,11 @@
+{
+  "name": "Book of Cure Poison",
+  "quality": "Common",
+  "icon": "inv_misc_book_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Book of Cure Poison</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->14</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->14<br><span class=\"q2\">Use: <a href=\"/spell=3212\" class=\"q2\">Teaches Cure Poison (Rank 1).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=1332/book-of-cure-poison",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_11.jpg",
+  "id": "1332",
+  "slug": "book-of-cure-poison"
+}

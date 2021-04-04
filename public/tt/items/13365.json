@@ -1,0 +1,10 @@
+{
+  "name": "Town Meeting Notice",
+  "quality": "Poor",
+  "icon": "inv_scroll_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Town Meeting Notice</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Undead Postman</div></td></tr></table>",
+  "url": "/item=13365/town-meeting-notice",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_10.jpg",
+  "id": "13365",
+  "slug": "town-meeting-notice"
+}

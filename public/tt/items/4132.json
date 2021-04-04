@@ -1,0 +1,10 @@
+{
+  "name": "Darkspear Armsplints",
+  "quality": "Uncommon",
+  "icon": "inv_bracer_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Darkspear Armsplints</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->96 Armor</span><br><span><!--stat4-->+7 Strength</span><br><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">81</span></div></td></tr></table>",
+  "url": "/item=4132/darkspear-armsplints",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_09.jpg",
+  "id": "4132",
+  "slug": "darkspear-armsplints"
+}

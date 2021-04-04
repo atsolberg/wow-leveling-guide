@@ -1,0 +1,10 @@
+{
+  "name": "Claw of Celebras",
+  "quality": "Rare",
+  "icon": "ability_whirlwind",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Claw of Celebras</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->52</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart2:13--><span class=\"q1\">Fist Weapon</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->43 - 81 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(34.44 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->47<br><span class=\"q2\">Chance on hit: <a href=\"/spell=21952\" class=\"q2\">Poisons target for 9 Nature damage every 2 sec for 20 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">33</span> <span class=\"moneycopper\">51</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Celebras the Cursed</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 31.91%</div></td></tr></table>",
+  "url": "/item=17738/claw-of-celebras",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_whirlwind.jpg",
+  "id": "17738",
+  "slug": "claw-of-celebras"
+}

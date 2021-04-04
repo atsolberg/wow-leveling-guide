@@ -1,0 +1,10 @@
+{
+  "name": "Boots of Avoidance",
+  "quality": "Epic",
+  "icon": "inv_boots_plate_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Boots of Avoidance</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->360 Armor</span><br><span><!--stat3-->+14 Agility</span><br><span><!--stat7-->+11 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br><span class=\"q2\">Equip: <a href=\"/spell=13670\" class=\"q2\">Increases your chance to dodge an attack by 2%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">78</span> <span class=\"moneycopper\">7</span></div></td></tr></table>",
+  "url": "/item=14549/boots-of-avoidance",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_plate_05.jpg",
+  "id": "14549",
+  "slug": "boots-of-avoidance"
+}

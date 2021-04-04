@@ -1,0 +1,10 @@
+{
+  "name": "Star of Xil'yeh",
+  "quality": "Common",
+  "icon": "inv_misc_gem_diamond_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Star of Xil'yeh</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Grel'borg the Miser</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 43.51%</div></td></tr></table>",
+  "url": "/item=4646/star-of-xilyeh",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_diamond_02.jpg",
+  "id": "4646",
+  "slug": "star-of-xilyeh"
+}

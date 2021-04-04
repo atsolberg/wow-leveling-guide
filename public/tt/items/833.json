@@ -1,0 +1,10 @@
+{
+  "name": "Lifestone",
+  "quality": "Epic",
+  "icon": "inv_ore_truesilver_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Lifestone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->56</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->51<br><span class=\"q2\">Use: <a href=\"/spell=17712\" class=\"q2\">Restores 300 to 700 health.</a> (30 Min Cooldown)</span><br><span class=\"q2\">Equip: <a href=\"/spell=5707\" class=\"q2\">Restores 10 health every 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">80</span></div></td></tr></table>",
+  "url": "/item=833/lifestone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ore_truesilver_01.jpg",
+  "id": "833",
+  "slug": "lifestone"
+}

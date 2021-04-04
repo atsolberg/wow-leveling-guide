@@ -1,0 +1,11 @@
+{
+  "name": "Recipe: Frost Protection Potion",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Recipe: Frost Protection Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->38</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=171\" class=\"q1\">Alchemy</a> (190)<br><span class=\"q2\">Use: <a href=\"/spell=7263\" class=\"q2\">Teaches you how to make a Frost Protection Potion.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div><br /><span class=\"q1\"><a href=\"/item=6050\">Frost Protection Potion</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->38</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires Level <!--rlvl-->28<br><span class=\"q2\">Use: <a href=\"/spell=7239\" class=\"q2\">Absorbs 1350 to 2250 frost damage. &nbsp;Lasts 1 hour.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=3819\">Wintersbite</a>, <a href=\"/item=3821\">Goldthorn</a>, <a href=\"/item=3372\">Leaded Vial</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=6056/recipe-frost-protection-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "6056",
+  "slug": "recipe-frost-protection-potion"
+}

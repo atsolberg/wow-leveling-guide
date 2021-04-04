@@ -1,0 +1,10 @@
+{
+  "name": "Watcher's Leggings",
+  "quality": "Uncommon",
+  "icon": "inv_pants_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Watcher's Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->30</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->37 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->25<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=14183/watchers-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_01.jpg",
+  "id": "14183",
+  "slug": "watchers-leggings"
+}

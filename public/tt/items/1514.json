@@ -1,0 +1,10 @@
+{
+  "name": "Rusty Warhammer",
+  "quality": "Poor",
+  "icon": "inv_hammer_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Rusty Warhammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->14</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->13 - 21 Damage</span></td>\n    <th>Speed <!--spd-->3.00</th>\n</tr></table><!--dps-->(5.67 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->9<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">94</span></div></td></tr></table>",
+  "url": "/item=1514/rusty-warhammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_16.jpg",
+  "id": "1514",
+  "slug": "rusty-warhammer"
+}

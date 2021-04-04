@@ -1,0 +1,10 @@
+{
+  "name": "Empty Tainted Ooze Jar",
+  "quality": "Common",
+  "icon": "inv_potion_84",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Empty Tainted Ooze Jar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=15699\" class=\"q2\">Fills an Empty Tainted Ooze Jar with a sample of Tainted Ooze. WARNING! Will likely destroy the creature's body.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=11948/empty-tainted-ooze-jar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_84.jpg",
+  "id": "11948",
+  "slug": "empty-tainted-ooze-jar"
+}

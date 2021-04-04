@@ -1,0 +1,11 @@
+{
+  "name": "Formula: Enchant Cloak - Lesser Agility",
+  "quality": "Uncommon",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Formula: Enchant Cloak - Lesser Agility</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=333\" class=\"q1\">Enchanting</a> (225)<br><span class=\"q2\">Use: <a href=\"/spell=13883\" class=\"q2\">Teaches you how to permanently enchant a cloak so it grants +3 Agility.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=11206/formula-enchant-cloak-lesser-agility",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "11206",
+  "slug": "formula-enchant-cloak-lesser-agility"
+}

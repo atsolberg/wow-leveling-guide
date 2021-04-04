@@ -1,0 +1,10 @@
+{
+  "name": "Enchanted Thorium Helm",
+  "quality": "Rare",
+  "icon": "inv_helmet_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Enchanted Thorium Helm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->526 Armor</span><br><span><!--stat4-->+12 Strength</span><br><span><!--stat7-->+25 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=13388\" class=\"q2\">Increased Defense +9.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">72</span> <span class=\"moneycopper\">45</span></div></td></tr></table>",
+  "url": "/item=12620/enchanted-thorium-helm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_02.jpg",
+  "id": "12620",
+  "slug": "enchanted-thorium-helm"
+}

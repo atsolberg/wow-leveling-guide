@@ -1,0 +1,10 @@
+{
+  "name": "Spire of Hakkar",
+  "quality": "Rare",
+  "icon": "inv_staff_32",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Spire of Hakkar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->54</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->126 - 190 Damage</span></td>\n    <th>Speed <!--spd-->3.40</th>\n</tr></table><!--dps-->(46.47 damage per second)<br><span><!--stat7-->+16 Stamina</span><br><span><!--stat6-->+16 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->49<br><span class=\"q2\">Equip: <a href=\"/spell=9346\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 18.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">43</span> <span class=\"moneycopper\">14</span></div></td></tr></table>",
+  "url": "/item=10844/spire-of-hakkar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_32.jpg",
+  "id": "10844",
+  "slug": "spire-of-hakkar"
+}

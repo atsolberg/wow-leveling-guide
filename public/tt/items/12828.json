@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Volcanic Hammer",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Plans: Volcanic Hammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->58</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (290)<br><span class=\"q2\">Use: <a href=\"/spell=17027\" class=\"q2\">Teaches you how to make a Volcanic Hammer.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">55</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Volchan</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 68.36%</div><br /><span class=\"q2\"><a href=\"/item=12792\">Volcanic Hammer</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->60 - 113 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(34.60 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75<br>Requires Level <!--rlvl-->53<br><span class=\"q2\">Chance on hit: <a href=\"/spell=18082\" class=\"q2\">Hurls a fiery ball that causes 100 to 128 Fire damage and an additional 18 damage over 6 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">92</span> <span class=\"moneycopper\">55</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=12359\">Thorium Bar</a>&nbsp;(30), <a href=\"/item=7077\">Heart of Fire</a>&nbsp;(4), <a href=\"/item=7910\">Star Ruby</a>&nbsp;(4), <a href=\"/item=8170\">Rugged Leather</a>&nbsp;(4)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=12828/plans-volcanic-hammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "12828",
+  "slug": "plans-volcanic-hammer"
+}

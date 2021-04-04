@@ -1,0 +1,10 @@
+{
+  "name": "Linked Chain Boots",
+  "quality": "Poor",
+  "icon": "inv_boots_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Linked Chain Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->106 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">2</span></div></td></tr></table>",
+  "url": "/item=1747/linked-chain-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_01.jpg",
+  "id": "1747",
+  "slug": "linked-chain-boots"
+}

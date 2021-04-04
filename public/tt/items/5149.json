@@ -1,0 +1,11 @@
+{
+  "name": "Book of Wrath III",
+  "quality": "Common",
+  "icon": "inv_misc_book_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Book of Wrath III</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->14</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->14<br><span class=\"q2\">Use: <a href=\"/spell=5290\" class=\"q2\">Teaches Wrath (Rank 3).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=5149/book-of-wrath-iii",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_11.jpg",
+  "id": "5149",
+  "slug": "book-of-wrath-iii"
+}

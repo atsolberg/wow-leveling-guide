@@ -1,0 +1,10 @@
+{
+  "name": "Right-Handed Brass Knuckles",
+  "quality": "Common",
+  "icon": "inv_gauntlets_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Right-Handed Brass Knuckles</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:13--><span class=\"q1\">Fist Weapon</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->6 - 13 Damage</span></td>\n    <th>Speed <!--spd-->1.40</th>\n</tr></table><!--dps-->(6.79 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">26</span></div></td></tr></table>",
+  "url": "/item=15905/right-handed-brass-knuckles",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_04.jpg",
+  "id": "15905",
+  "slug": "right-handed-brass-knuckles"
+}

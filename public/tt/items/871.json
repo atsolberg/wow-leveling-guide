@@ -1,0 +1,10 @@
+{
+  "name": "Flurry Axe",
+  "quality": "Epic",
+  "icon": "inv_axe_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Flurry Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->47</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->37 - 69 Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(35.33 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->42<br><span class=\"q2\">Chance on hit: <a href=\"/spell=18797\" class=\"q2\">Grants 1 extra attack on your next swing.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">96</span> <span class=\"moneycopper\">27</span></div></td></tr></table>",
+  "url": "/item=871/flurry-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_17.jpg",
+  "id": "871",
+  "slug": "flurry-axe"
+}

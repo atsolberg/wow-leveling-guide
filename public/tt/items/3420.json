@@ -1,0 +1,10 @@
+{
+  "name": "Black Rose",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Black Rose</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=3420/black-rose",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_03.jpg",
+  "id": "3420",
+  "slug": "black-rose"
+}

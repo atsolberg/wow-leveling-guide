@@ -1,0 +1,10 @@
+{
+  "name": "Box of Woodcrafts",
+  "quality": "Common",
+  "icon": "inv_crate_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Box of Woodcrafts</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Duration: 7 days<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27666\" class=\"q2\">Combines a Box of Woodcrafts, a Darnassus Pledge Collection and a Stack of Cards into a Darnassus Gift Collection.</a></span></td></tr></table>",
+  "url": "/item=22291/box-of-woodcrafts",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crate_01.jpg",
+  "id": "22291",
+  "slug": "box-of-woodcrafts"
+}

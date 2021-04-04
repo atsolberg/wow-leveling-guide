@@ -1,0 +1,10 @@
+{
+  "name": "Styleen's Impeding Scarab",
+  "quality": "Epic",
+  "icon": "inv_misc_armorkit_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Styleen's Impeding Scarab</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->75</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=21485\" class=\"q2\">Increases your chance to block attacks with a shield by 5%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=23181\" class=\"q2\">Increases the block value of your shield by 24.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=14249\" class=\"q2\">Increased Defense +13.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">10</span> <span class=\"moneysilver\">31</span> <span class=\"moneycopper\">17</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Flamegor</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 19.35%</div></td></tr></table>",
+  "url": "/item=19431/styleens-impeding-scarab",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_armorkit_10.jpg",
+  "id": "19431",
+  "slug": "styleens-impeding-scarab"
+}

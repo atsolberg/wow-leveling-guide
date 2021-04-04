@@ -1,0 +1,10 @@
+{
+  "name": "Purple Ribboned Holiday Gift",
+  "quality": "Common",
+  "icon": "inv_holiday_christmas_present_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Purple Ribboned Holiday Gift</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=17308/purple-ribboned-holiday-gift",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_holiday_christmas_present_02.jpg",
+  "id": "17308",
+  "slug": "purple-ribboned-holiday-gift"
+}

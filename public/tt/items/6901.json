@@ -1,0 +1,10 @@
+{
+  "name": "Glowing Thresher Cape",
+  "quality": "Rare",
+  "icon": "inv_misc_monsterscales_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Glowing Thresher Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->23 Armor</span><br><span><!--stat4-->+3 Strength</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->24<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span> <span class=\"moneycopper\">23</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Old Serra'kis</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 39.64%</div></td></tr></table>",
+  "url": "/item=6901/glowing-thresher-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_03.jpg",
+  "id": "6901",
+  "slug": "glowing-thresher-cape"
+}

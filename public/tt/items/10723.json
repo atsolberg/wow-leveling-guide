@@ -1,0 +1,10 @@
+{
+  "name": "Gnomish Ham Radio",
+  "quality": "Common",
+  "icon": "spell_holy_dizzy",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gnomish Ham Radio</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->44</span><!--bo--><table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=10723/gnomish-ham-radio",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_holy_dizzy.jpg",
+  "id": "10723",
+  "slug": "gnomish-ham-radio"
+}

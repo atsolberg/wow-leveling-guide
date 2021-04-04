@@ -1,0 +1,10 @@
+{
+  "name": "Gothic Plate Leggings",
+  "quality": "Uncommon",
+  "icon": "inv_pants_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Gothic Plate Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->47</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->397 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->42<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">74</span> <span class=\"moneycopper\">41</span></div></td></tr></table>",
+  "url": "/item=10091/gothic-plate-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_09.jpg",
+  "id": "10091",
+  "slug": "gothic-plate-leggings"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Broken Blade of Heroes",
+  "quality": "Rare",
+  "icon": "inv_sword_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Broken Blade of Heroes</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->38</span><!--bo--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->37 - 50 Damage</span></td>\n    <th>Speed <!--spd-->2.20</th>\n</tr></table><!--dps-->(19.77 damage per second)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (190)<br><span class=\"q2\">Use: <a href=\"/spell=11923\" class=\"q2\">The sword must be reforged before it can be used. &nbsp;Reforging the sword requires 4 Steel Bars, 4 Strong Flux , 2 Elemental Fire and 2 Heavy Grinding Stones.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">62</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=9719/broken-blade-of-heroes",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_10.jpg",
+  "id": "9719",
+  "slug": "broken-blade-of-heroes"
+}

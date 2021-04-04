@@ -1,0 +1,10 @@
+{
+  "name": "Kalimdor's Revenge",
+  "quality": "Epic",
+  "icon": "inv_sword_56",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Kalimdor's Revenge</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->81</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->209 - 315 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(81.88 damage per second)<br><span><!--stat4-->+24 Strength</span><br><span><!--stat7-->+18 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Chance on hit: <a href=\"/spell=26415\" class=\"q2\">Instantly lightning shocks the target for 239 to 277 Nature damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">23</span> <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">18</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Emperor Vek'nilash</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 8.27%</div></td></tr></table>",
+  "url": "/item=21679/kalimdors-revenge",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_56.jpg",
+  "id": "21679",
+  "slug": "kalimdors-revenge"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Bronze Framework",
+  "quality": "Common",
+  "icon": "inv_gizmo_bronzeframework_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bronze Framework</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->29</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span></div></td></tr></table>",
+  "url": "/item=4382/bronze-framework",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_bronzeframework_01.jpg",
+  "id": "4382",
+  "slug": "bronze-framework"
+}

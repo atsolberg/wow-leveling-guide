@@ -1,0 +1,10 @@
+{
+  "name": "Inquisitor's Shawl",
+  "quality": "Uncommon",
+  "icon": "inv_shoulder_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Inquisitor's Shawl</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->41</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->40 Armor</span><br><span><!--stat5-->+8 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->36<br><span class=\"q2\">Equip: <a href=\"/spell=9415\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 9.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">1</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: High Inquisitor Fairbanks</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 33.96%</div></td></tr></table>",
+  "url": "/item=19507/inquisitors-shawl",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_27.jpg",
+  "id": "19507",
+  "slug": "inquisitors-shawl"
+}

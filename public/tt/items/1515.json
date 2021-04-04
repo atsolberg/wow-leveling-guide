@@ -1,0 +1,10 @@
+{
+  "name": "Rough Wooden Staff",
+  "quality": "Poor",
+  "icon": "inv_staff_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Rough Wooden Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->12</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->13 - 20 Damage</span></td>\n    <th>Speed <!--spd-->3.30</th>\n</tr></table><!--dps-->(5.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->7<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">96</span></div></td></tr></table>",
+  "url": "/item=1515/rough-wooden-staff",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_09.jpg",
+  "id": "1515",
+  "slug": "rough-wooden-staff"
+}

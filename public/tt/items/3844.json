@@ -1,0 +1,10 @@
+{
+  "name": "Green Iron Hauberk",
+  "quality": "Rare",
+  "icon": "inv_chest_chain",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Green Iron Hauberk</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->358 Armor</span><br><span><!--stat4-->+7 Strength</span><br><span><!--stat7-->+11 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->31<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">56</span> <span class=\"moneycopper\">58</span></div></td></tr></table>",
+  "url": "/item=3844/green-iron-hauberk",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain.jpg",
+  "id": "3844",
+  "slug": "green-iron-hauberk"
+}

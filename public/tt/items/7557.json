@@ -1,0 +1,10 @@
+{
+  "name": "Gossamer Rod",
+  "quality": "Uncommon",
+  "icon": "inv_wand_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Gossamer Rod</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">75</span> <span class=\"moneycopper\">96</span></div></td></tr></table>",
+  "url": "/item=7557/gossamer-rod",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_02.jpg",
+  "id": "7557",
+  "slug": "gossamer-rod"
+}

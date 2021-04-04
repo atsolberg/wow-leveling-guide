@@ -1,0 +1,10 @@
+{
+  "name": "Major Soulstone",
+  "quality": "Common",
+  "icon": "inv_misc_orb_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Major Soulstone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><br />Conjured Item<!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=20765\" class=\"q2\">Stores the friendly target's soul. &nbsp;If the target dies while his soul is stored, he will be able to resurrect with 2200 health and 2800 mana.</a> (30 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=16896/major-soulstone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_orb_04.jpg",
+  "id": "16896",
+  "slug": "major-soulstone"
+}

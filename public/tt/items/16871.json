@@ -1,0 +1,10 @@
+{
+  "name": "The Skull of Chronalis",
+  "quality": "Common",
+  "icon": "inv_misc_head_dragon_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">The Skull of Chronalis</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Chronalis</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 87.75%</div></td></tr></table>",
+  "url": "/item=16871/the-skull-of-chronalis",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_dragon_01.jpg",
+  "id": "16871",
+  "slug": "the-skull-of-chronalis"
+}

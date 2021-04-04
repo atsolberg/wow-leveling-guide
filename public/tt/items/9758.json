@@ -1,0 +1,10 @@
+{
+  "name": "Cadet Belt",
+  "quality": "Common",
+  "icon": "inv_belt_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Cadet Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->12</span><!--bo--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->65 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->7<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">72</span></div></td></tr></table>",
+  "url": "/item=9758/cadet-belt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_17.jpg",
+  "id": "9758",
+  "slug": "cadet-belt"
+}

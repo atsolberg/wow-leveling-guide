@@ -1,0 +1,10 @@
+{
+  "name": "Garrett Family Crest",
+  "quality": "Rare",
+  "icon": "inv_shield_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Garrett Family Crest</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->2121 Armor</span><br>39 Block<br><span><!--stat3-->+5 Agility</span><br><span><!--stat5-->+4 Intellect</span><br><span><!--stat6-->+17 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">46</span> <span class=\"moneycopper\">94</span></div></td></tr></table>",
+  "url": "/item=13083/garrett-family-crest",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_05.jpg",
+  "id": "13083",
+  "slug": "garrett-family-crest"
+}

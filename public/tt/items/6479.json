@@ -1,0 +1,10 @@
+{
+  "name": "Malem Pendant",
+  "quality": "Common",
+  "icon": "inv_jewelry_necklace_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Malem Pendant</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=6479/malem-pendant",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_07.jpg",
+  "id": "6479",
+  "slug": "malem-pendant"
+}

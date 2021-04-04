@@ -1,0 +1,10 @@
+{
+  "name": "Arathi Basin Mark of Honor",
+  "quality": "Uncommon",
+  "icon": "inv_jewelry_amulet_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Arathi Basin Mark of Honor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique (20)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Medal awarded for fighting in Arathi Basin&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=20559/arathi-basin-mark-of-honor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_amulet_07.jpg",
+  "id": "20559",
+  "slug": "arathi-basin-mark-of-honor"
+}

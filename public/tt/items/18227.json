@@ -1,0 +1,10 @@
+{
+  "name": "Nubless Pacifier",
+  "quality": "Poor",
+  "icon": "inv_gizmo_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Nubless Pacifier</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;This item has seen much use.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">48</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Vanndar Stormpike</div></td></tr></table>",
+  "url": "/item=18227/nubless-pacifier",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_05.jpg",
+  "id": "18227",
+  "slug": "nubless-pacifier"
+}

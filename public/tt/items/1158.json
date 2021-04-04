@@ -1,0 +1,10 @@
+{
+  "name": "Solid Metal Club",
+  "quality": "Common",
+  "icon": "inv_mace_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Solid Metal Club</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->8 - 16 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(4.44 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">46</span></div></td></tr></table>",
+  "url": "/item=1158/solid-metal-club",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_01.jpg",
+  "id": "1158",
+  "slug": "solid-metal-club"
+}

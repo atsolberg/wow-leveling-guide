@@ -1,0 +1,10 @@
+{
+  "name": "Watcher's Jerkin",
+  "quality": "Uncommon",
+  "icon": "inv_shirt_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Watcher's Jerkin</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->30</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->43 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->25<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">18</span> <span class=\"moneycopper\">70</span></div></td></tr></table>",
+  "url": "/item=14180/watchers-jerkin",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_06.jpg",
+  "id": "14180",
+  "slug": "watchers-jerkin"
+}

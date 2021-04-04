@@ -1,0 +1,10 @@
+{
+  "name": "Full Moonshine",
+  "quality": "Common",
+  "icon": "inv_drink_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Full Moonshine</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=438\" class=\"q2\">Restores 280 to 360 mana.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">62</span></div></td></tr></table>",
+  "url": "/item=1072/full-moonshine",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_11.jpg",
+  "id": "1072",
+  "slug": "full-moonshine"
+}

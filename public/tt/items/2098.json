@@ -1,0 +1,10 @@
+{
+  "name": "Double-barreled Shotgun",
+  "quality": "Rare",
+  "icon": "inv_weapon_rifle_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Double-barreled Shotgun</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->21 - 40 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(13.26 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->22<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">20</span></div></td></tr></table>",
+  "url": "/item=2098/double-barreled-shotgun",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_08.jpg",
+  "id": "2098",
+  "slug": "double-barreled-shotgun"
+}

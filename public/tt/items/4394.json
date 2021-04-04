@@ -1,0 +1,10 @@
+{
+  "name": "Big Iron Bomb",
+  "quality": "Common",
+  "icon": "inv_misc_bomb_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Big Iron Bomb</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->43</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (190)<br><span class=\"q2\">Use: <a href=\"/spell=4069\" class=\"q2\">Inflicts 149 to 201 Fire damage and stuns targets in a 5 yard radius for 3 sec. &nbsp;Any damage will break the effect.</a> (1 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">50</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Argent Sentry</div></td></tr></table>",
+  "url": "/item=4394/big-iron-bomb",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bomb_01.jpg",
+  "id": "4394",
+  "slug": "big-iron-bomb"
+}

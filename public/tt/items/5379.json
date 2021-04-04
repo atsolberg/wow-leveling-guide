@@ -1,0 +1,10 @@
+{
+  "name": "Boot Knife",
+  "quality": "Poor",
+  "icon": "inv_throwingknife_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Boot Knife</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->8</span><!--bo--><table width=\"100%\"><tr><td>Thrown</td><th><!--scstart2:16--><span class=\"q1\">Thrown</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->2 - 5 Frost Damage</span></td>\n    <th>Speed <!--spd-->1.70</th>\n</tr></table><!--dps-->(2.06 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->3<!--itemEffects:1--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div></td></tr></table>",
+  "url": "/item=5379/boot-knife",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_throwingknife_02.jpg",
+  "id": "5379",
+  "slug": "boot-knife"
+}

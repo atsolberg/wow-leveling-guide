@@ -1,0 +1,10 @@
+{
+  "name": "Smooth Cloak",
+  "quality": "Poor",
+  "icon": "inv_misc_cape_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Smooth Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->56</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->33 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->51<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">38</span> <span class=\"moneycopper\">91</span></div></td></tr></table>",
+  "url": "/item=3972/smooth-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_12.jpg",
+  "id": "3972",
+  "slug": "smooth-cloak"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Mooncloth Shoulders",
+  "quality": "Rare",
+  "icon": "inv_shoulder_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Mooncloth Shoulders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->65 Armor</span><br><span><!--stat5-->+17 Intellect</span><br><span><!--stat7-->+9 Stamina</span><br><span><!--stat6-->+11 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">58</span> <span class=\"moneycopper\">40</span></div></td></tr></table>",
+  "url": "/item=14139/mooncloth-shoulders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_02.jpg",
+  "id": "14139",
+  "slug": "mooncloth-shoulders"
+}

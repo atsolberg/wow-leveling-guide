@@ -1,0 +1,10 @@
+{
+  "name": "Beginnings of the Undead Threat",
+  "quality": "Common",
+  "icon": "inv_misc_book_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Beginnings of the Undead Threat</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=5861/beginnings-of-the-undead-threat",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_08.jpg",
+  "id": "5861",
+  "slug": "beginnings-of-the-undead-threat"
+}

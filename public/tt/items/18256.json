@@ -1,0 +1,10 @@
+{
+  "name": "Imbued Vial",
+  "quality": "Common",
+  "icon": "inv_drink_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Imbued Vial</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span></div></td></tr></table>",
+  "url": "/item=18256/imbued-vial",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_06.jpg",
+  "id": "18256",
+  "slug": "imbued-vial"
+}

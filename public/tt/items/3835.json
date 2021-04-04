@@ -1,0 +1,10 @@
+{
+  "name": "Green Iron Bracers",
+  "quality": "Common",
+  "icon": "inv_bracer_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Green Iron Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->86 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->28<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">6</span></div></td></tr></table>",
+  "url": "/item=3835/green-iron-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_06.jpg",
+  "id": "3835",
+  "slug": "green-iron-bracers"
+}

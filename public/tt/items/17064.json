@@ -1,0 +1,10 @@
+{
+  "name": "Shard of the Scale",
+  "quality": "Epic",
+  "icon": "inv_misc_monsterscales_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Shard of the Scale</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->71</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=23212\" class=\"q2\">Restores 16 mana per 5 sec.</a></span><!--itemEffects:1--><br /><br /><span class=\"q\"><a href=\"/item-set=241\" class=\"q\">Shard of the Gods</a> (0/2)</span><div class=\"q0 indent\"><span><!--si17082--><a href=\"/item=17082\">Shard of the Flame</a></span><br /><span><!--si17064--><a href=\"/item=17064\">Shard of the Scale</a></span></div><br /><span class=\"q0\"><span>(2) Set : <a href=\"/spell=18681\">+10 All Resistances.</a></span></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">59</span> <span class=\"moneycopper\">14</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Onyxia</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 5.74%</div></td></tr></table>",
+  "url": "/item=17064/shard-of-the-scale",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_15.jpg",
+  "id": "17064",
+  "slug": "shard-of-the-scale"
+}

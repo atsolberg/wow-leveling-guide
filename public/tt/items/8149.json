@@ -1,0 +1,10 @@
+{
+  "name": "Voodoo Charm",
+  "quality": "Common",
+  "icon": "inv_belt_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Voodoo Charm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=10617\" class=\"q2\">Use on the fallen body of Rageclaw.</a></span></td></tr></table>",
+  "url": "/item=8149/voodoo-charm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_13.jpg",
+  "id": "8149",
+  "slug": "voodoo-charm"
+}

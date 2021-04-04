@@ -1,0 +1,10 @@
+{
+  "name": "Noboru's Cudgel",
+  "quality": "Poor",
+  "icon": "inv_mace_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Noboru's Cudgel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->34</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=1392\" class=\"q1\">This Item Begins a Quest</a><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->15 - 29 Damage</span></td>\n    <th>Speed <!--spd-->2.10</th>\n</tr></table><!--dps-->(10.48 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->29<!--itemEffects:1--><div class=\"whtt-extra whtt-droppedby\">Dropped by: Noboru the Cudgel</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 93.83%</div></td></tr></table>",
+  "url": "/item=6196/noborus-cudgel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_10.jpg",
+  "id": "6196",
+  "slug": "noborus-cudgel"
+}

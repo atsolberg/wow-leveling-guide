@@ -1,0 +1,10 @@
+{
+  "name": "Augustus' Receipt Book",
+  "quality": "Common",
+  "icon": "inv_misc_book_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Augustus' Receipt Book</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=15884/augustus-receipt-book",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_05.jpg",
+  "id": "15884",
+  "slug": "augustus-receipt-book"
+}

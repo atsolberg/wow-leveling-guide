@@ -1,0 +1,10 @@
+{
+  "name": "Silverleaf",
+  "quality": "Common",
+  "icon": "inv_misc_herb_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Silverleaf</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=765/silverleaf",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_herb_10.jpg",
+  "id": "765",
+  "slug": "silverleaf"
+}

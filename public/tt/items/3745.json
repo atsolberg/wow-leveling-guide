@@ -1,0 +1,10 @@
+{
+  "name": "Rune of Opening",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rune of Opening</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=3407\" class=\"q2\">Opens certain Dalaran-sealed containers.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Dalaran Summoner</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 47.66%</div></td></tr></table>",
+  "url": "/item=3745/rune-of-opening",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "3745",
+  "slug": "rune-of-opening"
+}

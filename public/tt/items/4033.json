@@ -1,0 +1,10 @@
+{
+  "name": "Dawn's Glow",
+  "quality": "Common",
+  "icon": "inv_misc_gem_opal_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dawn's Glow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=5\" class=\"c5\">Priest</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=4033/dawns-glow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_opal_01.jpg",
+  "id": "4033",
+  "slug": "dawns-glow"
+}

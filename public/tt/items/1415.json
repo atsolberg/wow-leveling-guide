@@ -1,0 +1,10 @@
+{
+  "name": "Carpenter's Mallet",
+  "quality": "Poor",
+  "icon": "inv_hammer_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Carpenter's Mallet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->9</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->3 - 7 Damage</span></td>\n    <th>Speed <!--spd-->1.70</th>\n</tr></table><!--dps-->(2.94 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->4<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">72</span></div></td></tr></table>",
+  "url": "/item=1415/carpenters-mallet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_15.jpg",
+  "id": "1415",
+  "slug": "carpenters-mallet"
+}

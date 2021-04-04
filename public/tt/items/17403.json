@@ -1,0 +1,10 @@
+{
+  "name": "Steamwheedle Fizzy Spirits",
+  "quality": "Common",
+  "icon": "inv_drink_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Steamwheedle Fizzy Spirits</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=11008\" class=\"q2\">A typical alcoholic beverage.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">37</span></div></td></tr></table>",
+  "url": "/item=17403/steamwheedle-fizzy-spirits",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_11.jpg",
+  "id": "17403",
+  "slug": "steamwheedle-fizzy-spirits"
+}

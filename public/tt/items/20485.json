@@ -1,0 +1,10 @@
+{
+  "name": "Duke's Seal",
+  "quality": "Common",
+  "icon": "spell_fire_sealoffire",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Duke's Seal</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=20485/dukes-seal",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_fire_sealoffire.jpg",
+  "id": "20485",
+  "slug": "dukes-seal"
+}

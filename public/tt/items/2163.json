@@ -1,0 +1,10 @@
+{
+  "name": "Shadowblade",
+  "quality": "Epic",
+  "icon": "inv_sword_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Shadowblade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->53</span><!--bo--><br />Binds when equipped<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->38 - 71 Damage</span></td>\n    <th>Speed <!--spd-->1.40</th>\n</tr></table><!--dps-->(38.93 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->48<br><span class=\"q2\">Chance on hit: <a href=\"/spell=18138\" class=\"q2\">Sends a shadowy bolt at the enemy causing 110 to 140 Shadow damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">67</span> <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=2163/shadowblade",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_12.jpg",
+  "id": "2163",
+  "slug": "shadowblade"
+}

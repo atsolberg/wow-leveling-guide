@@ -1,0 +1,10 @@
+{
+  "name": "Razormane War Shield",
+  "quality": "Common",
+  "icon": "inv_shield_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Razormane War Shield</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->444 Armor</span><br>8 Block<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->19<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">33</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Razormane Warfrenzy</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 25.07%</div></td></tr></table>",
+  "url": "/item=5094/razormane-war-shield",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_09.jpg",
+  "id": "5094",
+  "slug": "razormane-war-shield"
+}

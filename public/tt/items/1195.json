@@ -1,0 +1,10 @@
+{
+  "name": "Kobold Mining Shovel",
+  "quality": "Common",
+  "icon": "inv_misc_shovel_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Kobold Mining Shovel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->6</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->6 - 10 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(2.96 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->3<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">47</span></div></td></tr></table>",
+  "url": "/item=1195/kobold-mining-shovel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_shovel_01.jpg",
+  "id": "1195",
+  "slug": "kobold-mining-shovel"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Twilight Lexicon - Chapter 3",
+  "quality": "Common",
+  "icon": "inv_misc_book_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Twilight Lexicon - Chapter 3</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Twilight Keeper Havunth</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 96.96%</div></td></tr></table>",
+  "url": "/item=20396/twilight-lexicon-chapter-3",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_05.jpg",
+  "id": "20396",
+  "slug": "twilight-lexicon-chapter-3"
+}

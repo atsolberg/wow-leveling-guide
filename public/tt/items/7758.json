@@ -1,0 +1,10 @@
+{
+  "name": "Ruthless Shiv",
+  "quality": "Rare",
+  "icon": "inv_spear_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Ruthless Shiv</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->39</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:6--><span class=\"q1\">Polearm</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->75 - 113 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(34.81 damage per second)<br><span><!--stat4-->+19 Strength</span><br><span><!--stat7-->+8 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->34<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">74</span></div></td></tr></table>",
+  "url": "/item=7758/ruthless-shiv",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_spear_08.jpg",
+  "id": "7758",
+  "slug": "ruthless-shiv"
+}

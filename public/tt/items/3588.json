@@ -1,0 +1,10 @@
+{
+  "name": "Embroidered Bracers",
+  "quality": "Common",
+  "icon": "inv_bracer_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Embroidered Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->27 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">28</span> <span class=\"moneycopper\">73</span></div></td></tr></table>",
+  "url": "/item=3588/embroidered-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_13.jpg",
+  "id": "3588",
+  "slug": "embroidered-bracers"
+}

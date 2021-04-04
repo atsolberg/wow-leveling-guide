@@ -1,0 +1,10 @@
+{
+  "name": "Diamond-Tip Bludgeon",
+  "quality": "Uncommon",
+  "icon": "inv_mace_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Diamond-Tip Bludgeon</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->49</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->49 - 91 Damage</span></td>\n    <th>Speed <!--spd-->2.40</th>\n</tr></table><!--dps-->(29.17 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->44<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">19</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=15227/diamond-tip-bludgeon",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_15.jpg",
+  "id": "15227",
+  "slug": "diamond-tip-bludgeon"
+}

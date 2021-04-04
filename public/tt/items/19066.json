@@ -1,0 +1,10 @@
+{
+  "name": "Warsong Gulch Runecloth Bandage",
+  "quality": "Common",
+  "icon": "inv_misc_bandage_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Warsong Gulch Runecloth Bandage</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<br>Requires <a href=\"/skill=129\" class=\"q1\">First Aid</a> (225)<br><span class=\"q2\">Use: <a href=\"/spell=23567\" class=\"q2\">Heals 2000 damage over 8 sec. &nbsp;Usable only inside Warsong Gulch.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span></div></td></tr></table>",
+  "url": "/item=19066/warsong-gulch-runecloth-bandage",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bandage_12.jpg",
+  "id": "19066",
+  "slug": "warsong-gulch-runecloth-bandage"
+}

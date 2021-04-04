@@ -1,0 +1,10 @@
+{
+  "name": "Magefist Gloves",
+  "quality": "Rare",
+  "icon": "inv_gauntlets_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Magefist Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->23 Armor</span><br><span><!--stat5-->+5 Intellect</span><br><span><!--stat7-->+3 Stamina</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">55</span></div></td></tr></table>",
+  "url": "/item=12977/magefist-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_27.jpg",
+  "id": "12977",
+  "slug": "magefist-gloves"
+}

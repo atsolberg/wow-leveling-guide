@@ -1,0 +1,10 @@
+{
+  "name": "Legionnaire's Plate Cinch",
+  "quality": "Rare",
+  "icon": "inv_belt_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Legionnaire's Plate Cinch</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->353 Armor</span><br><span><!--stat4-->+19 Strength</span><br><span><!--stat3-->+6 Agility</span><br><span><!--stat7-->+8 Stamina</span><br><span><!--stat6-->+6 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br>Requires <span class=\"icon-horde\">Legionnaire</span> <span class=\"icon-alliance\">Knight-Captain</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">51</span> <span class=\"moneycopper\">42</span></div></td></tr></table>",
+  "url": "/item=16511/legionnaires-plate-cinch",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_09.jpg",
+  "id": "16511",
+  "slug": "legionnaires-plate-cinch"
+}

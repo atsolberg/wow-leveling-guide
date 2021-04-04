@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Leaden Collection Phial",
+  "quality": "Common",
+  "icon": "inv_drink_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Heavy Leaden Collection Phial</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=12709\" class=\"q2\">Captures radioactive fallout.</a></span><br><span class=\"q\">&quot;Handle With Care&quot;</span></td></tr></table>",
+  "url": "/item=9364/heavy-leaden-collection-phial",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_01.jpg",
+  "id": "9364",
+  "slug": "heavy-leaden-collection-phial"
+}

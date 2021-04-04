@@ -1,0 +1,10 @@
+{
+  "name": "Combat Mana Potion",
+  "quality": "Common",
+  "icon": "inv_potion_81",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Combat Mana Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->51</span><!--bo--><br />Binds when picked up<br />Unique (5)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->41<br><span class=\"q2\">Use: <a href=\"/spell=17530\" class=\"q2\">Restores 900 to 1500 mana.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=18841/combat-mana-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_81.jpg",
+  "id": "18841",
+  "slug": "combat-mana-potion"
+}

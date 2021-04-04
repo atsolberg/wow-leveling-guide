@@ -1,0 +1,11 @@
+{
+  "name": "Formula: Powerful Smelling Salts",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Formula: Powerful Smelling Salts</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=129\" class=\"q1\">First Aid</a> (250)<br><span class=\"q2\">Use: <a href=\"/spell=10845\" class=\"q2\">Teaches you how to make Powerful Smelling Salts.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">20</span></div><br /><span class=\"q1\"><a href=\"/item=8546\">Powerful Smelling Salts</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--><br>Requires <a href=\"/skill=129\" class=\"q1\">First Aid</a> (200)<br><span class=\"q2\">Use: <a href=\"/spell=10850\" class=\"q2\">Brings a dead player back to life with 15% of their health and mana. &nbsp;Cannot be used when in combat.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">50</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=8150\">Deeprock Salt</a>&nbsp;(4)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=8547/formula-powerful-smelling-salts",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_05.jpg",
+  "id": "8547",
+  "slug": "formula-powerful-smelling-salts"
+}

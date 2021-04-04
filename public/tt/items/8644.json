@@ -1,0 +1,10 @@
+{
+  "name": "Fine Egg",
+  "quality": "Common",
+  "icon": "inv_egg_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fine Egg</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span></div></td></tr></table>",
+  "url": "/item=8644/fine-egg",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_egg_03.jpg",
+  "id": "8644",
+  "slug": "fine-egg"
+}

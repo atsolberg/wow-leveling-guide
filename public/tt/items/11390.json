@@ -1,0 +1,10 @@
+{
+  "name": "Broken Bat Fang",
+  "quality": "Poor",
+  "icon": "inv_misc_bone_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Broken Bat Fang</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">80</span></div></td></tr></table>",
+  "url": "/item=11390/broken-bat-fang",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_08.jpg",
+  "id": "11390",
+  "slug": "broken-bat-fang"
+}

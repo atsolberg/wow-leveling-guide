@@ -1,0 +1,10 @@
+{
+  "name": "Head of Grimson",
+  "quality": "Common",
+  "icon": "inv_misc_bone_humanskull_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Head of Grimson</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Grimson the Pale</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 92.98%</div></td></tr></table>",
+  "url": "/item=3634/head-of-grimson",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_humanskull_01.jpg",
+  "id": "3634",
+  "slug": "head-of-grimson"
+}

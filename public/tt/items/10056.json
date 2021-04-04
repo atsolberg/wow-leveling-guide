@@ -1,0 +1,10 @@
+{
+  "name": "Orange Mageweave Shirt",
+  "quality": "Common",
+  "icon": "inv_shirt_orange_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Orange Mageweave Shirt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->43</span><!--bo--><table width=\"100%\"><tr><td>Shirt</td><th><!--scstart4:-8--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span></div></td></tr></table>",
+  "url": "/item=10056/orange-mageweave-shirt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_orange_01.jpg",
+  "id": "10056",
+  "slug": "orange-mageweave-shirt"
+}

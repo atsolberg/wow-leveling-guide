@@ -1,0 +1,10 @@
+{
+  "name": "Draconic for Dummies",
+  "quality": "Epic",
+  "icon": "inv_misc_stonetablet_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Draconic for Dummies</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Chapter V&quot;</span></td></tr></table>",
+  "url": "/item=21107/draconic-for-dummies",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_stonetablet_03.jpg",
+  "id": "21107",
+  "slug": "draconic-for-dummies"
+}

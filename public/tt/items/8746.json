@@ -1,0 +1,10 @@
+{
+  "name": "Interlaced Cowl",
+  "quality": "Poor",
+  "icon": "inv_helmet_28",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Interlaced Cowl</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->33 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->28<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">82</span></div></td></tr></table>",
+  "url": "/item=8746/interlaced-cowl",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_28.jpg",
+  "id": "8746",
+  "slug": "interlaced-cowl"
+}

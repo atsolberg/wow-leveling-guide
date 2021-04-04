@@ -1,0 +1,10 @@
+{
+  "name": "Bleach",
+  "quality": "Common",
+  "icon": "inv_drink_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bleach</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">6</span></div></td></tr></table>",
+  "url": "/item=2324/bleach",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_12.jpg",
+  "id": "2324",
+  "slug": "bleach"
+}

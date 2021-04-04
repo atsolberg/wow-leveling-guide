@@ -1,0 +1,10 @@
+{
+  "name": "Plain Letter",
+  "quality": "Common",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Plain Letter</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=8383/plain-letter",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "8383",
+  "slug": "plain-letter"
+}

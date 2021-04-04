@@ -1,0 +1,10 @@
+{
+  "name": "Sample Snapjaw Shell",
+  "quality": "Common",
+  "icon": "inv_misc_monsterscales_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sample Snapjaw Shell</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=10414/sample-snapjaw-shell",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_01.jpg",
+  "id": "10414",
+  "slug": "sample-snapjaw-shell"
+}

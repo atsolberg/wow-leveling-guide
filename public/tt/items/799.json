@@ -1,0 +1,10 @@
+{
+  "name": "Rough Leather Vest",
+  "quality": "Common",
+  "icon": "inv_chest_wolf",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rough Leather Vest</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->52 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">71</span></div></td></tr></table>",
+  "url": "/item=799/rough-leather-vest",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_wolf.jpg",
+  "id": "799",
+  "slug": "rough-leather-vest"
+}

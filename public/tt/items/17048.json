@@ -1,0 +1,10 @@
+{
+  "name": "Rumsey Rum",
+  "quality": "Common",
+  "icon": "inv_drink_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rumsey Rum</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=20875\" class=\"q2\">Increases Stamina by 10 for 15 min and gets you drunk to boot!</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span></div></td></tr></table>",
+  "url": "/item=17048/rumsey-rum",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_03.jpg",
+  "id": "17048",
+  "slug": "rumsey-rum"
+}

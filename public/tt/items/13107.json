@@ -1,0 +1,10 @@
+{
+  "name": "Magiskull Cuffs",
+  "quality": "Rare",
+  "icon": "inv_bracer_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Magiskull Cuffs</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->38 Armor</span><br><span><!--stat5-->+17 Intellect</span><br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">91</span></div></td></tr></table>",
+  "url": "/item=13107/magiskull-cuffs",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_13.jpg",
+  "id": "13107",
+  "slug": "magiskull-cuffs"
+}

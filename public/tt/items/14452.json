@@ -1,0 +1,10 @@
+{
+  "name": "Highborne Pauldrons",
+  "quality": "Uncommon",
+  "icon": "inv_shoulder_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Highborne Pauldrons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->54</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->53 Armor</span><br><span><!--stat7-->+11 Stamina</span><br><span><!--stat6-->+12 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->49<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">88</span> <span class=\"moneycopper\">36</span></div></td></tr></table>",
+  "url": "/item=14452/highborne-pauldrons",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_24.jpg",
+  "id": "14452",
+  "slug": "highborne-pauldrons"
+}

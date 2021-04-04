@@ -1,0 +1,10 @@
+{
+  "name": "Insignia of the Crusade",
+  "quality": "Uncommon",
+  "icon": "inv_misc_token_scarletcrusade",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Insignia of the Crusade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div></td></tr></table>",
+  "url": "/item=22524/insignia-of-the-crusade",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_token_scarletcrusade.jpg",
+  "id": "22524",
+  "slug": "insignia-of-the-crusade"
+}

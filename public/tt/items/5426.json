@@ -1,0 +1,10 @@
+{
+  "name": "Serpent's Kiss",
+  "quality": "Rare",
+  "icon": "inv_axe_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Serpent's Kiss</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->23 - 44 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(13.40 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><span class=\"q2\">Chance on hit: <a href=\"/spell=18197\" class=\"q2\">Poisons target for 7 Nature damage every 3 sec for 15 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">86</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Trigore the Lasher</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 30.61%</div></td></tr></table>",
+  "url": "/item=5426/serpents-kiss",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_23.jpg",
+  "id": "5426",
+  "slug": "serpents-kiss"
+}

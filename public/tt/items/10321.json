@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Tuxedo Shirt",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pattern: Tuxedo Shirt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->48</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=197\" class=\"q1\">Tailoring</a> (240)<br><span class=\"q2\">Use: <a href=\"/spell=12183\" class=\"q2\">Teaches you how to sew a Tuxedo Shirt.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">25</span></div><br /><span class=\"q1\"><a href=\"/item=10034\">Tuxedo Shirt</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><table width=\"100%\"><tr><td>Shirt</td><th><!--scstart4:-8--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4339\">Bolt of Mageweave</a>&nbsp;(4), <a href=\"/item=8343\">Heavy Silken Thread</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=10321/pattern-tuxedo-shirt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "10321",
+  "slug": "pattern-tuxedo-shirt"
+}

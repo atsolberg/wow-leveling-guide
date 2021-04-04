@@ -1,0 +1,10 @@
+{
+  "name": "Bronze Warhammer",
+  "quality": "Common",
+  "icon": "inv_hammer_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bronze Warhammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->37 - 57 Damage</span></td>\n    <th>Speed <!--spd-->3.10</th>\n</tr></table><!--dps-->(15.16 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">19</span> <span class=\"moneycopper\">44</span></div></td></tr></table>",
+  "url": "/item=7956/bronze-warhammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_18.jpg",
+  "id": "7956",
+  "slug": "bronze-warhammer"
+}

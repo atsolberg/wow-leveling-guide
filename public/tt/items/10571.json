@@ -1,0 +1,10 @@
+{
+  "name": "Ebony Boneclub",
+  "quality": "Rare",
+  "icon": "inv_misc_bone_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Ebony Boneclub</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->31 - 59 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(25.00 damage per second)<br><span><!--stat4-->+5 Strength</span><!--ebstats--><!--egstats--><!--eistats--><br>+5 Shadow Resistance<!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">27</span></div></td></tr></table>",
+  "url": "/item=10571/ebony-boneclub",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_10.jpg",
+  "id": "10571",
+  "slug": "ebony-boneclub"
+}

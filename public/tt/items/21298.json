@@ -1,0 +1,11 @@
+{
+  "name": "Manual of Battle Shout VII",
+  "quality": "Rare",
+  "icon": "inv_misc_book_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Manual of Battle Shout VII</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=25959\" class=\"q2\">Teaches Battle Shout (Rank 7).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">10</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=21298/manual-of-battle-shout-vii",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_03.jpg",
+  "id": "21298",
+  "slug": "manual-of-battle-shout-vii"
+}

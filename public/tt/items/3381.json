@@ -1,0 +1,10 @@
+{
+  "name": "Cross-stitched Bracers",
+  "quality": "Poor",
+  "icon": "inv_bracer_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Cross-stitched Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->28</span><!--bo--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->16 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->23<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">3</span></div></td></tr></table>",
+  "url": "/item=3381/cross-stitched-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_13.jpg",
+  "id": "3381",
+  "slug": "cross-stitched-bracers"
+}

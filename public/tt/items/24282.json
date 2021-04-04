@@ -1,0 +1,10 @@
+{
+  "name": "Rogue's Diary",
+  "quality": "Poor",
+  "icon": "inv_misc_book_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Rogue's Diary</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q0\">Locked</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">56</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Rohan the Assassin</div></td></tr></table>",
+  "url": "/item=24282/rogues-diary",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_09.jpg",
+  "id": "24282",
+  "slug": "rogues-diary"
+}

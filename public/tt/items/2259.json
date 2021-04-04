@@ -1,0 +1,10 @@
+{
+  "name": "Frostmane Club",
+  "quality": "Common",
+  "icon": "inv_hammer_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Frostmane Club</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->8</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->4 - 9 Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(3.25 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->3<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=2259/frostmane-club",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_16.jpg",
+  "id": "2259",
+  "slug": "frostmane-club"
+}

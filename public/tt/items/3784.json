@@ -1,0 +1,10 @@
+{
+  "name": "Metal Stave",
+  "quality": "Poor",
+  "icon": "inv_staff_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Metal Stave</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->38 - 57 Damage</span></td>\n    <th>Speed <!--spd-->3.10</th>\n</tr></table><!--dps-->(15.32 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">42</span> <span class=\"moneycopper\">8</span></div></td></tr></table>",
+  "url": "/item=3784/metal-stave",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_10.jpg",
+  "id": "3784",
+  "slug": "metal-stave"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Darnassus Gift Collection",
+  "quality": "Common",
+  "icon": "inv_misc_gift_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Darnassus Gift Collection</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Duration: 7 days<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27667\" class=\"q2\">Combines a Darnassus Gift Collection, Ironforge Gift Collection and Stormwind Gift Collection into an Alliance Gift Collection.</a></span></td></tr></table>",
+  "url": "/item=22133/darnassus-gift-collection",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gift_02.jpg",
+  "id": "22133",
+  "slug": "darnassus-gift-collection"
+}

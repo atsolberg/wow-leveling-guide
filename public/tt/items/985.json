@@ -1,0 +1,11 @@
+{
+  "name": "Tome of Khadgar's Unlocking",
+  "quality": "Common",
+  "icon": "inv_misc_book_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tome of Khadgar's Unlocking</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->18</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=8\" class=\"c8\">Mage</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<br><span class=\"q2\">Use: <a href=\"/spell=493\" class=\"q2\">Teaches Khadgar's Unlocking (Rank 1).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=985/tome-of-khadgars-unlocking",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_07.jpg",
+  "id": "985",
+  "slug": "tome-of-khadgars-unlocking"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Thorium Lockbox",
+  "quality": "Uncommon",
+  "icon": "inv_misc_ornatebox",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Thorium Lockbox</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q0\">Locked<br />Requires Lockpicking (225)</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=5759/thorium-lockbox",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_ornatebox.jpg",
+  "id": "5759",
+  "slug": "thorium-lockbox"
+}

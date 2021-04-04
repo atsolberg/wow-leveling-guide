@@ -1,0 +1,10 @@
+{
+  "name": "Mithril Coif",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_35",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Mithril Coif</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->46</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->206 Armor</span><br><span><!--stat7-->+12 Stamina</span><br><span><!--stat6-->+13 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->41<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">79</span> <span class=\"moneycopper\">55</span></div></td></tr></table>",
+  "url": "/item=7931/mithril-coif",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_35.jpg",
+  "id": "7931",
+  "slug": "mithril-coif"
+}

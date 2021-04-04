@@ -1,0 +1,10 @@
+{
+  "name": "Minor Mana Potion",
+  "quality": "Common",
+  "icon": "inv_potion_70",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Minor Mana Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<br><span class=\"q2\">Use: <a href=\"/spell=437\" class=\"q2\">Restores 140 to 180 mana.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=2455/minor-mana-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_70.jpg",
+  "id": "2455",
+  "slug": "minor-mana-potion"
+}

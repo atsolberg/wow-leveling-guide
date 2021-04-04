@@ -1,0 +1,10 @@
+{
+  "name": "Shipment to Nethergarde",
+  "quality": "Common",
+  "icon": "inv_crate_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Shipment to Nethergarde</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=6178/shipment-to-nethergarde",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crate_03.jpg",
+  "id": "6178",
+  "slug": "shipment-to-nethergarde"
+}

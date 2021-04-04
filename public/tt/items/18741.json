@@ -1,0 +1,10 @@
+{
+  "name": "Morlune's Bracer",
+  "quality": "Rare",
+  "icon": "inv_bracer_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Morlune's Bracer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->279 Armor</span><br><span><!--stat5-->+12 Intellect</span><br><span><!--stat7-->+7 Stamina</span><br><span><!--stat6-->+11 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">16</span></div></td></tr></table>",
+  "url": "/item=18741/morlunes-bracer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_17.jpg",
+  "id": "18741",
+  "slug": "morlunes-bracer"
+}

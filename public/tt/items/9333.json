@@ -1,0 +1,10 @@
+{
+  "name": "Tarnished Silver Necklace",
+  "quality": "Poor",
+  "icon": "inv_belt_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Tarnished Silver Necklace</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">73</span></div></td></tr></table>",
+  "url": "/item=9333/tarnished-silver-necklace",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_18.jpg",
+  "id": "9333",
+  "slug": "tarnished-silver-necklace"
+}

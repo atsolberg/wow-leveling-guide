@@ -1,0 +1,10 @@
+{
+  "name": "Light Plate Boots",
+  "quality": "Poor",
+  "icon": "inv_boots_plate_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Light Plate Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->52</span><!--bo--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->308 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->47<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">31</span> <span class=\"moneycopper\">89</span></div></td></tr></table>",
+  "url": "/item=8082/light-plate-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_plate_08.jpg",
+  "id": "8082",
+  "slug": "light-plate-boots"
+}

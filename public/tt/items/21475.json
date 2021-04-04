@@ -1,0 +1,10 @@
+{
+  "name": "Legplates of the Destroyer",
+  "quality": "Rare",
+  "icon": "inv_pants_plate_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Legplates of the Destroyer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->74</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->670 Armor</span><br><span><!--stat4-->+19 Strength</span><br><span><!--stat3-->+10 Agility</span><br><span><!--stat5-->+18 Intellect</span><br><span><!--stat7-->+18 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=9417\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 12.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">11</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Moam</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 10.70%</div></td></tr></table>",
+  "url": "/item=21475/legplates-of-the-destroyer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_plate_01.jpg",
+  "id": "21475",
+  "slug": "legplates-of-the-destroyer"
+}

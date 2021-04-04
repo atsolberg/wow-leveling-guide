@@ -1,0 +1,10 @@
+{
+  "name": "Lava Core",
+  "quality": "Rare",
+  "icon": "spell_nature_earthquake",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Lava Core</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span></div></td></tr></table>",
+  "url": "/item=17011/lava-core",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_earthquake.jpg",
+  "id": "17011",
+  "slug": "lava-core"
+}

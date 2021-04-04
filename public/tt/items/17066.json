@@ -1,0 +1,10 @@
+{
+  "name": "Drillborer Disk",
+  "quality": "Epic",
+  "icon": "inv_shield_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Drillborer Disk</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->67</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->2539 Armor</span><br>46 Block<br><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=15438\" class=\"q2\">When struck in combat inflicts 3 Arcane damage to the attacker.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=13675\" class=\"q2\">Increases your chance to block attacks with a shield by 2%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=22852\" class=\"q2\">Increases the block value of your shield by 23.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">79</span> <span class=\"moneycopper\">70</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Garr</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 19.24%</div></td></tr></table>",
+  "url": "/item=17066/drillborer-disk",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_10.jpg",
+  "id": "17066",
+  "slug": "drillborer-disk"
+}

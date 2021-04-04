@@ -1,0 +1,10 @@
+{
+  "name": "Driftwood Club",
+  "quality": "Uncommon",
+  "icon": "inv_mace_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Driftwood Club</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->9 - 17 Damage</span></td>\n    <th>Speed <!--spd-->1.70</th>\n</tr></table><!--dps-->(7.65 damage per second)<br><span><!--stat7-->+1 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">40</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Murloc Warrior</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 2.93%</div></td></tr></table>",
+  "url": "/item=1394/driftwood-club",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_10.jpg",
+  "id": "1394",
+  "slug": "driftwood-club"
+}

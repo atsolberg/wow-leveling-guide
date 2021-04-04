@@ -1,0 +1,10 @@
+{
+  "name": "Miniature Cannon Balls",
+  "quality": "Rare",
+  "icon": "inv_ammo_bullet_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Miniature Cannon Balls</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Ammo</td><th><!--scstart6:3--><span class=\"q1\">Bullet</span><!--scend--></th></tr></table><span>Adds 20.5 damage per second</span>\n<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<!--itemEffects:1--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">7</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Cannon Master Willey</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 91.49%</div></td></tr></table>",
+  "url": "/item=13377/miniature-cannon-balls",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ammo_bullet_02.jpg",
+  "id": "13377",
+  "slug": "miniature-cannon-balls"
+}

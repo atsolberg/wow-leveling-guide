@@ -1,0 +1,10 @@
+{
+  "name": "Aristocratic Cuffs",
+  "quality": "Rare",
+  "icon": "inv_bracer_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Aristocratic Cuffs</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->54</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->34 Armor</span><br><span><!--stat5-->+15 Intellect</span><br><span><!--stat6-->+6 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->49<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">74</span> <span class=\"moneycopper\">63</span></div></td></tr></table>",
+  "url": "/item=12546/aristocratic-cuffs",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_05.jpg",
+  "id": "12546",
+  "slug": "aristocratic-cuffs"
+}

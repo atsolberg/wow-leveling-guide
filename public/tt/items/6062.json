@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Cord Bracers",
+  "quality": "Common",
+  "icon": "inv_bracer_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Heavy Cord Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->8 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 16 / 16</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">28</span></div></td></tr></table>",
+  "url": "/item=6062/heavy-cord-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_07.jpg",
+  "id": "6062",
+  "slug": "heavy-cord-bracers"
+}

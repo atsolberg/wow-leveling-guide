@@ -1,0 +1,10 @@
+{
+  "name": "Skull Wrapping Paper",
+  "quality": "Common",
+  "icon": "inv_misc_giftwrap_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Skull Wrapping Paper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br><span class=\"q\">&quot;Only 40th level or higher players will be able to open this gift.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=5047/skull-wrapping-paper",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_giftwrap_03.jpg",
+  "id": "5047",
+  "slug": "skull-wrapping-paper"
+}

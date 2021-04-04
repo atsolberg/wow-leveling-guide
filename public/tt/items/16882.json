@@ -1,0 +1,10 @@
+{
+  "name": "Battered Junkbox",
+  "quality": "Common",
+  "icon": "inv_box_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Battered Junkbox</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q0\">Locked<br />Requires Lockpicking (1)</span></td></tr></table>",
+  "url": "/item=16882/battered-junkbox",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_01.jpg",
+  "id": "16882",
+  "slug": "battered-junkbox"
+}

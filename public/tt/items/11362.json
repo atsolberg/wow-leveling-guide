@@ -1,0 +1,10 @@
+{
+  "name": "Medium Quiver",
+  "quality": "Common",
+  "icon": "inv_misc_quiver_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Medium Quiver</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><table width=\"100%\"><tr><td>Bag</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<br><span class=\"q2\">Equip: <a href=\"/spell=29418\" class=\"q2\">Increases ranged attack speed by 10%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=11362/medium-quiver",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_quiver_10.jpg",
+  "id": "11362",
+  "slug": "medium-quiver"
+}

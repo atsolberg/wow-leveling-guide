@@ -1,0 +1,10 @@
+{
+  "name": "Signet of Expertise",
+  "quality": "Uncommon",
+  "icon": "inv_misc_armorkit_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Signet of Expertise</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (210)<br><span class=\"q2\">Use: <a href=\"/spell=11209\" class=\"q2\">Summons a Hammer of Expertise.</a> (3 Hrs Cooldown)</span><!--itemEffects:1--><br><span class=\"q\">&quot;Honorable Member of the Mithril Order&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">64</span> <span class=\"moneycopper\">92</span></div></td></tr></table>",
+  "url": "/item=8703/signet-of-expertise",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_armorkit_08.jpg",
+  "id": "8703",
+  "slug": "signet-of-expertise"
+}

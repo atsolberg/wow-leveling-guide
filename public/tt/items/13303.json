@@ -1,0 +1,10 @@
+{
+  "name": "Crusaders' Square Postbox Key",
+  "quality": "Common",
+  "icon": "inv_misc_key_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Crusaders' Square Postbox Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=17432\" class=\"q2\">Opens a Stratholme postbox.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Stratholme Courier</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 39.25%</div></td></tr></table>",
+  "url": "/item=13303/crusaders-square-postbox-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_03.jpg",
+  "id": "13303",
+  "slug": "crusaders-square-postbox-key"
+}

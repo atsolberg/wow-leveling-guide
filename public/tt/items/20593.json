@@ -1,0 +1,10 @@
+{
+  "name": "Sturdy Male Human Mask",
+  "quality": "Uncommon",
+  "icon": "inv_misc_head_scourge_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Sturdy Male Human Mask</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">46</span></div></td></tr></table>",
+  "url": "/item=20593/sturdy-male-human-mask",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_scourge_01.jpg",
+  "id": "20593",
+  "slug": "sturdy-male-human-mask"
+}

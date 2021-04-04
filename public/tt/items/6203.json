@@ -1,0 +1,10 @@
+{
+  "name": "Thuggish Shield",
+  "quality": "Common",
+  "icon": "inv_shield_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Thuggish Shield</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->189 Armor</span><br>3 Block<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">21</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Thuros Lightfingers</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 31.30%</div></td></tr></table>",
+  "url": "/item=6203/thuggish-shield",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_09.jpg",
+  "id": "6203",
+  "slug": "thuggish-shield"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Soul Shard",
+  "quality": "Common",
+  "icon": "inv_misc_gem_amethyst_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Soul Shard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=6265/soul-shard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_amethyst_02.jpg",
+  "id": "6265",
+  "slug": "soul-shard"
+}

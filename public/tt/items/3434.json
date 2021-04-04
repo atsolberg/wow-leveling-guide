@@ -1,0 +1,10 @@
+{
+  "name": "Slumber Sand",
+  "quality": "Common",
+  "icon": "inv_misc_dust_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Slumber Sand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->7</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=700\" class=\"q2\">Puts the enemy target to sleep for up to 20 sec. &nbsp;Any damage caused will awaken the target. &nbsp;Only one target can be asleep at a time.</a> (1 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">3</span></div></td></tr></table>",
+  "url": "/item=3434/slumber-sand",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_dust_02.jpg",
+  "id": "3434",
+  "slug": "slumber-sand"
+}

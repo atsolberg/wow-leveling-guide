@@ -1,0 +1,10 @@
+{
+  "name": "Large Glowing Shard",
+  "quality": "Rare",
+  "icon": "inv_enchant_shardglowinglarge",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Large Glowing Shard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=11139/large-glowing-shard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_enchant_shardglowinglarge.jpg",
+  "id": "11139",
+  "slug": "large-glowing-shard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Eye of Sulfuras",
+  "quality": "Legendary",
+  "icon": "inv_misc_gem_pearl_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q5\">Eye of Sulfuras</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=21160\" class=\"q2\">The Eye of Sulfuras can be combined with the Sulfuron Hammer to create Sulfuras, legendary hammer of Ragnaros.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">20</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ragnaros</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 7.08%</div></td></tr></table>",
+  "url": "/item=17204/eye-of-sulfuras",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_pearl_05.jpg",
+  "id": "17204",
+  "slug": "eye-of-sulfuras"
+}

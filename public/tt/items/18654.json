@@ -1,0 +1,11 @@
+{
+  "name": "Schematic: Gnomish Alarm-O-Bot",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Schematic: Gnomish Alarm-O-Bot</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->53</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (265)<br>Requires <a href=\"/spells=11.202.20219\" class=\"q1\">Gnomish Engineer</a><br><span class=\"q2\">Use: <a href=\"/spell=23098\" class=\"q2\">Teaches you how to make an Alarm-O-Bot.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">40</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Weapon Technician</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 3.89%</div><br /><span class=\"q1\"><a href=\"/item=18645\">Gnomish Alarm-O-Bot</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->53</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (265)<br><span class=\"q2\">Use: <a href=\"/spell=23004\" class=\"q2\">Summons an Alarm-O-Bot for 10 minutes that occasionally sends out a pulse that detects nearby stealthy or invisible enemies.</a> (10 Min Cooldown)</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=12359\">Thorium Bar</a>&nbsp;(4), <a href=\"/item=15994\">Thorium Widget</a>&nbsp;(2), <a href=\"/item=8170\">Rugged Leather</a>&nbsp;(4), <a href=\"/item=7910\">Star Ruby</a>, <a href=\"/item=7191\">Fused Wiring</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=18654/schematic-gnomish-alarm-o-bot",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "18654",
+  "slug": "schematic-gnomish-alarm-o-bot"
+}

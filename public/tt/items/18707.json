@@ -1,0 +1,10 @@
+{
+  "name": "Ancient Rune Etched Stave",
+  "quality": "Epic",
+  "icon": "inv_staff_22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Ancient Rune Etched Stave</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->71</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=23192\" class=\"q2\">Forms Rhok'delar, Longbow of the Ancient Keepers, when combined with Enchanted Black Dragon Sinew.</a></span><br><span class=\"q\">&quot;A Gift from the Ancients.&quot;</span></td></tr></table>",
+  "url": "/item=18707/ancient-rune-etched-stave",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_22.jpg",
+  "id": "18707",
+  "slug": "ancient-rune-etched-stave"
+}

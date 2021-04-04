@@ -1,0 +1,10 @@
+{
+  "name": "Thistleshrub Dew",
+  "quality": "Common",
+  "icon": "inv_potion_77",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Thistleshrub Dew</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=8603/thistleshrub-dew",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_77.jpg",
+  "id": "8603",
+  "slug": "thistleshrub-dew"
+}

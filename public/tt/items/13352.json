@@ -1,0 +1,10 @@
+{
+  "name": "Vosh'gajin's Snakestone",
+  "quality": "Common",
+  "icon": "inv_misc_stonetablet_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Vosh'gajin's Snakestone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Shadow Hunter Vosh'gajin</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 0.52%</div></td></tr></table>",
+  "url": "/item=13352/voshgajins-snakestone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_stonetablet_08.jpg",
+  "id": "13352",
+  "slug": "voshgajins-snakestone"
+}

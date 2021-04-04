@@ -1,0 +1,11 @@
+{
+  "name": "Tome of Conjure Water",
+  "quality": "Common",
+  "icon": "inv_misc_book_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tome of Conjure Water</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->4</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=8\" class=\"c8\">Mage</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->4<br><span class=\"q2\">Use: <a href=\"/spell=6635\" class=\"q2\">Teaches Conjure Water (Rank 1).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">10</span></div><br /><span class=\"q1\"><a href=\"/item=5350\">Conjured Water</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><br />Conjured Item<!--bo--><!--ebstats--><!--egstats--><!--eistats--><br><span class=\"q2\">Use: <a href=\"/spell=430\" class=\"q2\">Restores 151.2 mana over 18 sec. &nbsp;Must remain seated while drinking.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"q1 whtt-extra whtt-reagents\"><br /></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=5644/tome-of-conjure-water",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_07.jpg",
+  "id": "5644",
+  "slug": "tome-of-conjure-water"
+}

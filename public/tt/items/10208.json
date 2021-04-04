@@ -1,0 +1,10 @@
+{
+  "name": "Overlord's Legplates",
+  "quality": "Uncommon",
+  "icon": "inv_pants_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Overlord's Legplates</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->420 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">95</span> <span class=\"moneycopper\">86</span></div></td></tr></table>",
+  "url": "/item=10208/overlords-legplates",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_01.jpg",
+  "id": "10208",
+  "slug": "overlords-legplates"
+}

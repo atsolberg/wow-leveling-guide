@@ -1,0 +1,10 @@
+{
+  "name": "Master's Throwing Dagger",
+  "quality": "Common",
+  "icon": "inv_throwingknife_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Master's Throwing Dagger</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><table width=\"100%\"><tr><td>Thrown</td><th><!--scstart2:16--><span class=\"q1\">Thrown</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->52 - 97 Frost Damage</span></td>\n    <th>Speed <!--spd-->2.20</th>\n</tr></table><!--dps-->(33.86 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">3</span></div></td></tr></table>",
+  "url": "/item=20814/masters-throwing-dagger",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_throwingknife_03.jpg",
+  "id": "20814",
+  "slug": "masters-throwing-dagger"
+}

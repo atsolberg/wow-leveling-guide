@@ -1,0 +1,10 @@
+{
+  "name": "Fizzule's Whistle",
+  "quality": "Common",
+  "icon": "inv_misc_pipe_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fizzule's Whistle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=10137\" class=\"q2\">Blow on the whistle to let Fizzule know you're an ally.</a></span></td></tr></table>",
+  "url": "/item=8066/fizzules-whistle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_pipe_01.jpg",
+  "id": "8066",
+  "slug": "fizzules-whistle"
+}

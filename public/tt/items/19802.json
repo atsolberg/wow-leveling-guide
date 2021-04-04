@@ -1,0 +1,10 @@
+{
+  "name": "Heart of Hakkar",
+  "quality": "Epic",
+  "icon": "inv_misc_gem_bloodstone_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Heart of Hakkar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=8183\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<div class=\"whtt-extra whtt-droppedby\">Dropped by: Hakkar</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 96.63%</div></td></tr></table>",
+  "url": "/item=19802/heart-of-hakkar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_bloodstone_02.jpg",
+  "id": "19802",
+  "slug": "heart-of-hakkar"
+}

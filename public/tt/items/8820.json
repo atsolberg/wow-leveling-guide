@@ -1,0 +1,11 @@
+{
+  "name": "Tome of Fire Ward II",
+  "quality": "Common",
+  "icon": "inv_misc_book_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tome of Fire Ward II</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=8\" class=\"c8\">Mage</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<br><span class=\"q2\">Use: <a href=\"/spell=874\" class=\"q2\">Teaches Fire Ward.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">24</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=8820/tome-of-fire-ward-ii",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_07.jpg",
+  "id": "8820",
+  "slug": "tome-of-fire-ward-ii"
+}

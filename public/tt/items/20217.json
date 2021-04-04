@@ -1,0 +1,10 @@
+{
+  "name": "Belt of Tiny Heads",
+  "quality": "Rare",
+  "icon": "inv_belt_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Belt of Tiny Heads</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->55 Armor</span><br><span><!--stat5-->+17 Intellect</span><br><span><!--stat7-->+13 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=21628\" class=\"q2\">Restores 7 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">65</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=20217/belt-of-tiny-heads",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_13.jpg",
+  "id": "20217",
+  "slug": "belt-of-tiny-heads"
+}

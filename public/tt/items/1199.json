@@ -1,0 +1,10 @@
+{
+  "name": "Charged Soulstone",
+  "quality": "Common",
+  "icon": "inv_misc_orb_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Charged Soulstone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->8</span><br />Conjured Item<!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=1199/charged-soulstone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_orb_03.jpg",
+  "id": "1199",
+  "slug": "charged-soulstone"
+}

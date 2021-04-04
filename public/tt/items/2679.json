@@ -1,0 +1,10 @@
+{
+  "name": "Charred Wolf Meat",
+  "quality": "Common",
+  "icon": "inv_misc_food_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Charred Wolf Meat</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=433\" class=\"q2\">Restores 61.2 health over 18 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">5</span></div></td></tr></table>",
+  "url": "/item=2679/charred-wolf-meat",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_18.jpg",
+  "id": "2679",
+  "slug": "charred-wolf-meat"
+}

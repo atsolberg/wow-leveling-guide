@@ -1,0 +1,10 @@
+{
+  "name": "Rhombeard Protector",
+  "quality": "Rare",
+  "icon": "inv_shield_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Rhombeard Protector</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->2089 Armor</span><br>38 Block<br><span><!--stat5-->+15 Intellect</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">31</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Gizrul the Slavener</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 24.83%</div></td></tr></table>",
+  "url": "/item=13205/rhombeard-protector",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_14.jpg",
+  "id": "13205",
+  "slug": "rhombeard-protector"
+}

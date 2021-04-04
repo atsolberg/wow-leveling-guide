@@ -1,0 +1,10 @@
+{
+  "name": "Locked Gift",
+  "quality": "Common",
+  "icon": "inv_misc_gift_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Locked Gift</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q0\">Locked<br />Requires Lockpicking (70)</span></td></tr></table>",
+  "url": "/item=5046/locked-gift",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gift_02.jpg",
+  "id": "5046",
+  "slug": "locked-gift"
+}

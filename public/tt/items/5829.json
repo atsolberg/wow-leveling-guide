@@ -1,0 +1,10 @@
+{
+  "name": "Razor-sharp Beak",
+  "quality": "Poor",
+  "icon": "inv_misc_birdbeck_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Razor-sharp Beak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">4</span></div></td></tr></table>",
+  "url": "/item=5829/razor-sharp-beak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_birdbeck_01.jpg",
+  "id": "5829",
+  "slug": "razor-sharp-beak"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Primal Hakkari Idol",
+  "quality": "Rare",
+  "icon": "inv_zulgurubtrinket",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Primal Hakkari Idol</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q\">&quot;An ancient evil stirs within...&quot;</span></td></tr></table>",
+  "url": "/item=22637/primal-hakkari-idol",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_zulgurubtrinket.jpg",
+  "id": "22637",
+  "slug": "primal-hakkari-idol"
+}

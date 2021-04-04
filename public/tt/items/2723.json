@@ -1,0 +1,10 @@
+{
+  "name": "Bottle of Dalaran Noir",
+  "quality": "Common",
+  "icon": "inv_drink_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bottle of Dalaran Noir</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=11007\" class=\"q2\">A fairly weak alcoholic beverage.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">12</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Stomper Kreeg</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 14.24%</div></td></tr></table>",
+  "url": "/item=2723/bottle-of-dalaran-noir",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_10.jpg",
+  "id": "2723",
+  "slug": "bottle-of-dalaran-noir"
+}

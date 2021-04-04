@@ -1,0 +1,10 @@
+{
+  "name": "Sorcerer Slippers",
+  "quality": "Uncommon",
+  "icon": "inv_boots_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Sorcerer Slippers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->36 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">31</span> <span class=\"moneycopper\">46</span></div></td></tr></table>",
+  "url": "/item=9876/sorcerer-slippers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_05.jpg",
+  "id": "9876",
+  "slug": "sorcerer-slippers"
+}

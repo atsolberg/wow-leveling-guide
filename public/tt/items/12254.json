@@ -1,0 +1,10 @@
+{
+  "name": "Well Oiled Cloak",
+  "quality": "Uncommon",
+  "icon": "inv_misc_cape_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Well Oiled Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->44</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->29 Armor</span><br><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->39<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">44</span> <span class=\"moneycopper\">83</span></div></td></tr></table>",
+  "url": "/item=12254/well-oiled-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_04.jpg",
+  "id": "12254",
+  "slug": "well-oiled-cloak"
+}

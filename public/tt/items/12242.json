@@ -1,0 +1,10 @@
+{
+  "name": "Sea Creature Bones",
+  "quality": "Common",
+  "icon": "inv_misc_bone_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sea Creature Bones</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=12242/sea-creature-bones",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_02.jpg",
+  "id": "12242",
+  "slug": "sea-creature-bones"
+}

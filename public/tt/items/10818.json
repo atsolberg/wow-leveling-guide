@@ -1,0 +1,10 @@
+{
+  "name": "Yeh'kinya's Scroll",
+  "quality": "Common",
+  "icon": "inv_scroll_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Yeh'kinya's Scroll</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=12346\" class=\"q2\">Use within the Sanctum of the Fallen God.</a> (5 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=10818/yehkinyas-scroll",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_02.jpg",
+  "id": "10818",
+  "slug": "yehkinyas-scroll"
+}

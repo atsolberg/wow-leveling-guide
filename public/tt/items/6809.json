@@ -1,0 +1,10 @@
+{
+  "name": "Elura's Medallion",
+  "quality": "Common",
+  "icon": "inv_jewelry_amulet_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Elura's Medallion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Shade of Elura</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 68.67%</div></td></tr></table>",
+  "url": "/item=6809/eluras-medallion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_amulet_01.jpg",
+  "id": "6809",
+  "slug": "eluras-medallion"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Banded Shield",
+  "quality": "Uncommon",
+  "icon": "inv_shield_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Banded Shield</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->628 Armor</span><br>13 Block<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->28<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">37</span> <span class=\"moneycopper\">39</span></div></td></tr></table>",
+  "url": "/item=9843/banded-shield",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_09.jpg",
+  "id": "9843",
+  "slug": "banded-shield"
+}

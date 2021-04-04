@@ -1,0 +1,11 @@
+{
+  "name": "Zergling Leash",
+  "quality": "Common",
+  "icon": "spell_shadow_summonfelhunter",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Zergling Leash</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=17709\" class=\"q2\">Right Click to summon and dismiss your zergling.</a></span></td></tr></table>",
+  "completion_category": "15-2",
+  "url": "/item=13582/zergling-leash",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_summonfelhunter.jpg",
+  "id": "13582",
+  "slug": "zergling-leash"
+}

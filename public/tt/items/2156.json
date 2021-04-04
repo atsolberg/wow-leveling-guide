@@ -1,0 +1,10 @@
+{
+  "name": "Padded Boots",
+  "quality": "Common",
+  "icon": "inv_boots_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Padded Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->27 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->22<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">15</span></div></td></tr></table>",
+  "url": "/item=2156/padded-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_09.jpg",
+  "id": "2156",
+  "slug": "padded-boots"
+}

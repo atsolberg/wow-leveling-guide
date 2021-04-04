@@ -1,0 +1,10 @@
+{
+  "name": "Rawhide Shoulderpads",
+  "quality": "Poor",
+  "icon": "inv_shoulder_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Rawhide Shoulderpads</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->58 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">18</span></div></td></tr></table>",
+  "url": "/item=1801/rawhide-shoulderpads",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_08.jpg",
+  "id": "1801",
+  "slug": "rawhide-shoulderpads"
+}

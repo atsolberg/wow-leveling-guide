@@ -1,0 +1,10 @@
+{
+  "name": "Sentinel Standard Care Package",
+  "quality": "Common",
+  "icon": "inv_misc_gift_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sentinel Standard Care Package</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=19151/sentinel-standard-care-package",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gift_05.jpg",
+  "id": "19151",
+  "slug": "sentinel-standard-care-package"
+}

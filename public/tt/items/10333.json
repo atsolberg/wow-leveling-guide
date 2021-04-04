@@ -1,0 +1,10 @@
+{
+  "name": "Scarlet Wristguards",
+  "quality": "Uncommon",
+  "icon": "inv_bracer_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Scarlet Wristguards</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->95 Armor</span><br><span><!--stat7-->+8 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->31<!--itemEffects:1--><br /><br /><span class=\"q\"><a href=\"/item-set=163\" class=\"q\">Chain of the Scarlet Crusade</a> (0/6)</span><div class=\"q0 indent\"><span><!--si10329--><a href=\"/item=10329\">Scarlet Belt</a></span><br /><span><!--si10332--><a href=\"/item=10332\">Scarlet Boots</a></span><br /><span><!--si10328--><a href=\"/item=10328\">Scarlet Chestpiece</a></span><br /><span><!--si10331--><a href=\"/item=10331\">Scarlet Gauntlets</a></span><br /><span><!--si10330--><a href=\"/item=10330\">Scarlet Leggings</a></span><br /><span><!--si10333--><a href=\"/item=10333\">Scarlet Wristguards</a></span></div><br /><span class=\"q0\"><span>(2) Set : <a href=\"/spell=9760\">+10 Armor.</a></span><br /><span>(3) Set : <a href=\"/spell=7513\">Increased Defense +1.</a></span><br /><span>(4) Set : <a href=\"/spell=14668\">+5 Shadow Resistance.</a></span><br /><span>(5) Set : <a href=\"/spell=20606\">+15 Attack Power when fighting Undead.</a></span><br /><span>(6) Set : <a href=\"/spell=15464\">Improves your chance to hit by 1%.</a></span></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">23</span> <span class=\"moneycopper\">14</span></div></td></tr></table>",
+  "url": "/item=10333/scarlet-wristguards",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_03.jpg",
+  "id": "10333",
+  "slug": "scarlet-wristguards"
+}

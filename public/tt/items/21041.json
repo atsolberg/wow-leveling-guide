@@ -1,0 +1,10 @@
+{
+  "name": "Bag of Gold",
+  "quality": "Common",
+  "icon": "inv_misc_bag_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bag of Gold</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=25720\" class=\"q2\">Places the Bag of Gold at the designated Drop-Off Point.</a></span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Merithra of the Dream</div></td></tr></table>",
+  "url": "/item=21041/bag-of-gold",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_17.jpg",
+  "id": "21041",
+  "slug": "bag-of-gold"
+}

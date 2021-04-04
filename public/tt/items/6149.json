@@ -1,0 +1,10 @@
+{
+  "name": "Greater Mana Potion",
+  "quality": "Common",
+  "icon": "inv_potion_73",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Greater Mana Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->41</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->31<br><span class=\"q2\">Use: <a href=\"/spell=11903\" class=\"q2\">Restores 700 to 900 mana.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">20</span></div></td></tr></table>",
+  "url": "/item=6149/greater-mana-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_73.jpg",
+  "id": "6149",
+  "slug": "greater-mana-potion"
+}

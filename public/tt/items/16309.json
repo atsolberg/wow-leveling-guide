@@ -1,0 +1,10 @@
+{
+  "name": "Drakefire Amulet",
+  "quality": "Rare",
+  "icon": "inv_jewelry_talisman_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Drakefire Amulet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+15 Fire Resistance<!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<!--itemEffects:1--><br><span class=\"q\">&quot;The Blood of Drakkisath Flows Within...&quot;</span></td></tr></table>",
+  "url": "/item=16309/drakefire-amulet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_11.jpg",
+  "id": "16309",
+  "slug": "drakefire-amulet"
+}

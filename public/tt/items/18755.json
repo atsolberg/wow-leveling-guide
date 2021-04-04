@@ -1,0 +1,10 @@
+{
+  "name": "Xorothian Firestick",
+  "quality": "Rare",
+  "icon": "inv_weapon_rifle_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Xorothian Firestick</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->57 - 108 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(31.73 damage per second)<br><span><!--stat3-->+4 Agility</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+6 Shadow Resistance<!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">31</span> <span class=\"moneycopper\">29</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lord Hel'nurath</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 25.56%</div></td></tr></table>",
+  "url": "/item=18755/xorothian-firestick",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_03.jpg",
+  "id": "18755",
+  "slug": "xorothian-firestick"
+}

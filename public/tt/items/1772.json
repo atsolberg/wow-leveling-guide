@@ -1,0 +1,10 @@
+{
+  "name": "Brocade Shoes",
+  "quality": "Poor",
+  "icon": "inv_boots_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Brocade Shoes</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->23 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">47</span></div></td></tr></table>",
+  "url": "/item=1772/brocade-shoes",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_05.jpg",
+  "id": "1772",
+  "slug": "brocade-shoes"
+}

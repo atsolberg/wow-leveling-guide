@@ -1,0 +1,10 @@
+{
+  "name": "Mutilated Rat Carcass",
+  "quality": "Poor",
+  "icon": "inv_misc_pelt_bear_ruin_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Mutilated Rat Carcass</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=8427/mutilated-rat-carcass",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_pelt_bear_ruin_01.jpg",
+  "id": "8427",
+  "slug": "mutilated-rat-carcass"
+}

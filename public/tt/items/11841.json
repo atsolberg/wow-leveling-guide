@@ -1,0 +1,10 @@
+{
+  "name": "Senior Designer's Pantaloons",
+  "quality": "Rare",
+  "icon": "inv_pants_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Senior Designer's Pantaloons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->69 Armor</span><br><span><!--stat5-->+7 Intellect</span><br><span><!--stat7-->+8 Stamina</span><br><span><!--stat6-->+18 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br><span class=\"q2\">Equip: <a href=\"/spell=18031\" class=\"q2\">Increases healing done by spells and effects by up to 40.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">32</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Fineous Darkvire</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 23.06%</div></td></tr></table>",
+  "url": "/item=11841/senior-designers-pantaloons",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_09.jpg",
+  "id": "11841",
+  "slug": "senior-designers-pantaloons"
+}

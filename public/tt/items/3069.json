@@ -1,0 +1,10 @@
+{
+  "name": "Bright Robe",
+  "quality": "Uncommon",
+  "icon": "inv_chest_cloth_26",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Bright Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->41 Armor</span><br><span><!--stat5-->+4 Intellect</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->22<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=3069/bright-robe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_26.jpg",
+  "id": "3069",
+  "slug": "bright-robe"
+}

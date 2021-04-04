@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Silvered Bronze Leggings",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Plans: Silvered Bronze Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->31</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (155)<br><span class=\"q2\">Use: <a href=\"/spell=12261\" class=\"q2\">Teaches you how to make Silvered Bronze Leggings.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q2\"><a href=\"/item=10423\">Silvered Bronze Leggings</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->31</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->176 Armor</span><br><span><!--stat4-->+7 Strength</span><br><span><!--stat7-->+6 Stamina</span><br><span><!--stat6-->+6 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75<br>Requires Level <!--rlvl-->26<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">28</span> <span class=\"moneycopper\">42</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=2841\">Bronze Bar</a>&nbsp;(12), <a href=\"/item=2842\">Silver Bar</a>&nbsp;(4), <a href=\"/item=3478\">Coarse Grinding Stone</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=10424/plans-silvered-bronze-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "10424",
+  "slug": "plans-silvered-bronze-leggings"
+}

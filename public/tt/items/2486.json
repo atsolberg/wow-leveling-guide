@@ -1,0 +1,10 @@
+{
+  "name": "Large Stone Mace",
+  "quality": "Common",
+  "icon": "inv_hammer_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Large Stone Mace</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->3</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->4 - 6 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(1.56 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">13</span></div></td></tr></table>",
+  "url": "/item=2486/large-stone-mace",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_09.jpg",
+  "id": "2486",
+  "slug": "large-stone-mace"
+}

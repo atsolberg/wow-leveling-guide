@@ -1,0 +1,10 @@
+{
+  "name": "Buccaneer's Vest",
+  "quality": "Uncommon",
+  "icon": "inv_shirt_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Buccaneer's Vest</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->37 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">47</span></div></td></tr></table>",
+  "url": "/item=14175/buccaneers-vest",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_08.jpg",
+  "id": "14175",
+  "slug": "buccaneers-vest"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Wicked Chain Waistband",
+  "quality": "Uncommon",
+  "icon": "inv_belt_26",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Wicked Chain Waistband</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->30</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->111 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->25<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">82</span></div></td></tr></table>",
+  "url": "/item=15539/wicked-chain-waistband",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_26.jpg",
+  "id": "15539",
+  "slug": "wicked-chain-waistband"
+}

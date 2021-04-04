@@ -1,0 +1,10 @@
+{
+  "name": "Holy Spring Water",
+  "quality": "Common",
+  "icon": "inv_potion_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Holy Spring Water</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=3591\" class=\"q2\">Blessing from the Holy Spring of Stranglethorn Vale.</a> (5 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=737/holy-spring-water",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_01.jpg",
+  "id": "737",
+  "slug": "holy-spring-water"
+}

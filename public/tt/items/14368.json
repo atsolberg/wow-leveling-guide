@@ -1,0 +1,10 @@
+{
+  "name": "Mystic's Shoulder Pads",
+  "quality": "Common",
+  "icon": "inv_shoulder_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Mystic's Shoulder Pads</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->26 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">46</span></div></td></tr></table>",
+  "url": "/item=14368/mystics-shoulder-pads",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_09.jpg",
+  "id": "14368",
+  "slug": "mystics-shoulder-pads"
+}

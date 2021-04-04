@@ -1,0 +1,10 @@
+{
+  "name": "Horn of Echeyakee",
+  "quality": "Common",
+  "icon": "inv_misc_horn_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Horn of Echeyakee</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=12189\" class=\"q2\">Blow near Echeyakee's Lair.</a> (30 Sec Cooldown)</span></td></tr></table>",
+  "url": "/item=10327/horn-of-echeyakee",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_horn_01.jpg",
+  "id": "10327",
+  "slug": "horn-of-echeyakee"
+}

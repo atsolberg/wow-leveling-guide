@@ -1,0 +1,10 @@
+{
+  "name": "Timolain's Phylactery",
+  "quality": "Common",
+  "icon": "inv_misc_gem_stone_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Timolain's Phylactery</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->50</td></tr></table>",
+  "url": "/item=15886/timolains-phylactery",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_stone_01.jpg",
+  "id": "15886",
+  "slug": "timolains-phylactery"
+}

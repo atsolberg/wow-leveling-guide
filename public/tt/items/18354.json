@@ -1,0 +1,10 @@
+{
+  "name": "Pimgib's Collar",
+  "quality": "Rare",
+  "icon": "inv_jewelry_amulet_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Pimgib's Collar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=9\" class=\"c9\">Warlock</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Equip: <a href=\"/spell=22855\" class=\"q2\">Increases the damage of your Imp's Firebolt spell by 8.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">74</span> <span class=\"moneycopper\">66</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Pimgib</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 24.23%</div></td></tr></table>",
+  "url": "/item=18354/pimgibs-collar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_amulet_05.jpg",
+  "id": "18354",
+  "slug": "pimgibs-collar"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Celestial Tunic",
+  "quality": "Uncommon",
+  "icon": "inv_chest_chain_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Celestial Tunic</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->79 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">77</span> <span class=\"moneycopper\">99</span></div></td></tr></table>",
+  "url": "/item=14308/celestial-tunic",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_11.jpg",
+  "id": "14308",
+  "slug": "celestial-tunic"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Colossus of Regal's Husk",
+  "quality": "Common",
+  "icon": "inv_misc_monsterscales_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Colossus of Regal's Husk</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<br />Duration: 2 hrs (real time)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;A tiny fragment of a very large insect.&quot;</span></td></tr></table>",
+  "url": "/item=21535/colossus-of-regals-husk",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_15.jpg",
+  "id": "21535",
+  "slug": "colossus-of-regals-husk"
+}

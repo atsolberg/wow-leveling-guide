@@ -1,0 +1,10 @@
+{
+  "name": "Highlander's Mail Girdle",
+  "quality": "Rare",
+  "icon": "inv_belt_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Highlander's Mail Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->43</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->149 Armor</span><br><span><!--stat5-->+15 Intellect</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=3\" class=\"c3\">Hunter</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br>Requires <a href=\"/faction=509\" class=\"q1\">The League of Arathor</a> - Honored<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">22</span></div></td></tr></table>",
+  "url": "/item=20119/highlanders-mail-girdle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_20.jpg",
+  "id": "20119",
+  "slug": "highlanders-mail-girdle"
+}

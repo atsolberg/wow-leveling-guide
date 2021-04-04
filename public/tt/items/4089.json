@@ -1,0 +1,10 @@
+{
+  "name": "Ricochet Blunderbuss",
+  "quality": "Uncommon",
+  "icon": "inv_weapon_rifle_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Ricochet Blunderbuss</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->48</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->36 - 67 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(22.39 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->43<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">60</span></div></td></tr></table>",
+  "url": "/item=4089/ricochet-blunderbuss",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_03.jpg",
+  "id": "4089",
+  "slug": "ricochet-blunderbuss"
+}

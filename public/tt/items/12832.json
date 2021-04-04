@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Darkspear",
+  "quality": "Rare",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Plans: Darkspear</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (300)<br>Requires <a href=\"/spells=11.164.9787\" class=\"q1\">Weaponsmith</a><br><span class=\"q2\">Use: <a href=\"/spell=17030\" class=\"q2\">Teaches you how to make a Darkspear.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span></div><br /><span class=\"q3\"><a href=\"/item=12802\">Darkspear</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:6--><span class=\"q1\">Polearm</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->131 - 197 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(51.25 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100<br>Requires Level <!--rlvl-->55<br><span class=\"q2\">Chance on hit: <a href=\"/spell=16939\" class=\"q2\">Party members have chance to crit increased by 4%. &nbsp;Lasts for 20 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">25</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=12655\">Enchanted Thorium Bar</a>&nbsp;(20), <a href=\"/item=12804\">Powerful Mojo</a>&nbsp;(20), <a href=\"/item=12364\">Huge Emerald</a>&nbsp;(2), <a href=\"/item=12800\">Azerothian Diamond</a>&nbsp;(2), <a href=\"/item=12644\">Dense Grinding Stone</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=12832/plans-darkspear",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "12832",
+  "slug": "plans-darkspear"
+}

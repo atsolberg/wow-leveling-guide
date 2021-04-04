@@ -1,0 +1,10 @@
+{
+  "name": "Warstrike Sabatons",
+  "quality": "Uncommon",
+  "icon": "inv_boots_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Warstrike Sabatons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->228 Armor</span><br><span><!--stat3-->+6 Agility</span><br><span><!--stat7-->+16 Stamina</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">76</span></div></td></tr></table>",
+  "url": "/item=14809/warstrike-sabatons",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_07.jpg",
+  "id": "14809",
+  "slug": "warstrike-sabatons"
+}

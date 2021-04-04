@@ -1,0 +1,10 @@
+{
+  "name": "Antipodean Rod",
+  "quality": "Rare",
+  "icon": "inv_wand_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Antipodean Rod</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><br />Binds when equipped<br />Unique<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<br><span class=\"q2\">Equip: <a href=\"/spell=7686\" class=\"q2\">Increases damage done by Fire spells and effects by up to 6.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=7700\" class=\"q2\">Increases damage done by Frost spells and effects by up to 6.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">31</span> <span class=\"moneycopper\">21</span></div></td></tr></table>",
+  "url": "/item=2879/antipodean-rod",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_04.jpg",
+  "id": "2879",
+  "slug": "antipodean-rod"
+}

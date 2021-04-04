@@ -1,0 +1,10 @@
+{
+  "name": "Security DELTA Data Access Card",
+  "quality": "Uncommon",
+  "icon": "inv_ingot_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Security DELTA Data Access Card</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (1)<div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=9327/security-delta-data-access-card",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ingot_04.jpg",
+  "id": "9327",
+  "slug": "security-delta-data-access-card"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Gloves of the Immortal",
+  "quality": "Epic",
+  "icon": "inv_gauntlets_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Gloves of the Immortal</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->71</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->188 Armor</span><br><span><!--stat5-->+16 Intellect</span><br><span><!--stat7-->+28 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">28</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=21888/gloves-of-the-immortal",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_14.jpg",
+  "id": "21888",
+  "slug": "gloves-of-the-immortal"
+}

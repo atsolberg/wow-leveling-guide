@@ -1,0 +1,10 @@
+{
+  "name": "Red Dragonscale Protector",
+  "quality": "Epic",
+  "icon": "inv_shield_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Red Dragonscale Protector</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->74</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->2787 Armor</span><br>51 Block<br><span><!--stat5-->+17 Intellect</span><br><span><!--stat7-->+6 Stamina</span><br><span><!--stat6-->+6 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=18030\" class=\"q2\">Increases healing done by spells and effects by up to 37.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">8</span> <span class=\"moneysilver\">44</span> <span class=\"moneycopper\">2</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Vaelastrasz the Corrupt</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 9.66%</div></td></tr></table>",
+  "url": "/item=19348/red-dragonscale-protector",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_20.jpg",
+  "id": "19348",
+  "slug": "red-dragonscale-protector"
+}

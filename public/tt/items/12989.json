@@ -1,0 +1,10 @@
+{
+  "name": "Gargoyle's Bite",
+  "quality": "Rare",
+  "icon": "inv_spear_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Gargoyle's Bite</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:6--><span class=\"q1\">Polearm</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->44 - 66 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(18.97 damage per second)<br><span><!--amr-->60 Armor</span><br><span><!--stat4-->+10 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">28</span> <span class=\"moneycopper\">54</span></div></td></tr></table>",
+  "url": "/item=12989/gargoyles-bite",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_spear_05.jpg",
+  "id": "12989",
+  "slug": "gargoyles-bite"
+}

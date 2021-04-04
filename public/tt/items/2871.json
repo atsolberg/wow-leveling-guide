@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Sharpening Stone",
+  "quality": "Common",
+  "icon": "inv_stone_sharpeningstone_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Heavy Sharpening Stone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><span class=\"q2\">Use: <a href=\"/spell=2830\" class=\"q2\">Increase sharp weapon damage by 4 for 30 minutes.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">40</span></div></td></tr></table>",
+  "url": "/item=2871/heavy-sharpening-stone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_sharpeningstone_03.jpg",
+  "id": "2871",
+  "slug": "heavy-sharpening-stone"
+}

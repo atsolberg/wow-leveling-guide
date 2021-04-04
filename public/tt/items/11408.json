@@ -1,0 +1,10 @@
+{
+  "name": "Bear Jaw",
+  "quality": "Poor",
+  "icon": "inv_misc_bone_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Bear Jaw</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">98</span></div></td></tr></table>",
+  "url": "/item=11408/bear-jaw",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_09.jpg",
+  "id": "11408",
+  "slug": "bear-jaw"
+}

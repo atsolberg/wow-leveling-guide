@@ -1,0 +1,10 @@
+{
+  "name": "Lifegiving Gem",
+  "quality": "Epic",
+  "icon": "inv_misc_gem_pearl_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Lifegiving Gem</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->76</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=23725\" class=\"q2\">Heals yourself for 15% of your maximum health, and increases your maximum health by 15% for 20 sec.</a> (5 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">7</span> <span class=\"moneysilver\">20</span> <span class=\"moneycopper\">39</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Broodlord Lashlayer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.27%</div></td></tr></table>",
+  "url": "/item=19341/lifegiving-gem",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_pearl_05.jpg",
+  "id": "19341",
+  "slug": "lifegiving-gem"
+}

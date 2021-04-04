@@ -1,0 +1,10 @@
+{
+  "name": "Imperial Qiraji Armaments",
+  "quality": "Epic",
+  "icon": "inv_staff_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Imperial Qiraji Armaments</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q\">&quot;Ceremonial Armaments of the Qiraji Lords. Used by Qiraji infantry.&quot;</span></td></tr></table>",
+  "url": "/item=21232/imperial-qiraji-armaments",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_24.jpg",
+  "id": "21232",
+  "slug": "imperial-qiraji-armaments"
+}

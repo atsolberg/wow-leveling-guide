@@ -1,0 +1,10 @@
+{
+  "name": "The Story With No Conclusion",
+  "quality": "Common",
+  "icon": "inv_misc_book_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">The Story With No Conclusion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=13152/the-story-with-no-conclusion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_10.jpg",
+  "id": "13152",
+  "slug": "the-story-with-no-conclusion"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Deviate Fish",
+  "quality": "Common",
+  "icon": "inv_misc_monsterhead_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Deviate Fish</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=8063\" class=\"q2\">Eat me.</a> (10 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">4</span></div></td></tr></table>",
+  "url": "/item=6522/deviate-fish",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterhead_01.jpg",
+  "id": "6522",
+  "slug": "deviate-fish"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Wool Bandage",
+  "quality": "Common",
+  "icon": "inv_misc_bandage_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Heavy Wool Bandage</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=129\" class=\"q1\">First Aid</a> (75)<br><span class=\"q2\">Use: <a href=\"/spell=3268\" class=\"q2\">Heals 301 damage over 7 sec.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">57</span></div></td></tr></table>",
+  "url": "/item=3531/heavy-wool-bandage",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bandage_17.jpg",
+  "id": "3531",
+  "slug": "heavy-wool-bandage"
+}

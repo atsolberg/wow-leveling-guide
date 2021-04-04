@@ -1,0 +1,10 @@
+{
+  "name": "War Rider Bracers",
+  "quality": "Uncommon",
+  "icon": "inv_bracer_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">War Rider Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->101 Armor</span><br><span><!--stat3-->+3 Agility</span><br><span><!--stat7-->+8 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">32</span> <span class=\"moneycopper\">30</span></div></td></tr></table>",
+  "url": "/item=4745/war-rider-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_09.jpg",
+  "id": "4745",
+  "slug": "war-rider-bracers"
+}

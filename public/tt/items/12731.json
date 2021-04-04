@@ -1,0 +1,10 @@
+{
+  "name": "Pristine Hide of the Beast",
+  "quality": "Epic",
+  "icon": "inv_misc_monsterscales_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Pristine Hide of the Beast</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=12731/pristine-hide-of-the-beast",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_15.jpg",
+  "id": "12731",
+  "slug": "pristine-hide-of-the-beast"
+}

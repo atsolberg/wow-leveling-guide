@@ -1,0 +1,10 @@
+{
+  "name": "Essence of the Exile",
+  "quality": "Common",
+  "icon": "inv_stone_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Essence of the Exile</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=6851/essence-of-the-exile",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_01.jpg",
+  "id": "6851",
+  "slug": "essence-of-the-exile"
+}

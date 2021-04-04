@@ -1,0 +1,10 @@
+{
+  "name": "Blue Linen Shirt",
+  "quality": "Common",
+  "icon": "inv_shirt_blue_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Blue Linen Shirt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><table width=\"100%\"><tr><td>Shirt</td><th><!--scstart4:-8--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=2577/blue-linen-shirt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_blue_01.jpg",
+  "id": "2577",
+  "slug": "blue-linen-shirt"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Canvas Pants",
+  "quality": "Poor",
+  "icon": "inv_pants_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Canvas Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->27 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">17</span></div></td></tr></table>",
+  "url": "/item=1768/canvas-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_09.jpg",
+  "id": "1768",
+  "slug": "canvas-pants"
+}

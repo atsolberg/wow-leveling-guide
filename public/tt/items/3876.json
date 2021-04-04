@@ -1,0 +1,10 @@
+{
+  "name": "Fang of Bhag'thera",
+  "quality": "Common",
+  "icon": "inv_misc_monsterfang_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fang of Bhag'thera</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Bhag'thera</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 91.59%</div></td></tr></table>",
+  "url": "/item=3876/fang-of-bhagthera",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterfang_01.jpg",
+  "id": "3876",
+  "slug": "fang-of-bhagthera"
+}

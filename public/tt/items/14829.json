@@ -1,0 +1,10 @@
+{
+  "name": "Symbolic Legplates",
+  "quality": "Uncommon",
+  "icon": "inv_pants_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Symbolic Legplates</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->42</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->297 Armor</span><br><span><!--stat4-->+15 Strength</span><br><span><!--stat3-->+6 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">49</span></div></td></tr></table>",
+  "url": "/item=14829/symbolic-legplates",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_13.jpg",
+  "id": "14829",
+  "slug": "symbolic-legplates"
+}

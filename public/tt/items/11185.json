@@ -1,0 +1,10 @@
+{
+  "name": "Green Power Crystal",
+  "quality": "Common",
+  "icon": "inv_misc_gem_emerald_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Green Power Crystal</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 100</div></td></tr></table>",
+  "url": "/item=11185/green-power-crystal",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_emerald_02.jpg",
+  "id": "11185",
+  "slug": "green-power-crystal"
+}

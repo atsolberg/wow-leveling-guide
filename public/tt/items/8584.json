@@ -1,0 +1,10 @@
+{
+  "name": "Untapped Dowsing Widget",
+  "quality": "Common",
+  "icon": "inv_potion_87",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Untapped Dowsing Widget</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=11758\" class=\"q2\">Fill the Untapped Dowsing Widget at the Sandsorrow Watch water hole.</a></span></td></tr></table>",
+  "url": "/item=8584/untapped-dowsing-widget",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_87.jpg",
+  "id": "8584",
+  "slug": "untapped-dowsing-widget"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Robe of Winter Night",
+  "quality": "Rare",
+  "icon": "inv_scroll_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Pattern: Robe of Winter Night</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=197\" class=\"q1\">Tailoring</a> (285)<br><span class=\"q2\">Use: <a href=\"/spell=18509\" class=\"q2\">Teaches you how to sew a Robe of Winter Night.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Cobalt Mageweaver</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 4.72%</div><br /><span class=\"q3\"><a href=\"/item=14136\">Robe of Winter Night</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->81 Armor</span><br><span><!--stat5-->+12 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80<br>Requires Level <!--rlvl-->52<br><span class=\"q2\">Equip: <a href=\"/spell=18018\" class=\"q2\">Increases damage done by Shadow spells and effects by up to 40.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=17900\" class=\"q2\">Increases damage done by Frost spells and effects by up to 40.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">70</span> <span class=\"moneycopper\">25</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=14048\">Bolt of Runecloth</a>&nbsp;(10), <a href=\"/item=14256\">Felcloth</a>&nbsp;(12), <a href=\"/item=12808\">Essence of Undeath</a>&nbsp;(4), <a href=\"/item=7080\">Essence of Water</a>&nbsp;(4), <a href=\"/item=14341\">Rune Thread</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=14493/pattern-robe-of-winter-night",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_05.jpg",
+  "id": "14493",
+  "slug": "pattern-robe-of-winter-night"
+}

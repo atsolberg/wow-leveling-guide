@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Argent Shoulders",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pattern: Argent Shoulders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->64</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=197\" class=\"q1\">Tailoring</a> (300)<br>Requires <a href=\"/faction=529\" class=\"q1\">Argent Dawn</a> - Revered<br><span class=\"q2\">Use: <a href=\"/spell=23671\" class=\"q2\">Teaches you how to sew Argent Shoulders.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span></div><br /><span class=\"q3\"><a href=\"/item=19059\">Argent Shoulders</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->64</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->68 Armor</span><br><span><!--stat7-->+23 Stamina</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><br>+5 Shadow Resistance<!--e--><!--ps--><br>Durability 50 / 50<br>Requires Level <!--rlvl-->59<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">75</span> <span class=\"moneycopper\">41</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=14342\">Mooncloth</a>&nbsp;(5), <a href=\"/item=12809\">Guardian Stone</a>&nbsp;(2), <a href=\"/item=14227\">Ironweb Spider Silk</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=19217/pattern-argent-shoulders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "19217",
+  "slug": "pattern-argent-shoulders"
+}

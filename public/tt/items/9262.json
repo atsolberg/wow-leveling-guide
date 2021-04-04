@@ -1,0 +1,10 @@
+{
+  "name": "Black Vitriol",
+  "quality": "Common",
+  "icon": "inv_misc_gem_sapphire_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Black Vitriol</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div></td></tr></table>",
+  "url": "/item=9262/black-vitriol",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_sapphire_03.jpg",
+  "id": "9262",
+  "slug": "black-vitriol"
+}

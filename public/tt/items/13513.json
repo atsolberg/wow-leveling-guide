@@ -1,0 +1,10 @@
+{
+  "name": "Flask of Chromatic Resistance",
+  "quality": "Common",
+  "icon": "inv_potion_48",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Flask of Chromatic Resistance</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br><span class=\"q2\">Use: <a href=\"/spell=17629\" class=\"q2\">Increases your resistance to all schools of magic by 25 for 2 hrs. &nbsp;You can only have the effect of one flask at a time. &nbsp;This effect persists through death and stacks with all other resistance spells and items.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=13513/flask-of-chromatic-resistance",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_48.jpg",
+  "id": "13513",
+  "slug": "flask-of-chromatic-resistance"
+}

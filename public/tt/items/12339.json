@@ -1,0 +1,10 @@
+{
+  "name": "Vaelan's Gift",
+  "quality": "Common",
+  "icon": "inv_box_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Vaelan's Gift</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=12339/vaelans-gift",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_02.jpg",
+  "id": "12339",
+  "slug": "vaelans-gift"
+}

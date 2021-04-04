@@ -1,0 +1,10 @@
+{
+  "name": "Shadow Oil",
+  "quality": "Common",
+  "icon": "inv_potion_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Shadow Oil</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->34</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->24<br><span class=\"q2\">Use: <a href=\"/spell=3594\" class=\"q2\">When applied to a melee weapon it gives a 15% chance of casting Shadowbolt III at the opponent when it hits. &nbsp;Lasts 30 minutes.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=3824/shadow-oil",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_23.jpg",
+  "id": "3824",
+  "slug": "shadow-oil"
+}

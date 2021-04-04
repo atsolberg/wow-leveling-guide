@@ -1,0 +1,11 @@
+{
+  "name": "Kodo Mount",
+  "quality": "Common",
+  "icon": "ability_mount_undeadhorse",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Kodo Mount</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when used<br />Mount<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br><span class=\"q2\">Use: <a href=\"/spell=18363\" class=\"q2\">Summons and dismisses a rideable kodo.</a> (3 Sec Cooldown)</span></td></tr></table>",
+  "completion_category": "15-5",
+  "url": "/item=14062/kodo-mount",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_mount_undeadhorse.jpg",
+  "id": "14062",
+  "slug": "kodo-mount"
+}

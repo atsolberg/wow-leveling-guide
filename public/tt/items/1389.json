@@ -1,0 +1,10 @@
+{
+  "name": "Kobold Mining Mallet",
+  "quality": "Common",
+  "icon": "inv_hammer_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Kobold Mining Mallet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->7</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->4 - 9 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(2.83 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->2<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">58</span></div></td></tr></table>",
+  "url": "/item=1389/kobold-mining-mallet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_09.jpg",
+  "id": "1389",
+  "slug": "kobold-mining-mallet"
+}

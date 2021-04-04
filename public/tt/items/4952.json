@@ -1,0 +1,10 @@
+{
+  "name": "Stormstout",
+  "quality": "Common",
+  "icon": "inv_drink_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Stormstout</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=5020\" class=\"q2\">A powerful brew that increases your strength by 4 and decreases your intellect by 5 for 5 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">63</span></div></td></tr></table>",
+  "url": "/item=4952/stormstout",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_04.jpg",
+  "id": "4952",
+  "slug": "stormstout"
+}

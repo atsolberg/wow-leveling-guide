@@ -1,0 +1,10 @@
+{
+  "name": "Aegis of Preservation",
+  "quality": "Epic",
+  "icon": "classic_spell_holy_blessingofprotection",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Aegis of Preservation</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->76</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=5\" class=\"c5\">Priest</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=23780\" class=\"q2\">Increases armor by 500, and heals 35 damage every time you take ranged or melee damage for 20 sec.</a> (5 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">7</span> <span class=\"moneysilver\">20</span> <span class=\"moneycopper\">39</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ebonroc</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 19.39%</div></td></tr></table>",
+  "url": "/item=19345/aegis-of-preservation",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/classic_spell_holy_blessingofprotection.jpg",
+  "id": "19345",
+  "slug": "aegis-of-preservation"
+}

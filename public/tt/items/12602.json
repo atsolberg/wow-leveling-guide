@@ -1,0 +1,10 @@
+{
+  "name": "Draconian Deflector",
+  "quality": "Rare",
+  "icon": "inv_shield_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Draconian Deflector</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->2153 Armor</span><br>40 Block<br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Fire Resistance<!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=13390\" class=\"q2\">Increased Defense +10.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">52</span> <span class=\"moneycopper\">12</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: General Drakkisath</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 22.06%</div></td></tr></table>",
+  "url": "/item=12602/draconian-deflector",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_20.jpg",
+  "id": "12602",
+  "slug": "draconian-deflector"
+}

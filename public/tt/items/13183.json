@@ -1,0 +1,10 @@
+{
+  "name": "Venomspitter",
+  "quality": "Rare",
+  "icon": "inv_wand_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Venomspitter</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->52 - 98 Damage</span></td>\n    <th>Speed <!--spd-->1.90</th>\n</tr></table><!--dps-->(39.47 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Chance on hit: <a href=\"/spell=18203\" class=\"q2\">Poisons target for 7 Nature damage every 2 sec for 30 sec.</a></span><!--itemEffects:1--><br /><br /><span class=\"q\"><a href=\"/item-set=65\" class=\"q\">Spider's Kiss</a> (0/2)</span><div class=\"q0 indent\"><span><!--si13218--><a href=\"/item=13218\">Fang of the Crystal Spider</a></span><br /><span><!--si13183--><a href=\"/item=13183\">Venomspitter</a></span></div><br /><span class=\"q0\"><span>(2) Set : <a href=\"/spell=17332\">Chance on Hit: Immobilizes the target and lowers their armor by 100 for 10 sec.</a></span></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">71</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Mother Smolderweb</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 3.25%</div></td></tr></table>",
+  "url": "/item=13183/venomspitter",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_10.jpg",
+  "id": "13183",
+  "slug": "venomspitter"
+}

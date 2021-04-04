@@ -1,0 +1,10 @@
+{
+  "name": "Rushridge Boots",
+  "quality": "Uncommon",
+  "icon": "inv_boots_plate_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Rushridge Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->43</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->262 Armor</span><br><span><!--stat3-->+7 Agility</span><br><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">42</span> <span class=\"moneycopper\">58</span></div></td></tr></table>",
+  "url": "/item=9662/rushridge-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_plate_01.jpg",
+  "id": "9662",
+  "slug": "rushridge-boots"
+}

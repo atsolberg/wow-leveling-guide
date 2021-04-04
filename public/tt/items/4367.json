@@ -1,0 +1,10 @@
+{
+  "name": "Small Seaforium Charge",
+  "quality": "Common",
+  "icon": "inv_misc_urn_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Small Seaforium Charge</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (100)<br><span class=\"q2\">Use: <a href=\"/spell=4056\" class=\"q2\">Blasts open simple locked doors.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=4367/small-seaforium-charge",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_urn_01.jpg",
+  "id": "4367",
+  "slug": "small-seaforium-charge"
+}

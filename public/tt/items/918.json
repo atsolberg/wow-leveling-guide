@@ -1,0 +1,10 @@
+{
+  "name": "Deviate Hide Pack",
+  "quality": "Common",
+  "icon": "inv_misc_bag_07_black",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Deviate Hide Pack</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br />Binds when picked up<br />Unique<br />10 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=918/deviate-hide-pack",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_07_black.jpg",
+  "id": "918",
+  "slug": "deviate-hide-pack"
+}

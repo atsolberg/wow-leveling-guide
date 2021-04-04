@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Crate",
+  "quality": "Common",
+  "icon": "inv_crate_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Heavy Crate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Venture Company Supplies&quot;</span><br><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Gahz'ranka</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 3.65%</div></td></tr></table>",
+  "url": "/item=13874/heavy-crate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crate_03.jpg",
+  "id": "13874",
+  "slug": "heavy-crate"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Thun'grim's Instructions",
+  "quality": "Common",
+  "icon": "inv_scroll_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Thun'grim's Instructions</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=7587/thungrims-instructions",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_04.jpg",
+  "id": "7587",
+  "slug": "thungrims-instructions"
+}

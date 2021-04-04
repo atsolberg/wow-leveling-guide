@@ -1,0 +1,10 @@
+{
+  "name": "Ripped Ogre Loincloth",
+  "quality": "Poor",
+  "icon": "inv_pants_wolf",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Ripped Ogre Loincloth</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><table width=\"100%\"><tr><td>Legs</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">39</span></div></td></tr></table>",
+  "url": "/item=15794/ripped-ogre-loincloth",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_wolf.jpg",
+  "id": "15794",
+  "slug": "ripped-ogre-loincloth"
+}

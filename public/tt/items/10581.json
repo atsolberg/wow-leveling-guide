@@ -1,0 +1,10 @@
+{
+  "name": "Death's Head Vestment",
+  "quality": "Rare",
+  "icon": "inv_chest_leather_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Death's Head Vestment</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->58 Armor</span><br><span><!--stat5-->+8 Intellect</span><br><span><!--stat7-->+12 Stamina</span><br><span><!--stat6-->+13 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">53</span> <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=10581/deaths-head-vestment",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_leather_08.jpg",
+  "id": "10581",
+  "slug": "deaths-head-vestment"
+}

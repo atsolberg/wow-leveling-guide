@@ -1,0 +1,10 @@
+{
+  "name": "Long Soft Tail",
+  "quality": "Poor",
+  "icon": "inv_misc_monstertail_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Long Soft Tail</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">6</span></div></td></tr></table>",
+  "url": "/item=1688/long-soft-tail",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monstertail_01.jpg",
+  "id": "1688",
+  "slug": "long-soft-tail"
+}

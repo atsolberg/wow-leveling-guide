@@ -1,0 +1,10 @@
+{
+  "name": "Tablet of Markri",
+  "quality": "Common",
+  "icon": "inv_misc_stonetablet_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tablet of Markri</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=10540/tablet-of-markri",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_stonetablet_01.jpg",
+  "id": "10540",
+  "slug": "tablet-of-markri"
+}

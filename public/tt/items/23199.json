@@ -1,0 +1,10 @@
+{
+  "name": "Totem of the Storm",
+  "quality": "Rare",
+  "icon": "inv_relics_totemofrage",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Totem of the Storm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when equipped<br />Unique<table width=\"100%\"><tr><td>Relic</td><th><!--scstart4:9--><span class=\"q1\">Totem</span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=28857\" class=\"q2\">Increases damage done by Chain Lightning and Lightning Bolt by up to 33.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">88</span> <span class=\"moneycopper\">58</span></div></td></tr></table>",
+  "url": "/item=23199/totem-of-the-storm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_relics_totemofrage.jpg",
+  "id": "23199",
+  "slug": "totem-of-the-storm"
+}

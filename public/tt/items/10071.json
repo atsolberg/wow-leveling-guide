@@ -1,0 +1,10 @@
+{
+  "name": "Righteous Cloak",
+  "quality": "Uncommon",
+  "icon": "inv_misc_cape_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Righteous Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->49</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->32 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->44<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">80</span> <span class=\"moneycopper\">63</span></div></td></tr></table>",
+  "url": "/item=10071/righteous-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_06.jpg",
+  "id": "10071",
+  "slug": "righteous-cloak"
+}

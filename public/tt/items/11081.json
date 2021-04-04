@@ -1,0 +1,11 @@
+{
+  "name": "Formula: Enchant Shield - Lesser Protection",
+  "quality": "Uncommon",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Formula: Enchant Shield - Lesser Protection</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->22</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=333\" class=\"q1\">Enchanting</a> (115)<br><span class=\"q2\">Use: <a href=\"/spell=13465\" class=\"q2\">Teaches you how to permanently enchant a shield with +30 armor.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=11081/formula-enchant-shield-lesser-protection",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "11081",
+  "slug": "formula-enchant-shield-lesser-protection"
+}

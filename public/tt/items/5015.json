@@ -1,0 +1,10 @@
+{
+  "name": "Wrapped Item (PT)",
+  "quality": "Common",
+  "icon": "inv_fabric_silk_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Wrapped Item (PT)</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=5015/wrapped-item-pt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_fabric_silk_03.jpg",
+  "id": "5015",
+  "slug": "wrapped-item-pt"
+}

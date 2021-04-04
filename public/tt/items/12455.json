@@ -1,0 +1,10 @@
+{
+  "name": "Juju Ember",
+  "quality": "Common",
+  "icon": "inv_misc_monsterscales_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Juju Ember</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=16326\" class=\"q2\">Increases Fire resistance by 15 for 10 min.</a> (1 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span></div></td></tr></table>",
+  "url": "/item=12455/juju-ember",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_15.jpg",
+  "id": "12455",
+  "slug": "juju-ember"
+}

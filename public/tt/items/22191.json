@@ -1,0 +1,10 @@
+{
+  "name": "Obsidian Mail Tunic",
+  "quality": "Epic",
+  "icon": "inv_chest_chain_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Obsidian Mail Tunic</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->72</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->458 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 140 / 140</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=15824\" class=\"q2\">+76 Attack Power.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=27518\" class=\"q2\">Spell Damage received is reduced by 10.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">7</span> <span class=\"moneysilver\">31</span> <span class=\"moneycopper\">28</span></div></td></tr></table>",
+  "url": "/item=22191/obsidian-mail-tunic",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_17.jpg",
+  "id": "22191",
+  "slug": "obsidian-mail-tunic"
+}

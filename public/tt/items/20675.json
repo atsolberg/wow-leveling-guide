@@ -1,0 +1,10 @@
+{
+  "name": "Soulrender",
+  "quality": "Rare",
+  "icon": "inv_axe_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Soulrender</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->71 - 133 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(40.80 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=9335\" class=\"q2\">+28 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">23</span> <span class=\"moneycopper\">6</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: The Duke of Zephyrs</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 30.43%</div></td></tr></table>",
+  "url": "/item=20675/soulrender",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_13.jpg",
+  "id": "20675",
+  "slug": "soulrender"
+}

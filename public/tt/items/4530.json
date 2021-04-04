@@ -1,0 +1,10 @@
+{
+  "name": "Trelane's Phylactery",
+  "quality": "Common",
+  "icon": "inv_jewelry_amulet_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Trelane's Phylactery</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=4530/trelanes-phylactery",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_amulet_05.jpg",
+  "id": "4530",
+  "slug": "trelanes-phylactery"
+}

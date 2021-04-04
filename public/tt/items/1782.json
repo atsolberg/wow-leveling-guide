@@ -1,0 +1,10 @@
+{
+  "name": "Cross-stitched Cloak",
+  "quality": "Poor",
+  "icon": "inv_misc_cape_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Cross-stitched Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->30</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->19 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->25<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">41</span></div></td></tr></table>",
+  "url": "/item=1782/cross-stitched-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_14.jpg",
+  "id": "1782",
+  "slug": "cross-stitched-cloak"
+}

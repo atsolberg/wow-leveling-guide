@@ -1,0 +1,10 @@
+{
+  "name": "Ensign Cloak",
+  "quality": "Common",
+  "icon": "inv_misc_cape_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ensign Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->5 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">11</span></div></td></tr></table>",
+  "url": "/item=3070/ensign-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_01.jpg",
+  "id": "3070",
+  "slug": "ensign-cloak"
+}

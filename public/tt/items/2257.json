@@ -1,0 +1,10 @@
+{
+  "name": "Frostmane Staff",
+  "quality": "Common",
+  "icon": "inv_staff_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Frostmane Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->14 - 21 Damage</span></td>\n    <th>Speed <!--spd-->3.10</th>\n</tr></table><!--dps-->(5.65 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">88</span></div></td></tr></table>",
+  "url": "/item=2257/frostmane-staff",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_11.jpg",
+  "id": "2257",
+  "slug": "frostmane-staff"
+}

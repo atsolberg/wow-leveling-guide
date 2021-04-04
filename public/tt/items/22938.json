@@ -1,0 +1,10 @@
+{
+  "name": "Cryptfiend Silk Cloak",
+  "quality": "Epic",
+  "icon": "inv_misc_cape_naxxramas_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Cryptfiend Silk Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->83</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->203 Armor</span><br><span><!--stat7-->+14 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=13385\" class=\"q2\">Increased Defense +7.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=13669\" class=\"q2\">Increases your chance to dodge an attack by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=15464\" class=\"q2\">Improves your chance to hit by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">51</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Anub'Rekhan</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 19.84%</div></td></tr></table>",
+  "url": "/item=22938/cryptfiend-silk-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_naxxramas_02.jpg",
+  "id": "22938",
+  "slug": "cryptfiend-silk-cloak"
+}

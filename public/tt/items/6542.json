@@ -1,0 +1,10 @@
+{
+  "name": "Willow Cape",
+  "quality": "Uncommon",
+  "icon": "inv_misc_cape_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Willow Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->14 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">19</span></div></td></tr></table>",
+  "url": "/item=6542/willow-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_17.jpg",
+  "id": "6542",
+  "slug": "willow-cape"
+}

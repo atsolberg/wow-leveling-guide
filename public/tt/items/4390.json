@@ -1,0 +1,10 @@
+{
+  "name": "Iron Grenade",
+  "quality": "Common",
+  "icon": "inv_misc_bomb_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Iron Grenade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (175)<br><span class=\"q2\">Use: <a href=\"/spell=4068\" class=\"q2\">Inflicts 132 to 218 Fire damage and stuns targets for 3 sec in a 3 yard radius. &nbsp;Any damage will break the effect.</a> (1 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div></td></tr></table>",
+  "url": "/item=4390/iron-grenade",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bomb_08.jpg",
+  "id": "4390",
+  "slug": "iron-grenade"
+}

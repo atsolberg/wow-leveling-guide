@@ -1,0 +1,10 @@
+{
+  "name": "Sayge's Fortune #4",
+  "quality": "Common",
+  "icon": "inv_scroll_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sayge's Fortune #4</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;You will be fortunate in everything you put your hands to.&quot;</span></td></tr></table>",
+  "url": "/item=19239/sayges-fortune-4",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_02.jpg",
+  "id": "19239",
+  "slug": "sayges-fortune-4"
+}

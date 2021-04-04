@@ -1,0 +1,10 @@
+{
+  "name": "Rusted Chain Bracers",
+  "quality": "Common",
+  "icon": "inv_bracer_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rusted Chain Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->29 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 18 / 18</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">7</span></div></td></tr></table>",
+  "url": "/item=2390/rusted-chain-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_05.jpg",
+  "id": "2390",
+  "slug": "rusted-chain-bracers"
+}

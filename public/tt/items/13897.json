@@ -1,0 +1,10 @@
+{
+  "name": "White Traditional Hanbok",
+  "quality": "Common",
+  "icon": "inv_chest_cloth_50",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">White Traditional Hanbok</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><table width=\"100%\"><tr><td>Chest</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">95</span></div></td></tr></table>",
+  "url": "/item=13897/white-traditional-hanbok",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_50.jpg",
+  "id": "13897",
+  "slug": "white-traditional-hanbok"
+}

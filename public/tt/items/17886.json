@@ -1,0 +1,10 @@
+{
+  "name": "zzOLD - QAEnchant Weapon Winter's Might",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">zzOLD - QAEnchant Weapon Winter's Might</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=17886/zzold-qaenchant-weapon-winters-might",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "17886",
+  "slug": "zzold-qaenchant-weapon-winters-might"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Empty Sea Snail Shell",
+  "quality": "Poor",
+  "icon": "inv_misc_shell_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Empty Sea Snail Shell</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">42</span></div></td></tr></table>",
+  "url": "/item=10457/empty-sea-snail-shell",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_shell_04.jpg",
+  "id": "10457",
+  "slug": "empty-sea-snail-shell"
+}

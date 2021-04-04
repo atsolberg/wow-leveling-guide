@@ -1,0 +1,10 @@
+{
+  "name": "Elixir of Superior Defense",
+  "quality": "Common",
+  "icon": "inv_potion_66",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Elixir of Superior Defense</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->53</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->43<br><span class=\"q2\">Use: <a href=\"/spell=11348\" class=\"q2\">Increases armor by 450 for 1 hour.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div></td></tr></table>",
+  "url": "/item=13445/elixir-of-superior-defense",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_66.jpg",
+  "id": "13445",
+  "slug": "elixir-of-superior-defense"
+}

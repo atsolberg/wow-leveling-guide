@@ -1,0 +1,10 @@
+{
+  "name": "Bone Fragments",
+  "quality": "Common",
+  "icon": "inv_misc_bone_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bone Fragments</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div></td></tr></table>",
+  "url": "/item=22526/bone-fragments",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_07.jpg",
+  "id": "22526",
+  "slug": "bone-fragments"
+}

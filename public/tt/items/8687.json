@@ -1,0 +1,10 @@
+{
+  "name": "Sealed Description of Thredd's Visitor",
+  "quality": "Common",
+  "icon": "inv_misc_note_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sealed Description of Thredd's Visitor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=8687/sealed-description-of-thredds-visitor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_02.jpg",
+  "id": "8687",
+  "slug": "sealed-description-of-thredds-visitor"
+}

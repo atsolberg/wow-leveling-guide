@@ -1,0 +1,10 @@
+{
+  "name": "Candle of Beckoning",
+  "quality": "Common",
+  "icon": "inv_misc_candle_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Candle of Beckoning</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=3080/candle-of-beckoning",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_candle_01.jpg",
+  "id": "3080",
+  "slug": "candle-of-beckoning"
+}

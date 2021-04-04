@@ -1,0 +1,10 @@
+{
+  "name": "Altered Black Dragonflight Molt",
+  "quality": "Common",
+  "icon": "inv_misc_shadowegg",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Altered Black Dragonflight Molt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=13982\" class=\"q2\">Use on the remains of Bael'Gar to capture his fiery essence.</a></span><br><span class=\"q\">&quot;A dull and gray patch of black dragon skin&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div></td></tr></table>",
+  "url": "/item=11231/altered-black-dragonflight-molt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_shadowegg.jpg",
+  "id": "11231",
+  "slug": "altered-black-dragonflight-molt"
+}

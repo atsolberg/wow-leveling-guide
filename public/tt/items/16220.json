@@ -1,0 +1,11 @@
+{
+  "name": "Formula: Enchant Boots - Spirit",
+  "quality": "Uncommon",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Formula: Enchant Boots - Spirit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=333\" class=\"q1\">Enchanting</a> (275)<br><span class=\"q2\">Use: <a href=\"/spell=20072\" class=\"q2\">Teaches you how to permanently enchant a pair of boots to grant +5 Spirit.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">40</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=16220/formula-enchant-boots-spirit",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "16220",
+  "slug": "formula-enchant-boots-spirit"
+}

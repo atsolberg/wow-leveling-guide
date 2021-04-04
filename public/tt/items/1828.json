@@ -1,0 +1,10 @@
+{
+  "name": "Stone War Axe",
+  "quality": "Poor",
+  "icon": "inv_axe_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Stone War Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->22 - 34 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(10.77 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->22<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">9</span></div></td></tr></table>",
+  "url": "/item=1828/stone-war-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_20.jpg",
+  "id": "1828",
+  "slug": "stone-war-axe"
+}

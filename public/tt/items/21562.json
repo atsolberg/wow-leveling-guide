@@ -1,0 +1,10 @@
+{
+  "name": "Small Yellow Rocket",
+  "quality": "Common",
+  "icon": "inv_misc_missilesmall_yellow",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Small Yellow Rocket</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=26295\" class=\"q2\">Throw into a firework launcher!</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">6</span></div></td></tr></table>",
+  "url": "/item=21562/small-yellow-rocket",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_missilesmall_yellow.jpg",
+  "id": "21562",
+  "slug": "small-yellow-rocket"
+}

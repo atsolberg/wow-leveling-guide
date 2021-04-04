@@ -1,0 +1,10 @@
+{
+  "name": "Reflective Heater",
+  "quality": "Poor",
+  "icon": "inv_shield_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Reflective Heater</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->583 Armor</span><br>11 Block<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->31<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">21</span> <span class=\"moneycopper\">2</span></div></td></tr></table>",
+  "url": "/item=3816/reflective-heater",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_04.jpg",
+  "id": "3816",
+  "slug": "reflective-heater"
+}

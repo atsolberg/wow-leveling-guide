@@ -1,0 +1,10 @@
+{
+  "name": "BKP 42 \"Ultra\"",
+  "quality": "Common",
+  "icon": "inv_weapon_rifle_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">BKP 42 &quot;Ultra&quot;</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->20 - 38 Damage</span></td>\n    <th>Speed <!--spd-->2.10</th>\n</tr></table><!--dps-->(13.81 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->31<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">36</span> <span class=\"moneycopper\">95</span></div></td></tr></table>",
+  "url": "/item=3025/bkp-42-ultra",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_03.jpg",
+  "id": "3025",
+  "slug": "bkp-42-ultra"
+}

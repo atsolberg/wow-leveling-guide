@@ -1,0 +1,10 @@
+{
+  "name": "Gnarled Ash Staff",
+  "quality": "Rare",
+  "icon": "inv_staff_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Gnarled Ash Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->31</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->65 - 99 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(25.63 damage per second)<br><span><!--stat7-->+6 Stamina</span><br><span><!--stat6-->+15 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->26<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">70</span> <span class=\"moneycopper\">69</span></div></td></tr></table>",
+  "url": "/item=791/gnarled-ash-staff",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_02.jpg",
+  "id": "791",
+  "slug": "gnarled-ash-staff"
+}

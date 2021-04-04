@@ -1,0 +1,10 @@
+{
+  "name": "Savage Guard",
+  "quality": "Rare",
+  "icon": "spell_nature_spiritarmor",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Savage Guard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Use: <a href=\"/spell=28161\" class=\"q2\">Permanently adds 10 nature resistance to a leg or head slot item. Does not stack with other enchantments for the selected equipment slot.</a></span></td></tr></table>",
+  "url": "/item=22635/savage-guard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_spiritarmor.jpg",
+  "id": "22635",
+  "slug": "savage-guard"
+}

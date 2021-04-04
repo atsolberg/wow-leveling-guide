@@ -1,0 +1,10 @@
+{
+  "name": "Knight-Captain's Lamellar Cinch",
+  "quality": "Rare",
+  "icon": "inv_belt_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Knight-Captain's Lamellar Cinch</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->353 Armor</span><br><span><!--stat4-->+9 Strength</span><br><span><!--stat5-->+10 Intellect</span><br><span><!--stat7-->+15 Stamina</span><br><span><!--stat6-->+9 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=2\" class=\"c2\">Paladin</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br>Requires <span class=\"icon-horde\">Legionnaire</span> <span class=\"icon-alliance\">Knight-Captain</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">13</span></div></td></tr></table>",
+  "url": "/item=16411/knight-captains-lamellar-cinch",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_27.jpg",
+  "id": "16411",
+  "slug": "knight-captains-lamellar-cinch"
+}

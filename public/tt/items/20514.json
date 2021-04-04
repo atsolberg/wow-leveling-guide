@@ -1,0 +1,10 @@
+{
+  "name": "Abyssal Signet",
+  "quality": "Rare",
+  "icon": "inv_jewelry_ring_36",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Abyssal Signet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=20514/abyssal-signet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_ring_36.jpg",
+  "id": "20514",
+  "slug": "abyssal-signet"
+}

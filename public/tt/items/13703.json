@@ -1,0 +1,10 @@
+{
+  "name": "Kodo Bone",
+  "quality": "Common",
+  "icon": "inv_misc_bone_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Kodo Bone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=13703/kodo-bone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_09.jpg",
+  "id": "13703",
+  "slug": "kodo-bone"
+}

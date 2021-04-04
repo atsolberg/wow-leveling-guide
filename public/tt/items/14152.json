@@ -1,0 +1,10 @@
+{
+  "name": "Robe of the Archmage",
+  "quality": "Epic",
+  "icon": "inv_chest_cloth_38",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Robe of the Archmage</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->96 Armor</span><br><span><!--stat5-->+12 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=8\" class=\"c8\">Mage</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=18056\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 40.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=18384\" class=\"q2\">Improves your chance to get a critical strike with spells by 1%.</a></span><br><span class=\"q2\">Use: <a href=\"/spell=18385\" class=\"q2\">Restores 375 to 625 mana.</a> (5 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">88</span> <span class=\"moneycopper\">15</span></div></td></tr></table>",
+  "url": "/item=14152/robe-of-the-archmage",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_38.jpg",
+  "id": "14152",
+  "slug": "robe-of-the-archmage"
+}

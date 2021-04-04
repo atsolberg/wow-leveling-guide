@@ -1,0 +1,10 @@
+{
+  "name": "The Light and How to Swing It",
+  "quality": "Rare",
+  "icon": "inv_misc_book_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">The Light and How to Swing It</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Unique<br /><a href=\"/quest=7501\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=2\" class=\"c2\">Paladin</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<br><span class=\"q\">&quot;-By Uther&quot;</span></td></tr></table>",
+  "url": "/item=18359/the-light-and-how-to-swing-it",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_11.jpg",
+  "id": "18359",
+  "slug": "the-light-and-how-to-swing-it"
+}

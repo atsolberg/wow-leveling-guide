@@ -1,0 +1,10 @@
+{
+  "name": "Pocket Lint",
+  "quality": "Poor",
+  "icon": "inv_fabric_wool_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Pocket Lint</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Mizzle the Crafty</div></td></tr></table>",
+  "url": "/item=5263/pocket-lint",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_fabric_wool_01.jpg",
+  "id": "5263",
+  "slug": "pocket-lint"
+}

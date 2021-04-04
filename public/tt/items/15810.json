@@ -1,0 +1,10 @@
+{
+  "name": "Short Spear",
+  "quality": "Common",
+  "icon": "inv_spear_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Short Spear</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:6--><span class=\"q1\">Polearm</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->40 - 60 Damage</span></td>\n    <th>Speed <!--spd-->3.30</th>\n</tr></table><!--dps-->(15.15 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span> <span class=\"moneycopper\">29</span></div></td></tr></table>",
+  "url": "/item=15810/short-spear",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_spear_05.jpg",
+  "id": "15810",
+  "slug": "short-spear"
+}

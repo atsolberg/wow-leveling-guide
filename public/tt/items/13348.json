@@ -1,0 +1,10 @@
+{
+  "name": "Demonshear",
+  "quality": "Rare",
+  "icon": "inv_sword_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Demonshear</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->163 - 246 Damage</span></td>\n    <th>Speed <!--spd-->3.80</th>\n</tr></table><!--dps-->(53.82 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Chance on hit: <a href=\"/spell=17483\" class=\"q2\">Sends a shadowy bolt at the enemy causing 150 Shadow damage and dealing 40 damage every 2 sec for 6 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">7</span> <span class=\"moneysilver\">27</span> <span class=\"moneycopper\">70</span></div></td></tr></table>",
+  "url": "/item=13348/demonshear",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_14.jpg",
+  "id": "13348",
+  "slug": "demonshear"
+}

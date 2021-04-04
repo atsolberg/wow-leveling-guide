@@ -1,0 +1,10 @@
+{
+  "name": "Empty Worg Pup Cage",
+  "quality": "Common",
+  "icon": "inv_box_petcarrier_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Empty Worg Pup Cage</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=15998\" class=\"q2\">Use when near a Bloodaxe Worg Pup. Don't worry, it is G.E.T.A. approved.</a></span></td></tr></table>",
+  "url": "/item=12262/empty-worg-pup-cage",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_petcarrier_01.jpg",
+  "id": "12262",
+  "slug": "empty-worg-pup-cage"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Sterling Chain Shoulderpads",
+  "quality": "Poor",
+  "icon": "inv_shoulder_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Sterling Chain Shoulderpads</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->69</span><!--bo--><table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->248 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->64<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">13</span> <span class=\"moneycopper\">49</span></div></td></tr></table>",
+  "url": "/item=4014/sterling-chain-shoulderpads",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_07.jpg",
+  "id": "4014",
+  "slug": "sterling-chain-shoulderpads"
+}

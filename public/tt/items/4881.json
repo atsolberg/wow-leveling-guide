@@ -1,0 +1,10 @@
+{
+  "name": "Aged Envelope",
+  "quality": "Common",
+  "icon": "inv_letter_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Aged Envelope</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=830\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=4881/aged-envelope",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_15.jpg",
+  "id": "4881",
+  "slug": "aged-envelope"
+}

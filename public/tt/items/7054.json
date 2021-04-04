@@ -1,0 +1,10 @@
+{
+  "name": "Robe of Power",
+  "quality": "Rare",
+  "icon": "inv_chest_cloth_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Robe of Power</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->38</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->55 Armor</span><br><span><!--stat5-->+12 Intellect</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->33<br><span class=\"q2\">Equip: <a href=\"/spell=9343\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 14.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">47</span></div></td></tr></table>",
+  "url": "/item=7054/robe-of-power",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_02.jpg",
+  "id": "7054",
+  "slug": "robe-of-power"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Mistwalker Boots",
+  "quality": "Rare",
+  "icon": "inv_boots_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Mistwalker Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->49 Armor</span><br><span><!--stat5-->+8 Intellect</span><br><span><!--stat6-->+18 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">80</span> <span class=\"moneycopper\">66</span></div></td></tr></table>",
+  "url": "/item=10629/mistwalker-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_05.jpg",
+  "id": "10629",
+  "slug": "mistwalker-boots"
+}

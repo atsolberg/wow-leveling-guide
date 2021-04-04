@@ -1,0 +1,10 @@
+{
+  "name": "Azure Silk Cloak",
+  "quality": "Uncommon",
+  "icon": "inv_chest_cloth_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Azure Silk Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->23 Armor</span><br><span><!--stat6-->+3 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<br><span class=\"q2\">Equip: <a href=\"/spell=7703\" class=\"q2\">Increases damage done by Frost spells and effects by up to 10.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">22</span> <span class=\"moneycopper\">40</span></div></td></tr></table>",
+  "url": "/item=7053/azure-silk-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_14.jpg",
+  "id": "7053",
+  "slug": "azure-silk-cloak"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Light Mail Belt",
+  "quality": "Common",
+  "icon": "inv_belt_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Light Mail Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->58 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">41</span></div></td></tr></table>",
+  "url": "/item=2393/light-mail-belt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_06.jpg",
+  "id": "2393",
+  "slug": "light-mail-belt"
+}

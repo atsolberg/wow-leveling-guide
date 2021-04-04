@@ -1,0 +1,10 @@
+{
+  "name": "Glimmering Shield",
+  "quality": "Uncommon",
+  "icon": "inv_shield_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Glimmering Shield</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->31</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->595 Armor</span><br>12 Block<br><span><!--stat4-->+4 Strength</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->26<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">89</span></div></td></tr></table>",
+  "url": "/item=6400/glimmering-shield",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_05.jpg",
+  "id": "6400",
+  "slug": "glimmering-shield"
+}

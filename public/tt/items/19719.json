@@ -1,0 +1,10 @@
+{
+  "name": "Primal Hakkari Girdle",
+  "quality": "Epic",
+  "icon": "inv_belt_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Primal Hakkari Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a>, <a href=\"/class=4\" class=\"c4\">Rogue</a>, <a href=\"/class=7\" class=\"c7\">Shaman</a></div></td></tr></table><table><tr><td><span class=\"q\">&quot;A legendary Paragon of Power from the old Gurubashi Empire.&quot;</span></td></tr></table>",
+  "url": "/item=19719/primal-hakkari-girdle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_12.jpg",
+  "id": "19719",
+  "slug": "primal-hakkari-girdle"
+}

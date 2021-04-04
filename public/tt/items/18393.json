@@ -1,0 +1,10 @@
+{
+  "name": "Warpwood Binding",
+  "quality": "Rare",
+  "icon": "inv_belt_34",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Warpwood Binding</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->202 Armor</span><br><span><!--stat3-->+14 Agility</span><br><span><!--stat5-->+9 Intellect</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">49</span> <span class=\"moneycopper\">44</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Tendris Warpwood</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 24.03%</div></td></tr></table>",
+  "url": "/item=18393/warpwood-binding",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_34.jpg",
+  "id": "18393",
+  "slug": "warpwood-binding"
+}

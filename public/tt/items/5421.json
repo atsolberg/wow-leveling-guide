@@ -1,0 +1,10 @@
+{
+  "name": "Fiery Blaze Enchantment",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fiery Blaze Enchantment</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=6296\" class=\"q2\">Enchants a weapon to have a 15% chance to inflict 9 to 13 Fire damage to all enemies within 3 yards.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=5421/fiery-blaze-enchantment",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "5421",
+  "slug": "fiery-blaze-enchantment"
+}

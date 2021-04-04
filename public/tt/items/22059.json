@@ -1,0 +1,10 @@
+{
+  "name": "Valentine's Day Card",
+  "quality": "Common",
+  "icon": "inv_valentinescard01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Valentine's Day Card</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=22059/valentines-day-card",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_valentinescard01.jpg",
+  "id": "22059",
+  "slug": "valentines-day-card"
+}

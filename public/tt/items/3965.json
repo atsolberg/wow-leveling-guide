@@ -1,0 +1,10 @@
+{
+  "name": "Thick Leather Gloves",
+  "quality": "Poor",
+  "icon": "inv_gauntlets_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Thick Leather Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->49</span><!--bo--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->74 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->44<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">22</span> <span class=\"moneycopper\">21</span></div></td></tr></table>",
+  "url": "/item=3965/thick-leather-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_24.jpg",
+  "id": "3965",
+  "slug": "thick-leather-gloves"
+}

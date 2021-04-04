@@ -1,0 +1,10 @@
+{
+  "name": "Mild Spices",
+  "quality": "Common",
+  "icon": "inv_misc_food_wheat_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Mild Spices</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Used to enhance the flavor in cooking recipes.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=2678/mild-spices",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_wheat_02.jpg",
+  "id": "2678",
+  "slug": "mild-spices"
+}

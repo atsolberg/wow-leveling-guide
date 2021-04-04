@@ -1,0 +1,11 @@
+{
+  "name": "Schematic: Thorium Tube",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Schematic: Thorium Tube</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (275)<br><span class=\"q2\">Use: <a href=\"/spell=19859\" class=\"q2\">Teaches you how to make a Thorium Tube.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">40</span></div><br /><span class=\"q1\"><a href=\"/item=16000\">Thorium Tube</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->39</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">37</span> <span class=\"moneycopper\">50</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=12359\">Thorium Bar</a>&nbsp;(6)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=16047/schematic-thorium-tube",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "16047",
+  "slug": "schematic-thorium-tube"
+}

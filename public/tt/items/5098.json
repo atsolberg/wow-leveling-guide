@@ -1,0 +1,10 @@
+{
+  "name": "Altered Snapjaw Shell",
+  "quality": "Common",
+  "icon": "inv_misc_monsterscales_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Altered Snapjaw Shell</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Oasis Snapjaw</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 73.02%</div></td></tr></table>",
+  "url": "/item=5098/altered-snapjaw-shell",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_01.jpg",
+  "id": "5098",
+  "slug": "altered-snapjaw-shell"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Sylvan Shortbow",
+  "quality": "Uncommon",
+  "icon": "inv_weapon_bow_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Sylvan Shortbow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->49</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->32 - 59 Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(22.75 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->44<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">57</span> <span class=\"moneycopper\">65</span></div></td></tr></table>",
+  "url": "/item=11308/sylvan-shortbow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_07.jpg",
+  "id": "11308",
+  "slug": "sylvan-shortbow"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Bludgeoning Cudgel",
+  "quality": "Poor",
+  "icon": "inv_mace_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Bludgeoning Cudgel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->8 - 16 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(6.67 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">79</span></div></td></tr></table>",
+  "url": "/item=1823/bludgeoning-cudgel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_10.jpg",
+  "id": "1823",
+  "slug": "bludgeoning-cudgel"
+}

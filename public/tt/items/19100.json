@@ -1,0 +1,10 @@
+{
+  "name": "Electrified Dagger",
+  "quality": "Rare",
+  "icon": "inv_weapon_shortblade_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Electrified Dagger</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->53 - 100 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(42.50 damage per second)<br><span><!--stat3-->+10 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Chance on hit: <a href=\"/spell=23592\" class=\"q2\">Blasts a target for 45 Nature damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">33</span></div></td></tr></table>",
+  "url": "/item=19100/electrified-dagger",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_15.jpg",
+  "id": "19100",
+  "slug": "electrified-dagger"
+}

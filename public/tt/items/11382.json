@@ -1,0 +1,10 @@
+{
+  "name": "Blood of the Mountain",
+  "quality": "Uncommon",
+  "icon": "inv_misc_gem_bloodstone_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Blood of the Mountain</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">50</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Molten Destroyer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 12.74%</div></td></tr></table>",
+  "url": "/item=11382/blood-of-the-mountain",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_bloodstone_03.jpg",
+  "id": "11382",
+  "slug": "blood-of-the-mountain"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Brilliant Wizard Oil",
+  "quality": "Common",
+  "icon": "inv_potion_105",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Brilliant Wizard Oil</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<br><span class=\"q2\">Use: <a href=\"/spell=25122\" class=\"q2\">While applied to target weapon it increases spell damage by up to 36 and increases Spell Critical chance by 1% . &nbsp;Lasts for 30 minutes.</a></span><br />5 Charges<div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div></td></tr></table>",
+  "url": "/item=20749/brilliant-wizard-oil",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_105.jpg",
+  "id": "20749",
+  "slug": "brilliant-wizard-oil"
+}

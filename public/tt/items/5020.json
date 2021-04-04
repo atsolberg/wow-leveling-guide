@@ -1,0 +1,10 @@
+{
+  "name": "Kolkar Booty Key",
+  "quality": "Common",
+  "icon": "inv_misc_key_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Kolkar Booty Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=5107\" class=\"q2\">Opens the Kolkar Booty chest.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">3</span></div></td></tr></table>",
+  "url": "/item=5020/kolkar-booty-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_03.jpg",
+  "id": "5020",
+  "slug": "kolkar-booty-key"
+}

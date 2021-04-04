@@ -1,0 +1,10 @@
+{
+  "name": "Core Armor Kit",
+  "quality": "Rare",
+  "icon": "inv_misc_armorkit_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Core Armor Kit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br><span class=\"q2\">Use: <a href=\"/spell=22725\" class=\"q2\">Permanently increase the defense value of an item worn on the chest, legs, hands or feet by 3. &nbsp;Only usable on items level 45 and above.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=18251/core-armor-kit",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_armorkit_05.jpg",
+  "id": "18251",
+  "slug": "core-armor-kit"
+}

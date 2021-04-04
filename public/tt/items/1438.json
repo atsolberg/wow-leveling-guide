@@ -1,0 +1,10 @@
+{
+  "name": "Warrior's Shield",
+  "quality": "Common",
+  "icon": "inv_shield_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Warrior's Shield</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->9</span><!--bo--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->135 Armor</span><br>3 Block<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->4<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">70</span></div></td></tr></table>",
+  "url": "/item=1438/warriors-shield",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_03.jpg",
+  "id": "1438",
+  "slug": "warriors-shield"
+}

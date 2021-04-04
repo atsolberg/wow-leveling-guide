@@ -1,0 +1,10 @@
+{
+  "name": "Resilient Sinew",
+  "quality": "Common",
+  "icon": "inv_misc_leatherscrap_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Resilient Sinew</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=9591/resilient-sinew",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_leatherscrap_08.jpg",
+  "id": "9591",
+  "slug": "resilient-sinew"
+}

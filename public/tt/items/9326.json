@@ -1,0 +1,10 @@
+{
+  "name": "Grime-Encrusted Ring",
+  "quality": "Common",
+  "icon": "inv_stone_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Grime-Encrusted Ring</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->28</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=2945\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->28<div class=\"whtt-extra whtt-droppedby\">Dropped by: Dark Iron Agent</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 14.68%</div></td></tr></table>",
+  "url": "/item=9326/grime-encrusted-ring",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_04.jpg",
+  "id": "9326",
+  "slug": "grime-encrusted-ring"
+}

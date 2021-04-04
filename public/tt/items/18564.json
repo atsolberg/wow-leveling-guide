@@ -1,0 +1,10 @@
+{
+  "name": "Bindings of the Windseeker",
+  "quality": "Legendary",
+  "icon": "spell_ice_lament",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q5\">Bindings of the Windseeker</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a>, <a href=\"/class=2\" class=\"c2\">Paladin</a>, <a href=\"/class=3\" class=\"c3\">Hunter</a>, <a href=\"/class=4\" class=\"c4\">Rogue</a></div></td></tr></table><table><tr><td><span class=\"q\">&quot;The Right Half of Thunderaan's Eternal Prison&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Garr</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 4.08%</div></td></tr></table>",
+  "url": "/item=18564/bindings-of-the-windseeker",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_ice_lament.jpg",
+  "id": "18564",
+  "slug": "bindings-of-the-windseeker"
+}

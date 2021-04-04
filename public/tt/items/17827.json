@@ -1,0 +1,10 @@
+{
+  "name": "QAEnchant Bracer +9 Strength",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QAEnchant Bracer +9 Strength</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=22051\" class=\"q2\">Permanently enchants bracers to give 9 Strength.</a></span></td></tr></table>",
+  "url": "/item=17827/qaenchant-bracer-9-strength",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "17827",
+  "slug": "qaenchant-bracer-9-strength"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Venom Bottle",
+  "quality": "Common",
+  "icon": "inv_potion_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Venom Bottle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=9321/venom-bottle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_19.jpg",
+  "id": "9321",
+  "slug": "venom-bottle"
+}

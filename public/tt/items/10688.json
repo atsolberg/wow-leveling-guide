@@ -1,0 +1,10 @@
+{
+  "name": "Empty Vial Labeled #2",
+  "quality": "Common",
+  "icon": "inv_drink_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Empty Vial Labeled #2</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=12805\" class=\"q2\">This container should be filled with water from the second tide pool in Azshara.</a></span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Sir Malory Wheeler</div></td></tr></table>",
+  "url": "/item=10688/empty-vial-labeled-2",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_06.jpg",
+  "id": "10688",
+  "slug": "empty-vial-labeled-2"
+}

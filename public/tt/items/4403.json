@@ -1,0 +1,10 @@
+{
+  "name": "Portable Bronze Mortar",
+  "quality": "Common",
+  "icon": "inv_musket_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Portable Bronze Mortar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->33</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (165)<br><span class=\"q2\">Use: <a href=\"/spell=4067\" class=\"q2\">Inflicts 85 to 115 Fire damage and stuns targets in a 5 yard radius for 2 sec. &nbsp;Any damage will break the effect.</a> (1 Min Cooldown)</span><br />8 Charges<div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span></div></td></tr></table>",
+  "url": "/item=4403/portable-bronze-mortar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_musket_01.jpg",
+  "id": "4403",
+  "slug": "portable-bronze-mortar"
+}

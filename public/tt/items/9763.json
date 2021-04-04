@@ -1,0 +1,10 @@
+{
+  "name": "Cadet Leggings",
+  "quality": "Uncommon",
+  "icon": "inv_pants_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Cadet Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->14</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->119 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->9<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">36</span></div></td></tr></table>",
+  "url": "/item=9763/cadet-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_10.jpg",
+  "id": "9763",
+  "slug": "cadet-leggings"
+}

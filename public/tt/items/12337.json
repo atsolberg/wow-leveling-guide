@@ -1,0 +1,10 @@
+{
+  "name": "Gemstone of Bloodaxe",
+  "quality": "Uncommon",
+  "icon": "inv_misc_gem_bloodstone_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Gemstone of Bloodaxe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Overlord Wyrmthalak</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 39.93%</div></td></tr></table>",
+  "url": "/item=12337/gemstone-of-bloodaxe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_bloodstone_01.jpg",
+  "id": "12337",
+  "slug": "gemstone-of-bloodaxe"
+}

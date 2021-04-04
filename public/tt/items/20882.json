@@ -1,0 +1,10 @@
+{
+  "name": "Idol of War",
+  "quality": "Rare",
+  "icon": "inv_qirajidol_war",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Idol of War</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->61</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a>, <a href=\"/class=3\" class=\"c3\">Hunter</a>, <a href=\"/class=4\" class=\"c4\">Rogue</a>, <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div></td></tr></table>",
+  "url": "/item=20882/idol-of-war",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_qirajidol_war.jpg",
+  "id": "20882",
+  "slug": "idol-of-war"
+}

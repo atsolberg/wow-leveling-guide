@@ -1,0 +1,10 @@
+{
+  "name": "Jer'kai's Signet Ring",
+  "quality": "Common",
+  "icon": "inv_jewelry_ring_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Jer'kai's Signet Ring</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=9368/jerkais-signet-ring",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_ring_05.jpg",
+  "id": "9368",
+  "slug": "jerkais-signet-ring"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Festival Dress",
+  "quality": "Common",
+  "icon": "inv_chest_cloth_56",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Festival Dress</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><table width=\"100%\"><tr><td>Chest</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=21154/festival-dress",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_56.jpg",
+  "id": "21154",
+  "slug": "festival-dress"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Idol of Ferocity",
+  "quality": "Rare",
+  "icon": "inv_relics_idolofferocity",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Idol of Ferocity</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Relic</td><th><!--scstart4:8--><span class=\"q1\">Idol</span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<br><span class=\"q2\">Equip: <a href=\"/spell=27851\" class=\"q2\">Reduces the energy cost of Claw and Rake by 3.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">67</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lord Roccor</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 22.34%</div></td></tr></table>",
+  "url": "/item=22397/idol-of-ferocity",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_relics_idolofferocity.jpg",
+  "id": "22397",
+  "slug": "idol-of-ferocity"
+}

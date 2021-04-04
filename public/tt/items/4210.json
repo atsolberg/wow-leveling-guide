@@ -1,0 +1,11 @@
+{
+  "name": "Grimoire of Create Lesser Bloodstone",
+  "quality": "Common",
+  "icon": "inv_misc_book_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Grimoire of Create Lesser Bloodstone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->14</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=9\" class=\"c9\">Warlock</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->14<br><span class=\"q2\">Use: <a href=\"/spell=6042\" class=\"q2\">Teaches Create Lesser Healthstone.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=4210/grimoire-of-create-lesser-bloodstone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_06.jpg",
+  "id": "4210",
+  "slug": "grimoire-of-create-lesser-bloodstone"
+}

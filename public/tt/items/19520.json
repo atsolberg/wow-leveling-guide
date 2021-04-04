@@ -1,0 +1,10 @@
+{
+  "name": "Advisor's Ring",
+  "quality": "Rare",
+  "icon": "inv_jewelry_ring_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Advisor's Ring</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->43</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat7-->+5 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->38<br><span class=\"q2\">Equip: <a href=\"/spell=9415\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 9.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=21625\" class=\"q2\">Restores 3 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=19520/advisors-ring",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_ring_20.jpg",
+  "id": "19520",
+  "slug": "advisors-ring"
+}

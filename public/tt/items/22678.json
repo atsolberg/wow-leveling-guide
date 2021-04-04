@@ -1,0 +1,10 @@
+{
+  "name": "Talisman of Ascendance",
+  "quality": "Epic",
+  "icon": "inv_misc_gem_pearl_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Talisman of Ascendance</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=28200\" class=\"q2\">Your next 5 damage or healing spells cast within 20 seconds will grant a bonus of up to 40 damage and up to 75 healing, stacking up to 5 times. Expires after 6 damage or healing spells or 20 seconds, whichever occurs first.</a> (1 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">11</span> <span class=\"moneysilver\">13</span> <span class=\"moneycopper\">3</span></div></td></tr></table>",
+  "url": "/item=22678/talisman-of-ascendance",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_pearl_04.jpg",
+  "id": "22678",
+  "slug": "talisman-of-ascendance"
+}

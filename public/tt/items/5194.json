@@ -1,0 +1,10 @@
+{
+  "name": "Taskmaster Axe",
+  "quality": "Rare",
+  "icon": "inv_throwingaxe_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Taskmaster Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->42 - 64 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(19.63 damage per second)<br><span><!--stat7-->+8 Stamina</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">79</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Sneed</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 27.91%</div></td></tr></table>",
+  "url": "/item=5194/taskmaster-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_throwingaxe_06.jpg",
+  "id": "5194",
+  "slug": "taskmaster-axe"
+}

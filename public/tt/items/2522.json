@@ -1,0 +1,10 @@
+{
+  "name": "Crescent Axe",
+  "quality": "Common",
+  "icon": "inv_throwingaxe_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Crescent Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->31 - 58 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(17.12 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">45</span> <span class=\"moneycopper\">9</span></div></td></tr></table>",
+  "url": "/item=2522/crescent-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_throwingaxe_01.jpg",
+  "id": "2522",
+  "slug": "crescent-axe"
+}

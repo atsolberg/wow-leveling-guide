@@ -1,0 +1,10 @@
+{
+  "name": "Executioner's Key",
+  "quality": "Common",
+  "icon": "inv_misc_key_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Executioner's Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Sandfury Executioner</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 77.37%</div></td></tr></table>",
+  "url": "/item=8444/executioners-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_02.jpg",
+  "id": "8444",
+  "slug": "executioners-key"
+}

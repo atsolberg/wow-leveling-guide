@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Iron Lotterybox",
+  "quality": "Uncommon",
+  "icon": "inv_box_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Heavy Iron Lotterybox</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Will always have a level 35 or higher Uncommon or better item.&quot;</span><br><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=8505/heavy-iron-lotterybox",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_03.jpg",
+  "id": "8505",
+  "slug": "heavy-iron-lotterybox"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Tome of Conjure Food V",
+  "quality": "Common",
+  "icon": "inv_misc_book_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tome of Conjure Food V</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->42</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=8\" class=\"c8\">Mage</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->42<br><span class=\"q2\">Use: <a href=\"/spell=6641\" class=\"q2\">Teaches Conjure Food (Rank 4).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">55</span></div><br /><span class=\"q1\"><a href=\"/item=1487\">Conjured Pumpernickel</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><br />Conjured Item<!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires Level <!--rlvl-->25<br><span class=\"q2\">Use: <a href=\"/spell=1127\" class=\"q2\">Restores 874.8 health over 27 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"q1 whtt-extra whtt-reagents\"><br /></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=8853/tome-of-conjure-food-v",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_07.jpg",
+  "id": "8853",
+  "slug": "tome-of-conjure-food-v"
+}

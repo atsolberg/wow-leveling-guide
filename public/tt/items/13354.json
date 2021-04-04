@@ -1,0 +1,10 @@
+{
+  "name": "Ectoplasmic Resonator",
+  "quality": "Common",
+  "icon": "spell_shadow_detectinvisibility",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ectoplasmic Resonator</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=13354/ectoplasmic-resonator",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_detectinvisibility.jpg",
+  "id": "13354",
+  "slug": "ectoplasmic-resonator"
+}

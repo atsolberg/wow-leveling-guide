@@ -1,0 +1,11 @@
+{
+  "name": "Recipe: Transmute Earth to Life",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Recipe: Transmute Earth to Life</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=171\" class=\"q1\">Alchemy</a> (275)<br><span class=\"q2\">Use: <a href=\"/spell=17595\" class=\"q2\">Teaches you how to transmute Essence of Earth into Living Essence.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">37</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q2\"><a href=\"/item=12803\">Living Essence</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=7076\">Essence of Earth</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=13489/recipe-transmute-earth-to-life",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "13489",
+  "slug": "recipe-transmute-earth-to-life"
+}

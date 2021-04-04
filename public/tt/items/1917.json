@@ -1,0 +1,10 @@
+{
+  "name": "Jeweled Dagger",
+  "quality": "Uncommon",
+  "icon": "inv_weapon_shortblade_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Jeweled Dagger</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->6 - 11 Damage</span></td>\n    <th>Speed <!--spd-->1.60</th>\n</tr></table><!--dps-->(5.31 damage per second)<br><span><!--stat7-->+1 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">51</span></div></td></tr></table>",
+  "url": "/item=1917/jeweled-dagger",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_15.jpg",
+  "id": "1917",
+  "slug": "jeweled-dagger"
+}

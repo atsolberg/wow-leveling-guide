@@ -1,0 +1,10 @@
+{
+  "name": "Gnomish Death Ray",
+  "quality": "Common",
+  "icon": "inv_gizmo_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gnomish Death Ray</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->48</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=13278\" class=\"q2\">The devices charges over time using your life force and then directs a burst of energy at your opponent.</a> (5 Min Cooldown)</span><!--itemEffects:1--><br><span class=\"q\">&quot;Death or Serious Injury may result from use of this device.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=10645/gnomish-death-ray",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_08.jpg",
+  "id": "10645",
+  "slug": "gnomish-death-ray"
+}

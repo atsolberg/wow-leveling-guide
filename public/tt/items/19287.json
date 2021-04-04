@@ -1,0 +1,10 @@
+{
+  "name": "Darkmoon Card: Heroism",
+  "quality": "Epic",
+  "icon": "inv_misc_ticket_tarot_heroism_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Darkmoon Card: Heroism</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->66</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=23689\" class=\"q2\">Sometimes heals bearer of 120 to 180 damage when damaging an enemy in melee.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">10</span></div></td></tr></table>",
+  "url": "/item=19287/darkmoon-card-heroism",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_ticket_tarot_heroism_01.jpg",
+  "id": "19287",
+  "slug": "darkmoon-card-heroism"
+}

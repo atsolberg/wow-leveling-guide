@@ -1,0 +1,10 @@
+{
+  "name": "Enthralled Sphere",
+  "quality": "Rare",
+  "icon": "inv_misc_orb_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Enthralled Sphere</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->53</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat5-->+14 Intellect</span><br><span><!--stat7-->+3 Stamina</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->48<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">52</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: High Interrogator Gerstahn</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 17.96%</div></td></tr></table>",
+  "url": "/item=11625/enthralled-sphere",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_orb_03.jpg",
+  "id": "11625",
+  "slug": "enthralled-sphere"
+}

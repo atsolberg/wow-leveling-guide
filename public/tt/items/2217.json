@@ -1,0 +1,10 @@
+{
+  "name": "Rectangular Shield",
+  "quality": "Poor",
+  "icon": "inv_shield_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Rectangular Shield</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->311 Armor</span><br>4 Block<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->12<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">43</span></div></td></tr></table>",
+  "url": "/item=2217/rectangular-shield",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_03.jpg",
+  "id": "2217",
+  "slug": "rectangular-shield"
+}

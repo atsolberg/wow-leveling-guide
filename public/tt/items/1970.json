@@ -1,0 +1,10 @@
+{
+  "name": "Restoring Balm",
+  "quality": "Common",
+  "icon": "inv_potion_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Restoring Balm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->24</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=8070\" class=\"q2\">Heals the target for 180 damage over 12 sec.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">20</span></div></td></tr></table>",
+  "url": "/item=1970/restoring-balm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_01.jpg",
+  "id": "1970",
+  "slug": "restoring-balm"
+}

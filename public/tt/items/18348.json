@@ -1,0 +1,10 @@
+{
+  "name": "Quel'Serrar",
+  "quality": "Epic",
+  "icon": "inv_sword_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Quel'Serrar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->71</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:7--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->84 - 126 Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(52.50 damage per second)<br><span><!--stat7-->+12 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a>, <a href=\"/class=2\" class=\"c2\">Paladin</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Chance on hit: <a href=\"/spell=22850\" class=\"q2\">When active, grants the wielder 13 defense and 300 armor for 10 sec.</a></span><!--itemEffects:1--><br><span class=\"q\">&quot;The High Blade&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">11</span> <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">51</span></div></td></tr></table>",
+  "url": "/item=18348/quelserrar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_01.jpg",
+  "id": "18348",
+  "slug": "quelserrar"
+}

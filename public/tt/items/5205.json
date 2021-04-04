@@ -1,0 +1,10 @@
+{
+  "name": "Sprouted Frond",
+  "quality": "Common",
+  "icon": "inv_misc_herb_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sprouted Frond</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<br><span class=\"q2\">Use: <a href=\"/spell=2052\" class=\"q2\">Heal your target for <!--ppl2052:4:9:71:110-->76 to <!--ppl2052:4:9:85:110:1-->91.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">31</span></div></td></tr></table>",
+  "url": "/item=5205/sprouted-frond",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_herb_04.jpg",
+  "id": "5205",
+  "slug": "sprouted-frond"
+}

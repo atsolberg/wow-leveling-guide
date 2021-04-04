@@ -1,0 +1,10 @@
+{
+  "name": "Small Scroll",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Small Scroll</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->28</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=6522\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->28<br><span class=\"q\">&quot;The scroll bears an insignia foreign to you.&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Charlga Razorflank</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 44.52%</div></td></tr></table>",
+  "url": "/item=17008/small-scroll",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "17008",
+  "slug": "small-scroll"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Infantry Gauntlets",
+  "quality": "Common",
+  "icon": "inv_gauntlets_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Infantry Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->68 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">54</span></div></td></tr></table>",
+  "url": "/item=6510/infantry-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_11.jpg",
+  "id": "6510",
+  "slug": "infantry-gauntlets"
+}

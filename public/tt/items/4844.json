@@ -1,0 +1,10 @@
+{
+  "name": "Opal Runestone",
+  "quality": "Common",
+  "icon": "inv_misc_gem_opal_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Opal Runestone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=4844/opal-runestone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_opal_01.jpg",
+  "id": "4844",
+  "slug": "opal-runestone"
+}

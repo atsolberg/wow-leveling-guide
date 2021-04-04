@@ -1,0 +1,10 @@
+{
+  "name": "Darkspear",
+  "quality": "Rare",
+  "icon": "inv_spear_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Darkspear</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:6--><span class=\"q1\">Polearm</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->131 - 197 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(51.25 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Chance on hit: <a href=\"/spell=16939\" class=\"q2\">Party members have chance to crit increased by 4%. &nbsp;Lasts for 20 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=12802/darkspear",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_spear_08.jpg",
+  "id": "12802",
+  "slug": "darkspear"
+}

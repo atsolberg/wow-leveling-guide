@@ -1,0 +1,10 @@
+{
+  "name": "Master Engineer's Goggles",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_47",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Master Engineer's Goggles</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->61 Armor</span><br><span><!--stat7-->+16 Stamina</span><br><span><!--stat6-->+17 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (280)<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">39</span></div></td></tr></table>",
+  "url": "/item=16008/master-engineers-goggles",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_47.jpg",
+  "id": "16008",
+  "slug": "master-engineers-goggles"
+}

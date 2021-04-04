@@ -1,0 +1,10 @@
+{
+  "name": "Bluffwatcher's Card",
+  "quality": "Common",
+  "icon": "inv_valentinescard02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bluffwatcher's Card</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Duration: 7 days<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27715\" class=\"q2\">Combines 5 Bluffwatcher's Cards into a Satchel of Cards.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=22144/bluffwatchers-card",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_valentinescard02.jpg",
+  "id": "22144",
+  "slug": "bluffwatchers-card"
+}

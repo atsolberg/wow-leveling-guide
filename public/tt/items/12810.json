@@ -1,0 +1,10 @@
+{
+  "name": "Enchanted Leather",
+  "quality": "Common",
+  "icon": "inv_misc_rune_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Enchanted Leather</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div></td></tr></table>",
+  "url": "/item=12810/enchanted-leather",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_rune_05.jpg",
+  "id": "12810",
+  "slug": "enchanted-leather"
+}

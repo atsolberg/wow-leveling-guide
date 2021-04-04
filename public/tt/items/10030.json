@@ -1,0 +1,10 @@
+{
+  "name": "Admiral's Hat",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_29",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Admiral's Hat</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->48</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->51 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->43<br><span class=\"q2\">Use: <a href=\"/spell=12022\" class=\"q2\">Gives 10 additional stamina to party members within 30 yards.</a> (1 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">60</span> <span class=\"moneycopper\">7</span></div></td></tr></table>",
+  "url": "/item=10030/admirals-hat",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_29.jpg",
+  "id": "10030",
+  "slug": "admirals-hat"
+}

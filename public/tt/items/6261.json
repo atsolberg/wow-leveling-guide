@@ -1,0 +1,10 @@
+{
+  "name": "Orange Dye",
+  "quality": "Common",
+  "icon": "inv_potion_35",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Orange Dye</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=6261/orange-dye",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_35.jpg",
+  "id": "6261",
+  "slug": "orange-dye"
+}

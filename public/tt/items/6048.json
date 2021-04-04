@@ -1,0 +1,10 @@
+{
+  "name": "Shadow Protection Potion",
+  "quality": "Common",
+  "icon": "inv_potion_44",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Shadow Protection Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->27</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<br><span class=\"q2\">Use: <a href=\"/spell=7242\" class=\"q2\">Absorbs 675 to 1125 shadow damage. &nbsp;Lasts 1 hour.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span></div></td></tr></table>",
+  "url": "/item=6048/shadow-protection-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_44.jpg",
+  "id": "6048",
+  "slug": "shadow-protection-potion"
+}

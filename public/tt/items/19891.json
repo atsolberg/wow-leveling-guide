@@ -1,0 +1,10 @@
+{
+  "name": "Jin'do's Bag of Whammies",
+  "quality": "Epic",
+  "icon": "inv_misc_bag_10_black",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Jin'do's Bag of Whammies</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->66</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat5-->+11 Intellect</span><br><span><!--stat7-->+8 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=9346\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 18.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=23727\" class=\"q2\">Improves your chance to hit with spells by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">36</span> <span class=\"moneycopper\">28</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Jin'do the Hexxer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 14.42%</div></td></tr></table>",
+  "url": "/item=19891/jindos-bag-of-whammies",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_10_black.jpg",
+  "id": "19891",
+  "slug": "jindos-bag-of-whammies"
+}

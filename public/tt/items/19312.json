@@ -1,0 +1,10 @@
+{
+  "name": "Lei of the Lifegiver",
+  "quality": "Epic",
+  "icon": "inv_misc_flower_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Lei of the Lifegiver</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=15696\" class=\"q2\">Increases healing done by spells and effects by up to 53.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=21625\" class=\"q2\">Restores 3 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">12</span> <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=19312/lei-of-the-lifegiver",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_flower_04.jpg",
+  "id": "19312",
+  "slug": "lei-of-the-lifegiver"
+}

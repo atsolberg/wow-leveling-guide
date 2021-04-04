@@ -1,0 +1,10 @@
+{
+  "name": "Impenetrable Belt",
+  "quality": "Uncommon",
+  "icon": "inv_belt_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Impenetrable Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->56</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->170 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->51<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">26</span></div></td></tr></table>",
+  "url": "/item=15663/impenetrable-belt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_18.jpg",
+  "id": "15663",
+  "slug": "impenetrable-belt"
+}

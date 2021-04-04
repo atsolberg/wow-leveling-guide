@@ -1,0 +1,10 @@
+{
+  "name": "Councillor's Circlet",
+  "quality": "Uncommon",
+  "icon": "inv_crown_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Councillor's Circlet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->60 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">91</span></div></td></tr></table>",
+  "url": "/item=10097/councillors-circlet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crown_01.jpg",
+  "id": "10097",
+  "slug": "councillors-circlet"
+}

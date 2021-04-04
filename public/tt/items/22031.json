@@ -1,0 +1,10 @@
+{
+  "name": "QAEnchant Gloves +20 Shadow Damage",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QAEnchant Gloves +20 Shadow Damage</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27110\" class=\"q2\">Permanently enchant gloves to increase shadow damage by up to 20.</a></span></td></tr></table>",
+  "url": "/item=22031/qaenchant-gloves-20-shadow-damage",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "22031",
+  "slug": "qaenchant-gloves-20-shadow-damage"
+}

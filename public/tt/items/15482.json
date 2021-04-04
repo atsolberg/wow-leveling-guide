@@ -1,0 +1,10 @@
+{
+  "name": "War Torn Bands",
+  "quality": "Common",
+  "icon": "inv_bracer_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">War Torn Bands</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->48 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">54</span></div></td></tr></table>",
+  "url": "/item=15482/war-torn-bands",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_08.jpg",
+  "id": "15482",
+  "slug": "war-torn-bands"
+}

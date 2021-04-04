@@ -1,0 +1,10 @@
+{
+  "name": "Dark Iron Bar",
+  "quality": "Common",
+  "icon": "inv_ingot_mithril",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dark Iron Bar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span></div></td></tr></table>",
+  "url": "/item=11371/dark-iron-bar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ingot_mithril.jpg",
+  "id": "11371",
+  "slug": "dark-iron-bar"
+}

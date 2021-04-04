@@ -1,0 +1,10 @@
+{
+  "name": "Skeletal Fragments",
+  "quality": "Common",
+  "icon": "inv_misc_bone_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Skeletal Fragments</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=14619/skeletal-fragments",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_07.jpg",
+  "id": "14619",
+  "slug": "skeletal-fragments"
+}

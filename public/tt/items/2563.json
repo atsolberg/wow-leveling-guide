@@ -1,0 +1,10 @@
+{
+  "name": "Strange Smelling Powder",
+  "quality": "Common",
+  "icon": "inv_misc_dust_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Strange Smelling Powder</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=2563/strange-smelling-powder",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_dust_02.jpg",
+  "id": "2563",
+  "slug": "strange-smelling-powder"
+}

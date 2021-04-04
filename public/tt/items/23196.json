@@ -1,0 +1,10 @@
+{
+  "name": "Greater Mark of the Dawn",
+  "quality": "Common",
+  "icon": "inv_misc_token_argentdawn3",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Greater Mark of the Dawn</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique (3)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=30090\" class=\"q2\">Increases Stamina for 1 hour.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 3</div></td></tr></table>",
+  "url": "/item=23196/greater-mark-of-the-dawn",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_token_argentdawn3.jpg",
+  "id": "23196",
+  "slug": "greater-mark-of-the-dawn"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Rune of Perfection",
+  "quality": "Rare",
+  "icon": "inv_misc_rune_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Rune of Perfection</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=5\" class=\"c5\">Priest</a>, <a href=\"/class=7\" class=\"c7\">Shaman</a>, <a href=\"/class=8\" class=\"c8\">Mage</a>, <a href=\"/class=9\" class=\"c9\">Warlock</a>, <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br><span class=\"q2\">Equip: <a href=\"/spell=26283\" class=\"q2\">Decreases the magical resistances of your spell targets by 20.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span></div></td></tr></table>",
+  "url": "/item=21565/rune-of-perfection",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_rune_05.jpg",
+  "id": "21565",
+  "slug": "rune-of-perfection"
+}

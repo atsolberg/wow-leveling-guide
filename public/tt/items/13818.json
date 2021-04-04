@@ -1,0 +1,10 @@
+{
+  "name": "Jagged Axe",
+  "quality": "Poor",
+  "icon": "inv_throwingaxe_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Jagged Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->56</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->26 - 50 Damage</span></td>\n    <th>Speed <!--spd-->1.90</th>\n</tr></table><!--dps-->(20.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->51<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">34</span> <span class=\"moneycopper\">31</span></div></td></tr></table>",
+  "url": "/item=13818/jagged-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_throwingaxe_03.jpg",
+  "id": "13818",
+  "slug": "jagged-axe"
+}

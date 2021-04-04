@@ -1,0 +1,10 @@
+{
+  "name": "Silithid Claw",
+  "quality": "Epic",
+  "icon": "inv_misc_monsterclaw_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Silithid Claw</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->76</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:13--><span class=\"q1\">Fist Weapon</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->64 - 120 Damage</span></td>\n    <th>Speed <!--spd-->1.60</th>\n</tr></table><!--dps-->(57.50 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=9336\" class=\"q2\">+30 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">14</span> <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">69</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Battleguard Sartura</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 8.72%</div></td></tr></table>",
+  "url": "/item=21673/silithid-claw",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterclaw_03.jpg",
+  "id": "21673",
+  "slug": "silithid-claw"
+}

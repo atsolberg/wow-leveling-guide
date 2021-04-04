@@ -1,0 +1,10 @@
+{
+  "name": "Zaeldarr's Head",
+  "quality": "Common",
+  "icon": "inv_misc_head_troll_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Zaeldarr's Head</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Zaeldarr the Outcast</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 86.39%</div></td></tr></table>",
+  "url": "/item=15785/zaeldarrs-head",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_troll_02.jpg",
+  "id": "15785",
+  "slug": "zaeldarrs-head"
+}

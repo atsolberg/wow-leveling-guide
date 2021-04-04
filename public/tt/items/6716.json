@@ -1,0 +1,11 @@
+{
+  "name": "Schematic: EZ-Thro Dynamite",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Schematic: EZ-Thro Dynamite</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (100)<br><span class=\"q2\">Use: <a href=\"/spell=8341\" class=\"q2\">Teaches you how to make EZ-Thro Dynamite.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span></div><br /><span class=\"q1\"><a href=\"/item=6714\">Ez-Thro Dynamite</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires Level <!--rlvl-->10<br><span class=\"q2\">Use: <a href=\"/spell=8331\" class=\"q2\">The dynamite for Non-Engineers that nearly always gets to the target! &nbsp;Inflicts 51 to 69 Fire damage in a 5 yard radius.</a> (1 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">75</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4364\">Coarse Blasting Powder</a>&nbsp;(4), <a href=\"/item=2592\">Wool Cloth</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=6716/schematic-ez-thro-dynamite",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "6716",
+  "slug": "schematic-ez-thro-dynamite"
+}

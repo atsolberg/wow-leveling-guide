@@ -1,0 +1,10 @@
+{
+  "name": "Warped Leather Gloves",
+  "quality": "Poor",
+  "icon": "inv_gauntlets_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Warped Leather Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->13</span><!--bo--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->36 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->8<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">51</span></div></td></tr></table>",
+  "url": "/item=1506/warped-leather-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_18.jpg",
+  "id": "1506",
+  "slug": "warped-leather-gloves"
+}

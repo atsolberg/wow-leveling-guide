@@ -1,0 +1,10 @@
+{
+  "name": "Interlaced Bracers",
+  "quality": "Poor",
+  "icon": "inv_bracer_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Interlaced Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->38</span><!--bo--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->20 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->33<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">74</span></div></td></tr></table>",
+  "url": "/item=3794/interlaced-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_02.jpg",
+  "id": "3794",
+  "slug": "interlaced-bracers"
+}

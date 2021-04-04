@@ -1,0 +1,10 @@
+{
+  "name": "Chunk of Flesh",
+  "quality": "Poor",
+  "icon": "inv_misc_food_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Chunk of Flesh</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">15</span></div></td></tr></table>",
+  "url": "/item=2085/chunk-of-flesh",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_16.jpg",
+  "id": "2085",
+  "slug": "chunk-of-flesh"
+}

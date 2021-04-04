@@ -1,0 +1,11 @@
+{
+  "name": "Artisan Fishing - The Way of the Lure",
+  "quality": "Common",
+  "icon": "inv_misc_book_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Artisan Fishing - The Way of the Lure</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<br>Requires <a href=\"/skill=356\" class=\"q1\">Fishing</a> (200)<br><span class=\"q2\">Use: <a href=\"/spell=19890\" class=\"q2\">Teaches you how to be an Artisan Fisherman, allowing a maximum of 300 fishing skill.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=16082/artisan-fishing-the-way-of-the-lure",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_10.jpg",
+  "id": "16082",
+  "slug": "artisan-fishing-the-way-of-the-lure"
+}

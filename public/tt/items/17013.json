@@ -1,0 +1,10 @@
+{
+  "name": "Dark Iron Leggings",
+  "quality": "Epic",
+  "icon": "inv_pants_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Dark Iron Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->778 Armor</span><br><span><!--stat7-->+14 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+30 Fire Resistance<!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">64</span> <span class=\"moneycopper\">41</span></div></td></tr></table>",
+  "url": "/item=17013/dark-iron-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_04.jpg",
+  "id": "17013",
+  "slug": "dark-iron-leggings"
+}

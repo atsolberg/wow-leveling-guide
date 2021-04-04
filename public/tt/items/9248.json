@@ -1,0 +1,10 @@
+{
+  "name": "Mysterious Relic",
+  "quality": "Common",
+  "icon": "spell_nature_stoneskintotem",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Mysterious Relic</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lord Shalzaru</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 75.33%</div></td></tr></table>",
+  "url": "/item=9248/mysterious-relic",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_stoneskintotem.jpg",
+  "id": "9248",
+  "slug": "mysterious-relic"
+}

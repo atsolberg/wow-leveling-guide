@@ -1,0 +1,10 @@
+{
+  "name": "Katoom's Best Lure",
+  "quality": "Common",
+  "icon": "inv_misc_monstertail_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Katoom's Best Lure</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Gammerita</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 60.57%</div></td></tr></table>",
+  "url": "/item=19023/katooms-best-lure",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monstertail_03.jpg",
+  "id": "19023",
+  "slug": "katooms-best-lure"
+}

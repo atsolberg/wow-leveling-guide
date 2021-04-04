@@ -1,0 +1,10 @@
+{
+  "name": "Duskwoven Sandals",
+  "quality": "Uncommon",
+  "icon": "inv_boots_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Duskwoven Sandals</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->45 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">70</span> <span class=\"moneycopper\">83</span></div></td></tr></table>",
+  "url": "/item=10058/duskwoven-sandals",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_09.jpg",
+  "id": "10058",
+  "slug": "duskwoven-sandals"
+}

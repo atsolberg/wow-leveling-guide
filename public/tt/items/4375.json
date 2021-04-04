@@ -1,0 +1,10 @@
+{
+  "name": "Whirring Bronze Gizmo",
+  "quality": "Common",
+  "icon": "inv_gizmo_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Whirring Bronze Gizmo</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">15</span></div></td></tr></table>",
+  "url": "/item=4375/whirring-bronze-gizmo",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_02.jpg",
+  "id": "4375",
+  "slug": "whirring-bronze-gizmo"
+}

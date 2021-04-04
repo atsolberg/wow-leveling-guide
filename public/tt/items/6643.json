@@ -1,0 +1,10 @@
+{
+  "name": "Bloated Smallfish",
+  "quality": "Common",
+  "icon": "inv_misc_fish_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bloated Smallfish</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">6</span></div></td></tr></table>",
+  "url": "/item=6643/bloated-smallfish",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_08.jpg",
+  "id": "6643",
+  "slug": "bloated-smallfish"
+}

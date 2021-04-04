@@ -1,0 +1,10 @@
+{
+  "name": "Scrolls of Blinding Light",
+  "quality": "Epic",
+  "icon": "inv_scroll_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Scrolls of Blinding Light</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->76</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=2\" class=\"c2\">Paladin</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=23733\" class=\"q2\">Energizes a Paladin with light, increasing melee attack speed by 25% and spell casting speed by 33% for 20 sec.</a> (5 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">7</span> <span class=\"moneysilver\">20</span> <span class=\"moneycopper\">39</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Firemaw</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 8.84%</div></td></tr></table>",
+  "url": "/item=19343/scrolls-of-blinding-light",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_08.jpg",
+  "id": "19343",
+  "slug": "scrolls-of-blinding-light"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Embersilk Bracelets",
+  "quality": "Uncommon",
+  "icon": "inv_bracer_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Embersilk Bracelets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->21 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">31</span></div></td></tr></table>",
+  "url": "/item=14226/embersilk-bracelets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_09.jpg",
+  "id": "14226",
+  "slug": "embersilk-bracelets"
+}

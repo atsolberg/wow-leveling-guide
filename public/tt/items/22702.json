@@ -1,0 +1,10 @@
+{
+  "name": "Icy Scale Leggings",
+  "quality": "Epic",
+  "icon": "inv_pants_mail_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Icy Scale Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->80</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->443 Armor</span><br><span><!--stat3-->+15 Agility</span><br><span><!--stat7-->+28 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+40 Frost Resistance<!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">11</span> <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">9</span></div></td></tr></table>",
+  "url": "/item=22702/icy-scale-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_mail_15.jpg",
+  "id": "22702",
+  "slug": "icy-scale-leggings"
+}

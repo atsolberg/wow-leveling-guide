@@ -1,0 +1,10 @@
+{
+  "name": "Shiny Bauble",
+  "quality": "Common",
+  "icon": "inv_misc_orb_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Shiny Bauble</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=8087\" class=\"q2\">When applied to your fishing pole, increases Fishing by 25 for 10 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=6529/shiny-bauble",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_orb_03.jpg",
+  "id": "6529",
+  "slug": "shiny-bauble"
+}

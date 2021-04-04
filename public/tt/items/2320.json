@@ -1,0 +1,10 @@
+{
+  "name": "Coarse Thread",
+  "quality": "Common",
+  "icon": "inv_fabric_linen_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Coarse Thread</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">2</span></div></td></tr></table>",
+  "url": "/item=2320/coarse-thread",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_fabric_linen_03.jpg",
+  "id": "2320",
+  "slug": "coarse-thread"
+}

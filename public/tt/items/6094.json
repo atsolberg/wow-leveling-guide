@@ -1,0 +1,10 @@
+{
+  "name": "Piercing Axe",
+  "quality": "Uncommon",
+  "icon": "inv_throwingaxe_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Piercing Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->31 - 47 Damage</span></td>\n    <th>Speed <!--spd-->3.30</th>\n</tr></table><!--dps-->(11.82 damage per second)<br><span><!--stat3-->+5 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">78</span></div></td></tr></table>",
+  "url": "/item=6094/piercing-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_throwingaxe_01.jpg",
+  "id": "6094",
+  "slug": "piercing-axe"
+}

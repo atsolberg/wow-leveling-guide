@@ -1,0 +1,10 @@
+{
+  "name": "Headchopper",
+  "quality": "Uncommon",
+  "icon": "inv_axe_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Headchopper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->44</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->78 - 117 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(33.62 damage per second)<br><span><!--stat4-->+9 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->39<br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">82</span> <span class=\"moneycopper\">34</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Mosh'Ogg Butcher</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 29.55%</div></td></tr></table>",
+  "url": "/item=1680/headchopper",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_17.jpg",
+  "id": "1680",
+  "slug": "headchopper"
+}

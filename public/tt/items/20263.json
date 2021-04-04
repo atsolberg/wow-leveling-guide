@@ -1,0 +1,10 @@
+{
+  "name": "Gurubashi Helm",
+  "quality": "Rare",
+  "icon": "inv_helmet_25",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Gurubashi Helm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->549 Armor</span><br><span><!--stat4-->+22 Strength</span><br><span><!--stat3-->+21 Agility</span><br><span><!--stat7-->+13 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">84</span> <span class=\"moneycopper\">95</span></div></td></tr></table>",
+  "url": "/item=20263/gurubashi-helm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_25.jpg",
+  "id": "20263",
+  "slug": "gurubashi-helm"
+}

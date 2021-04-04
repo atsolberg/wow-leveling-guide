@@ -1,0 +1,10 @@
+{
+  "name": "Atiesh, Greatstaff of the Guardian",
+  "quality": "Legendary",
+  "icon": "inv_staff_medivh",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q5\">Atiesh, Greatstaff of the Guardian</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->90</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->130 - 243 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(64.31 damage per second)<br><span><!--stat5-->+28 Intellect</span><br><span><!--stat7-->+28 Stamina</span><br><span><!--stat6-->+27 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 145 / 145<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=28145\" class=\"q2\">Restores 11 mana per 5 seconds to all party members within 30 yards.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=28152\" class=\"q2\">Increases healing done by spells and effects by up to 300.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=28154\" class=\"q2\">+420 Attack Power in Cat, Bear, and Dire Bear forms only.</a></span><br><span class=\"q2\">Use: <a href=\"/spell=28148\" class=\"q2\">Creates a portal, teleporting group members that use it to Karazhan.</a> (1 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">52</span> <span class=\"moneysilver\">82</span> <span class=\"moneycopper\">64</span></div></td></tr></table>",
+  "url": "/item=22632/atiesh-greatstaff-of-the-guardian",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_medivh.jpg",
+  "id": "22632",
+  "slug": "atiesh-greatstaff-of-the-guardian"
+}

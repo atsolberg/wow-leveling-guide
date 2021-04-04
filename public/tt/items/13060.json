@@ -1,0 +1,10 @@
+{
+  "name": "The Needler",
+  "quality": "Rare",
+  "icon": "inv_spear_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">The Needler</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:6--><span class=\"q1\">Polearm</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->90 - 136 Damage</span></td>\n    <th>Speed <!--spd-->2.20</th>\n</tr></table><!--dps-->(51.36 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Chance on hit: <a href=\"/spell=16405\" class=\"q2\">Wounds the target for 75 damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">84</span></div></td></tr></table>",
+  "url": "/item=13060/the-needler",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_spear_08.jpg",
+  "id": "13060",
+  "slug": "the-needler"
+}

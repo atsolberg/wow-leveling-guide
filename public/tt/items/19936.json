@@ -1,0 +1,10 @@
+{
+  "name": "Dried Scorpid Carapace",
+  "quality": "Poor",
+  "icon": "inv_misc_ear_nightelf_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Dried Scorpid Carapace</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">30</span></div></td></tr></table>",
+  "url": "/item=19936/dried-scorpid-carapace",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_ear_nightelf_01.jpg",
+  "id": "19936",
+  "slug": "dried-scorpid-carapace"
+}

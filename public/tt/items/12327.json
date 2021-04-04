@@ -1,0 +1,11 @@
+{
+  "name": "Reins of the Golden Sabercat",
+  "quality": "Rare",
+  "icon": "ability_mount_jungletiger",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Reins of the Golden Sabercat</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when used<br />Mount<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-races\">Races: <a href=\"/race=1\" class=\"q1\">Human</a>, <a href=\"/race=3\" class=\"q1\">Dwarf</a>, <a href=\"/race=4\" class=\"q1\">Night Elf</a>, <a href=\"/race=7\" class=\"q1\">Gnome</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br>Requires <a href=\"/skill=150\" class=\"q1\">Tiger Riding</a> (1)<br><span class=\"q2\">Use: <a href=\"/spell=16060\" class=\"q2\">Summons and dismisses a rideable Golden Saber Cat.</a> (3 Sec Cooldown)</span></td></tr></table>",
+  "completion_category": "15-5",
+  "url": "/item=12327/reins-of-the-golden-sabercat",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_mount_jungletiger.jpg",
+  "id": "12327",
+  "slug": "reins-of-the-golden-sabercat"
+}

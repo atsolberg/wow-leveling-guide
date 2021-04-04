@@ -1,0 +1,10 @@
+{
+  "name": "Force of Will",
+  "quality": "Rare",
+  "icon": "inv_jewelry_amulet_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Force of Will</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Equip: <a href=\"/spell=15594\" class=\"q2\">When struck in combat has a 1% chance of reducing all melee damage taken by 25 for 10 sec.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=13385\" class=\"q2\">Increased Defense +7.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: General Angerforge</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 10.08%</div></td></tr></table>",
+  "url": "/item=11810/force-of-will",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_amulet_01.jpg",
+  "id": "11810",
+  "slug": "force-of-will"
+}

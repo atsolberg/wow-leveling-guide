@@ -1,0 +1,10 @@
+{
+  "name": "Lok'amir il Romathis",
+  "quality": "Epic",
+  "icon": "inv_mace_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Lok'amir il Romathis</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->81</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->48 - 128 Damage</span></td>\n    <th>Speed <!--spd-->2.10</th>\n</tr></table><!--dps-->(41.90 damage per second)<br><span><!--stat5-->+18 Intellect</span><br><span><!--stat7-->+10 Stamina</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=23728\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 84.</a></span><!--itemEffects:1--><br><span class=\"q\">&quot;The Hand of Nefarius&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">18</span> <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">16</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Nefarian</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 9.08%</div></td></tr></table>",
+  "url": "/item=19360/lokamir-il-romathis",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_06.jpg",
+  "id": "19360",
+  "slug": "lokamir-il-romathis"
+}

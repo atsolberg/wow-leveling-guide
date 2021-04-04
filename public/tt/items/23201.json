@@ -1,0 +1,10 @@
+{
+  "name": "Libram of Divinity",
+  "quality": "Rare",
+  "icon": "inv_relics_libramofhope",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Libram of Divinity</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Relic</td><th><!--scstart4:7--><span class=\"q1\">Libram</span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=28853\" class=\"q2\">Increases healing done by Flash of Light by up to 53.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">89</span> <span class=\"moneycopper\">97</span></div></td></tr></table>",
+  "url": "/item=23201/libram-of-divinity",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_relics_libramofhope.jpg",
+  "id": "23201",
+  "slug": "libram-of-divinity"
+}

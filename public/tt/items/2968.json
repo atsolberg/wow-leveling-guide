@@ -1,0 +1,10 @@
+{
+  "name": "Warrior's Gloves",
+  "quality": "Common",
+  "icon": "inv_gauntlets_28",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Warrior's Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->9</span><!--bo--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->59 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->4<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">33</span></div></td></tr></table>",
+  "url": "/item=2968/warriors-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_28.jpg",
+  "id": "2968",
+  "slug": "warriors-gloves"
+}

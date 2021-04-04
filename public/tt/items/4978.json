@@ -1,0 +1,10 @@
+{
+  "name": "Ryedol's Hammer",
+  "quality": "Uncommon",
+  "icon": "inv_hammer_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Ryedol's Hammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->33 - 62 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(19.00 damage per second)<br><span><!--stat4-->+6 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">79</span> <span class=\"moneycopper\">76</span></div></td></tr></table>",
+  "url": "/item=4978/ryedols-hammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_04.jpg",
+  "id": "4978",
+  "slug": "ryedols-hammer"
+}

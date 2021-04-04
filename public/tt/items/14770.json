@@ -1,0 +1,10 @@
+{
+  "name": "Ravager's Armguards",
+  "quality": "Uncommon",
+  "icon": "inv_bracer_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Ravager's Armguards</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->101 Armor</span><br><span><!--stat4-->+7 Strength</span><br><span><!--stat3-->+4 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">31</span> <span class=\"moneycopper\">72</span></div></td></tr></table>",
+  "url": "/item=14770/ravagers-armguards",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_02.jpg",
+  "id": "14770",
+  "slug": "ravagers-armguards"
+}

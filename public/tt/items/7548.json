@@ -1,0 +1,10 @@
+{
+  "name": "Onyx Choker",
+  "quality": "Uncommon",
+  "icon": "inv_jewelry_necklace_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Onyx Choker</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->46</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->41<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">65</span> <span class=\"moneycopper\">7</span></div></td></tr></table>",
+  "url": "/item=7548/onyx-choker",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_06.jpg",
+  "id": "7548",
+  "slug": "onyx-choker"
+}

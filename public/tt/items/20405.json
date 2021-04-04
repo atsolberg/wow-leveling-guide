@@ -1,0 +1,10 @@
+{
+  "name": "Decoded Tablet Transcription",
+  "quality": "Common",
+  "icon": "inv_misc_note_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Decoded Tablet Transcription</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=20405/decoded-tablet-transcription",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_05.jpg",
+  "id": "20405",
+  "slug": "decoded-tablet-transcription"
+}

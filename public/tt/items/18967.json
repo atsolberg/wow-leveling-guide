@@ -1,0 +1,11 @@
+{
+  "name": "Turtle Egg (Olive)",
+  "quality": "Common",
+  "icon": "inv_egg_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Turtle Egg (Olive)</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when used<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=23430\" class=\"q2\">Right Click to summon and dismiss your Snapjaw.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div></td></tr></table>",
+  "completion_category": "15-2",
+  "url": "/item=18967/turtle-egg-olive",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_egg_02.jpg",
+  "id": "18967",
+  "slug": "turtle-egg-olive"
+}

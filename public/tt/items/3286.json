@@ -1,0 +1,10 @@
+{
+  "name": "Tribal Gloves",
+  "quality": "Common",
+  "icon": "inv_gauntlets_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tribal Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->12</span><!--bo--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->37 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->7<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">59</span></div></td></tr></table>",
+  "url": "/item=3286/tribal-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_19.jpg",
+  "id": "3286",
+  "slug": "tribal-gloves"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Razorlash Root",
+  "quality": "Common",
+  "icon": "inv_misc_herb_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Razorlash Root</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br><span class=\"q2\">Use: <a href=\"/spell=21955\" class=\"q2\">Restores 600 health and mana over 10 sec.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Razorlash</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 5.13%</div></td></tr></table>",
+  "url": "/item=17747/razorlash-root",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_herb_07.jpg",
+  "id": "17747",
+  "slug": "razorlash-root"
+}

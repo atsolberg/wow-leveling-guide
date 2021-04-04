@@ -1,0 +1,10 @@
+{
+  "name": "Vermillion Idol",
+  "quality": "Rare",
+  "icon": "inv_qirajidol_vermillion",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Vermillion Idol</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->61</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=2\" class=\"c2\">Paladin</a>, <a href=\"/class=4\" class=\"c4\">Rogue</a>, <a href=\"/class=7\" class=\"c7\">Shaman</a>, <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div></td></tr></table>",
+  "url": "/item=20872/vermillion-idol",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_qirajidol_vermillion.jpg",
+  "id": "20872",
+  "slug": "vermillion-idol"
+}

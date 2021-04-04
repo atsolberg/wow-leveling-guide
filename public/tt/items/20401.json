@@ -1,0 +1,10 @@
+{
+  "name": "Restored Twilight Tablet",
+  "quality": "Common",
+  "icon": "inv_misc_stonetablet_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Restored Twilight Tablet</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=20401/restored-twilight-tablet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_stonetablet_04.jpg",
+  "id": "20401",
+  "slug": "restored-twilight-tablet"
+}

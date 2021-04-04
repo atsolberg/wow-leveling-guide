@@ -1,0 +1,10 @@
+{
+  "name": "Monster - Spear, Broad Notched",
+  "quality": "Poor",
+  "icon": "inv_spear_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Monster - Spear, Broad Notched</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:17--><span class=\"q1\"></span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->1 - 2 Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(0.75 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">2</span></div></td></tr></table>",
+  "url": "/item=12986/monster-spear-broad-notched",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_spear_08.jpg",
+  "id": "12986",
+  "slug": "monster-spear-broad-notched"
+}

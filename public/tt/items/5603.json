@@ -1,0 +1,10 @@
+{
+  "name": "Wizbang's Gunnysack",
+  "quality": "Common",
+  "icon": "inv_misc_bag_10_blue",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Wizbang's Gunnysack</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />Binds when picked up<br />8 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span></div></td></tr></table>",
+  "url": "/item=5603/wizbangs-gunnysack",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_10_blue.jpg",
+  "id": "5603",
+  "slug": "wizbangs-gunnysack"
+}

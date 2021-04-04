@@ -1,0 +1,10 @@
+{
+  "name": "Lesser Mystic Essence",
+  "quality": "Uncommon",
+  "icon": "inv_enchant_essencemysticalsmall",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Lesser Mystic Essence</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=13632\" class=\"q2\">Turn three lesser mystic essences into a greater one.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div></td></tr></table>",
+  "url": "/item=11134/lesser-mystic-essence",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_enchant_essencemysticalsmall.jpg",
+  "id": "11134",
+  "slug": "lesser-mystic-essence"
+}

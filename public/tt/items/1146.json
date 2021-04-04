@@ -1,0 +1,11 @@
+{
+  "name": "Libram: Resurrection",
+  "quality": "Common",
+  "icon": "inv_misc_book_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Libram: Resurrection</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->12</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=2\" class=\"c2\">Paladin</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->12<br><span class=\"q2\">Use: <a href=\"/spell=7330\" class=\"q2\">Teaches Resurrection (Rank 1).</a></span></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=1146/libram-resurrection",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_08.jpg",
+  "id": "1146",
+  "slug": "libram-resurrection"
+}

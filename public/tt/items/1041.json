@@ -1,0 +1,11 @@
+{
+  "name": "Horn of the Black Wolf",
+  "quality": "Common",
+  "icon": "ability_mount_blackdirewolf",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Horn of the Black Wolf</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when used<br />Mount<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-races\">Races: <a href=\"/race=2\" class=\"q1\">Orc</a>, <a href=\"/race=5\" class=\"q1\">Undead</a>, <a href=\"/race=6\" class=\"q1\">Tauren</a>, <a href=\"/race=8\" class=\"q1\">Troll</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br>Requires <a href=\"/skill=149\" class=\"q1\">Wolf Riding</a> (1)<br><span class=\"q2\">Use: <a href=\"/spell=578\" class=\"q2\">Summons and dismisses a rideable black wolf.</a> (3 Sec Cooldown)</span></td></tr></table>",
+  "completion_category": "15-5",
+  "url": "/item=1041/horn-of-the-black-wolf",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_mount_blackdirewolf.jpg",
+  "id": "1041",
+  "slug": "horn-of-the-black-wolf"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Arcane Infused Gem",
+  "quality": "Epic",
+  "icon": "spell_nature_wispsplode",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Arcane Infused Gem</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->76</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=3\" class=\"c3\">Hunter</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=23721\" class=\"q2\">Infuses you with Arcane energy, causing your next Arcane Shot fired within 10 sec to detonate at the target. The Arcane Detonation will deal 185 to 215 damage to enemies near the target.</a> (2 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">7</span> <span class=\"moneysilver\">20</span> <span class=\"moneycopper\">39</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Razorgore the Untamed</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 19.68%</div></td></tr></table>",
+  "url": "/item=19336/arcane-infused-gem",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_wispsplode.jpg",
+  "id": "19336",
+  "slug": "arcane-infused-gem"
+}

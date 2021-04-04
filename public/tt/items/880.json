@@ -1,0 +1,10 @@
+{
+  "name": "Staff of Horrors",
+  "quality": "Uncommon",
+  "icon": "inv_staff_25",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Staff of Horrors</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->41 - 62 Damage</span></td>\n    <th>Speed <!--spd-->3.40</th>\n</tr></table><!--dps-->(15.15 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<br><span class=\"q2\">Chance on hit: <a href=\"/spell=8552\" class=\"q2\">Damage caused by the target is reduced by 5 for 2 min.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">92</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Skeletal Horror</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 1.62%</div></td></tr></table>",
+  "url": "/item=880/staff-of-horrors",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_25.jpg",
+  "id": "880",
+  "slug": "staff-of-horrors"
+}

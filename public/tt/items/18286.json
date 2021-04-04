@@ -1,0 +1,10 @@
+{
+  "name": "Condensed Mana Fragment",
+  "quality": "Poor",
+  "icon": "inv_misc_gem_diamond_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Condensed Mana Fragment</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">29</span> <span class=\"moneycopper\">53</span></div></td></tr></table>",
+  "url": "/item=18286/condensed-mana-fragment",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_diamond_03.jpg",
+  "id": "18286",
+  "slug": "condensed-mana-fragment"
+}

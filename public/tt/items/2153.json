@@ -1,0 +1,10 @@
+{
+  "name": "Polished Scale Vest",
+  "quality": "Common",
+  "icon": "inv_chest_chain_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Polished Scale Vest</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->179 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 95 / 95</td></tr></table><table><tr><td>Requires Level <!--rlvl-->22<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">85</span></div></td></tr></table>",
+  "url": "/item=2153/polished-scale-vest",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_09.jpg",
+  "id": "2153",
+  "slug": "polished-scale-vest"
+}

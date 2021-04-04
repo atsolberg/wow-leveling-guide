@@ -1,0 +1,10 @@
+{
+  "name": "Wrapping Paper (PT)",
+  "quality": "Common",
+  "icon": "inv_fabric_silk_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Wrapping Paper (PT)</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=5014/wrapping-paper-pt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_fabric_silk_03.jpg",
+  "id": "5014",
+  "slug": "wrapping-paper-pt"
+}

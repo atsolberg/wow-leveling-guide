@@ -1,0 +1,10 @@
+{
+  "name": "Smoldering Claw",
+  "quality": "Rare",
+  "icon": "inv_weapon_halberd_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Smoldering Claw</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->54</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:6--><span class=\"q1\">Polearm</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->108 - 162 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(46.55 damage per second)<!--ebstats--><!--egstats--><!--eistats--><br>+10 Fire Resistance<!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->49<br><span class=\"q2\">Chance on hit: <a href=\"/spell=15662\" class=\"q2\">Hurls a fiery ball that causes 135 Fire damage and an additional 15 damage over 6 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">59</span> <span class=\"moneycopper\">80</span></div></td></tr></table>",
+  "url": "/item=12243/smoldering-claw",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_halberd_04.jpg",
+  "id": "12243",
+  "slug": "smoldering-claw"
+}

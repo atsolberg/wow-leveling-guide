@@ -1,0 +1,10 @@
+{
+  "name": "Burning Blossom",
+  "quality": "Common",
+  "icon": "inv_summerfest_fireflower",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Burning Blossom</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Duration: 14 days<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=28806\" class=\"q2\">Toss into a Fire Festival Bonfire!</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=23247/burning-blossom",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_summerfest_fireflower.jpg",
+  "id": "23247",
+  "slug": "burning-blossom"
+}

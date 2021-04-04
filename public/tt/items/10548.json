@@ -1,0 +1,10 @@
+{
+  "name": "Sniper Scope",
+  "quality": "Common",
+  "icon": "inv_misc_spyglass_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sniper Scope</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->48</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br><span class=\"q2\">Use: <a href=\"/spell=12460\" class=\"q2\">Attaches a permanent scope to a bow or gun that increases its damage by 7.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">25</span></div></td></tr></table>",
+  "url": "/item=10548/sniper-scope",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg",
+  "id": "10548",
+  "slug": "sniper-scope"
+}

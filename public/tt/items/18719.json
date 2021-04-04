@@ -1,0 +1,10 @@
+{
+  "name": "The Traitor's Heart",
+  "quality": "Common",
+  "icon": "inv_misc_organ_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">The Traitor's Heart</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ulathek</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 79.01%</div></td></tr></table>",
+  "url": "/item=18719/the-traitors-heart",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_organ_01.jpg",
+  "id": "18719",
+  "slug": "the-traitors-heart"
+}

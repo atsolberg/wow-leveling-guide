@@ -1,0 +1,11 @@
+{
+  "name": "Recipe: Brilliant Smallfish",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Recipe: Brilliant Smallfish</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=185\" class=\"q1\">Cooking</a> (1)<br><span class=\"q2\">Use: <a href=\"/spell=7756\" class=\"q2\">Teaches you how to cook Brilliant Smallfish.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">10</span></div><br /><span class=\"q1\"><a href=\"/item=6290\">Brilliant Smallfish</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br><span class=\"q2\">Use: <a href=\"/spell=433\" class=\"q2\">Restores 61.2 health over 18 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=6291\">Raw Brilliant Smallfish</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=6325/recipe-brilliant-smallfish",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "6325",
+  "slug": "recipe-brilliant-smallfish"
+}

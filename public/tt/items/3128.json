@@ -1,0 +1,10 @@
+{
+  "name": "(OLD)Medium Throwing Axe",
+  "quality": "Common",
+  "icon": "inv_axe_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">(OLD)Medium Throwing Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->4</span><!--bo--><table width=\"100%\"><tr><td>Thrown</td><th><!--scstart2:16--><span class=\"q1\">Thrown</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->2 - 4 Frost Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(1.50 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div></td></tr></table>",
+  "url": "/item=3128/old-medium-throwing-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_01.jpg",
+  "id": "3128",
+  "slug": "old-medium-throwing-axe"
+}

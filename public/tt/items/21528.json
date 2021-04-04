@@ -1,0 +1,10 @@
+{
+  "name": "Colossal Bag of Loot",
+  "quality": "Uncommon",
+  "icon": "inv_misc_bag_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Colossal Bag of Loot</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=21528/colossal-bag-of-loot",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_17.jpg",
+  "id": "21528",
+  "slug": "colossal-bag-of-loot"
+}

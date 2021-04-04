@@ -1,0 +1,10 @@
+{
+  "name": "A Sycamore Branch",
+  "quality": "Common",
+  "icon": "inv_misc_branch_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">A Sycamore Branch</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Cursed Sycamore</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 51.76%</div></td></tr></table>",
+  "url": "/item=742/a-sycamore-branch",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_branch_01.jpg",
+  "id": "742",
+  "slug": "a-sycamore-branch"
+}

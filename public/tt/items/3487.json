@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Copper Broadsword",
+  "quality": "Uncommon",
+  "icon": "inv_sword_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Heavy Copper Broadsword</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->27 - 41 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(12.59 damage per second)<br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->14<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">98</span></div></td></tr></table>",
+  "url": "/item=3487/heavy-copper-broadsword",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_14.jpg",
+  "id": "3487",
+  "slug": "heavy-copper-broadsword"
+}

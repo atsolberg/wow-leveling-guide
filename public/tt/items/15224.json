@@ -1,0 +1,10 @@
+{
+  "name": "Battlesmasher",
+  "quality": "Uncommon",
+  "icon": "inv_hammer_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Battlesmasher</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->24 - 45 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(12.78 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">95</span></div></td></tr></table>",
+  "url": "/item=15224/battlesmasher",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_08.jpg",
+  "id": "15224",
+  "slug": "battlesmasher"
+}

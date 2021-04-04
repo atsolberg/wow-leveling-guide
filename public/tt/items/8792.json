@@ -1,0 +1,11 @@
+{
+  "name": "Book of Thorns VI",
+  "quality": "Common",
+  "icon": "inv_misc_book_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Book of Thorns VI</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->54</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<br><span class=\"q2\">Use: <a href=\"/spell=1076\" class=\"q2\">Teaches Thorns (Rank 3).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">10</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=8792/book-of-thorns-vi",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_11.jpg",
+  "id": "8792",
+  "slug": "book-of-thorns-vi"
+}

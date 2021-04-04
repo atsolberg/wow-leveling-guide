@@ -1,0 +1,10 @@
+{
+  "name": "Elder's Moonstone",
+  "quality": "Common",
+  "icon": "inv_misc_gem_pearl_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Elder's Moonstone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=25823\" class=\"q2\">Summon a ring of light on a specific location that lasts for 3 min.</a> (1 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=21745/elders-moonstone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_pearl_04.jpg",
+  "id": "21745",
+  "slug": "elders-moonstone"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "[PH] Cloth Bracers of the Shining Dawn",
+  "quality": "Common",
+  "icon": "inv_bracer_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">[PH] Cloth Bracers of the Shining Dawn</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->100</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->52 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->100<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">44</span> <span class=\"moneycopper\">89</span></div></td></tr></table>",
+  "url": "/item=13740/ph-cloth-bracers-of-the-shining-dawn",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_07.jpg",
+  "id": "13740",
+  "slug": "ph-cloth-bracers-of-the-shining-dawn"
+}

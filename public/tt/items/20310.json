@@ -1,0 +1,10 @@
+{
+  "name": "Flayed Demon Skin",
+  "quality": "Common",
+  "icon": "inv_misc_leatherscrap_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Flayed Demon Skin</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=1480\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->25<br>Requires <a href=\"/faction=67\" class=\"q1\">Horde</a> - Neutral</td></tr></table>",
+  "url": "/item=20310/flayed-demon-skin",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_leatherscrap_04.jpg",
+  "id": "20310",
+  "slug": "flayed-demon-skin"
+}

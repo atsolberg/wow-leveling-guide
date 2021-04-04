@@ -1,0 +1,11 @@
+{
+  "name": "Riding Gryphon Reins",
+  "quality": "Rare",
+  "icon": "ability_mount_undeadhorse",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Riding Gryphon Reins</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<br />Mount<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">25</span></div></td></tr></table>",
+  "completion_category": "15-5",
+  "url": "/item=21736/riding-gryphon-reins",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_mount_undeadhorse.jpg",
+  "id": "21736",
+  "slug": "riding-gryphon-reins"
+}

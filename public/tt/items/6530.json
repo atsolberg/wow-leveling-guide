@@ -1,0 +1,10 @@
+{
+  "name": "Nightcrawlers",
+  "quality": "Common",
+  "icon": "inv_misc_monstertail_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Nightcrawlers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=356\" class=\"q1\">Fishing</a> (50)<br><span class=\"q2\">Use: <a href=\"/spell=8088\" class=\"q2\">When applied to your fishing pole, increases Fishing by 50 for 10 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=6530/nightcrawlers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monstertail_03.jpg",
+  "id": "6530",
+  "slug": "nightcrawlers"
+}

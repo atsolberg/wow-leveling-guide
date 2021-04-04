@@ -1,0 +1,10 @@
+{
+  "name": "Cadet Gauntlets",
+  "quality": "Common",
+  "icon": "inv_gauntlets_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Cadet Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->13</span><!--bo--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->77 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->8<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">92</span></div></td></tr></table>",
+  "url": "/item=9762/cadet-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_12.jpg",
+  "id": "9762",
+  "slug": "cadet-gauntlets"
+}

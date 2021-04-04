@@ -1,0 +1,10 @@
+{
+  "name": "Frostreaver Crown",
+  "quality": "Rare",
+  "icon": "inv_helmet_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Frostreaver Crown</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->182 Armor</span><br><span><!--stat4-->+4 Strength</span><br><span><!--stat7-->+15 Stamina</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->27<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">21</span></div></td></tr></table>",
+  "url": "/item=13127/frostreaver-crown",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_24.jpg",
+  "id": "13127",
+  "slug": "frostreaver-crown"
+}

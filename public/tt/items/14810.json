@@ -1,0 +1,10 @@
+{
+  "name": "Warstrike Armsplints",
+  "quality": "Uncommon",
+  "icon": "inv_bracer_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Warstrike Armsplints</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->139 Armor</span><br><span><!--stat5-->+3 Intellect</span><br><span><!--stat6-->+13 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">69</span></div></td></tr></table>",
+  "url": "/item=14810/warstrike-armsplints",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_04.jpg",
+  "id": "14810",
+  "slug": "warstrike-armsplints"
+}

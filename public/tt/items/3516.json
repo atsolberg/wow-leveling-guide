@@ -1,0 +1,10 @@
+{
+  "name": "Lescovar's Head",
+  "quality": "Common",
+  "icon": "inv_misc_head_human_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Lescovar's Head</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=3516/lescovars-head",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_human_01.jpg",
+  "id": "3516",
+  "slug": "lescovars-head"
+}

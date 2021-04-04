@@ -1,0 +1,10 @@
+{
+  "name": "Ruined Jumper Cables XL",
+  "quality": "Common",
+  "icon": "inv_misc_gear_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ruined Jumper Cables XL</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->53</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span></div></td></tr></table>",
+  "url": "/item=18636/ruined-jumper-cables-xl",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gear_08.jpg",
+  "id": "18636",
+  "slug": "ruined-jumper-cables-xl"
+}

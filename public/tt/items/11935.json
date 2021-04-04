@@ -1,0 +1,10 @@
+{
+  "name": "Magmus Stone",
+  "quality": "Rare",
+  "icon": "inv_misc_orb_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Magmus Stone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat7-->+7 Stamina</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><br>+15 Fire Resistance<!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->53<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">31</span> <span class=\"moneycopper\">62</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Magmus</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 21.10%</div></td></tr></table>",
+  "url": "/item=11935/magmus-stone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_orb_05.jpg",
+  "id": "11935",
+  "slug": "magmus-stone"
+}

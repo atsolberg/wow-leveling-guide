@@ -1,0 +1,10 @@
+{
+  "name": "Magus Long Staff",
+  "quality": "Uncommon",
+  "icon": "inv_staff_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Magus Long Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->122 - 184 Damage</span></td>\n    <th>Speed <!--spd-->3.40</th>\n</tr></table><!--dps-->(45.00 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->53<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">52</span> <span class=\"moneycopper\">63</span></div></td></tr></table>",
+  "url": "/item=15276/magus-long-staff",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_14.jpg",
+  "id": "15276",
+  "slug": "magus-long-staff"
+}

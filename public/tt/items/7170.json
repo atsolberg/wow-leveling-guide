@@ -1,0 +1,10 @@
+{
+  "name": "Twain Random Sword FOO",
+  "quality": "Poor",
+  "icon": "inv_sword_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Twain Random Sword FOO</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->50 - 100 Damage</span></td>\n    <th>Speed <!--spd-->0.50</th>\n</tr></table><!--dps-->(150.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">92</span></div></td></tr></table>",
+  "url": "/item=7170/twain-random-sword-foo",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_03.jpg",
+  "id": "7170",
+  "slug": "twain-random-sword-foo"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Bloodpike",
+  "quality": "Rare",
+  "icon": "inv_spear_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Bloodpike</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->28</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:6--><span class=\"q1\">Polearm</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->59 - 89 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(23.13 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 95 / 95</td></tr></table><table><tr><td>Requires Level <!--rlvl-->23<br><span class=\"q2\">Chance on hit: <a href=\"/spell=18202\" class=\"q2\">Wounds the target causing them to bleed for 110 damage over 30 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">53</span> <span class=\"moneycopper\">82</span></div></td></tr></table>",
+  "url": "/item=13057/bloodpike",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_spear_02.jpg",
+  "id": "13057",
+  "slug": "bloodpike"
+}

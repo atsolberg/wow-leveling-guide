@@ -1,0 +1,10 @@
+{
+  "name": "Miner's Hat of the Deep",
+  "quality": "Rare",
+  "icon": "inv_helmet_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Miner's Hat of the Deep</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->44</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->52 Armor</span><br><span><!--stat3-->+4 Agility</span><br><span><!--stat5-->+17 Intellect</span><br><span><!--stat7-->+7 Stamina</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->39<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">52</span> <span class=\"moneycopper\">36</span></div></td></tr></table>",
+  "url": "/item=9429/miners-hat-of-the-deep",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_15.jpg",
+  "id": "9429",
+  "slug": "miners-hat-of-the-deep"
+}

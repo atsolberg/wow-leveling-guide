@@ -1,0 +1,10 @@
+{
+  "name": "Swiftwind",
+  "quality": "Rare",
+  "icon": "inv_weapon_crossbow_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Swiftwind</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:18--><span class=\"q1\">Crossbow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->34 - 51 Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(21.25 damage per second)<br><span><!--stat3-->+7 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">96</span> <span class=\"moneycopper\">30</span></div></td></tr></table>",
+  "url": "/item=13038/swiftwind",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_crossbow_04.jpg",
+  "id": "13038",
+  "slug": "swiftwind"
+}

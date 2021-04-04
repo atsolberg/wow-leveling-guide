@@ -1,0 +1,10 @@
+{
+  "name": "Conjured Spring Water",
+  "quality": "Common",
+  "icon": "inv_drink_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Conjured Spring Water</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><br />Conjured Item<!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->25<br><span class=\"q2\">Use: <a href=\"/spell=1133\" class=\"q2\">Restores 1344.6 mana over 27 sec. &nbsp;Must remain seated while drinking.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=3772/conjured-spring-water",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_10.jpg",
+  "id": "3772",
+  "slug": "conjured-spring-water"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "General Drakkisath's Command",
+  "quality": "Common",
+  "icon": "inv_letter_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">General Drakkisath's Command</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=5089\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Overlord Wyrmthalak</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 26.64%</div></td></tr></table>",
+  "url": "/item=12780/general-drakkisaths-command",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_17.jpg",
+  "id": "12780",
+  "slug": "general-drakkisaths-command"
+}

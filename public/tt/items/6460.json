@@ -1,0 +1,10 @@
+{
+  "name": "Cobrahn's Grasp",
+  "quality": "Rare",
+  "icon": "inv_belt_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Cobrahn's Grasp</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->111 Armor</span><br><span><!--stat4-->+8 Strength</span><br><span><!--stat3-->+3 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->19<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">44</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lord Cobrahn</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.03%</div></td></tr></table>",
+  "url": "/item=6460/cobrahns-grasp",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_03.jpg",
+  "id": "6460",
+  "slug": "cobrahns-grasp"
+}

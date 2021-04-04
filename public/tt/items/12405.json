@@ -1,0 +1,10 @@
+{
+  "name": "Thorium Armor",
+  "quality": "Uncommon",
+  "icon": "inv_chest_plate08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Thorium Armor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->480 Armor</span><!--ebstats--><!--egstats--><!--eistats--><br>+8 Arcane Resistance<br>+8 Fire Resistance<br>+8 Nature Resistance<br>+8 Frost Resistance<br>+8 Shadow Resistance<!--e--><!--ps--><br>Durability 115 / 115</td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">92</span> <span class=\"moneycopper\">39</span></div></td></tr></table>",
+  "url": "/item=12405/thorium-armor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_plate08.jpg",
+  "id": "12405",
+  "slug": "thorium-armor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Scooby Snack",
+  "quality": "Common",
+  "icon": "inv_misc_food_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Scooby Snack</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Scooby-dooby-doo!&quot;</span></td></tr></table>",
+  "url": "/item=8243/scooby-snack",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_27.jpg",
+  "id": "8243",
+  "slug": "scooby-snack"
+}

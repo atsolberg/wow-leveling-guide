@@ -1,0 +1,10 @@
+{
+  "name": "A Pretty Rock",
+  "quality": "Poor",
+  "icon": "inv_ore_copper_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">A Pretty Rock</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">37</span></div></td></tr></table>",
+  "url": "/item=5429/a-pretty-rock",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ore_copper_01.jpg",
+  "id": "5429",
+  "slug": "a-pretty-rock"
+}

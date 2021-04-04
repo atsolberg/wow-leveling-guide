@@ -1,0 +1,10 @@
+{
+  "name": "Sickly Looking Fish",
+  "quality": "Common",
+  "icon": "inv_misc_fish_28",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sickly Looking Fish</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=7737\" class=\"q2\">Restores 30 health over 15 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Gahz'ranka</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 3.75%</div></td></tr></table>",
+  "url": "/item=6299/sickly-looking-fish",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_28.jpg",
+  "id": "6299",
+  "slug": "sickly-looking-fish"
+}

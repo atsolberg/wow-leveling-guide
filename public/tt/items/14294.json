@@ -1,0 +1,10 @@
+{
+  "name": "Arachnidian Gloves",
+  "quality": "Uncommon",
+  "icon": "inv_gauntlets_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Arachnidian Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->51</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->41 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->46<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">52</span> <span class=\"moneycopper\">23</span></div></td></tr></table>",
+  "url": "/item=14294/arachnidian-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_15.jpg",
+  "id": "14294",
+  "slug": "arachnidian-gloves"
+}

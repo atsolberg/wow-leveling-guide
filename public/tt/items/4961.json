@@ -1,0 +1,10 @@
+{
+  "name": "Dreamwatcher Staff",
+  "quality": "Common",
+  "icon": "inv_staff_22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dreamwatcher Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->14 - 22 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(5.63 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">83</span></div></td></tr></table>",
+  "url": "/item=4961/dreamwatcher-staff",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_22.jpg",
+  "id": "4961",
+  "slug": "dreamwatcher-staff"
+}

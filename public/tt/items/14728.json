@@ -1,0 +1,10 @@
+{
+  "name": "War Paint Shoulder Pads",
+  "quality": "Common",
+  "icon": "inv_shoulder_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">War Paint Shoulder Pads</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->124 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">85</span></div></td></tr></table>",
+  "url": "/item=14728/war-paint-shoulder-pads",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_07.jpg",
+  "id": "14728",
+  "slug": "war-paint-shoulder-pads"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Scaled Sand Reaver Leggings",
+  "quality": "Epic",
+  "icon": "inv_pants_mail_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Scaled Sand Reaver Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->77</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->427 Armor</span><br><span><!--stat5-->+10 Intellect</span><br><span><!--stat7-->+23 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=15816\" class=\"q2\">+62 Attack Power.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=7598\" class=\"q2\">Improves your chance to get a critical strike by 2%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">8</span> <span class=\"moneysilver\">82</span> <span class=\"moneycopper\">79</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Fankriss the Unyielding</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 15.80%</div></td></tr></table>",
+  "url": "/item=21651/scaled-sand-reaver-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_mail_10.jpg",
+  "id": "21651",
+  "slug": "scaled-sand-reaver-leggings"
+}

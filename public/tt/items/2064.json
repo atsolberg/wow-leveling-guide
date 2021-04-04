@@ -1,0 +1,10 @@
+{
+  "name": "Trogg Club",
+  "quality": "Common",
+  "icon": "inv_hammer_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Trogg Club</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->6 - 13 Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(4.75 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">91</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Rockjaw Backbreaker</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 5.58%</div></td></tr></table>",
+  "url": "/item=2064/trogg-club",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_15.jpg",
+  "id": "2064",
+  "slug": "trogg-club"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Permanent Cerebral Cortex Compound",
+  "quality": "Common",
+  "icon": "inv_potion_32",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Permanent Cerebral Cortex Compound</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=30175\" class=\"q2\">Increases Intellect by 25 when consumed.</a></span><br><span class=\"q\">&quot;Best Served Chilled&quot;</span></td></tr></table>",
+  "url": "/item=23719/permanent-cerebral-cortex-compound",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_32.jpg",
+  "id": "23719",
+  "slug": "permanent-cerebral-cortex-compound"
+}

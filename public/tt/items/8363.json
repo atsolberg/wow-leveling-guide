@@ -1,0 +1,10 @@
+{
+  "name": "Shaman Voodoo Charm",
+  "quality": "Common",
+  "icon": "inv_belt_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Shaman Voodoo Charm</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Gnarlpine Shaman</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 7.97%</div></td></tr></table>",
+  "url": "/item=8363/shaman-voodoo-charm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_13.jpg",
+  "id": "8363",
+  "slug": "shaman-voodoo-charm"
+}

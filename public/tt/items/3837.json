@@ -1,0 +1,10 @@
+{
+  "name": "Golden Scale Coif",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_36",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Golden Scale Coif</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->38</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->181 Armor</span><br><span><!--stat4-->+10 Strength</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->33<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">44</span> <span class=\"moneycopper\">5</span></div></td></tr></table>",
+  "url": "/item=3837/golden-scale-coif",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_36.jpg",
+  "id": "3837",
+  "slug": "golden-scale-coif"
+}

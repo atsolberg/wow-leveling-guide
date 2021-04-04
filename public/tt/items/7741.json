@@ -1,0 +1,10 @@
+{
+  "name": "The Shaft of Tsol",
+  "quality": "Common",
+  "icon": "inv_staff_goldfeathered_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">The Shaft of Tsol</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=9595\" class=\"q2\">Attach to the Gni'kiv Medallion.</a></span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Revelosh</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 41.31%</div></td></tr></table>",
+  "url": "/item=7741/the-shaft-of-tsol",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_goldfeathered_01.jpg",
+  "id": "7741",
+  "slug": "the-shaft-of-tsol"
+}

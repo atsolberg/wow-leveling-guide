@@ -1,0 +1,11 @@
+{
+  "name": "Schematic: Goblin Jumper Cables",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Schematic: Goblin Jumper Cables</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->33</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (165)<br><span class=\"q2\">Use: <a href=\"/spell=9274\" class=\"q2\">Teaches you how to make Goblin Jumper Cables.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Mekgineer Thermaplugg</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 0.20%</div><br /><span class=\"q1\"><a href=\"/item=7148\">Goblin Jumper Cables</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps-->Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (165)<br><span class=\"q2\">Use: <a href=\"/spell=8342\" class=\"q2\">Jumper Cables will sometimes be able to shock a dead player back to life. &nbsp;Cannot be used when in combat.</a> (30 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">21</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=3575\">Iron Bar</a>&nbsp;(6), <a href=\"/item=4375\">Whirring Bronze Gizmo</a>&nbsp;(2), <a href=\"/item=814\">Flask of Oil</a>&nbsp;(2), <a href=\"/item=4306\">Silk Cloth</a>&nbsp;(2), <a href=\"/item=1210\">Shadowgem</a>&nbsp;(2), <a href=\"/item=7191\">Fused Wiring</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=7561/schematic-goblin-jumper-cables",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "7561",
+  "slug": "schematic-goblin-jumper-cables"
+}

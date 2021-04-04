@@ -1,0 +1,10 @@
+{
+  "name": "Willey's Portable Howitzer",
+  "quality": "Rare",
+  "icon": "inv_weapon_rifle_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Willey's Portable Howitzer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->63 - 118 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(31.21 damage per second)<br><span><!--stat7-->+9 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<br><span class=\"q2\">Equip: <a href=\"/spell=9139\" class=\"q2\">+8 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">84</span> <span class=\"moneycopper\">43</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Cannon Master Willey</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 19.55%</div></td></tr></table>",
+  "url": "/item=13380/willeys-portable-howitzer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_07.jpg",
+  "id": "13380",
+  "slug": "willeys-portable-howitzer"
+}

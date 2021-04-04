@@ -1,0 +1,10 @@
+{
+  "name": "Primal Hakkari Aegis",
+  "quality": "Epic",
+  "icon": "inv_chest_chain_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Primal Hakkari Aegis</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=3\" class=\"c3\">Hunter</a>, <a href=\"/class=4\" class=\"c4\">Rogue</a>, <a href=\"/class=5\" class=\"c5\">Priest</a></div></td></tr></table><table><tr><td><span class=\"q\">&quot;A legendary Paragon of Power from the old Gurubashi Empire.&quot;</span></td></tr></table>",
+  "url": "/item=19724/primal-hakkari-aegis",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_12.jpg",
+  "id": "19724",
+  "slug": "primal-hakkari-aegis"
+}

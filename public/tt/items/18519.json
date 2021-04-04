@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Shifting Cloak",
+  "quality": "Epic",
+  "icon": "inv_scroll_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Pattern: Shifting Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->62</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=165\" class=\"q1\">Leatherworking</a> (300)<br>Requires <a href=\"/spells=11.165.10658\" class=\"q1\">Elemental Leatherworking</a><br><span class=\"q2\">Use: <a href=\"/spell=22934\" class=\"q2\">Teaches you how to craft a Shifting Cloak.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span></div><br /><span class=\"q4\"><a href=\"/item=18511\">Shifting Cloak</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->48 Armor</span><br><span><!--stat3-->+17 Agility</span><br><span><!--stat7-->+8 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=13669\" class=\"q2\">Increases your chance to dodge an attack by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">71</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=8170\">Rugged Leather</a>&nbsp;(30), <a href=\"/item=7082\">Essence of Air</a>&nbsp;(12), <a href=\"/item=12753\">Skin of Shadow</a>&nbsp;(4), <a href=\"/item=12809\">Guardian Stone</a>&nbsp;(8), <a href=\"/item=15407\">Cured Rugged Hide</a>&nbsp;(4), <a href=\"/item=14341\">Rune Thread</a>&nbsp;(8)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=18519/pattern-shifting-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_04.jpg",
+  "id": "18519",
+  "slug": "pattern-shifting-cloak"
+}

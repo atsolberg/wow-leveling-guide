@@ -1,0 +1,10 @@
+{
+  "name": "Lard's Special Picnic Basket",
+  "quality": "Uncommon",
+  "icon": "inv_box_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Lard's Special Picnic Basket</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=19035/lards-special-picnic-basket",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_01.jpg",
+  "id": "19035",
+  "slug": "lards-special-picnic-basket"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Thaurissan Family Jewels",
+  "quality": "Common",
+  "icon": "inv_misc_bag_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Thaurissan Family Jewels</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q0\">Locked<br />Requires Lockpicking (275)</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Emperor Dagran Thaurissan</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 1.90%</div></td></tr></table>",
+  "url": "/item=12033/thaurissan-family-jewels",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_17.jpg",
+  "id": "12033",
+  "slug": "thaurissan-family-jewels"
+}

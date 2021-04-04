@@ -1,0 +1,10 @@
+{
+  "name": "Taran Icebreaker",
+  "quality": "Epic",
+  "icon": "inv_hammer_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Taran Icebreaker</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->52</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->91 - 137 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(49.57 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->47<br><span class=\"q2\">Chance on hit: <a href=\"/spell=16415\" class=\"q2\">Hurls a fiery ball that causes 180 to 220 Fire damage and an additional 36 damage over 8 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">52</span> <span class=\"moneycopper\">89</span></div></td></tr></table>",
+  "url": "/item=2915/taran-icebreaker",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_02.jpg",
+  "id": "2915",
+  "slug": "taran-icebreaker"
+}

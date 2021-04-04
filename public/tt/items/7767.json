@@ -1,0 +1,10 @@
+{
+  "name": "Empty Blue Waterskin",
+  "quality": "Common",
+  "icon": "inv_drink_waterskin_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Empty Blue Waterskin</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=9584\" class=\"q2\">This container should be filled with water from the Ruins of Stardust well.</a></span></td></tr></table>",
+  "url": "/item=7767/empty-blue-waterskin",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_waterskin_02.jpg",
+  "id": "7767",
+  "slug": "empty-blue-waterskin"
+}

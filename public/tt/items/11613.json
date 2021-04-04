@@ -1,0 +1,10 @@
+{
+  "name": "DEBUG Samophlange Manual Cover",
+  "quality": "Common",
+  "icon": "inv_misc_book_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">DEBUG Samophlange Manual Cover</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=15303\" class=\"q2\">Join the cover and 5 pages to create the Samophlange Manual.</a></span></td></tr></table>",
+  "url": "/item=11613/debug-samophlange-manual-cover",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_03.jpg",
+  "id": "11613",
+  "slug": "debug-samophlange-manual-cover"
+}

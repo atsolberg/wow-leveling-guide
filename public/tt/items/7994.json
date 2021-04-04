@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Orcish War Leggings",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Plans: Orcish War Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->46</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (230)<br><span class=\"q2\">Use: <a href=\"/spell=9958\" class=\"q2\">Teaches you how to make Orcish War Leggings.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span></div><br /><span class=\"q2\"><a href=\"/item=7929\">Orcish War Leggings</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->42</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->208 Armor</span><br><span><!--stat4-->+17 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75<br>Requires Level <!--rlvl-->37<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">77</span> <span class=\"moneycopper\">39</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=3860\">Mithril Bar</a>&nbsp;(12), <a href=\"/item=7067\">Elemental Earth</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=7994/plans-orcish-war-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "7994",
+  "slug": "plans-orcish-war-leggings"
+}

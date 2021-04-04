@@ -1,0 +1,10 @@
+{
+  "name": "Standard Scope",
+  "quality": "Common",
+  "icon": "inv_misc_spyglass_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Standard Scope</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->22</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<br><span class=\"q2\">Use: <a href=\"/spell=3975\" class=\"q2\">Attaches a permanent scope to a bow or gun that increases its damage by 2.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span></div></td></tr></table>",
+  "url": "/item=4406/standard-scope",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_02.jpg",
+  "id": "4406",
+  "slug": "standard-scope"
+}

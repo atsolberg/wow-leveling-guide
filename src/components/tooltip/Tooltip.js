@@ -1,39 +1,23 @@
-import { bool, object, oneOf, shape, string } from 'prop-types';
-import React, { useEffect, useLayoutEffect, useRef, useState } from 'react';
+import { bool, object, shape, string } from 'prop-types';
+import React, { useEffect, useRef } from 'react';
 import cx from 'classnames';
 
-import { Types } from '../../utils/constants';
 import usePrevious from '../../hooks/usePrevious';
 import WowIcon from '../icons/wow-icon/WowIcon';
 
 import styles from './styles';
 
 Tooltip.propTypes = {
-  content: string,
   active: bool,
+  target: object,
   data: shape({
-    target: object,
-    type: oneOf(Types),
-    id: string,
+    icon: string.isRequired,
+    tooltip: string.isRequired,
   }),
 };
-function Tooltip({ content, active, data }) {
+function Tooltip({ target, active, data }) {
   const ref = useRef();
-  const [icons, setIcons] = useState({});
-  const { target, type, id } = data;
   const previousTarget = usePrevious(target);
-
-  // Add icon from content script data
-  useLayoutEffect(() => {
-    const key = `${type}_${id}`;
-    if (content && !icons[key]) {
-      const script = ref.current.querySelector('script');
-      const data = JSON.parse(script.innerHTML);
-      const parts = data.image.split('/');
-      const name = parts[parts.length - 1].replaceAll('_', '-');
-      setIcons({ ...icons, [key]: name });
-    }
-  }, [content, icons, type, id]);
 
   // Add track mouse movement
   useEffect(() => {
@@ -59,7 +43,7 @@ function Tooltip({ content, active, data }) {
     return cleaup;
   }, [active, target, previousTarget]);
 
-  const icon = icons[`${type}_${id}`];
+  const icon = data?.icon;
 
   return (
     <div ref={ref} css={styles} className={cx('tt-container', { active })}>
@@ -68,7 +52,10 @@ function Tooltip({ content, active, data }) {
           <WowIcon name={icon} size="lg" />
         </div>
       )}
-      <div className="tt wh-tt" dangerouslySetInnerHTML={{ __html: content }} />
+      <div
+        className="tt wh-tt"
+        dangerouslySetInnerHTML={{ __html: data?.tooltip }}
+      />
     </div>
   );
 }

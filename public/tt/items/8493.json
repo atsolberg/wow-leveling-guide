@@ -1,0 +1,10 @@
+{
+  "name": "Weegli's Barrel",
+  "quality": "Common",
+  "icon": "inv_cask_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Weegli's Barrel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=10772\" class=\"q2\">Place near the Troll Door.</a></span></td></tr></table>",
+  "url": "/item=8493/weeglis-barrel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_cask_01.jpg",
+  "id": "8493",
+  "slug": "weeglis-barrel"
+}

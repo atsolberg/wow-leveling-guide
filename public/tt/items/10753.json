@@ -1,0 +1,10 @@
+{
+  "name": "Amulet of Grol",
+  "quality": "Common",
+  "icon": "inv_jewelry_amulet_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Amulet of Grol</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Once worn by Grol the Destroyer.&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Grol the Destroyer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 90.46%</div></td></tr></table>",
+  "url": "/item=10753/amulet-of-grol",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_amulet_02.jpg",
+  "id": "10753",
+  "slug": "amulet-of-grol"
+}

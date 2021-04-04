@@ -1,0 +1,10 @@
+{
+  "name": "Idol of the Moon",
+  "quality": "Rare",
+  "icon": "inv_relics_idolofrejuvenation",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Idol of the Moon</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when equipped<br />Unique<table width=\"100%\"><tr><td>Relic</td><th><!--scstart4:8--><span class=\"q1\">Idol</span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=28854\" class=\"q2\">Increases the damage of your Moonfire spell by up to 17%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">87</span> <span class=\"moneycopper\">17</span></div></td></tr></table>",
+  "url": "/item=23197/idol-of-the-moon",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_relics_idolofrejuvenation.jpg",
+  "id": "23197",
+  "slug": "idol-of-the-moon"
+}

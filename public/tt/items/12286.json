@@ -1,0 +1,10 @@
+{
+  "name": "Eggscilloscope Prototype",
+  "quality": "Common",
+  "icon": "inv_gizmo_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Eggscilloscope Prototype</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=16028\" class=\"q2\">Use on a Rookery Egg, then return to Tinkee.</a> (3 Sec Cooldown)</span></td></tr></table>",
+  "url": "/item=12286/eggscilloscope-prototype",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_09.jpg",
+  "id": "12286",
+  "slug": "eggscilloscope-prototype"
+}

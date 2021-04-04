@@ -1,0 +1,10 @@
+{
+  "name": "Ruined Tome",
+  "quality": "Common",
+  "icon": "inv_misc_book_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ruined Tome</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;An old, worthless tome.&quot;</span></td></tr></table>",
+  "url": "/item=15696/ruined-tome",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_03.jpg",
+  "id": "15696",
+  "slug": "ruined-tome"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Gloom Wand",
+  "quality": "Common",
+  "icon": "inv_staff_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gloom Wand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->18 - 34 Shadow Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(14.44 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">71</span></div></td></tr></table>",
+  "url": "/item=5209/gloom-wand",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_02.jpg",
+  "id": "5209",
+  "slug": "gloom-wand"
+}

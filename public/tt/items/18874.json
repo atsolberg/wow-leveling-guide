@@ -1,0 +1,10 @@
+{
+  "name": "High Warlord's War Staff",
+  "quality": "Epic",
+  "icon": "inv_misc_bone_elfskull_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">High Warlord's War Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->78</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->131 - 225 Damage</span></td>\n    <th>Speed <!--spd-->3.00</th>\n</tr></table><!--dps-->(59.33 damage per second)<br><span><!--stat5-->+23 Intellect</span><br><span><!--stat7-->+41 Stamina</span><br><span><!--stat6-->+17 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br>Requires <span class=\"icon-horde\">High Warlord</span> <span class=\"icon-alliance\">Grand Marshal</span><br><span class=\"q2\">Equip: <a href=\"/spell=23929\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 71.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">96</span> <span class=\"moneycopper\">81</span></div></td></tr></table>",
+  "url": "/item=18874/high-warlords-war-staff",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_elfskull_01.jpg",
+  "id": "18874",
+  "slug": "high-warlords-war-staff"
+}

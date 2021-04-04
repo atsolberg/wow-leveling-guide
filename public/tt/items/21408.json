@@ -1,0 +1,10 @@
+{
+  "name": "Band of Unending Life",
+  "quality": "Epic",
+  "icon": "inv_jewelry_ring_ahnqiraj_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Band of Unending Life</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat4-->+10 Strength</span><br><span><!--stat3-->+10 Agility</span><br><span><!--stat5-->+8 Intellect</span><br><span><!--stat7-->+9 Stamina</span><br><span><!--stat6-->+7 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=21363\" class=\"q2\">Restores 5 mana per 5 sec.</a></span><!--itemEffects:1--><br /><br /><span class=\"q\"><a href=\"/item-set=494\" class=\"q\">Symbols of Unending Life</a> (0/3)</span><div class=\"q0 indent\"><span><!--si21408--><a href=\"/item=21408\">Band of Unending Life</a></span><br /><span><!--si21409--><a href=\"/item=21409\">Cloak of Unending Life</a></span><br /><span><!--si21407--><a href=\"/item=21407\">Mace of Unending Life</a></span></div><br /><span class=\"q0\"><span>(3) Set : <a href=\"/spell=26107\">Your finishing moves now refund 30 energy on a Miss, Dodge, Block, or Parry.</a></span></span></td></tr></table>",
+  "url": "/item=21408/band-of-unending-life",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_ring_ahnqiraj_03.jpg",
+  "id": "21408",
+  "slug": "band-of-unending-life"
+}

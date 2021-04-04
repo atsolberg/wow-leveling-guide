@@ -1,0 +1,10 @@
+{
+  "name": "Scavenger Tunic",
+  "quality": "Common",
+  "icon": "inv_chest_leather_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Scavenger Tunic</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->33 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=11851/scavenger-tunic",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_leather_03.jpg",
+  "id": "11851",
+  "slug": "scavenger-tunic"
+}

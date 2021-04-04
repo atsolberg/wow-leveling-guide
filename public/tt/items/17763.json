@@ -1,0 +1,10 @@
+{
+  "name": "Gem of the Third Khan",
+  "quality": "Common",
+  "icon": "inv_misc_gem_topaz_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gem of the Third Khan</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=21957\" class=\"q2\">Places all five of the Khans' gems in the Amulet of Spirits.</a></span><br><span class=\"q\">&quot;Found on the body of Magra...&quot;</span></td></tr></table>",
+  "url": "/item=17763/gem-of-the-third-khan",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_topaz_01.jpg",
+  "id": "17763",
+  "slug": "gem-of-the-third-khan"
+}

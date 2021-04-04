@@ -1,0 +1,10 @@
+{
+  "name": "Bloodspattered Shoulder Pads",
+  "quality": "Common",
+  "icon": "inv_shoulder_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bloodspattered Shoulder Pads</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->122 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">61</span></div></td></tr></table>",
+  "url": "/item=15496/bloodspattered-shoulder-pads",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_23.jpg",
+  "id": "15496",
+  "slug": "bloodspattered-shoulder-pads"
+}

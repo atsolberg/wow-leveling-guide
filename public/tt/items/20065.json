@@ -1,0 +1,10 @@
+{
+  "name": "Arathi Basin Mageweave Bandage",
+  "quality": "Common",
+  "icon": "inv_misc_bandage_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Arathi Basin Mageweave Bandage</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<br>Requires <a href=\"/skill=129\" class=\"q1\">First Aid</a> (175)<br><span class=\"q2\">Use: <a href=\"/spell=24413\" class=\"q2\">Heals 1104 damage over 8 sec. &nbsp;Usable only inside Arathi Basin.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=20065/arathi-basin-mageweave-bandage",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bandage_20.jpg",
+  "id": "20065",
+  "slug": "arathi-basin-mageweave-bandage"
+}

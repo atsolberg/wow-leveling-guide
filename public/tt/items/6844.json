@@ -1,0 +1,10 @@
+{
+  "name": "Burning Blood",
+  "quality": "Common",
+  "icon": "inv_drink_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Burning Blood</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=6844/burning-blood",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_02.jpg",
+  "id": "6844",
+  "slug": "burning-blood"
+}

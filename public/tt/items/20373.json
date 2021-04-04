@@ -1,0 +1,10 @@
+{
+  "name": "Stonelash Scorpid Stinger",
+  "quality": "Common",
+  "icon": "spell_nature_nullifypoison",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Stonelash Scorpid Stinger</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Stonelash Scorpid</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.23%</div></td></tr></table>",
+  "url": "/item=20373/stonelash-scorpid-stinger",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_nullifypoison.jpg",
+  "id": "20373",
+  "slug": "stonelash-scorpid-stinger"
+}

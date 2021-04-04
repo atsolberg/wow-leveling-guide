@@ -1,0 +1,10 @@
+{
+  "name": "Iridescent Scale Leggings",
+  "quality": "Uncommon",
+  "icon": "inv_pants_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Iridescent Scale Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->217 Armor</span><!--ebstats--><!--egstats--><!--eistats--><br>+13 Fire Resistance<br>+13 Frost Resistance<!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">76</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Scale Belly</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 69.58%</div></td></tr></table>",
+  "url": "/item=4478/iridescent-scale-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_03.jpg",
+  "id": "4478",
+  "slug": "iridescent-scale-leggings"
+}

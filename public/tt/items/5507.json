@@ -1,0 +1,10 @@
+{
+  "name": "Ornate Spyglass",
+  "quality": "Common",
+  "icon": "inv_misc_spyglass_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ornate Spyglass</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->27</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=12883\" class=\"q2\">Allows you to look far into the distance.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span></div></td></tr></table>",
+  "url": "/item=5507/ornate-spyglass",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_spyglass_01.jpg",
+  "id": "5507",
+  "slug": "ornate-spyglass"
+}

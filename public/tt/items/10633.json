@@ -1,0 +1,10 @@
+{
+  "name": "Silvershell Leggings",
+  "quality": "Rare",
+  "icon": "inv_pants_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Silvershell Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->51</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->470 Armor</span><br><span><!--stat4-->+20 Strength</span><br><span><!--stat7-->+12 Stamina</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->46<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">84</span></div></td></tr></table>",
+  "url": "/item=10633/silvershell-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_04.jpg",
+  "id": "10633",
+  "slug": "silvershell-leggings"
+}

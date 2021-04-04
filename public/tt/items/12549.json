@@ -1,0 +1,10 @@
+{
+  "name": "Braincage",
+  "quality": "Rare",
+  "icon": "inv_helmet_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Braincage</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->52</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->253 Armor</span><br><span><!--stat5-->+25 Intellect</span><br><span><!--stat7-->+5 Stamina</span><br><span><!--stat6-->+9 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->47<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">36</span> <span class=\"moneycopper\">69</span></div></td></tr></table>",
+  "url": "/item=12549/braincage",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_10.jpg",
+  "id": "12549",
+  "slug": "braincage"
+}

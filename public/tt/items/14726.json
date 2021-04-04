@@ -1,0 +1,10 @@
+{
+  "name": "War Paint Gloves",
+  "quality": "Uncommon",
+  "icon": "inv_gauntlets_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">War Paint Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->101 Armor</span><br><span><!--stat4-->+3 Strength</span><br><span><!--stat7-->+1 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->13<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">37</span></div></td></tr></table>",
+  "url": "/item=14726/war-paint-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_12.jpg",
+  "id": "14726",
+  "slug": "war-paint-gloves"
+}

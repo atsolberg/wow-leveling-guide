@@ -1,0 +1,10 @@
+{
+  "name": "Crystal Charge",
+  "quality": "Common",
+  "icon": "inv_misc_gem_opal_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Crystal Charge</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=15239\" class=\"q2\">Inflicts 383 to 517 fire damage to targets in a 3 yard radius.</a> (1 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div></td></tr></table>",
+  "url": "/item=11566/crystal-charge",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_opal_01.jpg",
+  "id": "11566",
+  "slug": "crystal-charge"
+}

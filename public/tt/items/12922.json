@@ -1,0 +1,10 @@
+{
+  "name": "Empty Canteen",
+  "quality": "Common",
+  "icon": "inv_drink_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Empty Canteen</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=17161\" class=\"q2\">This container should be filled with water from the corrupt moon well in Jaedenar.</a></span></td></tr></table>",
+  "url": "/item=12922/empty-canteen",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_01.jpg",
+  "id": "12922",
+  "slug": "empty-canteen"
+}

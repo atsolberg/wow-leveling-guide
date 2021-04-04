@@ -1,0 +1,10 @@
+{
+  "name": "Emberplate Armguards",
+  "quality": "Rare",
+  "icon": "inv_bracer_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Emberplate Armguards</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->261 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Fire Resistance<!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">86</span> <span class=\"moneycopper\">37</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lord Incendius</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 13.45%</div></td></tr></table>",
+  "url": "/item=11767/emberplate-armguards",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_18.jpg",
+  "id": "11767",
+  "slug": "emberplate-armguards"
+}

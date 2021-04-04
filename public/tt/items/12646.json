@@ -1,0 +1,10 @@
+{
+  "name": "Infus Emerald",
+  "quality": "Common",
+  "icon": "inv_misc_gem_emerald_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Infus Emerald</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=16628\" class=\"q2\">Captures the spirit of an Infernal to be used in the creation of a warlockian orb.</a></span></td></tr></table>",
+  "url": "/item=12646/infus-emerald",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_emerald_02.jpg",
+  "id": "12646",
+  "slug": "infus-emerald"
+}

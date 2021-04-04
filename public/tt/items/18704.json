@@ -1,0 +1,10 @@
+{
+  "name": "Mature Blue Dragon Sinew",
+  "quality": "Epic",
+  "icon": "inv_misc_bandage_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Mature Blue Dragon Sinew</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->71</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60</td></tr></table>",
+  "url": "/item=18704/mature-blue-dragon-sinew",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bandage_04.jpg",
+  "id": "18704",
+  "slug": "mature-blue-dragon-sinew"
+}

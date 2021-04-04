@@ -1,0 +1,10 @@
+{
+  "name": "Warstrike Helmet",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Warstrike Helmet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->274 Armor</span><br><span><!--stat3-->+10 Agility</span><br><span><!--stat5-->+3 Intellect</span><br><span><!--stat7-->+23 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">15</span> <span class=\"moneycopper\">93</span></div></td></tr></table>",
+  "url": "/item=14814/warstrike-helmet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_10.jpg",
+  "id": "14814",
+  "slug": "warstrike-helmet"
+}

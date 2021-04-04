@@ -1,0 +1,11 @@
+{
+  "name": "Brown Snake",
+  "quality": "Common",
+  "icon": "spell_nature_guardianward",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Brown Snake</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><br />Binds when used<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=10716\" class=\"q2\">Right Click to summon and dismiss your snake.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "completion_category": "15-2",
+  "url": "/item=10361/brown-snake",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_guardianward.jpg",
+  "id": "10361",
+  "slug": "brown-snake"
+}

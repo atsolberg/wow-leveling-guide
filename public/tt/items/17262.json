@@ -1,0 +1,10 @@
+{
+  "name": "James' Key",
+  "quality": "Common",
+  "icon": "inv_misc_key_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">James' Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Opens the stolen chest from the Cathedral of Light&quot;</span></td></tr></table>",
+  "url": "/item=17262/james-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_06.jpg",
+  "id": "17262",
+  "slug": "james-key"
+}

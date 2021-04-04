@@ -1,0 +1,10 @@
+{
+  "name": "Perenolde Tiara",
+  "quality": "Common",
+  "icon": "inv_crown_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Perenolde Tiara</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Grel'borg the Miser</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 37.50%</div></td></tr></table>",
+  "url": "/item=3684/perenolde-tiara",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crown_01.jpg",
+  "id": "3684",
+  "slug": "perenolde-tiara"
+}

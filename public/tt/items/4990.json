@@ -1,0 +1,10 @@
+{
+  "name": "Scorched Bands",
+  "quality": "Uncommon",
+  "icon": "inv_bracer_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Scorched Bands</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->29 Armor</span><br><span><!--stat5-->+8 Intellect</span><br><span><!--stat7-->+8 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">45</span> <span class=\"moneycopper\">46</span></div></td></tr></table>",
+  "url": "/item=4990/scorched-bands",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_17.jpg",
+  "id": "4990",
+  "slug": "scorched-bands"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Belt of the Sand Reaver",
+  "quality": "Rare",
+  "icon": "inv_belt_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Belt of the Sand Reaver</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->71</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->494 Armor</span><br><span><!--stat4-->+17 Strength</span><br><span><!--stat7-->+18 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=7518\" class=\"q2\">Increased Defense +5.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">63</span> <span class=\"moneycopper\">34</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Kurinnaxx</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.82%</div></td></tr></table>",
+  "url": "/item=21503/belt-of-the-sand-reaver",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_13.jpg",
+  "id": "21503",
+  "slug": "belt-of-the-sand-reaver"
+}

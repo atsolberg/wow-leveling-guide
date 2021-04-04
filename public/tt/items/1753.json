@@ -1,0 +1,10 @@
+{
+  "name": "Linked Chain Vest",
+  "quality": "Poor",
+  "icon": "inv_chest_chain",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Linked Chain Vest</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->156 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">39</span></div></td></tr></table>",
+  "url": "/item=1753/linked-chain-vest",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain.jpg",
+  "id": "1753",
+  "slug": "linked-chain-vest"
+}

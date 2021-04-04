@@ -1,0 +1,10 @@
+{
+  "name": "Shadoweave Mask",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Shadoweave Mask</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->49</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->52 Armor</span><br><span><!--stat5-->+10 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->44<br><span class=\"q2\">Equip: <a href=\"/spell=14794\" class=\"q2\">Increases damage done by Shadow spells and effects by up to 24.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">67</span> <span class=\"moneycopper\">90</span></div></td></tr></table>",
+  "url": "/item=10025/shadoweave-mask",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_27.jpg",
+  "id": "10025",
+  "slug": "shadoweave-mask"
+}

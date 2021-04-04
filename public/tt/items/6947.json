@@ -1,0 +1,10 @@
+{
+  "name": "Instant Poison",
+  "quality": "Common",
+  "icon": "ability_poisons",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Instant Poison</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=4\" class=\"c4\">Rogue</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<br><span class=\"q2\">Use: <a href=\"/spell=8679\" class=\"q2\">Coats a weapon with poison that lasts for 30 minutes.<br />Each strike has a 20% chance of poisoning the enemy which instantly inflicts 19 to 25 Nature damage. &nbsp;40 charges.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">5</span></div></td></tr></table>",
+  "url": "/item=6947/instant-poison",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_poisons.jpg",
+  "id": "6947",
+  "slug": "instant-poison"
+}

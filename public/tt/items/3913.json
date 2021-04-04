@@ -1,0 +1,10 @@
+{
+  "name": "Filled Soul Gem",
+  "quality": "Common",
+  "icon": "inv_misc_orb_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Filled Soul Gem</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;A glowing gem filled with the soul of Yenniku.&quot;</span></td></tr></table>",
+  "url": "/item=3913/filled-soul-gem",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_orb_03.jpg",
+  "id": "3913",
+  "slug": "filled-soul-gem"
+}

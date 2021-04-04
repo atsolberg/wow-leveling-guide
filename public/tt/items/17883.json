@@ -1,0 +1,10 @@
+{
+  "name": "QAEnchant Chest +100 Mana",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QAEnchant Chest +100 Mana</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=22090\" class=\"q2\">Permanently enchant a piece of chest armor to give +100 mana.</a></span></td></tr></table>",
+  "url": "/item=17883/qaenchant-chest-100-mana",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "17883",
+  "slug": "qaenchant-chest-100-mana"
+}

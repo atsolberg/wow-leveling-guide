@@ -1,0 +1,10 @@
+{
+  "name": "Fiery Plate Gauntlets",
+  "quality": "Rare",
+  "icon": "inv_gauntlets_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Fiery Plate Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->379 Armor</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Fire Resistance<!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->53<br><span class=\"q2\">Equip: <a href=\"/spell=7721\" class=\"q2\">Adds 4 fire damage to your weapon attack.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">89</span> <span class=\"moneycopper\">19</span></div></td></tr></table>",
+  "url": "/item=12631/fiery-plate-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_03.jpg",
+  "id": "12631",
+  "slug": "fiery-plate-gauntlets"
+}

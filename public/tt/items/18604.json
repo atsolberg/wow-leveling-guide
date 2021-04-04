@@ -1,0 +1,10 @@
+{
+  "name": "Tears of the Hederine",
+  "quality": "Common",
+  "icon": "inv_misc_gem_amethyst_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tears of the Hederine</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div></td></tr></table>",
+  "url": "/item=18604/tears-of-the-hederine",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_amethyst_03.jpg",
+  "id": "18604",
+  "slug": "tears-of-the-hederine"
+}

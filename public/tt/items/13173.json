@@ -1,0 +1,10 @@
+{
+  "name": "Flightblade Throwing Axe",
+  "quality": "Rare",
+  "icon": "inv_throwingaxe_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Flightblade Throwing Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Thrown</td><th><!--scstart2:16--><span class=\"q1\">Thrown</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->54 - 102 Frost Damage</span></td>\n    <th>Speed <!--spd-->2.20</th>\n</tr></table><!--dps-->(35.45 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<!--itemEffects:1--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">11</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: War Master Voone</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 91.39%</div></td></tr></table>",
+  "url": "/item=13173/flightblade-throwing-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_throwingaxe_06.jpg",
+  "id": "13173",
+  "slug": "flightblade-throwing-axe"
+}

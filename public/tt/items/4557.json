@@ -1,0 +1,10 @@
+{
+  "name": "Fiery Gland",
+  "quality": "Poor",
+  "icon": "spell_fire_flameshock",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Fiery Gland</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=4557/fiery-gland",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_fire_flameshock.jpg",
+  "id": "4557",
+  "slug": "fiery-gland"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Manacle Cuffs",
+  "quality": "Rare",
+  "icon": "inv_bracer_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Manacle Cuffs</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->34 Armor</span><br><span><!--stat5-->+15 Intellect</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">79</span> <span class=\"moneycopper\">39</span></div></td></tr></table>",
+  "url": "/item=11962/manacle-cuffs",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_13.jpg",
+  "id": "11962",
+  "slug": "manacle-cuffs"
+}

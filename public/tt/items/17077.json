@@ -1,0 +1,10 @@
+{
+  "name": "Crimson Shocker",
+  "quality": "Epic",
+  "icon": "inv_staff_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Crimson Shocker</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->102 - 191 Fire Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(73.25 damage per second)<br><span><!--stat5-->+10 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Fire Resistance<!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">97</span> <span class=\"moneycopper\">41</span></div></td></tr></table>",
+  "url": "/item=17077/crimson-shocker",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_13.jpg",
+  "id": "17077",
+  "slug": "crimson-shocker"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Elixir of Frost Power",
+  "quality": "Common",
+  "icon": "inv_potion_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Elixir of Frost Power</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->38</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->28<br><span class=\"q2\">Use: <a href=\"/spell=21920\" class=\"q2\">Increases spell frost damage by up to 15 for 30 min.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">35</span></div></td></tr></table>",
+  "url": "/item=17708/elixir-of-frost-power",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_03.jpg",
+  "id": "17708",
+  "slug": "elixir-of-frost-power"
+}

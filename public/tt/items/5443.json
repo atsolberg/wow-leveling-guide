@@ -1,0 +1,10 @@
+{
+  "name": "Gold-plated Buckler",
+  "quality": "Rare",
+  "icon": "inv_shield_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Gold-plated Buckler</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->471 Armor</span><br>9 Block<br><span><!--stat3-->+2 Agility</span><br><span><!--stat7-->+5 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span> <span class=\"moneycopper\">67</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Miner Johnson</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 41.06%</div></td></tr></table>",
+  "url": "/item=5443/gold-plated-buckler",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_02.jpg",
+  "id": "5443",
+  "slug": "gold-plated-buckler"
+}

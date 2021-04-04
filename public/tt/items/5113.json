@@ -1,0 +1,10 @@
+{
+  "name": "Mark of the Syndicate",
+  "quality": "Poor",
+  "icon": "inv_jewelry_talisman_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Mark of the Syndicate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=5113/mark-of-the-syndicate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_05.jpg",
+  "id": "5113",
+  "slug": "mark-of-the-syndicate"
+}

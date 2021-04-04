@@ -1,0 +1,10 @@
+{
+  "name": "Worn Dragonscale",
+  "quality": "Common",
+  "icon": "inv_misc_monsterscales_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Worn Dragonscale</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div></td></tr></table>",
+  "url": "/item=8165/worn-dragonscale",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_17.jpg",
+  "id": "8165",
+  "slug": "worn-dragonscale"
+}

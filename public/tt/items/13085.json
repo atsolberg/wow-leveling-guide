@@ -1,0 +1,10 @@
+{
+  "name": "Horizon Choker",
+  "quality": "Rare",
+  "icon": "inv_jewelry_necklace_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Horizon Choker</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->51</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat5-->+14 Intellect</span><br><span><!--stat7-->+4 Stamina</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->46<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">91</span> <span class=\"moneycopper\">37</span></div></td></tr></table>",
+  "url": "/item=13085/horizon-choker",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_11.jpg",
+  "id": "13085",
+  "slug": "horizon-choker"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Pratt's Letter",
+  "quality": "Common",
+  "icon": "inv_letter_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pratt's Letter</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=9235/pratts-letter",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_05.jpg",
+  "id": "9235",
+  "slug": "pratts-letter"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Conjurer's Gloves",
+  "quality": "Uncommon",
+  "icon": "inv_gauntlets_22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Conjurer's Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->30 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->31<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span> <span class=\"moneycopper\">84</span></div></td></tr></table>",
+  "url": "/item=9848/conjurers-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_22.jpg",
+  "id": "9848",
+  "slug": "conjurers-gloves"
+}

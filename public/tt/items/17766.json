@@ -1,0 +1,10 @@
+{
+  "name": "Princess Theradras' Scepter",
+  "quality": "Rare",
+  "icon": "inv_hammer_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Princess Theradras' Scepter</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->54</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->126 - 190 Damage</span></td>\n    <th>Speed <!--spd-->3.40</th>\n</tr></table><!--dps-->(46.47 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->49<br><span class=\"q2\">Chance on hit: <a href=\"/spell=21961\" class=\"q2\">Wounds the target for 160 damage and lowers their armor by 100.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">48</span> <span class=\"moneycopper\">63</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Princess Theradras</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 19.62%</div></td></tr></table>",
+  "url": "/item=17766/princess-theradras-scepter",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_10.jpg",
+  "id": "17766",
+  "slug": "princess-theradras-scepter"
+}

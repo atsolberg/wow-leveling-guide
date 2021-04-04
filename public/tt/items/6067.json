@@ -1,0 +1,10 @@
+{
+  "name": "Centaur Ear",
+  "quality": "Common",
+  "icon": "inv_misc_ear_human_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Centaur Ear</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=6067/centaur-ear",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_ear_human_02.jpg",
+  "id": "6067",
+  "slug": "centaur-ear"
+}

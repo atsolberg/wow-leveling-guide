@@ -1,0 +1,10 @@
+{
+  "name": "Gnoll Hide Sack",
+  "quality": "Common",
+  "icon": "inv_misc_bag_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gnoll Hide Sack</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />Unique<br />8 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">12</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Fedfennel</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 65.11%</div></td></tr></table>",
+  "url": "/item=3233/gnoll-hide-sack",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_01.jpg",
+  "id": "3233",
+  "slug": "gnoll-hide-sack"
+}

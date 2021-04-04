@@ -1,0 +1,10 @@
+{
+  "name": "Long Redwood Bow",
+  "quality": "Uncommon",
+  "icon": "inv_weapon_bow_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Long Redwood Bow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->28 - 52 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(14.29 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">55</span> <span class=\"moneycopper\">68</span></div></td></tr></table>",
+  "url": "/item=15286/long-redwood-bow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_10.jpg",
+  "id": "15286",
+  "slug": "long-redwood-bow"
+}

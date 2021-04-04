@@ -1,0 +1,10 @@
+{
+  "name": "Durable Pants",
+  "quality": "Uncommon",
+  "icon": "inv_pants_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Durable Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->39 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->28<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">23</span> <span class=\"moneycopper\">55</span></div></td></tr></table>",
+  "url": "/item=9825/durable-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_09.jpg",
+  "id": "9825",
+  "slug": "durable-pants"
+}

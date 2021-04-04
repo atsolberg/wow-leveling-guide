@@ -1,0 +1,10 @@
+{
+  "name": "Fang of the Mystics",
+  "quality": "Epic",
+  "icon": "inv_weapon_shortblade_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Fang of the Mystics</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->39 - 86 Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(41.67 damage per second)<br><span><!--stat5-->+10 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=18384\" class=\"q2\">Improves your chance to get a critical strike with spells by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=21362\" class=\"q2\">Restores 4 mana per 5 sec.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=18056\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 40.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">10</span> <span class=\"moneysilver\">93</span> <span class=\"moneycopper\">7</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Azuregos</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 17.45%</div></td></tr></table>",
+  "url": "/item=17070/fang-of-the-mystics",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_06.jpg",
+  "id": "17070",
+  "slug": "fang-of-the-mystics"
+}

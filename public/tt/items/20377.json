@@ -1,0 +1,10 @@
+{
+  "name": "Rock Stalker Fang",
+  "quality": "Common",
+  "icon": "inv_misc_monsterfang_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rock Stalker Fang</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Rock Stalker</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 15.59%</div></td></tr></table>",
+  "url": "/item=20377/rock-stalker-fang",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterfang_01.jpg",
+  "id": "20377",
+  "slug": "rock-stalker-fang"
+}

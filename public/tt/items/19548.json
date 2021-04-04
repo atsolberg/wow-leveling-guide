@@ -1,0 +1,10 @@
+{
+  "name": "Sentinel's Blade",
+  "quality": "Rare",
+  "icon": "inv_weapon_shortblade_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Sentinel's Blade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->43</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->34 - 65 Damage</span></td>\n    <th>Speed <!--spd-->1.70</th>\n</tr></table><!--dps-->(29.12 damage per second)<br><span><!--stat3-->+8 Agility</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->38<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">63</span> <span class=\"moneycopper\">76</span></div></td></tr></table>",
+  "url": "/item=19548/sentinels-blade",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_14.jpg",
+  "id": "19548",
+  "slug": "sentinels-blade"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Scroll: Create Crest of Beckoning",
+  "quality": "Common",
+  "icon": "inv_scroll_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Scroll: Create Crest of Beckoning</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=24885\" class=\"q2\">Combine with 1 Rugged Leather and 1 Elemental Air to create a Crest of Beckoning: Thunder.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div></td></tr></table>",
+  "url": "/item=20526/scroll-create-crest-of-beckoning",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_02.jpg",
+  "id": "20526",
+  "slug": "scroll-create-crest-of-beckoning"
+}

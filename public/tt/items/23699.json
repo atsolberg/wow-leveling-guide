@@ -1,0 +1,10 @@
+{
+  "name": "[PH] Light Consumable [DEP]",
+  "quality": "Common",
+  "icon": "inv_summerfest_firespirit",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">[PH] Light Consumable [DEP]</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=23699/ph-light-consumable-dep",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_summerfest_firespirit.jpg",
+  "id": "23699",
+  "slug": "ph-light-consumable-dep"
+}

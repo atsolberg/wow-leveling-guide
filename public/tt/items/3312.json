@@ -1,0 +1,10 @@
+{
+  "name": "Ceremonial Leather Bracers",
+  "quality": "Common",
+  "icon": "inv_bracer_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ceremonial Leather Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->13</span><!--bo--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->27 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->8<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">70</span></div></td></tr></table>",
+  "url": "/item=3312/ceremonial-leather-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_08.jpg",
+  "id": "3312",
+  "slug": "ceremonial-leather-bracers"
+}

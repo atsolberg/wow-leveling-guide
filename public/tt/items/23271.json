@@ -1,0 +1,10 @@
+{
+  "name": "QATest Darkmoon Faire Tickets",
+  "quality": "Common",
+  "icon": "inv_box_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QATest Darkmoon Faire Tickets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span></div></td></tr></table>",
+  "url": "/item=23271/qatest-darkmoon-faire-tickets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_01.jpg",
+  "id": "23271",
+  "slug": "qatest-darkmoon-faire-tickets"
+}

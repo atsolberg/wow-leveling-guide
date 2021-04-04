@@ -1,0 +1,10 @@
+{
+  "name": "Clay Scarab",
+  "quality": "Uncommon",
+  "icon": "inv_scarab_clay",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Clay Scarab</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div></td></tr></table>",
+  "url": "/item=20863/clay-scarab",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scarab_clay.jpg",
+  "id": "20863",
+  "slug": "clay-scarab"
+}

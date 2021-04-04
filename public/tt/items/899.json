@@ -1,0 +1,10 @@
+{
+  "name": "Venom Web Fang",
+  "quality": "Uncommon",
+  "icon": "inv_misc_monsterfang_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Venom Web Fang</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->10 - 19 Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(9.67 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->14<br><span class=\"q2\">Chance on hit: <a href=\"/spell=18077\" class=\"q2\">Poisons target for 3 Nature damage every 3 sec for 15 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">48</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Venom Web Spider</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 1.09%</div></td></tr></table>",
+  "url": "/item=899/venom-web-fang",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterfang_01.jpg",
+  "id": "899",
+  "slug": "venom-web-fang"
+}

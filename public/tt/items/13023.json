@@ -1,0 +1,10 @@
+{
+  "name": "Eaglehorn Long Bow",
+  "quality": "Rare",
+  "icon": "inv_weapon_bow_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Eaglehorn Long Bow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->40 - 76 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(32.22 damage per second)<br><span><!--stat3-->+10 Agility</span><br><span><!--stat7-->+4 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">27</span> <span class=\"moneycopper\">3</span></div></td></tr></table>",
+  "url": "/item=13023/eaglehorn-long-bow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_11.jpg",
+  "id": "13023",
+  "slug": "eaglehorn-long-bow"
+}

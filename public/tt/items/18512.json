@@ -1,0 +1,10 @@
+{
+  "name": "Larval Acid",
+  "quality": "Common",
+  "icon": "inv_potion_22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Larval Acid</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">40</span></div></td></tr></table>",
+  "url": "/item=18512/larval-acid",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_22.jpg",
+  "id": "18512",
+  "slug": "larval-acid"
+}

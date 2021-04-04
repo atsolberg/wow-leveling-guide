@@ -1,0 +1,10 @@
+{
+  "name": "Strong Fishing Pole",
+  "quality": "Common",
+  "icon": "inv_fishingpole_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Strong Fishing Pole</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:20--><span class=\"q1\">Fishing Pole</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->13 - 21 Damage</span></td>\n    <th>Speed <!--spd-->3.00</th>\n</tr></table><!--dps-->(5.67 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<br>Requires <a href=\"/skill=356\" class=\"q1\">Fishing</a> (10)<br><span class=\"q2\">Equip: <a href=\"/spell=7823\" class=\"q2\">Increased Fishing +5.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">80</span></div></td></tr></table>",
+  "url": "/item=6365/strong-fishing-pole",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_fishingpole_02.jpg",
+  "id": "6365",
+  "slug": "strong-fishing-pole"
+}

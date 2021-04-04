@@ -1,0 +1,10 @@
+{
+  "name": "Crown of Will",
+  "quality": "Common",
+  "icon": "inv_crown_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Crown of Will</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Mug'thol</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 73.71%</div></td></tr></table>",
+  "url": "/item=3554/crown-of-will",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crown_02.jpg",
+  "id": "3554",
+  "slug": "crown-of-will"
+}

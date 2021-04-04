@@ -1,0 +1,10 @@
+{
+  "name": "Magical Book Binding",
+  "quality": "Common",
+  "icon": "inv_misc_bandage_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Magical Book Binding</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=25719\" class=\"q2\">Combine with Draconic For Dummies Chapters 1 - 8 to create Draconic for Dummies: Volume II.</a></span></td></tr></table>",
+  "url": "/item=21112/magical-book-binding",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bandage_16.jpg",
+  "id": "21112",
+  "slug": "magical-book-binding"
+}

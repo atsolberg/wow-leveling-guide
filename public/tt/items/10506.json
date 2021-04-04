@@ -1,0 +1,10 @@
+{
+  "name": "Deepdive Helmet",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_49",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Deepdive Helmet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->46</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->49 Armor</span><br><span><!--stat7-->+15 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (230)<br><span class=\"q2\">Equip: <a href=\"/spell=11789\" class=\"q2\">Allows underwater breathing.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">52</span> <span class=\"moneycopper\">27</span></div></td></tr></table>",
+  "url": "/item=10506/deepdive-helmet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_49.jpg",
+  "id": "10506",
+  "slug": "deepdive-helmet"
+}

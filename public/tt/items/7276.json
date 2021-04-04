@@ -1,0 +1,10 @@
+{
+  "name": "Handstitched Leather Cloak",
+  "quality": "Common",
+  "icon": "inv_helmet_48",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Handstitched Leather Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->9</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->8 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->4<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">34</span></div></td></tr></table>",
+  "url": "/item=7276/handstitched-leather-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_48.jpg",
+  "id": "7276",
+  "slug": "handstitched-leather-cloak"
+}

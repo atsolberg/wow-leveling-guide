@@ -1,0 +1,10 @@
+{
+  "name": "Stormpike Battle Tabard",
+  "quality": "Common",
+  "icon": "inv_shirt_guildtabard_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Stormpike Battle Tabard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Tabard</td><th><!--scstart4:-7--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">25</span></div></td></tr></table>",
+  "url": "/item=19032/stormpike-battle-tabard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_guildtabard_01.jpg",
+  "id": "19032",
+  "slug": "stormpike-battle-tabard"
+}

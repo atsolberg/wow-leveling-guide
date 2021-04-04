@@ -1,0 +1,10 @@
+{
+  "name": "Iron Shaft",
+  "quality": "Common",
+  "icon": "inv_staff_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Iron Shaft</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=5464/iron-shaft",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_01.jpg",
+  "id": "5464",
+  "slug": "iron-shaft"
+}

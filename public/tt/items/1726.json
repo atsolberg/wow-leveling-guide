@@ -1,0 +1,10 @@
+{
+  "name": "Poison-tipped Bone Spear",
+  "quality": "Rare",
+  "icon": "inv_spear_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Poison-tipped Bone Spear</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:6--><span class=\"q1\">Polearm</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->57 - 87 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(31.30 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->31<br><span class=\"q2\">Chance on hit: <a href=\"/spell=16401\" class=\"q2\">Poisons target for 30 Nature damage every 6 sec for 30 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">21</span> <span class=\"moneycopper\">83</span></div></td></tr></table>",
+  "url": "/item=1726/poison-tipped-bone-spear",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_spear_02.jpg",
+  "id": "1726",
+  "slug": "poison-tipped-bone-spear"
+}

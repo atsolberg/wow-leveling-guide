@@ -1,0 +1,10 @@
+{
+  "name": "Old Teamster's Skull",
+  "quality": "Poor",
+  "icon": "inv_misc_bone_dwarfskull_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Old Teamster's Skull</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Looks like someone didn't like this guy.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">20</span></div></td></tr></table>",
+  "url": "/item=6301/old-teamsters-skull",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_dwarfskull_01.jpg",
+  "id": "6301",
+  "slug": "old-teamsters-skull"
+}

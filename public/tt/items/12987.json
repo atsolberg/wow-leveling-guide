@@ -1,0 +1,10 @@
+{
+  "name": "Darkweave Breeches",
+  "quality": "Rare",
+  "icon": "inv_pants_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Darkweave Breeches</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->35 Armor</span><br><span><!--stat5-->+7 Intellect</span><br><span><!--stat7-->+4 Stamina</span><br><span><!--stat6-->+6 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">6</span></div></td></tr></table>",
+  "url": "/item=12987/darkweave-breeches",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_06.jpg",
+  "id": "12987",
+  "slug": "darkweave-breeches"
+}

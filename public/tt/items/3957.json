@@ -1,0 +1,10 @@
+{
+  "name": "Mesh Pants",
+  "quality": "Poor",
+  "icon": "inv_pants_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Mesh Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->67</span><!--bo--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->68 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->62<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">92</span> <span class=\"moneycopper\">16</span></div></td></tr></table>",
+  "url": "/item=3957/mesh-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_07.jpg",
+  "id": "3957",
+  "slug": "mesh-pants"
+}

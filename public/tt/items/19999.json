@@ -1,0 +1,10 @@
+{
+  "name": "Bloodvine Goggles",
+  "quality": "Rare",
+  "icon": "inv_helmet_47",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Bloodvine Goggles</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->75 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (300)<br><span class=\"q2\">Equip: <a href=\"/spell=23729\" class=\"q2\">Improves your chance to hit with spells by 2%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=18384\" class=\"q2\">Improves your chance to get a critical strike with spells by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=21365\" class=\"q2\">Restores 9 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">86</span> <span class=\"moneycopper\">39</span></div></td></tr></table>",
+  "url": "/item=19999/bloodvine-goggles",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_47.jpg",
+  "id": "19999",
+  "slug": "bloodvine-goggles"
+}

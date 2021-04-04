@@ -1,0 +1,10 @@
+{
+  "name": "Hinott's Oil",
+  "quality": "Common",
+  "icon": "inv_potion_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hinott's Oil</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=10723\" class=\"q2\">Cure for the Touch of Zanzil.</a></span></td></tr></table>",
+  "url": "/item=8095/hinotts-oil",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_27.jpg",
+  "id": "8095",
+  "slug": "hinotts-oil"
+}

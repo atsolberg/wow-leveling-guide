@@ -1,0 +1,10 @@
+{
+  "name": "Filled Vial Labeled #3",
+  "quality": "Common",
+  "icon": "inv_potion_56",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Filled Vial Labeled #3</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=10693/filled-vial-labeled-3",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_56.jpg",
+  "id": "10693",
+  "slug": "filled-vial-labeled-3"
+}

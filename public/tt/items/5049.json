@@ -1,0 +1,10 @@
+{
+  "name": "Self-locking Ironpaper",
+  "quality": "Common",
+  "icon": "inv_misc_giftwrap_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Self-locking Ironpaper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=39\" class=\"q1\">Subtlety</a> (150)<br><span class=\"q\">&quot;This gift will require 150 lockpicking to open.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=5049/self-locking-ironpaper",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_giftwrap_02.jpg",
+  "id": "5049",
+  "slug": "self-locking-ironpaper"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Mesh Cloak",
+  "quality": "Poor",
+  "icon": "inv_misc_cape_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Mesh Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->36 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">53</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=3955/mesh-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_07.jpg",
+  "id": "3955",
+  "slug": "mesh-cloak"
+}

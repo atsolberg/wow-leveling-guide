@@ -1,0 +1,10 @@
+{
+  "name": "Scepter of Celebras",
+  "quality": "Rare",
+  "icon": "inv_staff_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Scepter of Celebras</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=21127\" class=\"q2\">Creates a portal, teleporting group members that use it to Earth Song Falls in inner Maraudon.</a> (30 Sec Cooldown)</span></td></tr></table>",
+  "url": "/item=17191/scepter-of-celebras",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_16.jpg",
+  "id": "17191",
+  "slug": "scepter-of-celebras"
+}

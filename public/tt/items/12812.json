@@ -1,0 +1,10 @@
+{
+  "name": "Unfired Plate Gauntlets",
+  "quality": "Rare",
+  "icon": "inv_gauntlets_29",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Unfired Plate Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=12812/unfired-plate-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_29.jpg",
+  "id": "12812",
+  "slug": "unfired-plate-gauntlets"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Precision Arrow",
+  "quality": "Uncommon",
+  "icon": "inv_ammo_arrow_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Precision Arrow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><table width=\"100%\"><tr><td>Ammo</td><th><!--scstart6:2--><span class=\"q1\">Arrow</span><!--scend--></th></tr></table><span>Adds 11.5 damage per second</span>\n<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<!--itemEffects:1--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">3</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Baelog</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 87.92%</div></td></tr></table>",
+  "url": "/item=9399/precision-arrow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ammo_arrow_01.jpg",
+  "id": "9399",
+  "slug": "precision-arrow"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Battle Chain Tunic",
+  "quality": "Uncommon",
+  "icon": "inv_chest_leather_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Battle Chain Tunic</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->13</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->129 Armor</span><br><span><!--stat4-->+2 Strength</span><br><span><!--stat3-->+1 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->8<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">95</span></div></td></tr></table>",
+  "url": "/item=3283/battle-chain-tunic",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_leather_04.jpg",
+  "id": "3283",
+  "slug": "battle-chain-tunic"
+}

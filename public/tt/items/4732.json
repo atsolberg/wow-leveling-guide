@@ -1,0 +1,10 @@
+{
+  "name": "Glyphed Cloak",
+  "quality": "Uncommon",
+  "icon": "inv_chest_cloth_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Glyphed Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->24 Armor</span><br><span><!--stat5-->+7 Intellect</span><br><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">32</span></div></td></tr></table>",
+  "url": "/item=4732/glyphed-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_14.jpg",
+  "id": "4732",
+  "slug": "glyphed-cloak"
+}

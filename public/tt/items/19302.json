@@ -1,0 +1,10 @@
+{
+  "name": "Darkmoon Ring",
+  "quality": "Rare",
+  "icon": "inv_jewelry_ring_34",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Darkmoon Ring</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br><span class=\"q2\">Equip: <a href=\"/spell=21348\" class=\"q2\">Restores 6 health per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">25</span></div></td></tr></table>",
+  "url": "/item=19302/darkmoon-ring",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_ring_34.jpg",
+  "id": "19302",
+  "slug": "darkmoon-ring"
+}

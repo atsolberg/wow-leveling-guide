@@ -1,0 +1,10 @@
+{
+  "name": "Elemental Flux",
+  "quality": "Common",
+  "icon": "spell_frost_fireresistancetotem",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Elemental Flux</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">75</span></div></td></tr></table>",
+  "url": "/item=18567/elemental-flux",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_frost_fireresistancetotem.jpg",
+  "id": "18567",
+  "slug": "elemental-flux"
+}

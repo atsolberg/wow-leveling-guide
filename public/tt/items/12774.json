@@ -1,0 +1,10 @@
+{
+  "name": "Dawn's Edge",
+  "quality": "Rare",
+  "icon": "inv_axe_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Dawn's Edge</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->53 - 100 Damage</span></td>\n    <th>Speed <!--spd-->2.10</th>\n</tr></table><!--dps-->(36.43 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">60</span> <span class=\"moneycopper\">44</span></div></td></tr></table>",
+  "url": "/item=12774/dawns-edge",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_05.jpg",
+  "id": "12774",
+  "slug": "dawns-edge"
+}

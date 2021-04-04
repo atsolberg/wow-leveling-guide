@@ -1,0 +1,10 @@
+{
+  "name": "Laced Mail Vest",
+  "quality": "Poor",
+  "icon": "inv_chest_chain",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Laced Mail Vest</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->16</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->136 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->11<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">98</span></div></td></tr></table>",
+  "url": "/item=1745/laced-mail-vest",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain.jpg",
+  "id": "1745",
+  "slug": "laced-mail-vest"
+}

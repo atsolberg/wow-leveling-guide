@@ -1,0 +1,10 @@
+{
+  "name": "Sturdy Junkbox",
+  "quality": "Common",
+  "icon": "inv_box_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sturdy Junkbox</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q0\">Locked<br />Requires Lockpicking (175)</span></td></tr></table>",
+  "url": "/item=16884/sturdy-junkbox",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_03.jpg",
+  "id": "16884",
+  "slug": "sturdy-junkbox"
+}

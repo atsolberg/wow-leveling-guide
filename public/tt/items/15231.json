@@ -1,0 +1,10 @@
+{
+  "name": "Splitting Hatchet",
+  "quality": "Uncommon",
+  "icon": "inv_axe_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Splitting Hatchet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->31</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->20 - 38 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(16.11 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->26<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">33</span></div></td></tr></table>",
+  "url": "/item=15231/splitting-hatchet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_14.jpg",
+  "id": "15231",
+  "slug": "splitting-hatchet"
+}

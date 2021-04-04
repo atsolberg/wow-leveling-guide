@@ -1,0 +1,10 @@
+{
+  "name": "Short Bastard Sword",
+  "quality": "Uncommon",
+  "icon": "inv_sword_40",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Short Bastard Sword</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->12</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->20 - 30 Damage</span></td>\n    <th>Speed <!--spd-->3.00</th>\n</tr></table><!--dps-->(8.33 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->7<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">95</span></div></td></tr></table>",
+  "url": "/item=3192/short-bastard-sword",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_40.jpg",
+  "id": "3192",
+  "slug": "short-bastard-sword"
+}

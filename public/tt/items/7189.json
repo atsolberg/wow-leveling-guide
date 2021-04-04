@@ -1,0 +1,10 @@
+{
+  "name": "Goblin Rocket Boots",
+  "quality": "Uncommon",
+  "icon": "inv_gizmo_rocketboot_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Goblin Rocket Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->41 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=8892\" class=\"q2\">These dangerous looking boots significantly increase your run speed for 20 sec. &nbsp;They are prone to explode however, so use with caution.</a> (5 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">47</span> <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=7189/goblin-rocket-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_rocketboot_01.jpg",
+  "id": "7189",
+  "slug": "goblin-rocket-boots"
+}

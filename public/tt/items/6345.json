@@ -1,0 +1,11 @@
+{
+  "name": "Formula: Imbue Cloak - Protection",
+  "quality": "Uncommon",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Formula: Imbue Cloak - Protection</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->18</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=333\" class=\"q1\">Enchanting</a> (90)<br><span class=\"q2\">Use: <a href=\"/spell=7772\" class=\"q2\">Teaches you how to permanently enchant a cloak to give 10 additional armor.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=6345/formula-imbue-cloak-protection",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "6345",
+  "slug": "formula-imbue-cloak-protection"
+}

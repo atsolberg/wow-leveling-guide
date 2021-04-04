@@ -1,0 +1,10 @@
+{
+  "name": "Metzen's Letters and Notes",
+  "quality": "Common",
+  "icon": "inv_letter_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Metzen's Letters and Notes</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;A collection of information related to the whereabouts of Metzen the reindeer, including both ransom notes.&quot;</span><br><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=21314/metzens-letters-and-notes",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_03.jpg",
+  "id": "21314",
+  "slug": "metzens-letters-and-notes"
+}

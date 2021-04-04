@@ -1,0 +1,10 @@
+{
+  "name": "The Skull of Axtroz",
+  "quality": "Common",
+  "icon": "inv_misc_head_dragon_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">The Skull of Axtroz</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Axtroz</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 93.46%</div></td></tr></table>",
+  "url": "/item=16872/the-skull-of-axtroz",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_dragon_01.jpg",
+  "id": "16872",
+  "slug": "the-skull-of-axtroz"
+}

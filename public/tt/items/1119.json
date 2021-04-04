@@ -1,0 +1,10 @@
+{
+  "name": "Bottled Spirits",
+  "quality": "Common",
+  "icon": "inv_drink_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bottled Spirits</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=435\" class=\"q2\">Restores 552 health over 24 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=1119/bottled-spirits",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_06.jpg",
+  "id": "1119",
+  "slug": "bottled-spirits"
+}

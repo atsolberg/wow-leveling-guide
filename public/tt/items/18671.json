@@ -1,0 +1,10 @@
+{
+  "name": "Baron Charr's Sceptre",
+  "quality": "Rare",
+  "icon": "inv_mace_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Baron Charr's Sceptre</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->70 - 132 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(38.85 damage per second)<br><span><!--stat4-->+5 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<br><span class=\"q2\">Chance on hit: <a href=\"/spell=13442\" class=\"q2\">Blasts a target for 35 Fire damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">51</span> <span class=\"moneycopper\">84</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Baron Charr</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 28.21%</div></td></tr></table>",
+  "url": "/item=18671/baron-charrs-sceptre",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_08.jpg",
+  "id": "18671",
+  "slug": "baron-charrs-sceptre"
+}

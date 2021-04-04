@@ -1,0 +1,10 @@
+{
+  "name": "Shawn's Super Special Swami Hat",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_31",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Shawn's Super Special Swami Hat</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->64 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->61<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">35</span> <span class=\"moneycopper\">84</span></div></td></tr></table>",
+  "url": "/item=12904/shawns-super-special-swami-hat",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_31.jpg",
+  "id": "12904",
+  "slug": "shawns-super-special-swami-hat"
+}

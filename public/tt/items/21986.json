@@ -1,0 +1,10 @@
+{
+  "name": "Banner of Provocation",
+  "quality": "Common",
+  "icon": "inv_brd_banner",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Banner of Provocation</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27517\" class=\"q2\">Use this banner at the Arena in Blackrock Depths to challenge Theldren.</a> (10 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=21986/banner-of-provocation",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_brd_banner.jpg",
+  "id": "21986",
+  "slug": "banner-of-provocation"
+}

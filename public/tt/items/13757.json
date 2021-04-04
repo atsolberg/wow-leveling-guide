@@ -1,0 +1,10 @@
+{
+  "name": "Lightning Eel",
+  "quality": "Common",
+  "icon": "inv_misc_fish_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Lightning Eel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=13757/lightning-eel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_12.jpg",
+  "id": "13757",
+  "slug": "lightning-eel"
+}

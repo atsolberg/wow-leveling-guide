@@ -1,0 +1,10 @@
+{
+  "name": "Azure Silk Pants",
+  "quality": "Uncommon",
+  "icon": "inv_pants_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Azure Silk Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->28</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->36 Armor</span><br><span><!--stat5-->+6 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->23<br><span class=\"q2\">Equip: <a href=\"/spell=7703\" class=\"q2\">Increases damage done by Frost spells and effects by up to 10.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">94</span></div></td></tr></table>",
+  "url": "/item=7046/azure-silk-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_08.jpg",
+  "id": "7046",
+  "slug": "azure-silk-pants"
+}

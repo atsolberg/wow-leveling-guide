@@ -1,0 +1,10 @@
+{
+  "name": "Silksand Gloves",
+  "quality": "Uncommon",
+  "icon": "inv_gauntlets_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Silksand Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->33 Armor</span><br><span><!--stat7-->+5 Stamina</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">22</span> <span class=\"moneycopper\">62</span></div></td></tr></table>",
+  "url": "/item=14422/silksand-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_27.jpg",
+  "id": "14422",
+  "slug": "silksand-gloves"
+}

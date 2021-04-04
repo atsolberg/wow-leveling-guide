@@ -1,0 +1,10 @@
+{
+  "name": "Dagger of Veiled Shadows",
+  "quality": "Epic",
+  "icon": "inv_weapon_shortblade_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Dagger of Veiled Shadows</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when picked up<br />Unique-Equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->65 - 121 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(51.67 damage per second)<br><span><!--stat4-->+7 Strength</span><br><span><!--stat3-->+15 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=4\" class=\"c4\">Rogue</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=15464\" class=\"q2\">Improves your chance to hit by 1%.</a></span><!--itemEffects:1--><br /><br /><span class=\"q\"><a href=\"/item-set=498\" class=\"q\">Emblems of Veiled Shadows</a> (0/3)</span><div class=\"q0 indent\"><span><!--si21405--><a href=\"/item=21405\">Band of Veiled Shadows</a></span><br /><span><!--si21406--><a href=\"/item=21406\">Cloak of Veiled Shadows</a></span><br /><span><!--si21404--><a href=\"/item=21404\">Dagger of Veiled Shadows</a></span></div><br /><span class=\"q0\"><span>(3) Set : <a href=\"/spell=26114\">-10 energy cost for your Slice and Dice ability.</a></span></span></td></tr></table>",
+  "url": "/item=21404/dagger-of-veiled-shadows",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_27.jpg",
+  "id": "21404",
+  "slug": "dagger-of-veiled-shadows"
+}

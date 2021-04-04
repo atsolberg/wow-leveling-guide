@@ -1,0 +1,10 @@
+{
+  "name": "Essence Mango",
+  "quality": "Common",
+  "icon": "inv_misc_food_42",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Essence Mango</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Use: <a href=\"/spell=24384\" class=\"q2\">Restores 2550 health and 4410 mana over 30 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=20031/essence-mango",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_42.jpg",
+  "id": "20031",
+  "slug": "essence-mango"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Smolderweb's Eye",
+  "quality": "Rare",
+  "icon": "inv_misc_gem_pearl_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Smolderweb's Eye</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Use: <a href=\"/spell=17330\" class=\"q2\">Poisons target for 20 Nature damage every 2 sec for 20 sec.</a> (2 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">96</span> <span class=\"moneycopper\">33</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Mother Smolderweb</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 13.66%</div></td></tr></table>",
+  "url": "/item=13213/smolderwebs-eye",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_pearl_01.jpg",
+  "id": "13213",
+  "slug": "smolderwebs-eye"
+}

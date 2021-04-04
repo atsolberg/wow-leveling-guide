@@ -1,0 +1,10 @@
+{
+  "name": "Durability Bow",
+  "quality": "Common",
+  "icon": "inv_weapon_bow_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Durability Bow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->1 - 3 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(1.11 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 18 / 18</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">2</span></div></td></tr></table>",
+  "url": "/item=14394/durability-bow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_02.jpg",
+  "id": "14394",
+  "slug": "durability-bow"
+}

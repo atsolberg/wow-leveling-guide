@@ -1,0 +1,10 @@
+{
+  "name": "Zandalar Signet of Serenity",
+  "quality": "Rare",
+  "icon": "spell_holy_powerwordshield",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Zandalar Signet of Serenity</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=24420\" class=\"q2\">Permanently adds to a shoulder slot item increased healing done by spells and effects up to 33.</a></span></td></tr></table>",
+  "url": "/item=20078/zandalar-signet-of-serenity",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_holy_powerwordshield.jpg",
+  "id": "20078",
+  "slug": "zandalar-signet-of-serenity"
+}

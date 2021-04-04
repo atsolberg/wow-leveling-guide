@@ -1,0 +1,11 @@
+{
+  "name": "Codex of Renew X",
+  "quality": "Rare",
+  "icon": "inv_misc_book_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Codex of Renew X</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=5\" class=\"c5\">Priest</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=25984\" class=\"q2\">Teaches Renew (Rank 10).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">10</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=21285/codex-of-renew-x",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_09.jpg",
+  "id": "21285",
+  "slug": "codex-of-renew-x"
+}

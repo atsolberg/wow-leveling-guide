@@ -1,0 +1,10 @@
+{
+  "name": "General's Chain Girdle",
+  "quality": "Epic",
+  "icon": "inv_belt_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">General's Chain Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->234 Armor</span><br><span><!--stat4-->+5 Strength</span><br><span><!--stat3-->+18 Agility</span><br><span><!--stat5-->+18 Intellect</span><br><span><!--stat7-->+18 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=3\" class=\"c3\">Hunter</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br>Requires <span class=\"icon-horde\">General</span> <span class=\"icon-alliance\">Marshal</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">22</span> <span class=\"moneycopper\">33</span></div></td></tr></table>",
+  "url": "/item=16572/generals-chain-girdle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_14.jpg",
+  "id": "16572",
+  "slug": "generals-chain-girdle"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Blessed Qiraji War Axe",
+  "quality": "Epic",
+  "icon": "inv_axe_26",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Blessed Qiraji War Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->79</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->110 - 205 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(60.58 damage per second)<br><span><!--stat5-->+10 Intellect</span><br><span><!--stat7-->+9 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=9142\" class=\"q2\">+14 Attack Power.</a></span><!--itemEffects:1--><br><span class=\"q\">&quot;The weapon is infused and reinforced with Elementium.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">16</span> <span class=\"moneysilver\">40</span> <span class=\"moneycopper\">24</span></div></td></tr></table>",
+  "url": "/item=21242/blessed-qiraji-war-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_26.jpg",
+  "id": "21242",
+  "slug": "blessed-qiraji-war-axe"
+}

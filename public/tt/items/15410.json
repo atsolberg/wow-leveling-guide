@@ -1,0 +1,10 @@
+{
+  "name": "Scale of Onyxia",
+  "quality": "Rare",
+  "icon": "inv_misc_monsterscales_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Scale of Onyxia</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Onyxia</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 3.71%</div></td></tr></table>",
+  "url": "/item=15410/scale-of-onyxia",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_07.jpg",
+  "id": "15410",
+  "slug": "scale-of-onyxia"
+}

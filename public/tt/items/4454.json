@@ -1,0 +1,10 @@
+{
+  "name": "Talon of Vultros",
+  "quality": "Rare",
+  "icon": "inv_weapon_shortblade_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Talon of Vultros</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->26</span><!--bo--><br />Binds when equipped<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->23 - 44 Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(16.75 damage per second)<br><span><!--stat3-->+5 Agility</span><br><span><!--stat6-->+2 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->21<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">38</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Vultros</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 22.97%</div></td></tr></table>",
+  "url": "/item=4454/talon-of-vultros",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_16.jpg",
+  "id": "4454",
+  "slug": "talon-of-vultros"
+}

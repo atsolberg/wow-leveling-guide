@@ -1,0 +1,11 @@
+{
+  "name": "Libram: Blessing of Might VII",
+  "quality": "Rare",
+  "icon": "inv_misc_book_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Libram: Blessing of Might VII</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=2\" class=\"c2\">Paladin</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=25962\" class=\"q2\">Teaches Blessing of Might (Rank 7).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">10</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=21289/libram-blessing-of-might-vii",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_08.jpg",
+  "id": "21289",
+  "slug": "libram-blessing-of-might-vii"
+}

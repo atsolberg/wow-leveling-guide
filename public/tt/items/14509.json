@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Mooncloth Circlet",
+  "quality": "Rare",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Pattern: Mooncloth Circlet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->62</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=197\" class=\"q1\">Tailoring</a> (300)<br><span class=\"q2\">Use: <a href=\"/spell=18526\" class=\"q2\">Teaches you how to sew a Mooncloth Circlet.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">50</span></div><br /><span class=\"q3\"><a href=\"/item=14140\">Mooncloth Circlet</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->71 Armor</span><br><span><!--stat5-->+23 Intellect</span><br><span><!--stat7-->+13 Stamina</span><br><span><!--stat6-->+15 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50<br>Requires Level <!--rlvl-->57<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">66</span> <span class=\"moneycopper\">93</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=14048\">Bolt of Runecloth</a>&nbsp;(4), <a href=\"/item=14342\">Mooncloth</a>&nbsp;(6), <a href=\"/item=12800\">Azerothian Diamond</a>, <a href=\"/item=12810\">Enchanted Leather</a>&nbsp;(2), <a href=\"/item=14341\">Rune Thread</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=14509/pattern-mooncloth-circlet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "14509",
+  "slug": "pattern-mooncloth-circlet"
+}

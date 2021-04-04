@@ -1,0 +1,10 @@
+{
+  "name": "Runescale Girdle",
+  "quality": "Uncommon",
+  "icon": "inv_belt_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Runescale Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->94 Armor</span><br><span><!--stat4-->+5 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">19</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Trigore the Lasher</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 63.27%</div></td></tr></table>",
+  "url": "/item=5425/runescale-girdle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_03.jpg",
+  "id": "5425",
+  "slug": "runescale-girdle"
+}

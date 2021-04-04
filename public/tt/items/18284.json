@@ -1,0 +1,10 @@
+{
+  "name": "Kreeg's Stout Beatdown",
+  "quality": "Uncommon",
+  "icon": "inv_drink_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Kreeg's Stout Beatdown</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=22790\" class=\"q2\">Increases Spirit by 25, but decreases Intelligence by 5 for 15 min. &nbsp;Smoooooth.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=18284/kreegs-stout-beatdown",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_05.jpg",
+  "id": "18284",
+  "slug": "kreegs-stout-beatdown"
+}

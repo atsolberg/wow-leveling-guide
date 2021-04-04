@@ -1,0 +1,10 @@
+{
+  "name": "Mature Black Dragon Sinew",
+  "quality": "Epic",
+  "icon": "spell_holy_dispelmagic",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Mature Black Dragon Sinew</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->71</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=3\" class=\"c3\">Hunter</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<div class=\"whtt-extra whtt-droppedby\">Dropped by: Onyxia</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 43.60%</div></td></tr></table>",
+  "url": "/item=18705/mature-black-dragon-sinew",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_holy_dispelmagic.jpg",
+  "id": "18705",
+  "slug": "mature-black-dragon-sinew"
+}

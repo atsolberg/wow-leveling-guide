@@ -1,0 +1,10 @@
+{
+  "name": "Gni'kiv Medallion",
+  "quality": "Common",
+  "icon": "inv_jewelry_amulet_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gni'kiv Medallion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=9594\" class=\"q2\">Attach to the Shaft of Tsol.</a></span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Baelog</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 2.77%</div></td></tr></table>",
+  "url": "/item=7740/gnikiv-medallion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_amulet_01.jpg",
+  "id": "7740",
+  "slug": "gnikiv-medallion"
+}

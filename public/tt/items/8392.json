@@ -1,0 +1,10 @@
+{
+  "name": "Blasted Boar Lung",
+  "quality": "Common",
+  "icon": "inv_misc_organ_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Blasted Boar Lung</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=8392/blasted-boar-lung",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_organ_06.jpg",
+  "id": "8392",
+  "slug": "blasted-boar-lung"
+}

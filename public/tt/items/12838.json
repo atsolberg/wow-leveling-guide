@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Arcanite Reaper",
+  "quality": "Rare",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Plans: Arcanite Reaper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->63</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (300)<br>Requires <a href=\"/spells=11.164.17041\" class=\"q1\">Master Axesmith</a><br><span class=\"q2\">Use: <a href=\"/spell=17036\" class=\"q2\">Teaches you how to make an Arcanite Reaper.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Bannok Grimaxe</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 8.27%</div><br /><span class=\"q3\"><a href=\"/item=12784\">Arcanite Reaper</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->153 - 256 Damage</span></td>\n    <th>Speed <!--spd-->3.80</th>\n</tr></table><!--dps-->(53.82 damage per second)<br><span><!--stat7-->+13 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100<br>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=15816\" class=\"q2\">+62 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">7</span> <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">36</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=12360\">Arcanite Bar</a>&nbsp;(20), <a href=\"/item=12810\">Enchanted Leather</a>&nbsp;(6), <a href=\"/item=12644\">Dense Grinding Stone</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=12838/plans-arcanite-reaper",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "12838",
+  "slug": "plans-arcanite-reaper"
+}

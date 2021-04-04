@@ -1,0 +1,10 @@
+{
+  "name": "Conjured Mineral Water",
+  "quality": "Common",
+  "icon": "inv_drink_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Conjured Mineral Water</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><br />Conjured Item<!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<br><span class=\"q2\">Use: <a href=\"/spell=1135\" class=\"q2\">Restores 1992 mana over 30 sec. &nbsp;Must remain seated while drinking.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=8077/conjured-mineral-water",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_09.jpg",
+  "id": "8077",
+  "slug": "conjured-mineral-water"
+}

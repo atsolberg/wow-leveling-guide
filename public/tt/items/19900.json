@@ -1,0 +1,10 @@
+{
+  "name": "Zulian Stone Axe",
+  "quality": "Rare",
+  "icon": "inv_axe_34",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Zulian Stone Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->68</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->131 - 197 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(58.57 damage per second)<br><span><!--stat5-->+22 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=15810\" class=\"q2\">+44 Attack Power.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><!--itemEffects:1--><br><span class=\"q\">&quot;Bears the mark of Jin.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">8</span> <span class=\"moneysilver\">78</span> <span class=\"moneycopper\">68</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: High Priest Venoxis</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.56%</div></td></tr></table>",
+  "url": "/item=19900/zulian-stone-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_34.jpg",
+  "id": "19900",
+  "slug": "zulian-stone-axe"
+}

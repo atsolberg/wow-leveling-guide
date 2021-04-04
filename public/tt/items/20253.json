@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Warbear Harness",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pattern: Warbear Harness</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=165\" class=\"q1\">Leatherworking</a> (275)<br>Requires <a href=\"/spells=11.165.10660\" class=\"q1\">Tribal Leatherworking</a><br>Requires <a href=\"/faction=576\" class=\"q1\">Timbermaw Hold</a> - Friendly<br><span class=\"q2\">Use: <a href=\"/spell=19178\" class=\"q2\">Teaches you how to craft a Warbear Harness.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">40</span></div><br /><span class=\"q3\"><a href=\"/item=15064\">Warbear Harness</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->158 Armor</span><br><span><!--stat4-->+11 Strength</span><br><span><!--stat7-->+27 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100<br>Requires Level <!--rlvl-->50<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">97</span> <span class=\"moneycopper\">17</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=8170\">Rugged Leather</a>&nbsp;(28), <a href=\"/item=15419\">Warbear Leather</a>&nbsp;(12), <a href=\"/item=14341\">Rune Thread</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=20253/pattern-warbear-harness",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "20253",
+  "slug": "pattern-warbear-harness"
+}

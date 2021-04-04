@@ -1,0 +1,10 @@
+{
+  "name": "Battlecaller Gauntlets",
+  "quality": "Rare",
+  "icon": "inv_gauntlets_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Battlecaller Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->53</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->198 Armor</span><br><span><!--stat4-->+8 Strength</span><br><span><!--stat7-->+9 Stamina</span><br><span><!--stat6-->+15 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->48<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">74</span></div></td></tr></table>",
+  "url": "/item=13126/battlecaller-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_10.jpg",
+  "id": "13126",
+  "slug": "battlecaller-gauntlets"
+}

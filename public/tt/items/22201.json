@@ -1,0 +1,10 @@
+{
+  "name": "Reliquary of Purity",
+  "quality": "Common",
+  "icon": "inv_box_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Reliquary of Purity</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=22201/reliquary-of-purity",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_02.jpg",
+  "id": "22201",
+  "slug": "reliquary-of-purity"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Roughshod Pike",
+  "quality": "Common",
+  "icon": "inv_spear_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Roughshod Pike</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=12533/roughshod-pike",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_spear_01.jpg",
+  "id": "12533",
+  "slug": "roughshod-pike"
+}

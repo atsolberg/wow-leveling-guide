@@ -1,0 +1,10 @@
+{
+  "name": "Durability Staff",
+  "quality": "Common",
+  "icon": "inv_staff_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Durability Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->2 - 3 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(0.89 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">4</span></div></td></tr></table>",
+  "url": "/item=14392/durability-staff",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_08.jpg",
+  "id": "14392",
+  "slug": "durability-staff"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Tablet Transcript",
+  "quality": "Common",
+  "icon": "inv_misc_note_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tablet Transcript</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=11470/tablet-transcript",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_05.jpg",
+  "id": "11470",
+  "slug": "tablet-transcript"
+}

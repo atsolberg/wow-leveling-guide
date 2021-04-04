@@ -1,0 +1,10 @@
+{
+  "name": "Inscribed Kodo Leather",
+  "quality": "Common",
+  "icon": "inv_misc_leatherscrap_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Inscribed Kodo Leather</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=6501/inscribed-kodo-leather",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_leatherscrap_08.jpg",
+  "id": "6501",
+  "slug": "inscribed-kodo-leather"
+}

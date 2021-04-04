@@ -1,0 +1,10 @@
+{
+  "name": "Azure Silk Hood",
+  "quality": "Common",
+  "icon": "inv_helmet_29",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Azure Silk Hood</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->33 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->24<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">45</span></div></td></tr></table>",
+  "url": "/item=7048/azure-silk-hood",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_29.jpg",
+  "id": "7048",
+  "slug": "azure-silk-hood"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Indomitable Cloak",
+  "quality": "Uncommon",
+  "icon": "inv_misc_cape_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Indomitable Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->38 Armor</span><br><span><!--stat7-->+3 Stamina</span><br><span><!--stat6-->+13 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">19</span> <span class=\"moneycopper\">32</span></div></td></tr></table>",
+  "url": "/item=14683/indomitable-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_17.jpg",
+  "id": "14683",
+  "slug": "indomitable-cloak"
+}

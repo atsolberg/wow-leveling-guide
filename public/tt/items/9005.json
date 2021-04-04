@@ -1,0 +1,11 @@
+{
+  "name": "Codex of Mana Burn IV",
+  "quality": "Common",
+  "icon": "inv_misc_book_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Codex of Mana Burn IV</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->48</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=5\" class=\"c5\">Priest</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->48<br><span class=\"q2\">Use: <a href=\"/spell=3081\" class=\"q2\">Teaches Holy Word: Fortitude (Rank 4).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">77</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=9005/codex-of-mana-burn-iv",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_09.jpg",
+  "id": "9005",
+  "slug": "codex-of-mana-burn-iv"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Thick Leather Tunic",
+  "quality": "Poor",
+  "icon": "inv_shirt_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Thick Leather Tunic</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->109 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">33</span> <span class=\"moneycopper\">31</span></div></td></tr></table>",
+  "url": "/item=3968/thick-leather-tunic",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_13.jpg",
+  "id": "3968",
+  "slug": "thick-leather-tunic"
+}

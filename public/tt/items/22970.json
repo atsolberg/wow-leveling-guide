@@ -1,0 +1,10 @@
+{
+  "name": "A Bloodstained Envelope",
+  "quality": "Common",
+  "icon": "inv_letter_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">A Bloodstained Envelope</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=9301\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->45</td></tr></table>",
+  "url": "/item=22970/a-bloodstained-envelope",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_10.jpg",
+  "id": "22970",
+  "slug": "a-bloodstained-envelope"
+}

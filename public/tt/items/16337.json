@@ -1,0 +1,10 @@
+{
+  "name": "Sergeant Major's Cape",
+  "quality": "Rare",
+  "icon": "inv_misc_cape_21",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Sergeant Major's Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->43 Armor</span><br><span><!--stat4-->+8 Strength</span><br><span><!--stat3-->+8 Agility</span><br><span><!--stat5-->+8 Intellect</span><br><span><!--stat7-->+8 Stamina</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br>Requires <span class=\"icon-horde\">First Sergeant</span> <span class=\"icon-alliance\">Sergeant Major</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">74</span> <span class=\"moneycopper\">91</span></div></td></tr></table>",
+  "url": "/item=16337/sergeant-majors-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_21.jpg",
+  "id": "16337",
+  "slug": "sergeant-majors-cape"
+}

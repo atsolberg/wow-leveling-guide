@@ -1,0 +1,10 @@
+{
+  "name": "Brown Linen Pants",
+  "quality": "Common",
+  "icon": "inv_pants_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Brown Linen Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->16 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">60</span></div></td></tr></table>",
+  "url": "/item=4343/brown-linen-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_06.jpg",
+  "id": "4343",
+  "slug": "brown-linen-pants"
+}

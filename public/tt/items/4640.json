@@ -1,0 +1,10 @@
+{
+  "name": "Sign of the Earth",
+  "quality": "Common",
+  "icon": "inv_ore_copper_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sign of the Earth</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Boss Tho'grun</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 92.52%</div></td></tr></table>",
+  "url": "/item=4640/sign-of-the-earth",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ore_copper_01.jpg",
+  "id": "4640",
+  "slug": "sign-of-the-earth"
+}

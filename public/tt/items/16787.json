@@ -1,0 +1,10 @@
+{
+  "name": "Amulet of Draconic Subversion",
+  "quality": "Common",
+  "icon": "inv_misc_armorkit_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Amulet of Draconic Subversion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=19937\" class=\"q2\">Use to disguise yourself as a member of the Black Dragonflight.</a></span><!--itemEffects:1--></td></tr></table>",
+  "url": "/item=16787/amulet-of-draconic-subversion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_armorkit_14.jpg",
+  "id": "16787",
+  "slug": "amulet-of-draconic-subversion"
+}

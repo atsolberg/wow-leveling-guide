@@ -1,0 +1,10 @@
+{
+  "name": "Box of Supplies",
+  "quality": "Common",
+  "icon": "inv_crate_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Box of Supplies</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=6827/box-of-supplies",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crate_02.jpg",
+  "id": "6827",
+  "slug": "box-of-supplies"
+}

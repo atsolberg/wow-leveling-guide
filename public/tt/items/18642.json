@@ -1,0 +1,10 @@
+{
+  "name": "Jaina's Autograph",
+  "quality": "Common",
+  "icon": "inv_misc_note_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Jaina's Autograph</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Be strong Randis, and aspire to be the hero you were meant to be. &nbsp;-- Lady Jaina Proudmoore&quot;</span></td></tr></table>",
+  "url": "/item=18642/jainas-autograph",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_03.jpg",
+  "id": "18642",
+  "slug": "jainas-autograph"
+}

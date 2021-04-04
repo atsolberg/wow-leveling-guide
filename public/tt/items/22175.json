@@ -1,0 +1,10 @@
+{
+  "name": "Freshly Baked Pie",
+  "quality": "Common",
+  "icon": "inv_misc_food_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Freshly Baked Pie</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Duration: 7 days<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27712\" class=\"q2\">Combines 5 Freshly Baked Pies into a Box of Fresh Pies.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=22175/freshly-baked-pie",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_10.jpg",
+  "id": "22175",
+  "slug": "freshly-baked-pie"
+}

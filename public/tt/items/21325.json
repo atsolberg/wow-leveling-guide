@@ -1,0 +1,10 @@
+{
+  "name": "Mechanical Greench",
+  "quality": "Uncommon",
+  "icon": "ability_hunter_pet_gorilla",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Mechanical Greench</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when picked up<br />Duration: 10 days (real time)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=26067\" class=\"q2\">Summons a mechanical Greench that will protect you for 10 min.</a> (10 Min Cooldown)</span><br />3 Charges</td></tr></table>",
+  "url": "/item=21325/mechanical-greench",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_hunter_pet_gorilla.jpg",
+  "id": "21325",
+  "slug": "mechanical-greench"
+}

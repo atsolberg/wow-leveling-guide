@@ -1,0 +1,10 @@
+{
+  "name": "Ironfoe",
+  "quality": "Epic",
+  "icon": "spell_frost_frostbrand",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Ironfoe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->73 - 136 Damage</span></td>\n    <th>Speed <!--spd-->2.40</th>\n</tr></table><!--dps-->(43.54 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Chance on hit: <a href=\"/spell=15494\" class=\"q2\">Grants 2 extra attacks on your next swing.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">86</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Emperor Dagran Thaurissan</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 1.00%</div></td></tr></table>",
+  "url": "/item=11684/ironfoe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_frost_frostbrand.jpg",
+  "id": "11684",
+  "slug": "ironfoe"
+}

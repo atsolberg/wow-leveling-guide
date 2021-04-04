@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Golden Scale Coif",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Plans: Golden Scale Coif</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->38</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (190)<br><span class=\"q2\">Use: <a href=\"/spell=7229\" class=\"q2\">Teaches you how to make a Golden Scale Coif.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">11</span></div><br /><span class=\"q2\"><a href=\"/item=3837\">Golden Scale Coif</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->38</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->181 Armor</span><br><span><!--stat4-->+10 Strength</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60<br>Requires Level <!--rlvl-->33<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">44</span> <span class=\"moneycopper\">5</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=3859\">Steel Bar</a>&nbsp;(8), <a href=\"/item=3577\">Gold Bar</a>&nbsp;(2), <a href=\"/item=3486\">Heavy Grinding Stone</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=6047/plans-golden-scale-coif",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "6047",
+  "slug": "plans-golden-scale-coif"
+}

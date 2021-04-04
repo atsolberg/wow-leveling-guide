@@ -1,0 +1,10 @@
+{
+  "name": "Elixir of Water Breathing",
+  "quality": "Common",
+  "icon": "inv_potion_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Elixir of Water Breathing</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->18</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->8<br><span class=\"q2\">Use: <a href=\"/spell=7178\" class=\"q2\">Allows the Imbiber to breathe water for 30 min.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">95</span></div></td></tr></table>",
+  "url": "/item=5996/elixir-of-water-breathing",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_17.jpg",
+  "id": "5996",
+  "slug": "elixir-of-water-breathing"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Unforged Rune Covered Breastplate",
+  "quality": "Rare",
+  "icon": "inv_chest_plate04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Unforged Rune Covered Breastplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Covered in demonic runes.&quot;</span></td></tr></table>",
+  "url": "/item=12806/unforged-rune-covered-breastplate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_plate04.jpg",
+  "id": "12806",
+  "slug": "unforged-rune-covered-breastplate"
+}

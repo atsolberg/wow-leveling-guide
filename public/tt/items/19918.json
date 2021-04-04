@@ -1,0 +1,10 @@
+{
+  "name": "Jeklik's Crusher",
+  "quality": "Epic",
+  "icon": "inv_mace_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Jeklik's Crusher</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->159 - 248 Damage</span></td>\n    <th>Speed <!--spd-->3.60</th>\n</tr></table><!--dps-->(56.53 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Chance on hit: <a href=\"/spell=24257\" class=\"q2\">Wounds the target for 200 to 220 damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">11</span> <span class=\"moneysilver\">10</span> <span class=\"moneycopper\">3</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: High Priestess Jeklik</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 9.83%</div></td></tr></table>",
+  "url": "/item=19918/jekliks-crusher",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_19.jpg",
+  "id": "19918",
+  "slug": "jekliks-crusher"
+}

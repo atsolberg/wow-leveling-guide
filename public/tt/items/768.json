@@ -1,0 +1,10 @@
+{
+  "name": "Lumberjack Axe",
+  "quality": "Common",
+  "icon": "inv_axe_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Lumberjack Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->9</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->7 - 13 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(3.85 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->4<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">13</span></div></td></tr></table>",
+  "url": "/item=768/lumberjack-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_01.jpg",
+  "id": "768",
+  "slug": "lumberjack-axe"
+}

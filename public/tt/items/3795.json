@@ -1,0 +1,10 @@
+{
+  "name": "Interlaced Cloak",
+  "quality": "Poor",
+  "icon": "inv_misc_cape_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Interlaced Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->21 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->31<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">81</span></div></td></tr></table>",
+  "url": "/item=3795/interlaced-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_11.jpg",
+  "id": "3795",
+  "slug": "interlaced-cloak"
+}

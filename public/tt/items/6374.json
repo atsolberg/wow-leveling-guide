@@ -1,0 +1,10 @@
+{
+  "name": "Enchanted Powder",
+  "quality": "Common",
+  "icon": "inv_misc_dust_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Enchanted Powder</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Used by Enchanters to enchant items.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=6374/enchanted-powder",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_dust_02.jpg",
+  "id": "6374",
+  "slug": "enchanted-powder"
+}

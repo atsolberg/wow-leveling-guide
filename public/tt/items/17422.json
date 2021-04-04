@@ -1,0 +1,10 @@
+{
+  "name": "Armor Scraps",
+  "quality": "Common",
+  "icon": "inv_shoulder_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Armor Scraps</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><br /><a href=\"/zone=2597\" class=\"q1\">Alterac Valley</a><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Return to your base blacksmith to help upgrade troops&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 100</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">2</span></div></td></tr></table>",
+  "url": "/item=17422/armor-scraps",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_19.jpg",
+  "id": "17422",
+  "slug": "armor-scraps"
+}

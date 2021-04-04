@@ -1,0 +1,10 @@
+{
+  "name": "Stonegrip Gauntlets",
+  "quality": "Rare",
+  "icon": "inv_gauntlets_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Stonegrip Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->392 Armor</span><br><span><!--stat4-->+9 Strength</span><br><span><!--stat7-->+14 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Equip: <a href=\"/spell=13390\" class=\"q2\">Increased Defense +10.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">26</span></div></td></tr></table>",
+  "url": "/item=13072/stonegrip-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_03.jpg",
+  "id": "13072",
+  "slug": "stonegrip-gauntlets"
+}

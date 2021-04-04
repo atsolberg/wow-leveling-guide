@@ -1,0 +1,10 @@
+{
+  "name": "Cloak of Fire",
+  "quality": "Rare",
+  "icon": "inv_misc_cape_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Cloak of Fire</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->39 Armor</span><br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+6 Fire Resistance<!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br><span class=\"q2\">Use: <a href=\"/spell=18364\" class=\"q2\">Deals 25 Fire damage every 5 sec to all nearby enemies for 15 sec.</a> (2 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">80</span></div></td></tr></table>",
+  "url": "/item=14134/cloak-of-fire",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_18.jpg",
+  "id": "14134",
+  "slug": "cloak-of-fire"
+}

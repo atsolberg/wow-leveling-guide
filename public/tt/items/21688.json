@@ -1,0 +1,10 @@
+{
+  "name": "Boots of the Fallen Hero",
+  "quality": "Epic",
+  "icon": "inv_boots_plate_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Boots of the Fallen Hero</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->75</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->581 Armor</span><br><span><!--stat4-->+20 Strength</span><br><span><!--stat3-->+14 Agility</span><br><span><!--stat7-->+22 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=15464\" class=\"q2\">Improves your chance to hit by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">95</span> <span class=\"moneycopper\">68</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Vem</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 23.73%</div></td></tr></table>",
+  "url": "/item=21688/boots-of-the-fallen-hero",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_plate_01.jpg",
+  "id": "21688",
+  "slug": "boots-of-the-fallen-hero"
+}

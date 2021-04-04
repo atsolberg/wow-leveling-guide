@@ -1,0 +1,10 @@
+{
+  "name": "Trophy Swoop Quill",
+  "quality": "Common",
+  "icon": "spell_magic_featherfall",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Trophy Swoop Quill</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=4769/trophy-swoop-quill",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_magic_featherfall.jpg",
+  "id": "4769",
+  "slug": "trophy-swoop-quill"
+}

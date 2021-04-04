@@ -1,0 +1,10 @@
+{
+  "name": "Broken Sprite Darter Egg",
+  "quality": "Common",
+  "icon": "inv_egg_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Broken Sprite Darter Egg</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->37</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">34</span></div></td></tr></table>",
+  "url": "/item=11111/broken-sprite-darter-egg",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_egg_02.jpg",
+  "id": "11111",
+  "slug": "broken-sprite-darter-egg"
+}

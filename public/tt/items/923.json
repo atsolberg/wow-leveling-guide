@@ -1,0 +1,10 @@
+{
+  "name": "Longsword",
+  "quality": "Common",
+  "icon": "inv_sword_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Longsword</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->26</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:7--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->19 - 37 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(12.17 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->21<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">48</span></div></td></tr></table>",
+  "url": "/item=923/longsword",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_23.jpg",
+  "id": "923",
+  "slug": "longsword"
+}

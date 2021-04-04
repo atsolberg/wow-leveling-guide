@@ -1,0 +1,10 @@
+{
+  "name": "A Dusty Unsent Letter",
+  "quality": "Common",
+  "icon": "inv_letter_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">A Dusty Unsent Letter</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;This dusty letter from long ago was never sent.&quot;</span><br><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=889/a-dusty-unsent-letter",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_15.jpg",
+  "id": "889",
+  "slug": "a-dusty-unsent-letter"
+}

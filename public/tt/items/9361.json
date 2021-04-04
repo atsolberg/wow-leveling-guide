@@ -1,0 +1,10 @@
+{
+  "name": "Cuergo's Gold with Worm",
+  "quality": "Common",
+  "icon": "inv_drink_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Cuergo's Gold with Worm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=11629\" class=\"q2\">An extremely potent alcoholic beverage.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span></div></td></tr></table>",
+  "url": "/item=9361/cuergos-gold-with-worm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_01.jpg",
+  "id": "9361",
+  "slug": "cuergos-gold-with-worm"
+}

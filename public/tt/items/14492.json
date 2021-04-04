@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Felcloth Boots",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Pattern: Felcloth Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->57</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=197\" class=\"q1\">Tailoring</a> (285)<br><span class=\"q2\">Use: <a href=\"/spell=18510\" class=\"q2\">Teaches you how to sew Felcloth Boots.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div><br /><span class=\"q2\"><a href=\"/item=14108\">Felcloth Boots</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->51 Armor</span><br><span><!--stat6-->+12 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35<br>Requires Level <!--rlvl-->52<br><span class=\"q2\">Equip: <a href=\"/spell=9295\" class=\"q2\">Increases damage done by Fire spells and effects by up to 17.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">12</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=14048\">Bolt of Runecloth</a>&nbsp;(6), <a href=\"/item=14256\">Felcloth</a>&nbsp;(4), <a href=\"/item=8170\">Rugged Leather</a>&nbsp;(4), <a href=\"/item=14341\">Rune Thread</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=14492/pattern-felcloth-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "14492",
+  "slug": "pattern-felcloth-boots"
+}

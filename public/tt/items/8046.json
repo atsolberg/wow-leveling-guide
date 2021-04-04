@@ -1,0 +1,11 @@
+{
+  "name": "Kearnen's Journal",
+  "quality": "Common",
+  "icon": "inv_misc_book_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Kearnen's Journal</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=8046/kearnens-journal",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_04.jpg",
+  "id": "8046",
+  "slug": "kearnens-journal"
+}

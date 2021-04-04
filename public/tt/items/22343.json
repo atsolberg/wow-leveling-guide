@@ -1,0 +1,10 @@
+{
+  "name": "Handguards of Savagery",
+  "quality": "Rare",
+  "icon": "inv_gauntlets_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Handguards of Savagery</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->231 Armor</span><br><span><!--stat5-->+9 Intellect</span><br><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=15808\" class=\"q2\">+38 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">64</span> <span class=\"moneycopper\">76</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lord Valthalak</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 24.18%</div></td></tr></table>",
+  "url": "/item=22343/handguards-of-savagery",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_11.jpg",
+  "id": "22343",
+  "slug": "handguards-of-savagery"
+}

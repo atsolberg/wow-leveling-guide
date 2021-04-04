@@ -1,0 +1,10 @@
+{
+  "name": "A Sealed Pact",
+  "quality": "Poor",
+  "icon": "inv_misc_note_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">A Sealed Pact</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">8</span></div></td></tr></table>",
+  "url": "/item=18226/a-sealed-pact",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_05.jpg",
+  "id": "18226",
+  "slug": "a-sealed-pact"
+}

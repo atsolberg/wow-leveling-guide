@@ -1,0 +1,10 @@
+{
+  "name": "Worn Heater Shield",
+  "quality": "Common",
+  "icon": "inv_shield_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Worn Heater Shield</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->161 Armor</span><br>3 Block<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">89</span></div></td></tr></table>",
+  "url": "/item=2376/worn-heater-shield",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_04.jpg",
+  "id": "2376",
+  "slug": "worn-heater-shield"
+}

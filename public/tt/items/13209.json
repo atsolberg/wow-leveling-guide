@@ -1,0 +1,10 @@
+{
+  "name": "Seal of the Dawn",
+  "quality": "Rare",
+  "icon": "inv_misc_armorkit_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Seal of the Dawn</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=23930\" class=\"q2\">+81 Attack Power when fighting Undead. &nbsp;It also allows the acquisition of Scourgestones on behalf of the Argent Dawn.</a></span><!--itemEffects:1--></td></tr></table>",
+  "url": "/item=13209/seal-of-the-dawn",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_armorkit_18.jpg",
+  "id": "13209",
+  "slug": "seal-of-the-dawn"
+}

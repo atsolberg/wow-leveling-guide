@@ -1,0 +1,10 @@
+{
+  "name": "Sterling Chain Belt",
+  "quality": "Poor",
+  "icon": "inv_belt_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Sterling Chain Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->170 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">54</span> <span class=\"moneycopper\">94</span></div></td></tr></table>",
+  "url": "/item=4008/sterling-chain-belt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_06.jpg",
+  "id": "4008",
+  "slug": "sterling-chain-belt"
+}

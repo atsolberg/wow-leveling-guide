@@ -1,0 +1,11 @@
+{
+  "name": "Formula: Enchant Weapon - Unholy",
+  "quality": "Uncommon",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Formula: Enchant Weapon - Unholy</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->59</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=333\" class=\"q1\">Enchanting</a> (295)<br><span class=\"q2\">Use: <a href=\"/spell=20083\" class=\"q2\">Teaches you how to permanently enchant a weapon to occasionally curse those it strikes.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">60</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Thuzadin Shadowcaster</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 0.59%</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=16248/formula-enchant-weapon-unholy",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "16248",
+  "slug": "formula-enchant-weapon-unholy"
+}

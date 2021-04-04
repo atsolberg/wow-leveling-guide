@@ -1,0 +1,10 @@
+{
+  "name": "Cinder of Cynders",
+  "quality": "Common",
+  "icon": "spell_fire_fire",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Cinder of Cynders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;This visceral chunk of the Duke burns on, fueled by his hatred for you.&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: The Duke of Cynders</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 9.44%</div></td></tr></table>",
+  "url": "/item=21989/cinder-of-cynders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_fire_fire.jpg",
+  "id": "21989",
+  "slug": "cinder-of-cynders"
+}

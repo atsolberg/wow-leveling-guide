@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Admiral's Hat",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pattern: Admiral's Hat</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->48</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=197\" class=\"q1\">Tailoring</a> (240)<br><span class=\"q2\">Use: <a href=\"/spell=12182\" class=\"q2\">Teaches you how to sew an Admiral's Hat.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q2\"><a href=\"/item=10030\">Admiral's Hat</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->48</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->51 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45<br>Requires Level <!--rlvl-->43<br><span class=\"q2\">Use: <a href=\"/spell=12022\" class=\"q2\">Gives 10 additional stamina to party members within 30 yards.</a> (1 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">60</span> <span class=\"moneycopper\">7</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4339\">Bolt of Mageweave</a>&nbsp;(3), <a href=\"/item=4589\">Long Elegant Feather</a>&nbsp;(6), <a href=\"/item=8343\">Heavy Silken Thread</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=10318/pattern-admirals-hat",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "10318",
+  "slug": "pattern-admirals-hat"
+}

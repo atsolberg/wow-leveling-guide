@@ -1,0 +1,10 @@
+{
+  "name": "Orc Tooth",
+  "quality": "Common",
+  "icon": "inv_misc_bone_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Orc Tooth</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 100</div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Korrak the Bloodrager</div></td></tr></table>",
+  "url": "/item=18207/orc-tooth",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_08.jpg",
+  "id": "18207",
+  "slug": "orc-tooth"
+}

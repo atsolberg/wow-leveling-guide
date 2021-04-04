@@ -1,0 +1,10 @@
+{
+  "name": "Tuft of Gnome Hair",
+  "quality": "Common",
+  "icon": "inv_misc_monstertail_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tuft of Gnome Hair</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 100</div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Korrak the Bloodrager</div></td></tr></table>",
+  "url": "/item=18143/tuft-of-gnome-hair",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monstertail_02.jpg",
+  "id": "18143",
+  "slug": "tuft-of-gnome-hair"
+}

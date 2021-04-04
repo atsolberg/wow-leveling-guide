@@ -1,0 +1,10 @@
+{
+  "name": "Handcrafted Mastersmith Leggings",
+  "quality": "Rare",
+  "icon": "inv_pants_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Handcrafted Mastersmith Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->548 Armor</span><br><span><!--stat4-->+29 Strength</span><br><span><!--stat7-->+12 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">98</span> <span class=\"moneycopper\">90</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Goraluk Anvilcrack</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 27.97%</div></td></tr></table>",
+  "url": "/item=13498/handcrafted-mastersmith-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_04.jpg",
+  "id": "13498",
+  "slug": "handcrafted-mastersmith-leggings"
+}

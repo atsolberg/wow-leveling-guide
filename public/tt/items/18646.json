@@ -1,0 +1,10 @@
+{
+  "name": "The Eye of Divinity",
+  "quality": "Epic",
+  "icon": "spell_holy_mindsooth",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">The Eye of Divinity</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->71</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=5\" class=\"c5\">Priest</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><br><span class=\"q\">&quot;You can see movement when you peer into the Eye.&quot;</span><br><span class=\"q2\">&lt;Right Click to Read&gt;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Majordomo Executus</div></td></tr></table>",
+  "url": "/item=18646/the-eye-of-divinity",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_holy_mindsooth.jpg",
+  "id": "18646",
+  "slug": "the-eye-of-divinity"
+}

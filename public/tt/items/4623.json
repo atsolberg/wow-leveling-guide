@@ -1,0 +1,10 @@
+{
+  "name": "Lesser Stoneshield Potion",
+  "quality": "Common",
+  "icon": "inv_potion_67",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Lesser Stoneshield Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->43</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->33<br><span class=\"q2\">Use: <a href=\"/spell=4941\" class=\"q2\">Increases armor by 1000 for 1.50 min.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=4623/lesser-stoneshield-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_67.jpg",
+  "id": "4623",
+  "slug": "lesser-stoneshield-potion"
+}

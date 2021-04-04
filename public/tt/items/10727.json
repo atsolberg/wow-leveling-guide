@@ -1,0 +1,10 @@
+{
+  "name": "Goblin Dragon Gun",
+  "quality": "Common",
+  "icon": "spell_fire_flamebolt",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Goblin Dragon Gun</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->48</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=13183\" class=\"q2\">Deals 61 to 69 fire damage for 10 sec to all targets in a cone in front of the engineer using the weapon. &nbsp; That is unless it explodes.....</a> (5 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span></div></td></tr></table>",
+  "url": "/item=10727/goblin-dragon-gun",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_fire_flamebolt.jpg",
+  "id": "10727",
+  "slug": "goblin-dragon-gun"
+}

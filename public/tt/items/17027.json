@@ -1,0 +1,10 @@
+{
+  "name": "Scented Candle",
+  "quality": "Common",
+  "icon": "inv_misc_candle_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Scented Candle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->36</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span></div></td></tr></table>",
+  "url": "/item=17027/scented-candle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_candle_01.jpg",
+  "id": "17027",
+  "slug": "scented-candle"
+}

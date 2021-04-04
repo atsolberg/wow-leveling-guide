@@ -1,0 +1,10 @@
+{
+  "name": "MacGrann's Dried Meats",
+  "quality": "Common",
+  "icon": "inv_misc_food_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">MacGrann's Dried Meats</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=2667/macgranns-dried-meats",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_14.jpg",
+  "id": "2667",
+  "slug": "macgranns-dried-meats"
+}

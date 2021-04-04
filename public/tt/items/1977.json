@@ -1,0 +1,10 @@
+{
+  "name": "20-slot Bag",
+  "quality": "Common",
+  "icon": "inv_misc_bag_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">20-slot Bag</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />20 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--></td></tr></table>",
+  "url": "/item=1977/20-slot-bag",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_07.jpg",
+  "id": "1977",
+  "slug": "20-slot-bag"
+}

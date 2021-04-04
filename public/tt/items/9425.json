@@ -1,0 +1,10 @@
+{
+  "name": "Pendulum of Doom",
+  "quality": "Rare",
+  "icon": "inv_weapon_halberd_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Pendulum of Doom</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->44</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->124 - 187 Damage</span></td>\n    <th>Speed <!--spd-->4.00</th>\n</tr></table><!--dps-->(38.88 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->39<br><span class=\"q2\">Chance on hit: <a href=\"/spell=10373\" class=\"q2\">Delivers a fatal wound for 250 to 350 damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">89</span></div></td></tr></table>",
+  "url": "/item=9425/pendulum-of-doom",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_halberd_08.jpg",
+  "id": "9425",
+  "slug": "pendulum-of-doom"
+}

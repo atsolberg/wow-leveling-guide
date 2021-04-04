@@ -1,0 +1,10 @@
+{
+  "name": "Gluth's Missing Collar",
+  "quality": "Epic",
+  "icon": "inv_jewelry_necklace_27naxxramas",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Gluth's Missing Collar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->83</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat7-->+24 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=21477\" class=\"q2\">Increases your chance to block attacks with a shield by 3%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=23203\" class=\"q2\">Increases the block value of your shield by 15.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">12</span> <span class=\"moneysilver\">88</span> <span class=\"moneycopper\">62</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Gluth</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 19.23%</div></td></tr></table>",
+  "url": "/item=22981/gluths-missing-collar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_27naxxramas.jpg",
+  "id": "22981",
+  "slug": "gluths-missing-collar"
+}

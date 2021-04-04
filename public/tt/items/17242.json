@@ -1,0 +1,10 @@
+{
+  "name": "Key to Salem's Chest",
+  "quality": "Common",
+  "icon": "inv_misc_key_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Key to Salem's Chest</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Opens Dark Cleric Salem's Chest&quot;</span></td></tr></table>",
+  "url": "/item=17242/key-to-salems-chest",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_06.jpg",
+  "id": "17242",
+  "slug": "key-to-salems-chest"
+}

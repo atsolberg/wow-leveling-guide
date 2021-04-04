@@ -1,0 +1,10 @@
+{
+  "name": "Warstrike Gauntlets",
+  "quality": "Uncommon",
+  "icon": "inv_gauntlets_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Warstrike Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->207 Armor</span><br><span><!--stat5-->+10 Intellect</span><br><span><!--stat7-->+11 Stamina</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">37</span> <span class=\"moneycopper\">60</span></div></td></tr></table>",
+  "url": "/item=14815/warstrike-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_04.jpg",
+  "id": "14815",
+  "slug": "warstrike-gauntlets"
+}

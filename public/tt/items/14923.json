@@ -1,0 +1,10 @@
+{
+  "name": "Lofty Armguards",
+  "quality": "Uncommon",
+  "icon": "inv_bracer_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Lofty Armguards</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->210 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">46</span> <span class=\"moneycopper\">4</span></div></td></tr></table>",
+  "url": "/item=14923/lofty-armguards",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_14.jpg",
+  "id": "14923",
+  "slug": "lofty-armguards"
+}

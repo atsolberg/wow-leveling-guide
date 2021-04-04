@@ -1,0 +1,10 @@
+{
+  "name": "Augmented Chain Vest",
+  "quality": "Common",
+  "icon": "inv_chest_plate12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Augmented Chain Vest</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->208 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">31</span> <span class=\"moneycopper\">34</span></div></td></tr></table>",
+  "url": "/item=2417/augmented-chain-vest",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_plate12.jpg",
+  "id": "2417",
+  "slug": "augmented-chain-vest"
+}

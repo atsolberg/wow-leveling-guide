@@ -1,0 +1,10 @@
+{
+  "name": "Hardened Steel Warhammer",
+  "quality": "Rare",
+  "icon": "inv_hammer_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Hardened Steel Warhammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->74 - 138 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(40.77 damage per second)<br><span><!--stat5-->+6 Intellect</span><br><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=7679\" class=\"q2\">Increases healing done by spells and effects by up to 11.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">23</span> <span class=\"moneycopper\">6</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: The Duke of Cynders</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 31.28%</div></td></tr></table>",
+  "url": "/item=20666/hardened-steel-warhammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_14.jpg",
+  "id": "20666",
+  "slug": "hardened-steel-warhammer"
+}

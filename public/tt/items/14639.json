@@ -1,0 +1,11 @@
+{
+  "name": "Schematic: Minor Recombobulator",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Schematic: Minor Recombobulator</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->28</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (140)<br><span class=\"q2\">Use: <a href=\"/spell=18669\" class=\"q2\">Teaches you how to make a Minor Recombobulator.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">75</span></div><br /><span class=\"q2\"><a href=\"/item=4381\">Minor Recombobulator</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->28</span><!--bo--><table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps-->Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (140)<br><span class=\"q2\">Use: <a href=\"/spell=18805\" class=\"q2\">Dispels Polymorph effects on a friendly target. &nbsp;Also restores 150 to 250 health and mana.</a> (5 Min Cooldown)</span><br />10 Charges<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4371\">Bronze Tube</a>, <a href=\"/item=4375\">Whirring Bronze Gizmo</a>&nbsp;(2), <a href=\"/item=2319\">Medium Leather</a>&nbsp;(2), <a href=\"/item=1206\">Moss Agate</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=14639/schematic-minor-recombobulator",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "14639",
+  "slug": "schematic-minor-recombobulator"
+}

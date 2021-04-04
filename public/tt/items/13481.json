@@ -1,0 +1,11 @@
+{
+  "name": "Recipe: Elixir of Brute Force",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Recipe: Elixir of Brute Force</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=171\" class=\"q1\">Alchemy</a> (275)<br><span class=\"q2\">Use: <a href=\"/spell=17587\" class=\"q2\">Teaches you how to make an Elixir of Brute Force.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">37</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q1\"><a href=\"/item=13453\">Elixir of Brute Force</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires Level <!--rlvl-->45<br><span class=\"q2\">Use: <a href=\"/spell=17537\" class=\"q2\">Increases Strength and Stamina by 18 for 1 hour.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=8846\">Gromsblood</a>&nbsp;(2), <a href=\"/item=13466\">Plaguebloom</a>&nbsp;(2), <a href=\"/item=8925\">Crystal Vial</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=13481/recipe-elixir-of-brute-force",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "13481",
+  "slug": "recipe-elixir-of-brute-force"
+}

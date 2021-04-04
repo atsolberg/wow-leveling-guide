@@ -1,0 +1,10 @@
+{
+  "name": "Funeral Pyre Vestment",
+  "quality": "Rare",
+  "icon": "inv_chest_cloth_40",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Funeral Pyre Vestment</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->51</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->73 Armor</span><br><span><!--stat5-->+13 Intellect</span><br><span><!--stat7-->+13 Stamina</span><br><span><!--stat6-->+13 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Fire Resistance<!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->46<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">23</span> <span class=\"moneycopper\">56</span></div></td></tr></table>",
+  "url": "/item=12542/funeral-pyre-vestment",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_40.jpg",
+  "id": "12542",
+  "slug": "funeral-pyre-vestment"
+}

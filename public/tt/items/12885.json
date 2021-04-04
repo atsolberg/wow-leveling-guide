@@ -1,0 +1,10 @@
+{
+  "name": "Pamela's Doll",
+  "quality": "Common",
+  "icon": "inv_misc_idol_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pamela's Doll</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=12885/pamelas-doll",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_idol_02.jpg",
+  "id": "12885",
+  "slug": "pamelas-doll"
+}

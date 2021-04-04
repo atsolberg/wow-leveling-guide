@@ -1,0 +1,10 @@
+{
+  "name": "High Warlord's Cleaver",
+  "quality": "Epic",
+  "icon": "inv_axe_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">High Warlord's Cleaver</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->78</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->138 - 207 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(59.48 damage per second)<br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br>Requires <span class=\"icon-horde\">High Warlord</span> <span class=\"icon-alliance\">Grand Marshal</span><br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=9335\" class=\"q2\">+28 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=18828/high-warlords-cleaver",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_02.jpg",
+  "id": "18828",
+  "slug": "high-warlords-cleaver"
+}

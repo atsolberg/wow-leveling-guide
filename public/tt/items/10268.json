@@ -1,0 +1,10 @@
+{
+  "name": "Masterwork Gauntlets",
+  "quality": "Uncommon",
+  "icon": "inv_gauntlets_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Masterwork Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->210 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">47</span> <span class=\"moneycopper\">58</span></div></td></tr></table>",
+  "url": "/item=10268/masterwork-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_04.jpg",
+  "id": "10268",
+  "slug": "masterwork-gauntlets"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Ancient Qiraji Artifact",
+  "quality": "Common",
+  "icon": "inv_misc_idol_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ancient Qiraji Artifact</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br /><a href=\"/quest=8784\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60</td></tr></table>",
+  "url": "/item=21230/ancient-qiraji-artifact",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_idol_03.jpg",
+  "id": "21230",
+  "slug": "ancient-qiraji-artifact"
+}

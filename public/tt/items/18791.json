@@ -1,0 +1,11 @@
+{
+  "name": "Purple Skeletal Warhorse",
+  "quality": "Epic",
+  "icon": "ability_mount_undeadhorse",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Purple Skeletal Warhorse</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when used<br />Mount<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-races\">Races: <a href=\"/race=2\" class=\"q1\">Orc</a>, <a href=\"/race=5\" class=\"q1\">Undead</a>, <a href=\"/race=8\" class=\"q1\">Troll</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br>Requires <a href=\"/skill=554\" class=\"q1\">Undead Horsemanship</a> (1)<br><span class=\"q2\">Use: <a href=\"/spell=23246\" class=\"q2\">Summons and dismisses a rideable skeletal warhorse. &nbsp;This is a very fast mount.</a> (3 Sec Cooldown)</span></td></tr></table>",
+  "completion_category": "15-5",
+  "url": "/item=18791/purple-skeletal-warhorse",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_mount_undeadhorse.jpg",
+  "id": "18791",
+  "slug": "purple-skeletal-warhorse"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Simple Bands",
+  "quality": "Common",
+  "icon": "inv_bracer_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Simple Bands</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->12</span><!--bo--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->9 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 16 / 16</td></tr></table><table><tr><td>Requires Level <!--rlvl-->7<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">44</span></div></td></tr></table>",
+  "url": "/item=9744/simple-bands",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_10.jpg",
+  "id": "9744",
+  "slug": "simple-bands"
+}

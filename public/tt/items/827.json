@@ -1,0 +1,10 @@
+{
+  "name": "Wicked Blackjack",
+  "quality": "Uncommon",
+  "icon": "inv_mace_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Wicked Blackjack</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->14 - 26 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(8.70 damage per second)<br><span><!--stat4-->+2 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->12<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">71</span></div></td></tr></table>",
+  "url": "/item=827/wicked-blackjack",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_01.jpg",
+  "id": "827",
+  "slug": "wicked-blackjack"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Firefin Snapper",
+  "quality": "Common",
+  "icon": "inv_misc_monsterhead_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Firefin Snapper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">5</span></div></td></tr></table>",
+  "url": "/item=6359/firefin-snapper",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterhead_01.jpg",
+  "id": "6359",
+  "slug": "firefin-snapper"
+}

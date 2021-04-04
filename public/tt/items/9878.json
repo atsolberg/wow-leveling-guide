@@ -1,0 +1,10 @@
+{
+  "name": "Sorcerer Hat",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_51",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Sorcerer Hat</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->41</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->44 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->36<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">34</span> <span class=\"moneycopper\">24</span></div></td></tr></table>",
+  "url": "/item=9878/sorcerer-hat",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_51.jpg",
+  "id": "9878",
+  "slug": "sorcerer-hat"
+}

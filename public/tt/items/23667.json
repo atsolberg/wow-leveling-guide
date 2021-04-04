@@ -1,0 +1,10 @@
+{
+  "name": "Spaulders of the Grand Crusader",
+  "quality": "Epic",
+  "icon": "inv_shoulder_22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Spaulders of the Grand Crusader</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->85</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->714 Armor</span><br><span><!--stat4-->+18 Strength</span><br><span><!--stat5-->+17 Intellect</span><br><span><!--stat7-->+18 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=2\" class=\"c2\">Paladin</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=21618\" class=\"q2\">Restores 4 mana per 5 sec.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=14799\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 20.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">57</span> <span class=\"moneycopper\">20</span></div></td></tr></table>",
+  "url": "/item=23667/spaulders-of-the-grand-crusader",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_22.jpg",
+  "id": "23667",
+  "slug": "spaulders-of-the-grand-crusader"
+}

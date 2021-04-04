@@ -1,0 +1,10 @@
+{
+  "name": "Burnished Gloves",
+  "quality": "Uncommon",
+  "icon": "inv_gauntlets_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Burnished Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->105 Armor</span><br><span><!--stat4-->+4 Strength</span><br><span><!--stat3-->+2 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">8</span></div></td></tr></table>",
+  "url": "/item=2992/burnished-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_10.jpg",
+  "id": "2992",
+  "slug": "burnished-gloves"
+}

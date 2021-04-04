@@ -1,0 +1,10 @@
+{
+  "name": "Juju Flurry",
+  "quality": "Common",
+  "icon": "inv_misc_monsterscales_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Juju Flurry</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=16322\" class=\"q2\">Increases the target's attack speed by 3% for 20 sec.</a> (1 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span></div></td></tr></table>",
+  "url": "/item=12450/juju-flurry",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_17.jpg",
+  "id": "12450",
+  "slug": "juju-flurry"
+}

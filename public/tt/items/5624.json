@@ -1,0 +1,10 @@
+{
+  "name": "Circlet of the Order",
+  "quality": "Uncommon",
+  "icon": "inv_crown_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Circlet of the Order</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->38</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->41 Armor</span><br><span><!--stat5-->+3 Intellect</span><br><span><!--stat7-->+7 Stamina</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->33<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">29</span> <span class=\"moneycopper\">26</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Stromgarde Defender</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 2.27%</div></td></tr></table>",
+  "url": "/item=5624/circlet-of-the-order",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crown_01.jpg",
+  "id": "5624",
+  "slug": "circlet-of-the-order"
+}

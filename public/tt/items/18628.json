@@ -1,0 +1,10 @@
+{
+  "name": "Thorium Brotherhood Contract",
+  "quality": "Epic",
+  "icon": "inv_scroll_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Thorium Brotherhood Contract</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=7604\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q\">&quot;Bound in Dark Iron Wiring&quot;</span></td></tr></table>",
+  "url": "/item=18628/thorium-brotherhood-contract",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_05.jpg",
+  "id": "18628",
+  "slug": "thorium-brotherhood-contract"
+}

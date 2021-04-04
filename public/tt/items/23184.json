@@ -1,0 +1,10 @@
+{
+  "name": "Flame of Darnassus",
+  "quality": "Common",
+  "icon": "spell_fire_sealoffire",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Flame of Darnassus</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=9332\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=23184/flame-of-darnassus",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_fire_sealoffire.jpg",
+  "id": "23184",
+  "slug": "flame-of-darnassus"
+}

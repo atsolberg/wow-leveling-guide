@@ -1,0 +1,10 @@
+{
+  "name": "Imbel Essence",
+  "quality": "Common",
+  "icon": "inv_stone_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Imbel Essence</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=9256/imbel-essence",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_02.jpg",
+  "id": "9256",
+  "slug": "imbel-essence"
+}

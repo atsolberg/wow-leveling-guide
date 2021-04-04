@@ -1,0 +1,10 @@
+{
+  "name": "Splinter of Nordrassil",
+  "quality": "Epic",
+  "icon": "inv_staff_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Splinter of Nordrassil</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->71</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=23151\" class=\"q2\">Forms Benediction when combined with the Eye of Shadow and the Eye of Divinity.</a></span><br><span class=\"q\">&quot;A tiny fragment of the World Tree&quot;</span></td></tr></table>",
+  "url": "/item=18659/splinter-of-nordrassil",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_15.jpg",
+  "id": "18659",
+  "slug": "splinter-of-nordrassil"
+}

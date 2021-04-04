@@ -1,0 +1,10 @@
+{
+  "name": "Mortar and Pestle",
+  "quality": "Common",
+  "icon": "inv_misc_bowl_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Mortar and Pestle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=19029\" class=\"q2\">Combine 7 pieces of Living Rot inside the mortar and grind away with the pestle. Leave standing to allow coagulation.</a></span></td></tr></table>",
+  "url": "/item=15454/mortar-and-pestle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bowl_01.jpg",
+  "id": "15454",
+  "slug": "mortar-and-pestle"
+}

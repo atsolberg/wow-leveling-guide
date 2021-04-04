@@ -1,0 +1,11 @@
+{
+  "name": "Tablet of Restoration V",
+  "quality": "Common",
+  "icon": "inv_misc_stonetablet_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tablet of Restoration V</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->32</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=7\" class=\"c7\">Shaman</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<br><span class=\"q2\">Use: <a href=\"/spell=940\" class=\"q2\">Teaches Greater Healing Wave (Rank 1).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">25</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=4179/tablet-of-restoration-v",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_stonetablet_05.jpg",
+  "id": "4179",
+  "slug": "tablet-of-restoration-v"
+}

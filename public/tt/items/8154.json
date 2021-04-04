@@ -1,0 +1,10 @@
+{
+  "name": "Scorpid Scale",
+  "quality": "Common",
+  "icon": "inv_misc_monsterscales_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Scorpid Scale</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=8154/scorpid-scale",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_02.jpg",
+  "id": "8154",
+  "slug": "scorpid-scale"
+}

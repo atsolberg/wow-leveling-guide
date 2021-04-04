@@ -1,0 +1,10 @@
+{
+  "name": "Permanent Lung Juice Cocktail",
+  "quality": "Common",
+  "icon": "inv_drink_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Permanent Lung Juice Cocktail</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=30164\" class=\"q2\">Increases Stamina by 25 when consumed.</a></span><br><span class=\"q\">&quot;100% Grade A Lung Juice - Freshly Squeezed&quot;</span></td></tr></table>",
+  "url": "/item=23715/permanent-lung-juice-cocktail",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_12.jpg",
+  "id": "23715",
+  "slug": "permanent-lung-juice-cocktail"
+}

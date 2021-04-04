@@ -1,0 +1,10 @@
+{
+  "name": "Glowing Magical Bracelets",
+  "quality": "Rare",
+  "icon": "inv_bracer_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Glowing Magical Bracelets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->31</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->21 Armor</span><br><span><!--stat4-->+3 Strength</span><br><span><!--stat5-->+8 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->26<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">16</span></div></td></tr></table>",
+  "url": "/item=13106/glowing-magical-bracelets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_19.jpg",
+  "id": "13106",
+  "slug": "glowing-magical-bracelets"
+}

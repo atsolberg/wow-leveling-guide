@@ -1,0 +1,10 @@
+{
+  "name": "Mug O' Hurt",
+  "quality": "Rare",
+  "icon": "inv_drink_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Mug O' Hurt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->46</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->37 - 69 Damage</span></td>\n    <th>Speed <!--spd-->1.70</th>\n</tr></table><!--dps-->(31.18 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->41<br><span class=\"q2\">Chance on hit: <a href=\"/spell=13496\" class=\"q2\">Slows the target's movement by 50% for 10 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">36</span></div></td></tr></table>",
+  "url": "/item=4090/mug-o-hurt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_03.jpg",
+  "id": "4090",
+  "slug": "mug-o-hurt"
+}

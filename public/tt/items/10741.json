@@ -1,0 +1,10 @@
+{
+  "name": "Lordrec Helmet",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Lordrec Helmet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->53</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->113 Armor</span><br><span><!--stat3-->+16 Agility</span><br><span><!--stat7-->+10 Stamina</span><br><span><!--stat6-->+3 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneycopper\">63</span></div></td></tr></table>",
+  "url": "/item=10741/lordrec-helmet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_11.jpg",
+  "id": "10741",
+  "slug": "lordrec-helmet"
+}

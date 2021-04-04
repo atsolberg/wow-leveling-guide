@@ -1,0 +1,10 @@
+{
+  "name": "Pet Stone",
+  "quality": "Common",
+  "icon": "inv_stone_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pet Stone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when used<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=17469\" class=\"q2\">Summons your pet stone. &nbsp; It doesn't seem very active though...</a> (3 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=13343/pet-stone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_14.jpg",
+  "id": "13343",
+  "slug": "pet-stone"
+}

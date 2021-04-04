@@ -1,0 +1,10 @@
+{
+  "name": "(OLD)Wicked Throwing Dagger",
+  "quality": "Common",
+  "icon": "inv_weapon_shortblade_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">(OLD)Wicked Throwing Dagger</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->26</span><!--bo--><table width=\"100%\"><tr><td>Thrown</td><th><!--scstart2:16--><span class=\"q1\">Thrown</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->15 - 29 Frost Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(11.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->21<!--itemEffects:1--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div></td></tr></table>",
+  "url": "/item=3109/old-wicked-throwing-dagger",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_05.jpg",
+  "id": "3109",
+  "slug": "old-wicked-throwing-dagger"
+}

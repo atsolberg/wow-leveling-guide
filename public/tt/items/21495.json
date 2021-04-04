@@ -1,0 +1,10 @@
+{
+  "name": "Legplates of the Qiraji Command",
+  "quality": "Rare",
+  "icon": "inv_pants_plate_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Legplates of the Qiraji Command</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->71</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->644 Armor</span><br><span><!--stat4-->+20 Strength</span><br><span><!--stat7-->+13 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=7598\" class=\"q2\">Improves your chance to get a critical strike by 2%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">75</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: General Rajaxx</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 19.91%</div></td></tr></table>",
+  "url": "/item=21495/legplates-of-the-qiraji-command",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_plate_15.jpg",
+  "id": "21495",
+  "slug": "legplates-of-the-qiraji-command"
+}

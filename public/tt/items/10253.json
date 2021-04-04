@@ -1,0 +1,10 @@
+{
+  "name": "Master's Mantle",
+  "quality": "Uncommon",
+  "icon": "inv_shoulder_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Master's Mantle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->61 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">24</span></div></td></tr></table>",
+  "url": "/item=10253/masters-mantle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_09.jpg",
+  "id": "10253",
+  "slug": "masters-mantle"
+}

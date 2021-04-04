@@ -1,0 +1,10 @@
+{
+  "name": "Andron's Note",
+  "quality": "Common",
+  "icon": "inv_letter_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Andron's Note</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=10679/androns-note",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_08.jpg",
+  "id": "10679",
+  "slug": "androns-note"
+}

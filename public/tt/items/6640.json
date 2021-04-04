@@ -1,0 +1,10 @@
+{
+  "name": "Felstalker Hoof",
+  "quality": "Common",
+  "icon": "ability_warstomp",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Felstalker Hoof</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Felstalker</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 4.71%</div></td></tr></table>",
+  "url": "/item=6640/felstalker-hoof",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_warstomp.jpg",
+  "id": "6640",
+  "slug": "felstalker-hoof"
+}

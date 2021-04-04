@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Green Holiday Shirt",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pattern: Green Holiday Shirt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->38</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=197\" class=\"q1\">Tailoring</a> (190)<br><span class=\"q2\">Use: <a href=\"/spell=21946\" class=\"q2\">Teaches you how to sew a Green Holiday Shirt.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">75</span></div><br /><span class=\"q1\"><a href=\"/item=17723\">Green Holiday Shirt</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><table width=\"100%\"><tr><td>Shirt</td><th><!--scstart4:-8--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">50</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4305\">Bolt of Silk Cloth</a>&nbsp;(5), <a href=\"/item=2605\">Green Dye</a>&nbsp;(4), <a href=\"/item=4291\">Silken Thread</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=17724/pattern-green-holiday-shirt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "17724",
+  "slug": "pattern-green-holiday-shirt"
+}

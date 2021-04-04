@@ -1,0 +1,10 @@
+{
+  "name": "Green Linen Bracers",
+  "quality": "Common",
+  "icon": "inv_bracer_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Green Linen Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->12</span><!--bo--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->9 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 16 / 16</td></tr></table><table><tr><td>Requires Level <!--rlvl-->7<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">45</span></div></td></tr></table>",
+  "url": "/item=4308/green-linen-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_12.jpg",
+  "id": "4308",
+  "slug": "green-linen-bracers"
+}

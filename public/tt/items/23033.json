@@ -1,0 +1,10 @@
+{
+  "name": "Icy Scale Coif",
+  "quality": "Epic",
+  "icon": "inv_helmet_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Icy Scale Coif</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->83</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->425 Armor</span><br><span><!--stat3-->+18 Agility</span><br><span><!--stat7-->+24 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+44 Frost Resistance<!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">9</span> <span class=\"moneysilver\">31</span> <span class=\"moneycopper\">64</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Heigan the Unclean</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.88%</div></td></tr></table>",
+  "url": "/item=23033/icy-scale-coif",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_20.jpg",
+  "id": "23033",
+  "slug": "icy-scale-coif"
+}

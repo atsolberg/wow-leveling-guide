@@ -1,0 +1,10 @@
+{
+  "name": "Blackfang",
+  "quality": "Rare",
+  "icon": "inv_weapon_shortblade_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Blackfang</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br />Binds when equipped<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->17 - 32 Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(16.33 damage per second)<br><span><!--stat6-->+2 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><br>+5 Shadow Resistance<!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">33</span> <span class=\"moneycopper\">86</span></div></td></tr></table>",
+  "url": "/item=2236/blackfang",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_02.jpg",
+  "id": "2236",
+  "slug": "blackfang"
+}

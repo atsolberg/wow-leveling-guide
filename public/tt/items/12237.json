@@ -1,0 +1,10 @@
+{
+  "name": "Fine Crab Chunks",
+  "quality": "Common",
+  "icon": "inv_misc_food_51",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fine Crab Chunks</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=12237/fine-crab-chunks",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_51.jpg",
+  "id": "12237",
+  "slug": "fine-crab-chunks"
+}

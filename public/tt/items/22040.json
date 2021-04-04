@@ -1,0 +1,10 @@
+{
+  "name": "QAEnchant Cloak +15 Nature Resistance",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QAEnchant Cloak +15 Nature Resistance</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27119\" class=\"q2\">Permanently enchant a cloak to give 15 nature resistance.</a></span></td></tr></table>",
+  "url": "/item=22040/qaenchant-cloak-15-nature-resistance",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "22040",
+  "slug": "qaenchant-cloak-15-nature-resistance"
+}

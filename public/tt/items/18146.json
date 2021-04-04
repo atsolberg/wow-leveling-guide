@@ -1,0 +1,10 @@
+{
+  "name": "Darkspear Troll Mojo",
+  "quality": "Common",
+  "icon": "inv_potion_82",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Darkspear Troll Mojo</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 100</div></td></tr></table>",
+  "url": "/item=18146/darkspear-troll-mojo",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_82.jpg",
+  "id": "18146",
+  "slug": "darkspear-troll-mojo"
+}

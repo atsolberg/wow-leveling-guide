@@ -1,0 +1,10 @@
+{
+  "name": "Coarse Blasting Powder",
+  "quality": "Common",
+  "icon": "inv_misc_dust_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Coarse Blasting Powder</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=4364/coarse-blasting-powder",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_dust_02.jpg",
+  "id": "4364",
+  "slug": "coarse-blasting-powder"
+}

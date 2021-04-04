@@ -1,0 +1,10 @@
+{
+  "name": "Egg Nog",
+  "quality": "Common",
+  "icon": "inv_drink_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Egg Nog</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=21149\" class=\"q2\">Restores 61.2 health over 18 sec. &nbsp;Must remain seated while eating. &nbsp;If you spend at least 10 seconds eating you will become well fed and gain 2 Stamina and Spirit for 15 min. &nbsp;Also packs quite a kick...</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">9</span></div></td></tr></table>",
+  "url": "/item=17198/egg-nog",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_04.jpg",
+  "id": "17198",
+  "slug": "egg-nog"
+}

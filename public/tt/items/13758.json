@@ -1,0 +1,10 @@
+{
+  "name": "Raw Redgill",
+  "quality": "Common",
+  "icon": "inv_misc_fish_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Raw Redgill</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<br><span class=\"q2\">Use: <a href=\"/spell=1127\" class=\"q2\">Restores 874.8 health over 27 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">4</span></div></td></tr></table>",
+  "url": "/item=13758/raw-redgill",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_06.jpg",
+  "id": "13758",
+  "slug": "raw-redgill"
+}

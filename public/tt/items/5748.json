@@ -1,0 +1,10 @@
+{
+  "name": "Centaur Longbow",
+  "quality": "Uncommon",
+  "icon": "inv_weapon_bow_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Centaur Longbow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->16</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->9 - 18 Damage</span></td>\n    <th>Speed <!--spd-->2.20</th>\n</tr></table><!--dps-->(6.14 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->11<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">9</span></div></td></tr></table>",
+  "url": "/item=5748/centaur-longbow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_07.jpg",
+  "id": "5748",
+  "slug": "centaur-longbow"
+}

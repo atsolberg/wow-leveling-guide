@@ -1,0 +1,10 @@
+{
+  "name": "Gordok Inner Door Key",
+  "quality": "Common",
+  "icon": "inv_misc_key_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gordok Inner Door Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><br /><a href=\"/zone=2557\" class=\"q1\">Dire Maul</a><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Guard Mol'dar</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 48.23%</div></td></tr></table>",
+  "url": "/item=18268/gordok-inner-door-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_04.jpg",
+  "id": "18268",
+  "slug": "gordok-inner-door-key"
+}

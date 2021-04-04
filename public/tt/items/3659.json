@@ -1,0 +1,10 @@
+{
+  "name": "Worn Leather Book",
+  "quality": "Common",
+  "icon": "inv_misc_book_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Worn Leather Book</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Arm of Gri'lek&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Muckrake</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 1.96%</div></td></tr></table>",
+  "url": "/item=3659/worn-leather-book",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_07.jpg",
+  "id": "3659",
+  "slug": "worn-leather-book"
+}

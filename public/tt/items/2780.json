@@ -1,0 +1,10 @@
+{
+  "name": "Light Hunting Bow",
+  "quality": "Poor",
+  "icon": "inv_weapon_bow_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Light Hunting Bow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->5 - 10 Damage</span></td>\n    <th>Speed <!--spd-->1.70</th>\n</tr></table><!--dps-->(4.41 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->14<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">74</span></div></td></tr></table>",
+  "url": "/item=2780/light-hunting-bow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_02.jpg",
+  "id": "2780",
+  "slug": "light-hunting-bow"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Brilliant Sword of Zealotry",
+  "quality": "Common",
+  "icon": "inv_sword_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Brilliant Sword of Zealotry</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;The keenest of edges, meant to indiscriminately cleave through any foe, living or dead.&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Scarlet Praetorian</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 1.19%</div></td></tr></table>",
+  "url": "/item=22228/brilliant-sword-of-zealotry",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_01.jpg",
+  "id": "22228",
+  "slug": "brilliant-sword-of-zealotry"
+}

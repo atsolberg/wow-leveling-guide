@@ -1,0 +1,10 @@
+{
+  "name": "Razor Arrow",
+  "quality": "Common",
+  "icon": "inv_ammo_arrow_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Razor Arrow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->30</span><!--bo--><table width=\"100%\"><tr><td>Ammo</td><th><!--scstart6:2--><span class=\"q1\">Arrow</span><!--scend--></th></tr></table><span>Adds 7.5 damage per second</span>\n<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->25<!--itemEffects:1--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div></td></tr></table>",
+  "url": "/item=3030/razor-arrow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ammo_arrow_02.jpg",
+  "id": "3030",
+  "slug": "razor-arrow"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Coldridge Valley Gift Voucher",
+  "quality": "Common",
+  "icon": "inv_misc_gift_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Coldridge Valley Gift Voucher</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br /><a href=\"/quest=5841\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=14647/coldridge-valley-gift-voucher",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gift_01.jpg",
+  "id": "14647",
+  "slug": "coldridge-valley-gift-voucher"
+}

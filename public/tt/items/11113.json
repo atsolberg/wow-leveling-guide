@@ -1,0 +1,10 @@
+{
+  "name": "Crate of Foodstuffs",
+  "quality": "Common",
+  "icon": "inv_crate_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Crate of Foodstuffs</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Property of Marshal Expeditions.&quot;</span></td></tr></table>",
+  "url": "/item=11113/crate-of-foodstuffs",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crate_04.jpg",
+  "id": "11113",
+  "slug": "crate-of-foodstuffs"
+}

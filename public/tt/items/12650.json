@@ -1,0 +1,10 @@
+{
+  "name": "Attuned Dampener",
+  "quality": "Common",
+  "icon": "inv_shield_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Attuned Dampener</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=16629\" class=\"q2\">Inflict 525 to 675 arcane damage on the attuned target, and lower the damage it deals by 25%.</a> (1 Min Cooldown)</span><br><span class=\"q\">&quot;This object has been attuned to work against a specific being.&quot;</span></td></tr></table>",
+  "url": "/item=12650/attuned-dampener",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_15.jpg",
+  "id": "12650",
+  "slug": "attuned-dampener"
+}

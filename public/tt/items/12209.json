@@ -1,0 +1,10 @@
+{
+  "name": "Lean Wolf Steak",
+  "quality": "Common",
+  "icon": "inv_misc_food_47",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Lean Wolf Steak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><span class=\"q2\">Use: <a href=\"/spell=5006\" class=\"q2\">Restores 552 health over 24 sec. &nbsp;Must remain seated while eating. &nbsp;If you spend at least 10 seconds eating you will become well fed and gain 6 Stamina and Spirit for 15 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">95</span></div></td></tr></table>",
+  "url": "/item=12209/lean-wolf-steak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_47.jpg",
+  "id": "12209",
+  "slug": "lean-wolf-steak"
+}

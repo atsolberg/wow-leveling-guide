@@ -1,0 +1,10 @@
+{
+  "name": "Dreamless Sleep Potion",
+  "quality": "Common",
+  "icon": "inv_potion_83",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dreamless Sleep Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<br><span class=\"q2\">Use: <a href=\"/spell=15822\" class=\"q2\">Puts the imbiber in a dreamless sleep for 12 sec. &nbsp;During that time the imbiber heals 1200 health and 1200 mana.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=12190/dreamless-sleep-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_83.jpg",
+  "id": "12190",
+  "slug": "dreamless-sleep-potion"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Stonewall Girdle",
+  "quality": "Rare",
+  "icon": "inv_belt_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Stonewall Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->484 Armor</span><br><span><!--stat7-->+12 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">73</span> <span class=\"moneycopper\">78</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Grizzle</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 30.89%</div></td></tr></table>",
+  "url": "/item=11703/stonewall-girdle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_16.jpg",
+  "id": "11703",
+  "slug": "stonewall-girdle"
+}

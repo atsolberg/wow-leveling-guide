@@ -1,0 +1,10 @@
+{
+  "name": "Scimitar",
+  "quality": "Common",
+  "icon": "inv_sword_33",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Scimitar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:7--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->14 - 26 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(8.70 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->14<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">63</span></div></td></tr></table>",
+  "url": "/item=2027/scimitar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_33.jpg",
+  "id": "2027",
+  "slug": "scimitar"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Sandstalker Breastplate",
+  "quality": "Rare",
+  "icon": "inv_chest_plate07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Sandstalker Breastplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->485 Armor</span><br><span><!--stat7-->+13 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+25 Nature Resistance<!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">39</span> <span class=\"moneycopper\">17</span></div></td></tr></table>",
+  "url": "/item=20478/sandstalker-breastplate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_plate07.jpg",
+  "id": "20478",
+  "slug": "sandstalker-breastplate"
+}

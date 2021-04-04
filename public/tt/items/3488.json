@@ -1,0 +1,10 @@
+{
+  "name": "Copper Battle Axe",
+  "quality": "Uncommon",
+  "icon": "inv_throwingaxe_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Copper Battle Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->13</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->23 - 35 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(9.06 damage per second)<br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->8<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">13</span></div></td></tr></table>",
+  "url": "/item=3488/copper-battle-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_throwingaxe_02.jpg",
+  "id": "3488",
+  "slug": "copper-battle-axe"
+}

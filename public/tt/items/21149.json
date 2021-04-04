@@ -1,0 +1,10 @@
+{
+  "name": "Fragment of the Nightmare's Corruption",
+  "quality": "Common",
+  "icon": "spell_shadow_antimagicshell",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fragment of the Nightmare's Corruption</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;-Duskwood&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Twilight Corrupter</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 60.96%</div></td></tr></table>",
+  "url": "/item=21149/fragment-of-the-nightmares-corruption",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_antimagicshell.jpg",
+  "id": "21149",
+  "slug": "fragment-of-the-nightmares-corruption"
+}

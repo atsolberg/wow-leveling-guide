@@ -1,0 +1,10 @@
+{
+  "name": "Staff of Nobles",
+  "quality": "Uncommon",
+  "icon": "inv_wand_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Staff of Nobles</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->30 - 46 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(11.88 damage per second)<br><span><!--stat7-->+2 Stamina</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->13<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">13</span> <span class=\"moneycopper\">17</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Brainwashed Noble</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 23.25%</div></td></tr></table>",
+  "url": "/item=3902/staff-of-nobles",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_04.jpg",
+  "id": "3902",
+  "slug": "staff-of-nobles"
+}

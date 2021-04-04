@@ -1,0 +1,10 @@
+{
+  "name": "Destroyed Red Scepter Shard",
+  "quality": "Poor",
+  "icon": "inv_misc_gem_ruby_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Destroyed Red Scepter Shard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=21141/destroyed-red-scepter-shard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_ruby_03.jpg",
+  "id": "21141",
+  "slug": "destroyed-red-scepter-shard"
+}

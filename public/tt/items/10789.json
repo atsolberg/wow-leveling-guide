@@ -1,0 +1,10 @@
+{
+  "name": "Manual of Engineering Disciplines",
+  "quality": "Common",
+  "icon": "inv_misc_book_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Manual of Engineering Disciplines</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=10789/manual-of-engineering-disciplines",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_10.jpg",
+  "id": "10789",
+  "slug": "manual-of-engineering-disciplines"
+}

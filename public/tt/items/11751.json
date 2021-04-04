@@ -1,0 +1,10 @@
+{
+  "name": "Burning Essence",
+  "quality": "Common",
+  "icon": "spell_fire_lavaspawn",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Burning Essence</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;The smoldering remains of something...&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div></td></tr></table>",
+  "url": "/item=11751/burning-essence",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_fire_lavaspawn.jpg",
+  "id": "11751",
+  "slug": "burning-essence"
+}

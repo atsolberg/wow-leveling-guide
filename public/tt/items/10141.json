@@ -1,0 +1,10 @@
+{
+  "name": "High Councillor's Pants",
+  "quality": "Uncommon",
+  "icon": "inv_pants_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">High Councillor's Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->71 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">3</span></div></td></tr></table>",
+  "url": "/item=10141/high-councillors-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_13.jpg",
+  "id": "10141",
+  "slug": "high-councillors-pants"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Blue Overalls",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pattern: Blue Overalls</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=197\" class=\"q1\">Tailoring</a> (100)<br><span class=\"q2\">Use: <a href=\"/spell=7640\" class=\"q2\">Teaches you how to sew Blue Overalls.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span></div><br /><span class=\"q2\"><a href=\"/item=6263\">Blue Overalls</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->34 Armor</span><br><span><!--stat4-->+4 Strength</span><br><span><!--stat7-->+4 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60<br>Requires Level <!--rlvl-->15<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">89</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=2997\">Bolt of Woolen Cloth</a>&nbsp;(4), <a href=\"/item=2321\">Fine Thread</a>&nbsp;(2), <a href=\"/item=6260\">Blue Dye</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=6274/pattern-blue-overalls",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "6274",
+  "slug": "pattern-blue-overalls"
+}

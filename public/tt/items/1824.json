@@ -1,0 +1,10 @@
+{
+  "name": "Shiny War Axe",
+  "quality": "Poor",
+  "icon": "inv_axe_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Shiny War Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->17 - 26 Damage</span></td>\n    <th>Speed <!--spd-->2.40</th>\n</tr></table><!--dps-->(8.96 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">4</span></div></td></tr></table>",
+  "url": "/item=1824/shiny-war-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_18.jpg",
+  "id": "1824",
+  "slug": "shiny-war-axe"
+}

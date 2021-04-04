@@ -1,0 +1,10 @@
+{
+  "name": "Cluster Launcher",
+  "quality": "Common",
+  "icon": "inv_misc_enggizmos_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Cluster Launcher</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=26299\" class=\"q2\">Place on the ground to launch cluster rockets. &nbsp;Lasts 30 minutes.</a></span></td></tr></table>",
+  "url": "/item=21570/cluster-launcher",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_enggizmos_03.jpg",
+  "id": "21570",
+  "slug": "cluster-launcher"
+}

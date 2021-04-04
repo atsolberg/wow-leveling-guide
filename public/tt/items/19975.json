@@ -1,0 +1,10 @@
+{
+  "name": "Zulian Mudskunk",
+  "quality": "Common",
+  "icon": "inv_misc_fish_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Zulian Mudskunk</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=19975/zulian-mudskunk",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_05.jpg",
+  "id": "19975",
+  "slug": "zulian-mudskunk"
+}

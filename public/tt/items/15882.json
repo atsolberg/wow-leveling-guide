@@ -1,0 +1,10 @@
+{
+  "name": "Half Pendant of Aquatic Endurance",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Half Pendant of Aquatic Endurance</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;The pendant is missing its aquatic counterpart.&quot;</span></td></tr></table>",
+  "url": "/item=15882/half-pendant-of-aquatic-endurance",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_09.jpg",
+  "id": "15882",
+  "slug": "half-pendant-of-aquatic-endurance"
+}

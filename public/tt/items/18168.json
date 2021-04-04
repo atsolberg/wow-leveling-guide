@@ -1,0 +1,10 @@
+{
+  "name": "Force Reactive Disk",
+  "quality": "Epic",
+  "icon": "spell_arcane_portaldarnassus",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Force Reactive Disk</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->2548 Armor</span><br>44 Block<br><span><!--stat7-->+11 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (300)<br><span class=\"q2\">Equip: <a href=\"/spell=22618\" class=\"q2\">When the shield blocks it releases an electrical charge that damages all nearby enemies. &nbsp; This also has a chance of damaging the shield.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">64</span> <span class=\"moneycopper\">16</span></div></td></tr></table>",
+  "url": "/item=18168/force-reactive-disk",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_arcane_portaldarnassus.jpg",
+  "id": "18168",
+  "slug": "force-reactive-disk"
+}

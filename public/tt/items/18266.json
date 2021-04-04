@@ -1,0 +1,10 @@
+{
+  "name": "Gordok Courtyard Key",
+  "quality": "Common",
+  "icon": "inv_misc_key_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gordok Courtyard Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><br /><a href=\"/zone=2557\" class=\"q1\">Dire Maul</a><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Guard Fengus</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 1.10%</div></td></tr></table>",
+  "url": "/item=18266/gordok-courtyard-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_02.jpg",
+  "id": "18266",
+  "slug": "gordok-courtyard-key"
+}

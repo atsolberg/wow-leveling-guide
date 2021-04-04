@@ -1,0 +1,10 @@
+{
+  "name": "Slayer's Cape",
+  "quality": "Uncommon",
+  "icon": "inv_misc_cape_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Slayer's Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->20 Armor</span><br><span><!--stat4-->+4 Strength</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->22<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">78</span></div></td></tr></table>",
+  "url": "/item=14752/slayers-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_08.jpg",
+  "id": "14752",
+  "slug": "slayers-cape"
+}

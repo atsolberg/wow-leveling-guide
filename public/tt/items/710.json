@@ -1,0 +1,10 @@
+{
+  "name": "Bracers of the People's Militia",
+  "quality": "Common",
+  "icon": "inv_bracer_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bracers of the People's Militia</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->14</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->11 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 18 / 18</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">72</span></div></td></tr></table>",
+  "url": "/item=710/bracers-of-the-peoples-militia",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_11.jpg",
+  "id": "710",
+  "slug": "bracers-of-the-peoples-militia"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Scroll of Protection III",
+  "quality": "Common",
+  "icon": "inv_scroll_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Scroll of Protection III</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<br><span class=\"q2\">Use: <a href=\"/spell=8095\" class=\"q2\">Increases the target's Armor by 180 for 30 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span></div></td></tr></table>",
+  "url": "/item=4421/scroll-of-protection-iii",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_07.jpg",
+  "id": "4421",
+  "slug": "scroll-of-protection-iii"
+}

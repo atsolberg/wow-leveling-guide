@@ -1,0 +1,10 @@
+{
+  "name": "Killmaim",
+  "quality": "Rare",
+  "icon": "inv_axe_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Killmaim</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->26</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->55 - 84 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(21.72 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 95 / 95</td></tr></table><table><tr><td>Requires Level <!--rlvl-->21<br><span class=\"q2\">Chance on hit: <a href=\"/spell=13318\" class=\"q2\">Wounds the target causing them to bleed for 100 damage over 30 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">47</span> <span class=\"moneycopper\">71</span></div></td></tr></table>",
+  "url": "/item=13016/killmaim",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_10.jpg",
+  "id": "13016",
+  "slug": "killmaim"
+}

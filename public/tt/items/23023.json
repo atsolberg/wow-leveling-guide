@@ -1,0 +1,10 @@
+{
+  "name": "Sadist's Collar",
+  "quality": "Epic",
+  "icon": "inv_jewelry_necklace_29naxxramas",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Sadist's Collar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->83</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat7-->+24 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=9331\" class=\"q2\">+20 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">8</span> <span class=\"moneysilver\">64</span> <span class=\"moneycopper\">43</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Gothik the Harvester</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 20.28%</div></td></tr></table>",
+  "url": "/item=23023/sadists-collar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_29naxxramas.jpg",
+  "id": "23023",
+  "slug": "sadists-collar"
+}

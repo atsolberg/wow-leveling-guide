@@ -1,0 +1,11 @@
+{
+  "name": "Tome of Arcane Intellect",
+  "quality": "Common",
+  "icon": "inv_misc_book_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tome of Arcane Intellect</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=8\" class=\"c8\">Mage</a></div></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=3065\" class=\"q2\">Teaches Arcane Intellect (Rank 2).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">2</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=8802/tome-of-arcane-intellect",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_07.jpg",
+  "id": "8802",
+  "slug": "tome-of-arcane-intellect"
+}

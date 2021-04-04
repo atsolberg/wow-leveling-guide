@@ -1,0 +1,10 @@
+{
+  "name": "Blue Scepter Shard",
+  "quality": "Epic",
+  "icon": "inv_misc_gem_sapphire_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Blue Scepter Shard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Maws</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 95.78%</div></td></tr></table>",
+  "url": "/item=21137/blue-scepter-shard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_sapphire_03.jpg",
+  "id": "21137",
+  "slug": "blue-scepter-shard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Orb of Power",
+  "quality": "Uncommon",
+  "icon": "inv_ore_arcanite_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Orb of Power</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->26</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat5-->+4 Intellect</span><br><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->21<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span></div></td></tr></table>",
+  "url": "/item=4838/orb-of-power",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ore_arcanite_02.jpg",
+  "id": "4838",
+  "slug": "orb-of-power"
+}

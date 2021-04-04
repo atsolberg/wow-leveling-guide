@@ -1,0 +1,10 @@
+{
+  "name": "Light Crossbow",
+  "quality": "Common",
+  "icon": "inv_weapon_crossbow_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Light Crossbow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->8</span><!--bo--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:18--><span class=\"q1\">Crossbow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->6 - 7 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(2.60 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->3<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">58</span></div></td></tr></table>",
+  "url": "/item=15807/light-crossbow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_crossbow_02.jpg",
+  "id": "15807",
+  "slug": "light-crossbow"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Schematic: Large Red Rocket",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Schematic: Large Red Rocket</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (175)<br><span class=\"q2\">Use: <a href=\"/spell=26434\" class=\"q2\">Teaches you how to make a Large Red Rocket.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">75</span></div><br /><span class=\"q1\"><a href=\"/item=21592\">Large Red Rocket</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br><span class=\"q2\">Use: <a href=\"/spell=26336\" class=\"q2\">Throw into a firework launcher!</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">12</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4377\">Heavy Blasting Powder</a>, <a href=\"/item=4234\">Heavy Leather</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=21729/schematic-large-red-rocket",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "21729",
+  "slug": "schematic-large-red-rocket"
+}

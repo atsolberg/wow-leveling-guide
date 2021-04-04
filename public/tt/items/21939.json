@@ -1,0 +1,10 @@
+{
+  "name": "Fel Elemental Rod",
+  "quality": "Common",
+  "icon": "inv_staff_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fel Elemental Rod</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Fel and Elemental, two great tastes...&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">10</span></div></td></tr></table>",
+  "url": "/item=21939/fel-elemental-rod",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_18.jpg",
+  "id": "21939",
+  "slug": "fel-elemental-rod"
+}

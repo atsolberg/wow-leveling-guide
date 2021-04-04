@@ -1,0 +1,10 @@
+{
+  "name": "Poniard",
+  "quality": "Common",
+  "icon": "inv_sword_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Poniard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->7 - 15 Damage</span></td>\n    <th>Speed <!--spd-->1.30</th>\n</tr></table><!--dps-->(8.46 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->14<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">30</span></div></td></tr></table>",
+  "url": "/item=2208/poniard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_12.jpg",
+  "id": "2208",
+  "slug": "poniard"
+}

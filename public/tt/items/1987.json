@@ -1,0 +1,10 @@
+{
+  "name": "Krazek's Fixed Pot",
+  "quality": "Common",
+  "icon": "inv_misc_urn_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Krazek's Fixed Pot</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;An improved pot, with extra whistles and choppers.&quot;</span></td></tr></table>",
+  "url": "/item=1987/krazeks-fixed-pot",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_urn_01.jpg",
+  "id": "1987",
+  "slug": "krazeks-fixed-pot"
+}

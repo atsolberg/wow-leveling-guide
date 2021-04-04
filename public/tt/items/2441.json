@@ -1,0 +1,10 @@
+{
+  "name": "Ringed Buckler",
+  "quality": "Common",
+  "icon": "inv_shield_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ringed Buckler</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->413 Armor</span><br>7 Block<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">29</span></div></td></tr></table>",
+  "url": "/item=2441/ringed-buckler",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_10.jpg",
+  "id": "2441",
+  "slug": "ringed-buckler"
+}

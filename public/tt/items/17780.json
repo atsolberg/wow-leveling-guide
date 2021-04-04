@@ -1,0 +1,10 @@
+{
+  "name": "Blade of Eternal Darkness",
+  "quality": "Epic",
+  "icon": "inv_sword_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Blade of Eternal Darkness</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->54</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->34 - 70 Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(34.67 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->49<br><span class=\"q2\">Equip: <a href=\"/spell=21978\" class=\"q2\">Chance on landing a damaging spell to deal 100 Shadow damage and restore 100 mana to you.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">67</span> <span class=\"moneycopper\">96</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Princess Theradras</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 0.29%</div></td></tr></table>",
+  "url": "/item=17780/blade-of-eternal-darkness",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_09.jpg",
+  "id": "17780",
+  "slug": "blade-of-eternal-darkness"
+}

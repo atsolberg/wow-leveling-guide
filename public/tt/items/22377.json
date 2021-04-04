@@ -1,0 +1,10 @@
+{
+  "name": "The Thunderwood Poker",
+  "quality": "Rare",
+  "icon": "inv_sword_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">The Thunderwood Poker</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->53 - 100 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(42.50 damage per second)<br><span><!--stat3-->+13 Agility</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">49</span> <span class=\"moneycopper\">76</span></div></td></tr></table>",
+  "url": "/item=22377/the-thunderwood-poker",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_17.jpg",
+  "id": "22377",
+  "slug": "the-thunderwood-poker"
+}

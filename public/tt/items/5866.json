@@ -1,0 +1,10 @@
+{
+  "name": "Sample of Indurium Ore",
+  "quality": "Common",
+  "icon": "inv_ore_mithril_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sample of Indurium Ore</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=5866/sample-of-indurium-ore",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ore_mithril_01.jpg",
+  "id": "5866",
+  "slug": "sample-of-indurium-ore"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "47 Pound Grouper",
+  "quality": "Common",
+  "icon": "inv_misc_fish_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">47 Pound Grouper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">30</span></div></td></tr></table>",
+  "url": "/item=13877/47-pound-grouper",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_06.jpg",
+  "id": "13877",
+  "slug": "47-pound-grouper"
+}

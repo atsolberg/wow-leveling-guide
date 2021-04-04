@@ -1,0 +1,10 @@
+{
+  "name": "Frostbite Girdle",
+  "quality": "Rare",
+  "icon": "inv_belt_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Frostbite Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->98 Armor</span><br><span><!--stat4-->+5 Strength</span><br><span><!--stat3-->+15 Agility</span><br><span><!--stat7-->+15 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Frost Resistance<!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">51</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ras Frostwhisper</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 15.69%</div></td></tr></table>",
+  "url": "/item=14502/frostbite-girdle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_10.jpg",
+  "id": "14502",
+  "slug": "frostbite-girdle"
+}

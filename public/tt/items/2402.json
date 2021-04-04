@@ -1,0 +1,10 @@
+{
+  "name": "Light Chain Bracers",
+  "quality": "Common",
+  "icon": "inv_bracer_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Light Chain Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->45 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">43</span></div></td></tr></table>",
+  "url": "/item=2402/light-chain-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_05.jpg",
+  "id": "2402",
+  "slug": "light-chain-bracers"
+}

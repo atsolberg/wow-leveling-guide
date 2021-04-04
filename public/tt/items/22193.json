@@ -1,0 +1,10 @@
+{
+  "name": "Bloodkelp Elixir of Resistance",
+  "quality": "Common",
+  "icon": "inv_potion_21",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bloodkelp Elixir of Resistance</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27652\" class=\"q2\">Increases all magical resistances by 15 for 30 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div></td></tr></table>",
+  "url": "/item=22193/bloodkelp-elixir-of-resistance",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_21.jpg",
+  "id": "22193",
+  "slug": "bloodkelp-elixir-of-resistance"
+}

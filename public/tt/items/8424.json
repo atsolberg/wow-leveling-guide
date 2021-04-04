@@ -1,0 +1,10 @@
+{
+  "name": "Gizzard Gum",
+  "quality": "Common",
+  "icon": "inv_misc_food_30",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gizzard Gum</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=10693\" class=\"q2\">Increases Spirit by 25 when consumed. Effect lasts for 60 minutes.</a> (1 Hour Cooldown)</span><br><span class=\"q\">&quot;Strawberry Flavor&quot;</span></td></tr></table>",
+  "url": "/item=8424/gizzard-gum",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_30.jpg",
+  "id": "8424",
+  "slug": "gizzard-gum"
+}

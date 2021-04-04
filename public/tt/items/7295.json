@@ -1,0 +1,10 @@
+{
+  "name": "Tazan's Logbook",
+  "quality": "Common",
+  "icon": "inv_misc_book_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tazan's Logbook</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=7295/tazans-logbook",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_10.jpg",
+  "id": "7295",
+  "slug": "tazans-logbook"
+}

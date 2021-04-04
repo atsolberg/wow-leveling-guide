@@ -1,0 +1,11 @@
+{
+  "name": "Libram: Lay on Hands",
+  "quality": "Common",
+  "icon": "inv_misc_book_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Libram: Lay on Hands</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=2\" class=\"c2\">Paladin</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<br><span class=\"q2\">Use: <a href=\"/spell=656\" class=\"q2\">Teaches Holy Light (Rank 2).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=8910/libram-lay-on-hands",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_08.jpg",
+  "id": "8910",
+  "slug": "libram-lay-on-hands"
+}

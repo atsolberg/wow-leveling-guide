@@ -1,0 +1,10 @@
+{
+  "name": "Band of Resolution",
+  "quality": "Rare",
+  "icon": "inv_jewelry_ring_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Band of Resolution</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->66</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat7-->+18 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=13383\" class=\"q2\">Increased Defense +5.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">9</span></div></td></tr></table>",
+  "url": "/item=22680/band-of-resolution",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_ring_01.jpg",
+  "id": "22680",
+  "slug": "band-of-resolution"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Tablet of Sael'hai",
+  "quality": "Common",
+  "icon": "inv_misc_stonetablet_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tablet of Sael'hai</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=10541/tablet-of-saelhai",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_stonetablet_02.jpg",
+  "id": "10541",
+  "slug": "tablet-of-saelhai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Studded Gloves",
+  "quality": "Common",
+  "icon": "inv_gauntlets_25",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Studded Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->62 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">66</span></div></td></tr></table>",
+  "url": "/item=2469/studded-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_25.jpg",
+  "id": "2469",
+  "slug": "studded-gloves"
+}

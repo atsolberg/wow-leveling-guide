@@ -1,0 +1,10 @@
+{
+  "name": "Champion's Cape",
+  "quality": "Uncommon",
+  "icon": "inv_misc_cape_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Champion's Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->44</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->29 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->39<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">42</span> <span class=\"moneycopper\">96</span></div></td></tr></table>",
+  "url": "/item=7544/champions-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_11.jpg",
+  "id": "7544",
+  "slug": "champions-cape"
+}

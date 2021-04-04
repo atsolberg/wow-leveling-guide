@@ -1,0 +1,11 @@
+{
+  "name": "Formula: Enchant Shield - Greater Stamina",
+  "quality": "Common",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Formula: Enchant Shield - Greater Stamina</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->53</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=333\" class=\"q1\">Enchanting</a> (265)<br><span class=\"q2\">Use: <a href=\"/spell=20069\" class=\"q2\">Teaches you how to permanently enchant a shield to grant +7 Stamina.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=16217/formula-enchant-shield-greater-stamina",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "16217",
+  "slug": "formula-enchant-shield-greater-stamina"
+}

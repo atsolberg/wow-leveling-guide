@@ -1,0 +1,10 @@
+{
+  "name": "Eggscilloscope",
+  "quality": "Common",
+  "icon": "inv_gizmo_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Eggscilloscope</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=15748\" class=\"q2\">Freeze a nearby Rookery Egg.</a> (5 Sec Cooldown)</span></td></tr></table>",
+  "url": "/item=12144/eggscilloscope",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_09.jpg",
+  "id": "12144",
+  "slug": "eggscilloscope"
+}

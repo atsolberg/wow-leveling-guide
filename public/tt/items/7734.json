@@ -1,0 +1,10 @@
+{
+  "name": "Six Demon Bag",
+  "quality": "Rare",
+  "icon": "inv_misc_bag_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Six Demon Bag</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->51</span><!--bo--><br />Binds when equipped<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->46<br><span class=\"q2\">Use: <a href=\"/spell=14537\" class=\"q2\">Blasts enemies in front of you with the power of wind, fire, all that kind of thing!</a> (30 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">54</span> <span class=\"moneycopper\">95</span></div></td></tr></table>",
+  "url": "/item=7734/six-demon-bag",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_01.jpg",
+  "id": "7734",
+  "slug": "six-demon-bag"
+}

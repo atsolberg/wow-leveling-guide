@@ -1,0 +1,10 @@
+{
+  "name": "Worn Cloak",
+  "quality": "Poor",
+  "icon": "inv_misc_cape_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Worn Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->13 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">88</span></div></td></tr></table>",
+  "url": "/item=1733/worn-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_08.jpg",
+  "id": "1733",
+  "slug": "worn-cloak"
+}

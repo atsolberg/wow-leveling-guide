@@ -1,0 +1,10 @@
+{
+  "name": "Razzashi Coin",
+  "quality": "Uncommon",
+  "icon": "inv_misc_coin_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Razzashi Coin</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;One of the lesser Paragons of Power from the Gurubashi Empire.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div></td></tr></table>",
+  "url": "/item=19699/razzashi-coin",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_coin_10.jpg",
+  "id": "19699",
+  "slug": "razzashi-coin"
+}

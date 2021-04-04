@@ -1,0 +1,10 @@
+{
+  "name": "Libram of Fervor",
+  "quality": "Rare",
+  "icon": "inv_relics_libramoftruth",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Libram of Fervor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when equipped<br />Unique<table width=\"100%\"><tr><td>Relic</td><th><!--scstart4:7--><span class=\"q1\">Libram</span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=28852\" class=\"q2\">Increases the melee attack power bonus of your Seal of the Crusader by 48 and the Holy damage increase of your Judgement of the Crusader by 33.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">91</span> <span class=\"moneycopper\">38</span></div></td></tr></table>",
+  "url": "/item=23203/libram-of-fervor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_relics_libramoftruth.jpg",
+  "id": "23203",
+  "slug": "libram-of-fervor"
+}

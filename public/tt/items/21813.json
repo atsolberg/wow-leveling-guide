@@ -1,0 +1,10 @@
+{
+  "name": "Bag of Candies",
+  "quality": "Common",
+  "icon": "inv_valentinescandysack",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bag of Candies</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=26678\" class=\"q2\">Pick a piece of candy from the bag.</a> (1 Min Cooldown)</span><br />10 Charges<div class=\"whtt-extra whtt-droppedby\">Dropped by: Crildor</div></td></tr></table>",
+  "url": "/item=21813/bag-of-candies",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_valentinescandysack.jpg",
+  "id": "21813",
+  "slug": "bag-of-candies"
+}

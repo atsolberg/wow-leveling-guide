@@ -1,0 +1,10 @@
+{
+  "name": "Captain Sander's Shirt",
+  "quality": "Common",
+  "icon": "inv_shirt_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Captain Sander's Shirt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Shirt</td><th><!--scstart4:-8--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">37</span></div></td></tr></table>",
+  "url": "/item=3342/captain-sanders-shirt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_14.jpg",
+  "id": "3342",
+  "slug": "captain-sanders-shirt"
+}

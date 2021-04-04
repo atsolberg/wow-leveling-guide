@@ -1,0 +1,10 @@
+{
+  "name": "Undamaged Hippogryph Feather",
+  "quality": "Common",
+  "icon": "inv_feather_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Undamaged Hippogryph Feather</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">96</span></div></td></tr></table>",
+  "url": "/item=10450/undamaged-hippogryph-feather",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_feather_08.jpg",
+  "id": "10450",
+  "slug": "undamaged-hippogryph-feather"
+}

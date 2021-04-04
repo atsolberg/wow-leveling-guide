@@ -1,0 +1,10 @@
+{
+  "name": "Red Ribboned Gift",
+  "quality": "Common",
+  "icon": "inv_misc_gift_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Red Ribboned Gift</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=5043/red-ribboned-gift",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gift_01.jpg",
+  "id": "5043",
+  "slug": "red-ribboned-gift"
+}

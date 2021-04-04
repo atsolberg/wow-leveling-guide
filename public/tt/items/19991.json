@@ -1,0 +1,10 @@
+{
+  "name": "Devilsaur Eye",
+  "quality": "Rare",
+  "icon": "inv_misc_eye_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Devilsaur Eye</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->52</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=24352\" class=\"q2\">Increases your attack power by 150 and your chance to hit by 2%. &nbsp;Effect lasts for 20 sec.</a> (2 Min Cooldown)</span><!--itemEffects:1--></td></tr></table>",
+  "url": "/item=19991/devilsaur-eye",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_eye_01.jpg",
+  "id": "19991",
+  "slug": "devilsaur-eye"
+}

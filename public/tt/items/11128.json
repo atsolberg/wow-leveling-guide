@@ -1,0 +1,10 @@
+{
+  "name": "Golden Rod",
+  "quality": "Common",
+  "icon": "inv_staff_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Golden Rod</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Needed by Enchanters.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div></td></tr></table>",
+  "url": "/item=11128/golden-rod",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_10.jpg",
+  "id": "11128",
+  "slug": "golden-rod"
+}

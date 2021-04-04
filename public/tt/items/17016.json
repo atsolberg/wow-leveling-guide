@@ -1,0 +1,10 @@
+{
+  "name": "Dark Iron Destroyer",
+  "quality": "Rare",
+  "icon": "inv_axe_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Dark Iron Destroyer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->71 - 134 Damage</span></td>\n    <th>Speed <!--spd-->2.40</th>\n</tr></table><!--dps-->(42.71 damage per second)<br><span><!--stat4-->+10 Strength</span><!--ebstats--><!--egstats--><!--eistats--><br>+6 Fire Resistance<!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">39</span> <span class=\"moneycopper\">73</span></div></td></tr></table>",
+  "url": "/item=17016/dark-iron-destroyer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_12.jpg",
+  "id": "17016",
+  "slug": "dark-iron-destroyer"
+}

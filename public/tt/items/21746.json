@@ -1,0 +1,10 @@
+{
+  "name": "Lucky Red Envelope",
+  "quality": "Common",
+  "icon": "inv_misc_luckymoneyenvelope",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Lucky Red Envelope</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=21746/lucky-red-envelope",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_luckymoneyenvelope.jpg",
+  "id": "21746",
+  "slug": "lucky-red-envelope"
+}

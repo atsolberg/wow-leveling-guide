@@ -1,0 +1,10 @@
+{
+  "name": "Gemstone of Smolderthorn",
+  "quality": "Uncommon",
+  "icon": "inv_misc_gem_opal_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Gemstone of Smolderthorn</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: War Master Voone</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 33.98%</div></td></tr></table>",
+  "url": "/item=12335/gemstone-of-smolderthorn",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_opal_01.jpg",
+  "id": "12335",
+  "slug": "gemstone-of-smolderthorn"
+}

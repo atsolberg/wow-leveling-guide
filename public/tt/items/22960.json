@@ -1,0 +1,10 @@
+{
+  "name": "Cloak of Suturing",
+  "quality": "Epic",
+  "icon": "inv_misc_cape_naxxramas_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Cloak of Suturing</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->83</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->63 Armor</span><br><span><!--stat5-->+12 Intellect</span><br><span><!--stat6-->+12 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=18034\" class=\"q2\">Increases healing done by spells and effects by up to 48.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=21363\" class=\"q2\">Restores 5 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">20</span> <span class=\"moneycopper\">91</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Patchwerk</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.96%</div></td></tr></table>",
+  "url": "/item=22960/cloak-of-suturing",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_naxxramas_02.jpg",
+  "id": "22960",
+  "slug": "cloak-of-suturing"
+}

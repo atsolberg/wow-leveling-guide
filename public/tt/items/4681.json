@@ -1,0 +1,10 @@
+{
+  "name": "Brackwater Girdle",
+  "quality": "Common",
+  "icon": "inv_belt_25",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Brackwater Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->14</span><!--bo--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->73 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->9<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">9</span></div></td></tr></table>",
+  "url": "/item=4681/brackwater-girdle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_25.jpg",
+  "id": "4681",
+  "slug": "brackwater-girdle"
+}

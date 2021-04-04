@@ -1,0 +1,10 @@
+{
+  "name": "Jagged Dagger",
+  "quality": "Uncommon",
+  "icon": "inv_weapon_shortblade_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Jagged Dagger</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->6 - 12 Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(6.00 damage per second)<br><span><!--stat4-->+1 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=4947/jagged-dagger",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_02.jpg",
+  "id": "4947",
+  "slug": "jagged-dagger"
+}

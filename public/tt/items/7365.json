@@ -1,0 +1,10 @@
+{
+  "name": "Gnoam Sprecklesprocket",
+  "quality": "Common",
+  "icon": "inv_gizmo_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gnoam Sprecklesprocket</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Sneed's Shredder</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 44.93%</div></td></tr></table>",
+  "url": "/item=7365/gnoam-sprecklesprocket",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_01.jpg",
+  "id": "7365",
+  "slug": "gnoam-sprecklesprocket"
+}

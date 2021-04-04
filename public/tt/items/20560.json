@@ -1,0 +1,10 @@
+{
+  "name": "Alterac Valley Mark of Honor",
+  "quality": "Uncommon",
+  "icon": "inv_jewelry_necklace_21",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Alterac Valley Mark of Honor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique (20)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Medal awarded for fighting in Alterac Valley&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=20560/alterac-valley-mark-of-honor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_21.jpg",
+  "id": "20560",
+  "slug": "alterac-valley-mark-of-honor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Hardened Tumor",
+  "quality": "Common",
+  "icon": "inv_misc_organ_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hardened Tumor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=3258/hardened-tumor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_organ_02.jpg",
+  "id": "3258",
+  "slug": "hardened-tumor"
+}

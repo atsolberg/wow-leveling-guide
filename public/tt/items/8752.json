@@ -1,0 +1,10 @@
+{
+  "name": "Laminated Scale Circlet",
+  "quality": "Poor",
+  "icon": "inv_crown_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Laminated Scale Circlet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->54</span><!--bo--><table width=\"100%\"><tr><td>Head</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->214 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->49<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">52</span> <span class=\"moneycopper\">17</span></div></td></tr></table>",
+  "url": "/item=8752/laminated-scale-circlet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crown_01.jpg",
+  "id": "8752",
+  "slug": "laminated-scale-circlet"
+}

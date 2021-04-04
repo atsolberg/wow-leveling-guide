@@ -1,0 +1,10 @@
+{
+  "name": "Invisibility Potion",
+  "quality": "Common",
+  "icon": "inv_potion_25",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Invisibility Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->47</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->37<br><span class=\"q2\">Use: <a href=\"/spell=11392\" class=\"q2\">Gives the imbiber invisibility for 18 sec.</a> (10 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div></td></tr></table>",
+  "url": "/item=9172/invisibility-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_25.jpg",
+  "id": "9172",
+  "slug": "invisibility-potion"
+}

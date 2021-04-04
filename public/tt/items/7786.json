@@ -1,0 +1,10 @@
+{
+  "name": "Headsplitter",
+  "quality": "Rare",
+  "icon": "inv_axe_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Headsplitter</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->30</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->30 - 57 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(18.91 damage per second)<br><span><!--stat4-->+3 Strength</span><br><span><!--stat7-->+5 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->25<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">56</span> <span class=\"moneycopper\">5</span></div></td></tr></table>",
+  "url": "/item=7786/headsplitter",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_14.jpg",
+  "id": "7786",
+  "slug": "headsplitter"
+}

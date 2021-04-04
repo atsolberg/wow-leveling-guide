@@ -1,0 +1,10 @@
+{
+  "name": "Ez-Thro Dynamite II",
+  "quality": "Common",
+  "icon": "inv_misc_bomb_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ez-Thro Dynamite II</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<br><span class=\"q2\">Use: <a href=\"/spell=23000\" class=\"q2\">Inflicts 213 to 287 Fire damage in a 5 yard radius (Assuming that it gets to the target, some restrictions may apply.)</a> (1 Min Cooldown)</span><br><span class=\"q\">&quot;The dynamite for Non-Engineers that rarely* blows up in your hand with over twice the blasting power of standard EZ-Thro.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span></div></td></tr></table>",
+  "url": "/item=18588/ez-thro-dynamite-ii",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bomb_03.jpg",
+  "id": "18588",
+  "slug": "ez-thro-dynamite-ii"
+}

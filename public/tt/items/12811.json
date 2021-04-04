@@ -1,0 +1,10 @@
+{
+  "name": "Righteous Orb",
+  "quality": "Uncommon",
+  "icon": "inv_misc_gem_pearl_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Righteous Orb</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span></div></td></tr></table>",
+  "url": "/item=12811/righteous-orb",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_pearl_03.jpg",
+  "id": "12811",
+  "slug": "righteous-orb"
+}

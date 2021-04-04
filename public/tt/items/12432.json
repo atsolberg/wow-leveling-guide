@@ -1,0 +1,10 @@
+{
+  "name": "Shardtooth E'ko",
+  "quality": "Common",
+  "icon": "inv_stone_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Shardtooth E'ko</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=12432/shardtooth-eko",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_01.jpg",
+  "id": "12432",
+  "slug": "shardtooth-eko"
+}

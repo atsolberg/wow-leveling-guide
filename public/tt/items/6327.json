@@ -1,0 +1,10 @@
+{
+  "name": "The Pacifier",
+  "quality": "Rare",
+  "icon": "inv_mace_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">The Pacifier</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->104 - 156 Damage</span></td>\n    <th>Speed <!--spd-->4.00</th>\n</tr></table><!--dps-->(32.50 damage per second)<br><span><!--stat4-->+18 Strength</span><br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">28</span> <span class=\"moneycopper\">23</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lo'Grosh</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 12.70%</div></td></tr></table>",
+  "url": "/item=6327/the-pacifier",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_09.jpg",
+  "id": "6327",
+  "slug": "the-pacifier"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Amulet of the Redeemed",
+  "quality": "Rare",
+  "icon": "inv_jewelry_necklace_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Amulet of the Redeemed</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat5-->+9 Intellect</span><br><span><!--stat7-->+9 Stamina</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=7681\" class=\"q2\">Increases healing done by spells and effects by up to 15.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">25</span> <span class=\"moneycopper\">35</span></div></td></tr></table>",
+  "url": "/item=22327/amulet-of-the-redeemed",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_08.jpg",
+  "id": "22327",
+  "slug": "amulet-of-the-redeemed"
+}

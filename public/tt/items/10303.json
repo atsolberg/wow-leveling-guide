@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Stormcloth Pants",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Pattern: Stormcloth Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->44</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=197\" class=\"q1\">Tailoring</a> (220)<br><span class=\"q2\">Use: <a href=\"/spell=12140\" class=\"q2\">Teaches you how to sew Stormcloth Pants.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q2\"><a href=\"/item=10010\">Stormcloth Pants</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->44</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->51 Armor</span><br><span><!--stat6-->+15 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55<br>Requires Level <!--rlvl-->39<br><span class=\"q2\">Equip: <a href=\"/spell=7696\" class=\"q2\">Increases damage done by Nature spells and effects by up to 10.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">57</span> <span class=\"moneycopper\">29</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4339\">Bolt of Mageweave</a>&nbsp;(4), <a href=\"/item=7079\">Globe of Water</a>&nbsp;(2), <a href=\"/item=8343\">Heavy Silken Thread</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=10303/pattern-stormcloth-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "10303",
+  "slug": "pattern-stormcloth-pants"
+}

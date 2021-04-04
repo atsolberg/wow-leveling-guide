@@ -1,0 +1,10 @@
+{
+  "name": "The Unstoppable Force",
+  "quality": "Epic",
+  "icon": "inv_hammer_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">The Unstoppable Force</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->175 - 292 Damage</span></td>\n    <th>Speed <!--spd-->3.80</th>\n</tr></table><!--dps-->(61.45 damage per second)<br><span><!--stat4-->+19 Strength</span><br><span><!--stat7-->+15 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=7598\" class=\"q2\">Improves your chance to get a critical strike by 2%.</a></span><br><span class=\"q2\">Chance on hit: <a href=\"/spell=23454\" class=\"q2\">Stuns target for 1 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">31</span> <span class=\"moneysilver\">29</span> <span class=\"moneycopper\">80</span></div></td></tr></table>",
+  "url": "/item=19323/the-unstoppable-force",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_13.jpg",
+  "id": "19323",
+  "slug": "the-unstoppable-force"
+}

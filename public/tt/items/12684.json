@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Thorium Bracers",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Plans: Thorium Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->51</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (255)<br><span class=\"q2\">Use: <a href=\"/spell=16673\" class=\"q2\">Teaches you how to make Thorium Bracers.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span></div><br /><span class=\"q2\"><a href=\"/item=12408\">Thorium Bracers</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->51</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->214 Armor</span><!--ebstats--><!--egstats--><!--eistats--><br>+5 Arcane Resistance<br>+5 Fire Resistance<br>+5 Nature Resistance<br>+5 Frost Resistance<br>+5 Shadow Resistance<!--e--><!--ps--><br>Durability 40 / 40<br>Requires Level <!--rlvl-->46<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">49</span> <span class=\"moneycopper\">98</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=12359\">Thorium Bar</a>&nbsp;(12), <a href=\"/item=11184\">Blue Power Crystal</a>&nbsp;(4)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=12684/plans-thorium-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "12684",
+  "slug": "plans-thorium-bracers"
+}

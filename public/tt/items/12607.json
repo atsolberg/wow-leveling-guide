@@ -1,0 +1,10 @@
+{
+  "name": "Brilliant Chromatic Scale",
+  "quality": "Rare",
+  "icon": "inv_misc_monsterscales_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Brilliant Chromatic Scale</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">80</span> <span class=\"moneycopper\">48</span></div></td></tr></table>",
+  "url": "/item=12607/brilliant-chromatic-scale",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_17.jpg",
+  "id": "12607",
+  "slug": "brilliant-chromatic-scale"
+}

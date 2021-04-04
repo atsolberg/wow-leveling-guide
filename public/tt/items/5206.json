@@ -1,0 +1,10 @@
+{
+  "name": "Bogling Root",
+  "quality": "Common",
+  "icon": "inv_misc_herb_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bogling Root</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->12</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=5665\" class=\"q2\">Increases physical damage by 1 for 10 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">37</span></div></td></tr></table>",
+  "url": "/item=5206/bogling-root",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_herb_07.jpg",
+  "id": "5206",
+  "slug": "bogling-root"
+}

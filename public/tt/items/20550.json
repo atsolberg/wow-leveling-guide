@@ -1,0 +1,10 @@
+{
+  "name": "Darkrune Breastplate",
+  "quality": "Rare",
+  "icon": "inv_chest_plate06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Darkrune Breastplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->657 Armor</span><br><span><!--stat7-->+14 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+25 Shadow Resistance<!--e--><!--ps--><br>Durability 135 / 135</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=13669\" class=\"q2\">Increases your chance to dodge an attack by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">51</span></div></td></tr></table>",
+  "url": "/item=20550/darkrune-breastplate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_plate06.jpg",
+  "id": "20550",
+  "slug": "darkrune-breastplate"
+}

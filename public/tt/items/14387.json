@@ -1,0 +1,10 @@
+{
+  "name": "Durability Gloves",
+  "quality": "Common",
+  "icon": "inv_gauntlets_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Durability Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->2 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 12 / 12</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=14387/durability-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_06.jpg",
+  "id": "14387",
+  "slug": "durability-gloves"
+}

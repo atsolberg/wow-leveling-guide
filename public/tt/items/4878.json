@@ -1,0 +1,10 @@
+{
+  "name": "Broken Bloodstained Bow",
+  "quality": "Poor",
+  "icon": "inv_weapon_bow_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Broken Bloodstained Bow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">56</span></div></td></tr></table>",
+  "url": "/item=4878/broken-bloodstained-bow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_05.jpg",
+  "id": "4878",
+  "slug": "broken-bloodstained-bow"
+}

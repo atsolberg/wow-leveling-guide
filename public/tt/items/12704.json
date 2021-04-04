@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Thorium Leggings",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Plans: Thorium Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (300)<br><span class=\"q2\">Use: <a href=\"/spell=16693\" class=\"q2\">Teaches you how to make Thorium Leggings.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">75</span></div><br /><span class=\"q2\"><a href=\"/item=12414\">Thorium Leggings</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->499 Armor</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Arcane Resistance<br>+10 Fire Resistance<br>+10 Nature Resistance<br>+10 Frost Resistance<br>+10 Shadow Resistance<!--e--><!--ps--><br>Durability 85 / 85<br>Requires Level <!--rlvl-->55<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">73</span> <span class=\"moneycopper\">76</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=12359\">Thorium Bar</a>&nbsp;(26), <a href=\"/item=11186\">Red Power Crystal</a>&nbsp;(4)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=12704/plans-thorium-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "12704",
+  "slug": "plans-thorium-leggings"
+}

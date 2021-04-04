@@ -1,0 +1,10 @@
+{
+  "name": "Black Grasp of the Destroyer",
+  "quality": "Epic",
+  "icon": "inv_gauntlets_31",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Black Grasp of the Destroyer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->279 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=9335\" class=\"q2\">+28 Attack Power.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=27522\" class=\"q2\">On successful melee or ranged attack gain 8 mana and if possible drain 8 mana from the target.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">35</span> <span class=\"moneycopper\">21</span></div></td></tr></table>",
+  "url": "/item=22194/black-grasp-of-the-destroyer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_31.jpg",
+  "id": "22194",
+  "slug": "black-grasp-of-the-destroyer"
+}

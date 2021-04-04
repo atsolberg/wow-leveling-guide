@@ -1,0 +1,10 @@
+{
+  "name": "Fire Oil",
+  "quality": "Common",
+  "icon": "inv_potion_38",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fire Oil</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=6371/fire-oil",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_38.jpg",
+  "id": "6371",
+  "slug": "fire-oil"
+}

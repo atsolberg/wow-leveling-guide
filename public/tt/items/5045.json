@@ -1,0 +1,10 @@
+{
+  "name": "Skull Gift",
+  "quality": "Common",
+  "icon": "inv_misc_gift_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Skull Gift</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->35</td></tr></table>",
+  "url": "/item=5045/skull-gift",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gift_04.jpg",
+  "id": "5045",
+  "slug": "skull-gift"
+}

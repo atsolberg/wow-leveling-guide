@@ -1,0 +1,10 @@
+{
+  "name": "Dark Iron Mail",
+  "quality": "Uncommon",
+  "icon": "inv_chest_chain_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Dark Iron Mail</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->56</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->433 Armor</span><br><span><!--stat7-->+13 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+12 Fire Resistance<!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->51<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">92</span> <span class=\"moneycopper\">55</span></div></td></tr></table>",
+  "url": "/item=11606/dark-iron-mail",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_16.jpg",
+  "id": "11606",
+  "slug": "dark-iron-mail"
+}

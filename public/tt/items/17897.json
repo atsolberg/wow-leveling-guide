@@ -1,0 +1,10 @@
+{
+  "name": "QAEnchant Gloves +7 Strength",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QAEnchant Gloves +7 Strength</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=22104\" class=\"q2\">Permanently enchant gloves to grant 7 Strength.</a></span></td></tr></table>",
+  "url": "/item=17897/qaenchant-gloves-7-strength",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "17897",
+  "slug": "qaenchant-gloves-7-strength"
+}

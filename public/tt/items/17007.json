@@ -1,0 +1,10 @@
+{
+  "name": "Stonerender Gauntlets",
+  "quality": "Epic",
+  "icon": "inv_gauntlets_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Stonerender Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->51</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->209 Armor</span><br><span><!--stat5-->+10 Intellect</span><br><span><!--stat7-->+10 Stamina</span><br><span><!--stat6-->+20 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Nature Resistance<!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->46<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">47</span></div></td></tr></table>",
+  "url": "/item=17007/stonerender-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_15.jpg",
+  "id": "17007",
+  "slug": "stonerender-gauntlets"
+}

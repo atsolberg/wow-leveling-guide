@@ -1,0 +1,10 @@
+{
+  "name": "Ordinary Egg",
+  "quality": "Common",
+  "icon": "inv_egg_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ordinary Egg</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=8645/ordinary-egg",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_egg_01.jpg",
+  "id": "8645",
+  "slug": "ordinary-egg"
+}

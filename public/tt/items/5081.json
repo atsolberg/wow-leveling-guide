@@ -1,0 +1,10 @@
+{
+  "name": "Kodo Hide Bag",
+  "quality": "Common",
+  "icon": "inv_misc_bag_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Kodo Hide Bag</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><br />6 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=5081/kodo-hide-bag",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_10.jpg",
+  "id": "5081",
+  "slug": "kodo-hide-bag"
+}

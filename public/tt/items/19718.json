@@ -1,0 +1,10 @@
+{
+  "name": "Primal Hakkari Stanchion",
+  "quality": "Epic",
+  "icon": "inv_bracer_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Primal Hakkari Stanchion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=5\" class=\"c5\">Priest</a>, <a href=\"/class=9\" class=\"c9\">Warlock</a>, <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td><span class=\"q\">&quot;A legendary Paragon of Power from the old Gurubashi Empire.&quot;</span></td></tr></table>",
+  "url": "/item=19718/primal-hakkari-stanchion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_14.jpg",
+  "id": "19718",
+  "slug": "primal-hakkari-stanchion"
+}

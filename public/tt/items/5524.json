@@ -1,0 +1,10 @@
+{
+  "name": "Thick-shelled Clam",
+  "quality": "Common",
+  "icon": "inv_misc_shell_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Thick-shelled Clam</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">21</span></div></td></tr></table>",
+  "url": "/item=5524/thick-shelled-clam",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_shell_02.jpg",
+  "id": "5524",
+  "slug": "thick-shelled-clam"
+}

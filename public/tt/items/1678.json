@@ -1,0 +1,10 @@
+{
+  "name": "Black Ogre Kickers",
+  "quality": "Rare",
+  "icon": "inv_boots_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Black Ogre Kickers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->166 Armor</span><br><span><!--stat4-->+6 Strength</span><br><span><!--stat7-->+13 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">45</span> <span class=\"moneycopper\">81</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lo'Grosh</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 41.27%</div></td></tr></table>",
+  "url": "/item=1678/black-ogre-kickers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_01.jpg",
+  "id": "1678",
+  "slug": "black-ogre-kickers"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Winterfall Firewater",
+  "quality": "Common",
+  "icon": "inv_potion_92",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Winterfall Firewater</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<br><span class=\"q2\">Use: <a href=\"/spell=17038\" class=\"q2\">Increases your melee attack power by 35 and size for 20 min.</a> (1 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div></td></tr></table>",
+  "url": "/item=12820/winterfall-firewater",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_92.jpg",
+  "id": "12820",
+  "slug": "winterfall-firewater"
+}

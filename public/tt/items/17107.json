@@ -1,0 +1,10 @@
+{
+  "name": "Dragon's Blood Cape",
+  "quality": "Epic",
+  "icon": "inv_misc_cape_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Dragon's Blood Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->73</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->116 Armor</span><br><span><!--stat4-->+9 Strength</span><br><span><!--stat7-->+22 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+5 Arcane Resistance<br>+5 Fire Resistance<br>+5 Shadow Resistance<!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">75</span> <span class=\"moneycopper\">37</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ragnaros</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 16.81%</div></td></tr></table>",
+  "url": "/item=17107/dragons-blood-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_08.jpg",
+  "id": "17107",
+  "slug": "dragons-blood-cape"
+}

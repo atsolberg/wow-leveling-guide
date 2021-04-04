@@ -1,0 +1,10 @@
+{
+  "name": "Dalson Cabinet Key",
+  "quality": "Common",
+  "icon": "inv_misc_key_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dalson Cabinet Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Farmer Dalson</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 97.41%</div></td></tr></table>",
+  "url": "/item=12739/dalson-cabinet-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_12.jpg",
+  "id": "12739",
+  "slug": "dalson-cabinet-key"
+}

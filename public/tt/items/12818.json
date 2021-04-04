@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Inlaid Thorium Hammer",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Plans: Inlaid Thorium Hammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->54</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (270)<br><span class=\"q2\">Use: <a href=\"/spell=17019\" class=\"q2\">Teaches you how to make an Inlaid Thorium Hammer.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span></div><br /><span class=\"q2\"><a href=\"/item=12772\">Inlaid Thorium Hammer</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->54</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->100 - 151 Damage</span></td>\n    <th>Speed <!--spd-->3.00</th>\n</tr></table><!--dps-->(41.83 damage per second)<br><span><!--stat4-->+23 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85<br>Requires Level <!--rlvl-->49<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">88</span> <span class=\"moneycopper\">71</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=12359\">Thorium Bar</a>&nbsp;(30), <a href=\"/item=3577\">Gold Bar</a>&nbsp;(4), <a href=\"/item=6037\">Truesilver Bar</a>&nbsp;(2), <a href=\"/item=12361\">Blue Sapphire</a>&nbsp;(2), <a href=\"/item=8170\">Rugged Leather</a>&nbsp;(4)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=12818/plans-inlaid-thorium-hammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "12818",
+  "slug": "plans-inlaid-thorium-hammer"
+}

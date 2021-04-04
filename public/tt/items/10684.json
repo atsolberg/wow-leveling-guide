@@ -1,0 +1,10 @@
+{
+  "name": "Colossal Parachute",
+  "quality": "Common",
+  "icon": "ability_whirlwind",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Colossal Parachute</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><br />Binds when picked up<br />Unique<br />Duration: 20 min<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=12438\" class=\"q2\">Reduces your fall speed for 10 sec.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div></td></tr></table>",
+  "url": "/item=10684/colossal-parachute",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_whirlwind.jpg",
+  "id": "10684",
+  "slug": "colossal-parachute"
+}

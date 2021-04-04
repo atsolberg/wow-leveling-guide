@@ -1,0 +1,10 @@
+{
+  "name": "Slimescale Bracers",
+  "quality": "Rare",
+  "icon": "inv_jewelry_ring_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Slimescale Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->49</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->129 Armor</span><br><span><!--stat5-->+4 Intellect</span><br><span><!--stat7-->+4 Stamina</span><br><span><!--stat6-->+13 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->44<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">76</span> <span class=\"moneycopper\">24</span></div></td></tr></table>",
+  "url": "/item=10632/slimescale-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_ring_03.jpg",
+  "id": "10632",
+  "slug": "slimescale-bracers"
+}

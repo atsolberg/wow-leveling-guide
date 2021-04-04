@@ -1,0 +1,10 @@
+{
+  "name": "Silver Hakkari Bijou",
+  "quality": "Rare",
+  "icon": "inv_bijou_silver",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Silver Hakkari Bijou</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->61</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q\">&quot;A significant Paragon of Power from the Gurubashi Empire.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div></td></tr></table>",
+  "url": "/item=19714/silver-hakkari-bijou",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bijou_silver.jpg",
+  "id": "19714",
+  "slug": "silver-hakkari-bijou"
+}

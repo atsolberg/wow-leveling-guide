@@ -1,0 +1,10 @@
+{
+  "name": "Buzzer Blade",
+  "quality": "Common",
+  "icon": "inv_weapon_shortblade_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Buzzer Blade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->10 - 19 Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(9.67 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">43</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Sneed's Shredder</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 53.43%</div></td></tr></table>",
+  "url": "/item=2169/buzzer-blade",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_05.jpg",
+  "id": "2169",
+  "slug": "buzzer-blade"
+}

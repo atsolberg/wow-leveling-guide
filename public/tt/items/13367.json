@@ -1,0 +1,10 @@
+{
+  "name": "Wrapped Gift",
+  "quality": "Poor",
+  "icon": "inv_misc_gift_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Wrapped Gift</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=13367/wrapped-gift",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gift_01.jpg",
+  "id": "13367",
+  "slug": "wrapped-gift"
+}

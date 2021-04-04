@@ -1,0 +1,10 @@
+{
+  "name": "Pamela's Doll's Head",
+  "quality": "Common",
+  "icon": "inv_misc_head_gnome_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pamela's Doll's Head</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=17133\" class=\"q2\">Attach the pieces into a whole.</a></span></td></tr></table>",
+  "url": "/item=12886/pamelas-dolls-head",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_gnome_01.jpg",
+  "id": "12886",
+  "slug": "pamelas-dolls-head"
+}

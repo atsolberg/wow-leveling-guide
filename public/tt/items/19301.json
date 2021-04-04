@@ -1,0 +1,10 @@
+{
+  "name": "Alterac Manna Biscuit",
+  "quality": "Common",
+  "icon": "inv_misc_food_33",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Alterac Manna Biscuit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->51<br><span class=\"q2\">Use: <a href=\"/spell=23692\" class=\"q2\">Restores 4410 health and 4410 mana over 30 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=19301/alterac-manna-biscuit",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_33.jpg",
+  "id": "19301",
+  "slug": "alterac-manna-biscuit"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Shrunken Head",
+  "quality": "Common",
+  "icon": "inv_misc_bone_humanskull_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Shrunken Head</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Bloodscalp Headhunter</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 49.04%</div></td></tr></table>",
+  "url": "/item=1532/shrunken-head",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_humanskull_01.jpg",
+  "id": "1532",
+  "slug": "shrunken-head"
+}

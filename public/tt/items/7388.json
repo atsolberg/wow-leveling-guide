@@ -1,0 +1,10 @@
+{
+  "name": "Skull Key",
+  "quality": "Common",
+  "icon": "inv_misc_bone_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Skull Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=9172\" class=\"q2\">Place upon the skull stone near the Mausoleum in Brill.</a> (10 Sec Cooldown)</span></td></tr></table>",
+  "url": "/item=7388/skull-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_02.jpg",
+  "id": "7388",
+  "slug": "skull-key"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Enchanted Thorium Bar",
+  "quality": "Common",
+  "icon": "inv_ingot_eternium",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Enchanted Thorium Bar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div></td></tr></table>",
+  "url": "/item=12655/enchanted-thorium-bar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ingot_eternium.jpg",
+  "id": "12655",
+  "slug": "enchanted-thorium-bar"
+}

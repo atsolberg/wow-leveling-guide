@@ -1,0 +1,10 @@
+{
+  "name": "Wisdom of the Timbermaw",
+  "quality": "Rare",
+  "icon": "inv_belt_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Wisdom of the Timbermaw</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->46 Armor</span><br><span><!--stat5-->+21 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->53<br><span class=\"q2\">Equip: <a href=\"/spell=21362\" class=\"q2\">Restores 4 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">92</span> <span class=\"moneycopper\">32</span></div></td></tr></table>",
+  "url": "/item=19047/wisdom-of-the-timbermaw",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_09.jpg",
+  "id": "19047",
+  "slug": "wisdom-of-the-timbermaw"
+}

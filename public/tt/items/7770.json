@@ -1,0 +1,10 @@
+{
+  "name": "Filled Blue Waterskin",
+  "quality": "Common",
+  "icon": "inv_drink_waterskin_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Filled Blue Waterskin</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=7770/filled-blue-waterskin",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_waterskin_01.jpg",
+  "id": "7770",
+  "slug": "filled-blue-waterskin"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Sergeant Major's Plate Wristguards",
+  "quality": "Rare",
+  "icon": "inv_bracer_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Sergeant Major's Plate Wristguards</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->287 Armor</span><br><span><!--stat4-->+7 Strength</span><br><span><!--stat7-->+17 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a>, <a href=\"/class=2\" class=\"c2\">Paladin</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br>Requires <span class=\"icon-horde\">First Sergeant</span> <span class=\"icon-alliance\">Sergeant Major</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">58</span> <span class=\"moneycopper\">4</span></div></td></tr></table>",
+  "url": "/item=18445/sergeant-majors-plate-wristguards",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_18.jpg",
+  "id": "18445",
+  "slug": "sergeant-majors-plate-wristguards"
+}

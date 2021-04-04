@@ -1,0 +1,10 @@
+{
+  "name": "Ordanus' Head",
+  "quality": "Common",
+  "icon": "inv_misc_head_elf_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ordanus' Head</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Keeper Ordanus</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 98.19%</div></td></tr></table>",
+  "url": "/item=5686/ordanus-head",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_elf_01.jpg",
+  "id": "5686",
+  "slug": "ordanus-head"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Cenarion Beacon",
+  "quality": "Common",
+  "icon": "inv_misc_lantern_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Cenarion Beacon</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;This device helps identify corrupted elements of nature.&quot;</span></td></tr></table>",
+  "url": "/item=11511/cenarion-beacon",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_lantern_01.jpg",
+  "id": "11511",
+  "slug": "cenarion-beacon"
+}

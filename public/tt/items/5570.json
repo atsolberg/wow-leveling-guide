@@ -1,0 +1,10 @@
+{
+  "name": "Deepmoss Egg",
+  "quality": "Common",
+  "icon": "inv_egg_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Deepmoss Egg</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=5570/deepmoss-egg",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_egg_03.jpg",
+  "id": "5570",
+  "slug": "deepmoss-egg"
+}

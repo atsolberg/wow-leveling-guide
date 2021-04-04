@@ -1,0 +1,10 @@
+{
+  "name": "Broken Lock",
+  "quality": "Poor",
+  "icon": "inv_gizmo_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Broken Lock</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">27</span></div></td></tr></table>",
+  "url": "/item=16747/broken-lock",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_03.jpg",
+  "id": "16747",
+  "slug": "broken-lock"
+}

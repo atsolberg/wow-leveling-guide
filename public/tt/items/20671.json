@@ -1,0 +1,10 @@
+{
+  "name": "Abyssal Plate Legplates",
+  "quality": "Rare",
+  "icon": "inv_pants_plate_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Abyssal Plate Legplates</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->566 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">84</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: The Duke of Shards</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 24.73%</div></td></tr></table>",
+  "url": "/item=20671/abyssal-plate-legplates",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_plate_12.jpg",
+  "id": "20671",
+  "slug": "abyssal-plate-legplates"
+}

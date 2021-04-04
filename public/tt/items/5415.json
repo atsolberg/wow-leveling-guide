@@ -1,0 +1,10 @@
+{
+  "name": "Thunderhorn Cleansing Totem",
+  "quality": "Common",
+  "icon": "inv_staff_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Thunderhorn Cleansing Totem</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-races\">Races: <a href=\"/race=6\" class=\"q1\">Tauren</a></div></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=4977\" class=\"q2\">Invokes Thunderhorn spirits of cleansing.</a></span></td></tr></table>",
+  "url": "/item=5415/thunderhorn-cleansing-totem",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_02.jpg",
+  "id": "5415",
+  "slug": "thunderhorn-cleansing-totem"
+}

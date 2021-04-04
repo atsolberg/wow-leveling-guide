@@ -1,0 +1,10 @@
+{
+  "name": "Warsong Gulch Ribbon of Sacrifice",
+  "quality": "Uncommon",
+  "icon": "inv_misc_ribbon_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Warsong Gulch Ribbon of Sacrifice</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique (10)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Second Place&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div></td></tr></table>",
+  "url": "/item=20256/warsong-gulch-ribbon-of-sacrifice",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_ribbon_01.jpg",
+  "id": "20256",
+  "slug": "warsong-gulch-ribbon-of-sacrifice"
+}

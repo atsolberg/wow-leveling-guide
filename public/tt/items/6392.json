@@ -1,0 +1,10 @@
+{
+  "name": "Belt of Arugal",
+  "quality": "Rare",
+  "icon": "inv_belt_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Belt of Arugal</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->26 Armor</span><br><span><!--stat3-->+2 Agility</span><br><span><!--stat5-->+10 Intellect</span><br><span><!--stat6-->+3 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->24<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Archmage Arugal</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 34.09%</div></td></tr></table>",
+  "url": "/item=6392/belt-of-arugal",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_10.jpg",
+  "id": "6392",
+  "slug": "belt-of-arugal"
+}

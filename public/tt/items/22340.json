@@ -1,0 +1,10 @@
+{
+  "name": "Pendant of Celerity",
+  "quality": "Rare",
+  "icon": "inv_jewelry_necklace_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Pendant of Celerity</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat3-->+15 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=15464\" class=\"q2\">Improves your chance to hit by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">53</span> <span class=\"moneycopper\">28</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lord Valthalak</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 23.43%</div></td></tr></table>",
+  "url": "/item=22340/pendant-of-celerity",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_04.jpg",
+  "id": "22340",
+  "slug": "pendant-of-celerity"
+}

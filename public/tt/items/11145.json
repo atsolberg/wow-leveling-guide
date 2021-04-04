@@ -1,0 +1,10 @@
+{
+  "name": "Runed Truesilver Rod",
+  "quality": "Common",
+  "icon": "inv_staff_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Runed Truesilver Rod</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=11145/runed-truesilver-rod",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_11.jpg",
+  "id": "11145",
+  "slug": "runed-truesilver-rod"
+}

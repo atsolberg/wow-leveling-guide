@@ -1,0 +1,10 @@
+{
+  "name": "Charred Razormane Wand",
+  "quality": "Common",
+  "icon": "inv_staff_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Charred Razormane Wand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->16 - 31 Fire Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(15.67 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">40</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Razormane Seer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 25.38%</div></td></tr></table>",
+  "url": "/item=5092/charred-razormane-wand",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_02.jpg",
+  "id": "5092",
+  "slug": "charred-razormane-wand"
+}

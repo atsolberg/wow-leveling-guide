@@ -1,0 +1,10 @@
+{
+  "name": "Crystal Infused Bandage",
+  "quality": "Common",
+  "icon": "inv_misc_bandage_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Crystal Infused Bandage</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=129\" class=\"q1\">First Aid</a> (225)<br><span class=\"q2\">Use: <a href=\"/spell=30020\" class=\"q2\">Heals 2500 damage over 10 sec.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span></div></td></tr></table>",
+  "url": "/item=23684/crystal-infused-bandage",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bandage_16.jpg",
+  "id": "23684",
+  "slug": "crystal-infused-bandage"
+}

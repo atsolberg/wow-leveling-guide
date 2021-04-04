@@ -1,0 +1,10 @@
+{
+  "name": "Head of Baron Vardus",
+  "quality": "Common",
+  "icon": "inv_misc_head_human_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Head of Baron Vardus</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Baron Vardus</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 81.56%</div></td></tr></table>",
+  "url": "/item=3626/head-of-baron-vardus",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_human_01.jpg",
+  "id": "3626",
+  "slug": "head-of-baron-vardus"
+}

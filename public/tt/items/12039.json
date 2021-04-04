@@ -1,0 +1,10 @@
+{
+  "name": "Tundra Necklace",
+  "quality": "Uncommon",
+  "icon": "inv_jewelry_necklace_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Tundra Necklace</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->28<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">42</span> <span class=\"moneycopper\">24</span></div></td></tr></table>",
+  "url": "/item=12039/tundra-necklace",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_11.jpg",
+  "id": "12039",
+  "slug": "tundra-necklace"
+}

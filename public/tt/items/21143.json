@@ -1,0 +1,10 @@
+{
+  "name": "Unsigned Field Duty Papers",
+  "quality": "Common",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Unsigned Field Duty Papers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Use: <a href=\"/spell=28745\" class=\"q2\">Fills out the recruit's field duty information.</a> (3 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=21143/unsigned-field-duty-papers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "21143",
+  "slug": "unsigned-field-duty-papers"
+}

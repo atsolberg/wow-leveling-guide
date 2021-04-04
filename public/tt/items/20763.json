@@ -1,0 +1,10 @@
+{
+  "name": "Broken Weapon",
+  "quality": "Poor",
+  "icon": "ability_warrior_sunder",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Broken Weapon</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=20763/broken-weapon",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_warrior_sunder.jpg",
+  "id": "20763",
+  "slug": "broken-weapon"
+}

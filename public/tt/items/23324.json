@@ -1,0 +1,10 @@
+{
+  "name": "Mantle of the Fire Festival",
+  "quality": "Common",
+  "icon": "inv_shoulder_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Mantle of the Fire Festival</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->2 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=23324/mantle-of-the-fire-festival",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_23.jpg",
+  "id": "23324",
+  "slug": "mantle-of-the-fire-festival"
+}

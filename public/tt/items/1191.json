@@ -1,0 +1,10 @@
+{
+  "name": "Bag of Marbles",
+  "quality": "Common",
+  "icon": "inv_misc_ammo_bullet_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bag of Marbles</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->8</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=5917\" class=\"q2\">Decreases target's chance to hit by 25% for 10 sec.</a> (1 Min Cooldown)</span><br />10 Charges<div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">82</span></div></td></tr></table>",
+  "url": "/item=1191/bag-of-marbles",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_ammo_bullet_01.jpg",
+  "id": "1191",
+  "slug": "bag-of-marbles"
+}

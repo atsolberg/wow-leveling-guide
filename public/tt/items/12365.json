@@ -1,0 +1,10 @@
+{
+  "name": "Dense Stone",
+  "quality": "Common",
+  "icon": "inv_misc_stonetablet_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dense Stone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=12365/dense-stone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_stonetablet_07.jpg",
+  "id": "12365",
+  "slug": "dense-stone"
+}

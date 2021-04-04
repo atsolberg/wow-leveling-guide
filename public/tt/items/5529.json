@@ -1,0 +1,10 @@
+{
+  "name": "Tomb Dust",
+  "quality": "Poor",
+  "icon": "inv_misc_dust_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Tomb Dust</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=5529/tomb-dust",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_dust_02.jpg",
+  "id": "5529",
+  "slug": "tomb-dust"
+}

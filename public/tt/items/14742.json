@@ -1,0 +1,10 @@
+{
+  "name": "Hulking Boots",
+  "quality": "Uncommon",
+  "icon": "inv_boots_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Hulking Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->124 Armor</span><br><span><!--stat4-->+4 Strength</span><br><span><!--stat7-->+4 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->19<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">18</span></div></td></tr></table>",
+  "url": "/item=14742/hulking-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_07.jpg",
+  "id": "14742",
+  "slug": "hulking-boots"
+}

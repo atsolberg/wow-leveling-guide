@@ -1,0 +1,10 @@
+{
+  "name": "Flame of Ironforge",
+  "quality": "Common",
+  "icon": "spell_fire_lavaspawn",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Flame of Ironforge</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=9331\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=23183/flame-of-ironforge",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_fire_lavaspawn.jpg",
+  "id": "23183",
+  "slug": "flame-of-ironforge"
+}

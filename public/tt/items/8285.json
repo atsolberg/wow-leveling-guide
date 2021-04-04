@@ -1,0 +1,10 @@
+{
+  "name": "Arcane Bands",
+  "quality": "Uncommon",
+  "icon": "inv_bracer_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Arcane Bands</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->56</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->32 Armor</span><br><span><!--stat5-->+11 Intellect</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->51<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">66</span> <span class=\"moneycopper\">37</span></div></td></tr></table>",
+  "url": "/item=8285/arcane-bands",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_09.jpg",
+  "id": "8285",
+  "slug": "arcane-bands"
+}

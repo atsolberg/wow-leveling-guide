@@ -1,0 +1,10 @@
+{
+  "name": "Raw Greater Sagefish",
+  "quality": "Common",
+  "icon": "inv_misc_fish_21",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Raw Greater Sagefish</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<br><span class=\"q2\">Use: <a href=\"/spell=25693\" class=\"q2\">Restores 567 health and 882.0 mana over 21 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=21153/raw-greater-sagefish",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_21.jpg",
+  "id": "21153",
+  "slug": "raw-greater-sagefish"
+}

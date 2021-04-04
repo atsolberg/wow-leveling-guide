@@ -1,0 +1,10 @@
+{
+  "name": "Draco-Incarcinatrix 900",
+  "quality": "Common",
+  "icon": "inv_gizmo_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Draco-Incarcinatrix 900</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=16007\" class=\"q2\">Fire at a dragonkin Broodling in the Burning Steppes.</a></span></td></tr></table>",
+  "url": "/item=12284/draco-incarcinatrix-900",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_07.jpg",
+  "id": "12284",
+  "slug": "draco-incarcinatrix-900"
+}

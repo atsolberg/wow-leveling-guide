@@ -1,0 +1,10 @@
+{
+  "name": "Masterwork Circlet",
+  "quality": "Uncommon",
+  "icon": "inv_jewelry_ring_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Masterwork Circlet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->274 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">65</span></div></td></tr></table>",
+  "url": "/item=10272/masterwork-circlet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_ring_03.jpg",
+  "id": "10272",
+  "slug": "masterwork-circlet"
+}

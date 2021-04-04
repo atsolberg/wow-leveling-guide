@@ -1,0 +1,10 @@
+{
+  "name": "Blue Dragonscale Leggings",
+  "quality": "Rare",
+  "icon": "inv_pants_mail_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Blue Dragonscale Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->310 Armor</span><br><span><!--stat5-->+20 Intellect</span><br><span><!--stat6-->+19 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><br>+12 Arcane Resistance<!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<!--itemEffects:1--><br /><br /><span class=\"q\"><a href=\"/item-set=491\" class=\"q\">Blue Dragon Mail</a> (0/3)</span><div class=\"q0 indent\"><span><!--si15048--><a href=\"/item=15048\">Blue Dragonscale Breastplate</a></span><br /><span><!--si20295--><a href=\"/item=20295\">Blue Dragonscale Leggings</a></span><br /><span><!--si15049--><a href=\"/item=15049\">Blue Dragonscale Shoulders</a></span></div><br /><span class=\"q0\"><span>(2) Set : <a href=\"/spell=18675\">+4 All Resistances.</a></span><br /><span>(3) Set : <a href=\"/spell=14127\">Increases damage and healing done by magical spells and effects by up to 28.</a></span></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">10</span> <span class=\"moneycopper\">83</span></div></td></tr></table>",
+  "url": "/item=20295/blue-dragonscale-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_mail_15.jpg",
+  "id": "20295",
+  "slug": "blue-dragonscale-leggings"
+}

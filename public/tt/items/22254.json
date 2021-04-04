@@ -1,0 +1,10 @@
+{
+  "name": "Wand of Eternal Light",
+  "quality": "Rare",
+  "icon": "inv_wand_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Wand of Eternal Light</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->58 - 109 Holy Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(55.67 damage per second)<br><span><!--stat5-->+6 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<br><span class=\"q2\">Equip: <a href=\"/spell=21624\" class=\"q2\">Restores 2 mana per 5 sec.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=7678\" class=\"q2\">Increases healing done by spells and effects by up to 9.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">55</span></div></td></tr></table>",
+  "url": "/item=22254/wand-of-eternal-light",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_02.jpg",
+  "id": "22254",
+  "slug": "wand-of-eternal-light"
+}

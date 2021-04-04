@@ -1,0 +1,10 @@
+{
+  "name": "Hero's Breastplate",
+  "quality": "Uncommon",
+  "icon": "inv_chest_plate14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Hero's Breastplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->332 Armor</span><br><span><!--stat7-->+7 Stamina</span><br><span><!--stat6-->+24 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">69</span> <span class=\"moneycopper\">89</span></div></td></tr></table>",
+  "url": "/item=8303/heros-breastplate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_plate14.jpg",
+  "id": "8303",
+  "slug": "heros-breastplate"
+}

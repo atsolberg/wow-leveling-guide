@@ -1,0 +1,10 @@
+{
+  "name": "(OLD)Heavy Throwing Axe",
+  "quality": "Common",
+  "icon": "inv_axe_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">(OLD)Heavy Throwing Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><table width=\"100%\"><tr><td>Thrown</td><th><!--scstart2:16--><span class=\"q1\">Thrown</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->10 - 20 Frost Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(7.50 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->14<!--itemEffects:1--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=3136/old-heavy-throwing-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_01.jpg",
+  "id": "3136",
+  "slug": "old-heavy-throwing-axe"
+}

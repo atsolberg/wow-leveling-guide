@@ -1,0 +1,10 @@
+{
+  "name": "Carefully Written Letter",
+  "quality": "Common",
+  "icon": "inv_valentinescard02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Carefully Written Letter</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=22264/carefully-written-letter",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_valentinescard02.jpg",
+  "id": "22264",
+  "slug": "carefully-written-letter"
+}

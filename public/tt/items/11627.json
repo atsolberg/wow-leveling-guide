@@ -1,0 +1,10 @@
+{
+  "name": "Fleetfoot Greaves",
+  "quality": "Rare",
+  "icon": "inv_boots_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Fleetfoot Greaves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->53</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->218 Armor</span><br><span><!--stat3-->+19 Agility</span><br><span><!--stat5-->+5 Intellect</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->48<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">46</span> <span class=\"moneycopper\">68</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Houndmaster Grebmar</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 35.23%</div></td></tr></table>",
+  "url": "/item=11627/fleetfoot-greaves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_01.jpg",
+  "id": "11627",
+  "slug": "fleetfoot-greaves"
+}

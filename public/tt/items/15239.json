@@ -1,0 +1,10 @@
+{
+  "name": "Felstone Reaver",
+  "quality": "Uncommon",
+  "icon": "inv_axe_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Felstone Reaver</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->51 - 95 Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(36.50 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">24</span> <span class=\"moneycopper\">9</span></div></td></tr></table>",
+  "url": "/item=15239/felstone-reaver",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_10.jpg",
+  "id": "15239",
+  "slug": "felstone-reaver"
+}

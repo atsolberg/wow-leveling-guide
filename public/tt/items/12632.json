@@ -1,0 +1,10 @@
+{
+  "name": "Storm Gauntlets",
+  "quality": "Rare",
+  "icon": "inv_gauntlets_30",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Storm Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->218 Armor</span><br><span><!--stat5-->+7 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Fire Resistance<!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<br><span class=\"q2\">Equip: <a href=\"/spell=16615\" class=\"q2\">Adds 3 Lightning damage to your melee attacks.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=9361\" class=\"q2\">Increases damage done by Nature spells and effects by up to 21.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">40</span> <span class=\"moneycopper\">99</span></div></td></tr></table>",
+  "url": "/item=12632/storm-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_30.jpg",
+  "id": "12632",
+  "slug": "storm-gauntlets"
+}

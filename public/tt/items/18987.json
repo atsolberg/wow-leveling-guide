@@ -1,0 +1,10 @@
+{
+  "name": "Blackhand's Command",
+  "quality": "Common",
+  "icon": "inv_letter_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Blackhand's Command</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=7761\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q\">&quot;A letter of command from Rend Blackhand.&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Scarshield Quartermaster</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 76.47%</div></td></tr></table>",
+  "url": "/item=18987/blackhands-command",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_17.jpg",
+  "id": "18987",
+  "slug": "blackhands-command"
+}

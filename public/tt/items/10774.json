@@ -1,0 +1,10 @@
+{
+  "name": "Fleshhide Shoulders",
+  "quality": "Rare",
+  "icon": "inv_shoulder_28",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Fleshhide Shoulders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->42</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->95 Armor</span><br><span><!--stat4-->+5 Strength</span><br><span><!--stat3-->+6 Agility</span><br><span><!--stat7-->+15 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->37<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">59</span> <span class=\"moneycopper\">57</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Glutton</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 47.74%</div></td></tr></table>",
+  "url": "/item=10774/fleshhide-shoulders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_28.jpg",
+  "id": "10774",
+  "slug": "fleshhide-shoulders"
+}

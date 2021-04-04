@@ -1,0 +1,10 @@
+{
+  "name": "Red Leather Bag",
+  "quality": "Common",
+  "icon": "inv_misc_bag_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Red Leather Bag</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />8 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=2657/red-leather-bag",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_02.jpg",
+  "id": "2657",
+  "slug": "red-leather-bag"
+}

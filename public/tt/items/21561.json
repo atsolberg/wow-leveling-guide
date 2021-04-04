@@ -1,0 +1,10 @@
+{
+  "name": "Small White Rocket",
+  "quality": "Common",
+  "icon": "inv_misc_missilesmall_white",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Small White Rocket</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=26294\" class=\"q2\">Throw into a firework launcher!</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">6</span></div></td></tr></table>",
+  "url": "/item=21561/small-white-rocket",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_missilesmall_white.jpg",
+  "id": "21561",
+  "slug": "small-white-rocket"
+}

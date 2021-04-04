@@ -1,0 +1,10 @@
+{
+  "name": "Beguiler Robes",
+  "quality": "Rare",
+  "icon": "inv_chest_cloth_25",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Beguiler Robes</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->34</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->50 Armor</span><br><span><!--stat5-->+12 Intellect</span><br><span><!--stat7-->+7 Stamina</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->29<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">32</span> <span class=\"moneycopper\">23</span></div></td></tr></table>",
+  "url": "/item=7728/beguiler-robes",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_25.jpg",
+  "id": "7728",
+  "slug": "beguiler-robes"
+}

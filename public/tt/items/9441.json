@@ -1,0 +1,10 @@
+{
+  "name": "Acceptable Hyena Sample",
+  "quality": "Common",
+  "icon": "inv_misc_pelt_wolf_ruin_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Acceptable Hyena Sample</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Duration: 2 hrs<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=9441/acceptable-hyena-sample",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_pelt_wolf_ruin_03.jpg",
+  "id": "9441",
+  "slug": "acceptable-hyena-sample"
+}

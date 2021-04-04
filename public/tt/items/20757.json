@@ -1,0 +1,11 @@
+{
+  "name": "Formula: Brilliant Mana Oil",
+  "quality": "Common",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Formula: Brilliant Mana Oil</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=333\" class=\"q1\">Enchanting</a> (300)<br>Requires <a href=\"/faction=270\" class=\"q1\">Zandalar Tribe</a> - Friendly<br><span class=\"q2\">Use: <a href=\"/spell=25138\" class=\"q2\">Teaches you how to create Brilliant Mana Oil.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span></div><br /><span class=\"q1\"><a href=\"/item=20748\">Brilliant Mana Oil</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires Level <!--rlvl-->45<br><span class=\"q2\">Use: <a href=\"/spell=25123\" class=\"q2\">While applied to target weapon it restores 12 mana to the caster every 5 seconds and increases the effect of healing spells by up to 25. &nbsp;Lasts for 30 minutes.</a></span><br />5 Charges<div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=14344\">Large Brilliant Shard</a>&nbsp;(2), <a href=\"/item=8831\">Purple Lotus</a>&nbsp;(3), <a href=\"/item=18256\">Imbued Vial</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=20757/formula-brilliant-mana-oil",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "20757",
+  "slug": "formula-brilliant-mana-oil"
+}

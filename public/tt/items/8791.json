@@ -1,0 +1,11 @@
+{
+  "name": "Book of Regrowth VIII",
+  "quality": "Common",
+  "icon": "inv_misc_book_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Book of Regrowth VIII</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->54</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<br><span class=\"q2\">Use: <a href=\"/spell=3734\" class=\"q2\">Teaches Rejuvenation (Rank 1).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">10</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=8791/book-of-regrowth-viii",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_11.jpg",
+  "id": "8791",
+  "slug": "book-of-regrowth-viii"
+}

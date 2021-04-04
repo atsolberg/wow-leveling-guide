@@ -1,0 +1,10 @@
+{
+  "name": "Elixir of Dream Vision",
+  "quality": "Common",
+  "icon": "inv_potion_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Elixir of Dream Vision</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->48</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->38<br><span class=\"q2\">Use: <a href=\"/spell=11403\" class=\"q2\">Gives you a dream vision that lets you explore areas that are too dangerous to explore in person.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span></div></td></tr></table>",
+  "url": "/item=9197/elixir-of-dream-vision",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_14.jpg",
+  "id": "9197",
+  "slug": "elixir-of-dream-vision"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Resonating Skull",
+  "quality": "Common",
+  "icon": "spell_shadow_shadowwordpain",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Resonating Skull</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=13155/resonating-skull",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_shadowwordpain.jpg",
+  "id": "13155",
+  "slug": "resonating-skull"
+}

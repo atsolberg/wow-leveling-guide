@@ -1,0 +1,10 @@
+{
+  "name": "[PH] Picnic Parcel",
+  "quality": "Common",
+  "icon": "inv_misc_bag_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">[PH] Picnic Parcel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=21923/ph-picnic-parcel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_04.jpg",
+  "id": "21923",
+  "slug": "ph-picnic-parcel"
+}

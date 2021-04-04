@@ -1,0 +1,10 @@
+{
+  "name": "Barbaric Battle Axe",
+  "quality": "Uncommon",
+  "icon": "inv_axe_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Barbaric Battle Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->34 - 52 Damage</span></td>\n    <th>Speed <!--spd-->3.60</th>\n</tr></table><!--dps-->(11.94 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->13<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">13</span> <span class=\"moneycopper\">72</span></div></td></tr></table>",
+  "url": "/item=3195/barbaric-battle-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_10.jpg",
+  "id": "3195",
+  "slug": "barbaric-battle-axe"
+}

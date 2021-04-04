@@ -1,0 +1,10 @@
+{
+  "name": "Light Hunting Rifle",
+  "quality": "Common",
+  "icon": "inv_weapon_rifle_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Light Hunting Rifle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->2 - 6 Damage</span></td>\n    <th>Speed <!--spd-->1.90</th>\n</tr></table><!--dps-->(2.11 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">19</span></div></td></tr></table>",
+  "url": "/item=12448/light-hunting-rifle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_07.jpg",
+  "id": "12448",
+  "slug": "light-hunting-rifle"
+}

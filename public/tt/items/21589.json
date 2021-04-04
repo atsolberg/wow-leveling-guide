@@ -1,0 +1,10 @@
+{
+  "name": "Large Blue Rocket",
+  "quality": "Common",
+  "icon": "inv_misc_missilelarge_blue",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Large Blue Rocket</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=26333\" class=\"q2\">Throw into a firework launcher!</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=21589/large-blue-rocket",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_missilelarge_blue.jpg",
+  "id": "21589",
+  "slug": "large-blue-rocket"
+}

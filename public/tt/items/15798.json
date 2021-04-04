@@ -1,0 +1,10 @@
+{
+  "name": "Chipped Ogre Teeth",
+  "quality": "Poor",
+  "icon": "inv_misc_bone_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Chipped Ogre Teeth</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=15798/chipped-ogre-teeth",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_07.jpg",
+  "id": "15798",
+  "slug": "chipped-ogre-teeth"
+}

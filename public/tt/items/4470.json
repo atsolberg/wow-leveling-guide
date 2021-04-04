@@ -1,0 +1,10 @@
+{
+  "name": "Simple Wood",
+  "quality": "Common",
+  "icon": "inv_tradeskillitem_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Simple Wood</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">9</span></div></td></tr></table>",
+  "url": "/item=4470/simple-wood",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_tradeskillitem_01.jpg",
+  "id": "4470",
+  "slug": "simple-wood"
+}

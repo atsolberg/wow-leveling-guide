@@ -1,0 +1,10 @@
+{
+  "name": "Dark Iron Rifle",
+  "quality": "Rare",
+  "icon": "inv_weapon_rifle_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Dark Iron Rifle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->53 - 100 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(28.33 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br><span class=\"q2\">Equip: <a href=\"/spell=29632\" class=\"q2\">Chance to strike your ranged target with Shadow Shot for 18 to 26 Shadow damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">91</span> <span class=\"moneycopper\">52</span></div></td></tr></table>",
+  "url": "/item=16004/dark-iron-rifle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_08.jpg",
+  "id": "16004",
+  "slug": "dark-iron-rifle"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Blackskull Shield",
+  "quality": "Epic",
+  "icon": "spell_shadow_grimward",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Blackskull Shield</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->46</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->1895 Armor</span><br>30 Block<br><span><!--stat7-->+5 Stamina</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Shadow Resistance<!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->41<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">88</span> <span class=\"moneycopper\">15</span></div></td></tr></table>",
+  "url": "/item=1169/blackskull-shield",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_grimward.jpg",
+  "id": "1169",
+  "slug": "blackskull-shield"
+}

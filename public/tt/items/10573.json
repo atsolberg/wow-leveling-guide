@@ -1,0 +1,10 @@
+{
+  "name": "Boneslasher",
+  "quality": "Rare",
+  "icon": "inv_sword_41",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Boneslasher</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->70 - 106 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(32.59 damage per second)<br><span><!--stat4-->+16 Strength</span><br><span><!--stat3-->+5 Agility</span><br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">37</span> <span class=\"moneycopper\">54</span></div></td></tr></table>",
+  "url": "/item=10573/boneslasher",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_41.jpg",
+  "id": "10573",
+  "slug": "boneslasher"
+}

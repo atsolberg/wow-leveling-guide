@@ -1,0 +1,10 @@
+{
+  "name": "Reagent Pouch",
+  "quality": "Common",
+  "icon": "inv_misc_bag_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Reagent Pouch</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Burning Blade Cultist</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 34.17%</div></td></tr></table>",
+  "url": "/item=6652/reagent-pouch",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_11.jpg",
+  "id": "6652",
+  "slug": "reagent-pouch"
+}

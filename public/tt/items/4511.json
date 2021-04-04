@@ -1,0 +1,10 @@
+{
+  "name": "Black Water Hammer",
+  "quality": "Uncommon",
+  "icon": "inv_hammer_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Black Water Hammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->42 - 78 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(22.22 damage per second)<br><span><!--stat4-->+7 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">56</span></div></td></tr></table>",
+  "url": "/item=4511/black-water-hammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_07.jpg",
+  "id": "4511",
+  "slug": "black-water-hammer"
+}

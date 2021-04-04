@@ -1,0 +1,10 @@
+{
+  "name": "Burning Gem",
+  "quality": "Common",
+  "icon": "inv_misc_gem_diamond_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Burning Gem</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=7914\" class=\"q2\">Captures the spirit of the nearest Burning Blade member. If target dies while being drained, the caster gains 1 Infused Burning Gem.</a></span></td></tr></table>",
+  "url": "/item=6436/burning-gem",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_diamond_02.jpg",
+  "id": "6436",
+  "slug": "burning-gem"
+}

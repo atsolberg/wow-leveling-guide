@@ -1,0 +1,10 @@
+{
+  "name": "Primal Hakkari Tabard",
+  "quality": "Epic",
+  "icon": "inv_banner_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Primal Hakkari Tabard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=2\" class=\"c2\">Paladin</a>, <a href=\"/class=7\" class=\"c7\">Shaman</a>, <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td><span class=\"q\">&quot;A legendary Paragon of Power from the old Gurubashi Empire.&quot;</span></td></tr></table>",
+  "url": "/item=19722/primal-hakkari-tabard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_banner_01.jpg",
+  "id": "19722",
+  "slug": "primal-hakkari-tabard"
+}

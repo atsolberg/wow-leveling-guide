@@ -1,0 +1,10 @@
+{
+  "name": "Bleak Howler Armguards",
+  "quality": "Rare",
+  "icon": "inv_bracer_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Bleak Howler Armguards</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->75 Armor</span><br><span><!--stat5-->+8 Intellect</span><br><span><!--stat6-->+14 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<br><span class=\"q2\">Equip: <a href=\"/spell=7681\" class=\"q2\">Increases healing done by spells and effects by up to 15.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">25</span> <span class=\"moneycopper\">20</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Gizrul the Slavener</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 24.46%</div></td></tr></table>",
+  "url": "/item=13208/bleak-howler-armguards",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_07.jpg",
+  "id": "13208",
+  "slug": "bleak-howler-armguards"
+}

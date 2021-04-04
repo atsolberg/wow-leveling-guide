@@ -1,0 +1,10 @@
+{
+  "name": "White Punch Card",
+  "quality": "Common",
+  "icon": "inv_ingot_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">White Punch Card</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Grants access to Matrix Punchograph 3005-A&quot;</span><br><span class=\"q2\">&lt;Right Click to Read&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">45</span></div></td></tr></table>",
+  "url": "/item=9279/white-punch-card",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ingot_01.jpg",
+  "id": "9279",
+  "slug": "white-punch-card"
+}

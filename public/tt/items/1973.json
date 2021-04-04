@@ -1,0 +1,10 @@
+{
+  "name": "Orb of Deception",
+  "quality": "Rare",
+  "icon": "inv_misc_orb_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Orb of Deception</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<br><span class=\"q2\">Use: <a href=\"/spell=16739\" class=\"q2\">Transforms caster to look like a member of the opposing faction.</a> (30 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">46</span> <span class=\"moneycopper\">18</span></div></td></tr></table>",
+  "url": "/item=1973/orb-of-deception",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_orb_02.jpg",
+  "id": "1973",
+  "slug": "orb-of-deception"
+}

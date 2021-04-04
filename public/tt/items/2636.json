@@ -1,0 +1,10 @@
+{
+  "name": "Carved Stone Idol",
+  "quality": "Common",
+  "icon": "inv_misc_idol_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Carved Stone Idol</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=2636/carved-stone-idol",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_idol_01.jpg",
+  "id": "2636",
+  "slug": "carved-stone-idol"
+}

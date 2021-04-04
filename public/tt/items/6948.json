@@ -1,0 +1,10 @@
+{
+  "name": "Hearthstone",
+  "quality": "Common",
+  "icon": "inv_misc_rune_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hearthstone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=8690\" class=\"q2\">Returns you to &lt;Hearthstone Location&gt;. &nbsp;Speak to an Innkeeper in a different place to change your home location.</a></span></td></tr></table>",
+  "url": "/item=6948/hearthstone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_rune_01.jpg",
+  "id": "6948",
+  "slug": "hearthstone"
+}

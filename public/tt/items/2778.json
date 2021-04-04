@@ -1,0 +1,10 @@
+{
+  "name": "Cheap Blunderbuss",
+  "quality": "Poor",
+  "icon": "inv_weapon_rifle_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Cheap Blunderbuss</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->13</span><!--bo--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->5 - 9 Damage</span></td>\n    <th>Speed <!--spd-->2.20</th>\n</tr></table><!--dps-->(3.18 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->8<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">47</span></div></td></tr></table>",
+  "url": "/item=2778/cheap-blunderbuss",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_03.jpg",
+  "id": "2778",
+  "slug": "cheap-blunderbuss"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Somatic Intensifier",
+  "quality": "Common",
+  "icon": "spell_shadow_creepingplague",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Somatic Intensifier</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=13356/somatic-intensifier",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_creepingplague.jpg",
+  "id": "13356",
+  "slug": "somatic-intensifier"
+}

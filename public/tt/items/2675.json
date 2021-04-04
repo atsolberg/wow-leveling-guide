@@ -1,0 +1,10 @@
+{
+  "name": "Crawler Claw",
+  "quality": "Common",
+  "icon": "inv_misc_birdbeck_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Crawler Claw</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->13</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">11</span></div></td></tr></table>",
+  "url": "/item=2675/crawler-claw",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_birdbeck_02.jpg",
+  "id": "2675",
+  "slug": "crawler-claw"
+}

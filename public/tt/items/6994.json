@@ -1,0 +1,10 @@
+{
+  "name": "Whitestone Oak Lumber",
+  "quality": "Common",
+  "icon": "inv_tradeskillitem_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Whitestone Oak Lumber</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Goblin Woodcarver</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 1.52%</div></td></tr></table>",
+  "url": "/item=6994/whitestone-oak-lumber",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_tradeskillitem_01.jpg",
+  "id": "6994",
+  "slug": "whitestone-oak-lumber"
+}

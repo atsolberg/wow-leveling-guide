@@ -1,0 +1,10 @@
+{
+  "name": "Bottled Alterac Spring Water",
+  "quality": "Common",
+  "icon": "inv_drink_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bottled Alterac Spring Water</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Use: <a href=\"/spell=23698\" class=\"q2\">Restores 4410 mana over 30 sec. &nbsp;Must remain seated while drinking. Also increases your Spirit by 10 for 10 min.</a></span><br><span class=\"q\">&quot;From the mountain springs of Alterac!&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=19318/bottled-alterac-spring-water",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_11.jpg",
+  "id": "19318",
+  "slug": "bottled-alterac-spring-water"
+}

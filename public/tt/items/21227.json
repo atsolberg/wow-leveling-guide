@@ -1,0 +1,10 @@
+{
+  "name": "Ancient Hero's Skull",
+  "quality": "Poor",
+  "icon": "inv_misc_bone_orcskull_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Ancient Hero's Skull</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">75</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Flesh Hunter</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 4.06%</div></td></tr></table>",
+  "url": "/item=21227/ancient-heros-skull",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_orcskull_01.jpg",
+  "id": "21227",
+  "slug": "ancient-heros-skull"
+}

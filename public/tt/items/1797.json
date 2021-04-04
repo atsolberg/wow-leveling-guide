@@ -1,0 +1,10 @@
+{
+  "name": "Rawhide Bracers",
+  "quality": "Poor",
+  "icon": "inv_bracer_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Rawhide Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->31 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">61</span></div></td></tr></table>",
+  "url": "/item=1797/rawhide-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_02.jpg",
+  "id": "1797",
+  "slug": "rawhide-bracers"
+}

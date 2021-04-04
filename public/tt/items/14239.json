@@ -1,0 +1,10 @@
+{
+  "name": "Darkmist Cape",
+  "quality": "Uncommon",
+  "icon": "inv_misc_cape_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Darkmist Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->39</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->26 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->34<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">31</span> <span class=\"moneycopper\">76</span></div></td></tr></table>",
+  "url": "/item=14239/darkmist-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_04.jpg",
+  "id": "14239",
+  "slug": "darkmist-cape"
+}

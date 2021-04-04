@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Crimson Silk Robe",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pattern: Crimson Silk Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->41</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=197\" class=\"q1\">Tailoring</a> (205)<br><span class=\"q2\">Use: <a href=\"/spell=8803\" class=\"q2\">Teaches you how to sew a Crimson Silk Robe.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q2\"><a href=\"/item=7063\">Crimson Silk Robe</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->41</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->54 Armor</span><br><span><!--stat5-->+15 Intellect</span><br><span><!--stat6-->+6 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70<br>Requires Level <!--rlvl-->36<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">47</span> <span class=\"moneycopper\">41</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4305\">Bolt of Silk Cloth</a>&nbsp;(8), <a href=\"/item=7068\">Elemental Fire</a>&nbsp;(4), <a href=\"/item=3827\">Mana Potion</a>&nbsp;(2), <a href=\"/item=2604\">Red Dye</a>&nbsp;(4), <a href=\"/item=4291\">Silken Thread</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=7088/pattern-crimson-silk-robe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "7088",
+  "slug": "pattern-crimson-silk-robe"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Blessed Qiraji Bulwark",
+  "quality": "Epic",
+  "icon": "inv_shield_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Blessed Qiraji Bulwark</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->79</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->2964 Armor</span><br>55 Block<br><span><!--stat7-->+20 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=21476\" class=\"q2\">Increases your chance to block attacks with a shield by 3%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=23203\" class=\"q2\">Increases the block value of your shield by 15.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=13387\" class=\"q2\">Increased Defense +8.</a></span><!--itemEffects:1--><br><span class=\"q\">&quot;The shield is infused and reinforced with Elementium.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">11</span> <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">63</span></div></td></tr></table>",
+  "url": "/item=21269/blessed-qiraji-bulwark",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_23.jpg",
+  "id": "21269",
+  "slug": "blessed-qiraji-bulwark"
+}

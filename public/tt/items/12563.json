@@ -1,0 +1,10 @@
+{
+  "name": "Warlord Goretooth's Command",
+  "quality": "Common",
+  "icon": "inv_letter_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Warlord Goretooth's Command</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=4903\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Bears the seal of the K.E.F.&quot;</span></td></tr></table>",
+  "url": "/item=12563/warlord-goretooths-command",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_17.jpg",
+  "id": "12563",
+  "slug": "warlord-goretooths-command"
+}

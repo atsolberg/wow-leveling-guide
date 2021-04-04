@@ -1,0 +1,10 @@
+{
+  "name": "Veteran Armor",
+  "quality": "Uncommon",
+  "icon": "inv_chest_chain_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Veteran Armor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->16</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->151 Armor</span><br><span><!--stat4-->+3 Strength</span><br><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->11<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">76</span></div></td></tr></table>",
+  "url": "/item=2977/veteran-armor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_09.jpg",
+  "id": "2977",
+  "slug": "veteran-armor"
+}

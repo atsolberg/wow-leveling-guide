@@ -1,0 +1,11 @@
+{
+  "name": "Formula: Enchant Shield - Lesser Block",
+  "quality": "Uncommon",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Formula: Enchant Shield - Lesser Block</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->39</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=333\" class=\"q1\">Enchanting</a> (195)<br><span class=\"q2\">Use: <a href=\"/spell=13691\" class=\"q2\">Teaches you how to permanently enchant a shield to grant +2% blocking.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=11168/formula-enchant-shield-lesser-block",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "11168",
+  "slug": "formula-enchant-shield-lesser-block"
+}

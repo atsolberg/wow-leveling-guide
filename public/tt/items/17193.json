@@ -1,0 +1,10 @@
+{
+  "name": "Sulfuron Hammer",
+  "quality": "Epic",
+  "icon": "inv_hammer_unique_sulfuras",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Sulfuron Hammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->67</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->176 - 295 Damage</span></td>\n    <th>Speed <!--spd-->3.70</th>\n</tr></table><!--dps-->(63.65 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Chance on hit: <a href=\"/spell=21159\" class=\"q2\">Hurls a fiery ball that causes 83 to 101 Fire damage and an additional 16 damage over 8 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">12</span> <span class=\"moneysilver\">23</span> <span class=\"moneycopper\">11</span></div></td></tr></table>",
+  "url": "/item=17193/sulfuron-hammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_unique_sulfuras.jpg",
+  "id": "17193",
+  "slug": "sulfuron-hammer"
+}

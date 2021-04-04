@@ -1,0 +1,10 @@
+{
+  "name": "Hammer of the Northern Wind",
+  "quality": "Epic",
+  "icon": "inv_hammer_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Hammer of the Northern Wind</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->54</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->58 - 108 Damage</span></td>\n    <th>Speed <!--spd-->2.10</th>\n</tr></table><!--dps-->(39.52 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->49<br><span class=\"q2\">Chance on hit: <a href=\"/spell=13439\" class=\"q2\">Launches a bolt of frost at the enemy causing 20 to 30 Frost damage and slowing movement speed by 50% for 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">52</span> <span class=\"moneycopper\">67</span></div></td></tr></table>",
+  "url": "/item=810/hammer-of-the-northern-wind",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_11.jpg",
+  "id": "810",
+  "slug": "hammer-of-the-northern-wind"
+}

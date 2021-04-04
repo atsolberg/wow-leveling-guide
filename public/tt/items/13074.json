@@ -1,0 +1,10 @@
+{
+  "name": "Golem Shard Leggings",
+  "quality": "Rare",
+  "icon": "inv_pants_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Golem Shard Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->46</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->429 Armor</span><br><span><!--stat4-->+22 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->41<br><span class=\"q2\">Equip: <a href=\"/spell=13384\" class=\"q2\">Increased Defense +6.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">80</span> <span class=\"moneycopper\">24</span></div></td></tr></table>",
+  "url": "/item=13074/golem-shard-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_04.jpg",
+  "id": "13074",
+  "slug": "golem-shard-leggings"
+}

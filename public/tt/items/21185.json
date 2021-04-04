@@ -1,0 +1,10 @@
+{
+  "name": "Earthcalm Orb",
+  "quality": "Epic",
+  "icon": "inv_misc_gem_pearl_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Earthcalm Orb</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat5-->+10 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=21629\" class=\"q2\">Restores 8 mana per 5 sec.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=9406\" class=\"q2\">Increases healing done by spells and effects by up to 18.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">52</span></div></td></tr></table>",
+  "url": "/item=21185/earthcalm-orb",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_pearl_06.jpg",
+  "id": "21185",
+  "slug": "earthcalm-orb"
+}

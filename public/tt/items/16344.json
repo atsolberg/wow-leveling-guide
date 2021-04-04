@@ -1,0 +1,11 @@
+{
+  "name": "Lieutenant General's Mount",
+  "quality": "Common",
+  "icon": "ability_mount_blackdirewolf",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Lieutenant General's Mount</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<br />Mount<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-races\">Races: <a href=\"/race=1\" class=\"q1\">Human</a>, <a href=\"/race=2\" class=\"q1\">Orc</a>, <a href=\"/race=3\" class=\"q1\">Dwarf</a>, <a href=\"/race=4\" class=\"q1\">Night Elf</a>, <a href=\"/race=5\" class=\"q1\">Undead</a>, <a href=\"/race=7\" class=\"q1\">Gnome</a>, <a href=\"/race=8\" class=\"q1\">Troll</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br>Requires <a href=\"/skill=149\" class=\"q1\">Wolf Riding</a> (1)<br>Requires <span class=\"icon-horde\">Lieutenant General</span> <span class=\"icon-alliance\">Commander</span><br><span class=\"q2\">Use: <a href=\"/spell=16081\" class=\"q2\">Summons and dismisses a rideable arctic wolf. &nbsp;This is a very fast mount.</a> (3 Sec Cooldown)</span></td></tr></table>",
+  "completion_category": "15-5",
+  "url": "/item=16344/lieutenant-generals-mount",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_mount_blackdirewolf.jpg",
+  "id": "16344",
+  "slug": "lieutenant-generals-mount"
+}

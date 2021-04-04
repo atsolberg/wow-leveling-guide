@@ -1,0 +1,10 @@
+{
+  "name": "Totem of Rebirth",
+  "quality": "Rare",
+  "icon": "inv_relics_totemofrebirth",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Totem of Rebirth</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Relic</td><th><!--scstart4:9--><span class=\"q1\">Totem</span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=27797\" class=\"q2\">Reduces the cooldown of Reincarnation by 10 minutes.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">56</span> <span class=\"moneycopper\">80</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Isalien</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 9.18%</div></td></tr></table>",
+  "url": "/item=22345/totem-of-rebirth",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_relics_totemofrebirth.jpg",
+  "id": "22345",
+  "slug": "totem-of-rebirth"
+}

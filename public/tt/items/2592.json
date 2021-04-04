@@ -1,0 +1,10 @@
+{
+  "name": "Wool Cloth",
+  "quality": "Common",
+  "icon": "inv_fabric_wool_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Wool Cloth</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">33</span></div></td></tr></table>",
+  "url": "/item=2592/wool-cloth",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_fabric_wool_01.jpg",
+  "id": "2592",
+  "slug": "wool-cloth"
+}

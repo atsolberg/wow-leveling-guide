@@ -1,0 +1,10 @@
+{
+  "name": "Caverndeep Trudgers",
+  "quality": "Rare",
+  "icon": "inv_boots_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Caverndeep Trudgers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->154 Armor</span><br><span><!--stat4-->+4 Strength</span><br><span><!--stat3-->+4 Agility</span><br><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->27<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">29</span> <span class=\"moneycopper\">45</span></div></td></tr></table>",
+  "url": "/item=9510/caverndeep-trudgers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_01.jpg",
+  "id": "9510",
+  "slug": "caverndeep-trudgers"
+}

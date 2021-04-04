@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Tuxedo Jacket",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pattern: Tuxedo Jacket</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=197\" class=\"q1\">Tailoring</a> (250)<br><span class=\"q2\">Use: <a href=\"/spell=12186\" class=\"q2\">Teaches you how to sew a Tuxedo Jacket.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q1\"><a href=\"/item=10036\">Tuxedo Jacket</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->44 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70<br>Requires Level <!--rlvl-->30<br><span class=\"q2\">Equip: <a href=\"/spell=17816\" class=\"q2\">Impress others with your fashion sense.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">41</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4339\">Bolt of Mageweave</a>&nbsp;(5), <a href=\"/item=8343\">Heavy Silken Thread</a>&nbsp;(3)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=10326/pattern-tuxedo-jacket",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "10326",
+  "slug": "pattern-tuxedo-jacket"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Stronghold Gauntlets",
+  "quality": "Epic",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Plans: Stronghold Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->62</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (300)<br>Requires <a href=\"/spells=11.164.9788\" class=\"q1\">Armorsmith</a><br><span class=\"q2\">Use: <a href=\"/spell=16755\" class=\"q2\">Teaches you how to make Stronghold Gauntlets.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span></div><br /><span class=\"q4\"><a href=\"/item=12639\">Stronghold Gauntlets</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->441 Armor</span><br><span><!--stat7-->+12 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55<br>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=7219\" class=\"q2\">Immune to Disarm.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=13665\" class=\"q2\">Increases your chance to parry an attack by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">52</span> <span class=\"moneycopper\">71</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=12360\">Arcanite Bar</a>&nbsp;(15), <a href=\"/item=12655\">Enchanted Thorium Bar</a>&nbsp;(20), <a href=\"/item=7076\">Essence of Earth</a>&nbsp;(10), <a href=\"/item=12361\">Blue Sapphire</a>&nbsp;(4), <a href=\"/item=12799\">Large Opal</a>&nbsp;(4)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=12720/plans-stronghold-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "12720",
+  "slug": "plans-stronghold-gauntlets"
+}

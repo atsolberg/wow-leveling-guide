@@ -1,0 +1,10 @@
+{
+  "name": "Tyranis' Pendant",
+  "quality": "Common",
+  "icon": "inv_jewelry_necklace_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tyranis' Pendant</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Tyranis Malem</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 96.77%</div></td></tr></table>",
+  "url": "/item=6767/tyranis-pendant",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_03.jpg",
+  "id": "6767",
+  "slug": "tyranis-pendant"
+}

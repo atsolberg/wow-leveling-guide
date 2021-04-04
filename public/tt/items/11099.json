@@ -1,0 +1,10 @@
+{
+  "name": "Dark Iron Ore",
+  "quality": "Common",
+  "icon": "inv_ore_mithril_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dark Iron Ore</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=11099/dark-iron-ore",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ore_mithril_01.jpg",
+  "id": "11099",
+  "slug": "dark-iron-ore"
+}

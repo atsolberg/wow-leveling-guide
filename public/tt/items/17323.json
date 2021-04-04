@@ -1,0 +1,10 @@
+{
+  "name": "Mulverick's Beacon",
+  "quality": "Common",
+  "icon": "inv_staff_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Mulverick's Beacon</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><br /><a href=\"/zone=2597\" class=\"q1\">Alterac Valley</a><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=21371\" class=\"q2\">Plants the beacon at the Snowfall Graveyard. Protect it from harm!</a> (30 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=17323/mulvericks-beacon",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_11.jpg",
+  "id": "17323",
+  "slug": "mulvericks-beacon"
+}

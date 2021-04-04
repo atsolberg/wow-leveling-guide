@@ -1,0 +1,10 @@
+{
+  "name": "Kang the Decapitator",
+  "quality": "Epic",
+  "icon": "inv_axe_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Kang the Decapitator</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->49</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->136 - 205 Damage</span></td>\n    <th>Speed <!--spd-->3.60</th>\n</tr></table><!--dps-->(47.36 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->44<br><span class=\"q2\">Chance on hit: <a href=\"/spell=17153\" class=\"q2\">Wounds the target causing them to bleed for 560 damage over 30 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">45</span> <span class=\"moneycopper\">80</span></div></td></tr></table>",
+  "url": "/item=2291/kang-the-decapitator",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_15.jpg",
+  "id": "2291",
+  "slug": "kang-the-decapitator"
+}

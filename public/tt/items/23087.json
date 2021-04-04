@@ -1,0 +1,10 @@
+{
+  "name": "Breastplate of Undead Slaying",
+  "quality": "Rare",
+  "icon": "inv_chest_plate10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Breastplate of Undead Slaying</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->657 Armor</span><br><span><!--stat7-->+20 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 135 / 135</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=17319\" class=\"q2\">+81 Attack Power when fighting Undead.</a></span><!--itemEffects:1--><br /><br /><span class=\"q\"><a href=\"/item-set=533\" class=\"q\">Battlegear of Undead Slaying</a> (0/3)</span><div class=\"q0 indent\"><span><!--si23090--><a href=\"/item=23090\">Bracers of Undead Slaying</a></span><br /><span><!--si23087--><a href=\"/item=23087\">Breastplate of Undead Slaying</a></span><br /><span><!--si23078--><a href=\"/item=23078\">Gauntlets of Undead Slaying</a></span></div><br /><span class=\"q0\"><span>(3) Set : <a href=\"/spell=29068\">Increases your damage against undead by 2%.</a></span></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">28</span> <span class=\"moneycopper\">92</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Shadow of Doom</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 7.10%</div></td></tr></table>",
+  "url": "/item=23087/breastplate-of-undead-slaying",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_plate10.jpg",
+  "id": "23087",
+  "slug": "breastplate-of-undead-slaying"
+}

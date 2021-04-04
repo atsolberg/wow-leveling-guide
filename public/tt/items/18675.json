@@ -1,0 +1,10 @@
+{
+  "name": "Military Ranks of the Horde & Alliance",
+  "quality": "Common",
+  "icon": "inv_misc_book_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Military Ranks of the Horde &amp; Alliance</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Read&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=18675/military-ranks-of-the-horde-alliance",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_10.jpg",
+  "id": "18675",
+  "slug": "military-ranks-of-the-horde-alliance"
+}

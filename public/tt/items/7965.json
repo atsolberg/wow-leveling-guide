@@ -1,0 +1,10 @@
+{
+  "name": "Solid Weightstone",
+  "quality": "Common",
+  "icon": "inv_stone_weightstone_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Solid Weightstone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->25<br><span class=\"q2\">Use: <a href=\"/spell=9903\" class=\"q2\">Increase the damage of a blunt weapon by 6 for 30 minutes.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">40</span></div></td></tr></table>",
+  "url": "/item=7965/solid-weightstone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_weightstone_04.jpg",
+  "id": "7965",
+  "slug": "solid-weightstone"
+}

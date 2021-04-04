@@ -1,0 +1,10 @@
+{
+  "name": "Tabetha's Instructions",
+  "quality": "Common",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tabetha's Instructions</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=7516/tabethas-instructions",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "7516",
+  "slug": "tabethas-instructions"
+}

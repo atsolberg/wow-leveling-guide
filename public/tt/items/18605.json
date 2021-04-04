@@ -1,0 +1,10 @@
+{
+  "name": "Imprisoned Doomguard",
+  "quality": "Common",
+  "icon": "inv_misc_gem_amethyst_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Imprisoned Doomguard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=18605/imprisoned-doomguard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_amethyst_02.jpg",
+  "id": "18605",
+  "slug": "imprisoned-doomguard"
+}

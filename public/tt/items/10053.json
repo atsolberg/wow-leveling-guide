@@ -1,0 +1,10 @@
+{
+  "name": "Simple Black Dress",
+  "quality": "Common",
+  "icon": "inv_chest_cloth_21",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Simple Black Dress</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->47</span><!--bo--><table width=\"100%\"><tr><td>Chest</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">44</span> <span class=\"moneycopper\">99</span></div></td></tr></table>",
+  "url": "/item=10053/simple-black-dress",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_21.jpg",
+  "id": "10053",
+  "slug": "simple-black-dress"
+}

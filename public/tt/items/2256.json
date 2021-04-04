@@ -1,0 +1,10 @@
+{
+  "name": "Skeletal Club",
+  "quality": "Rare",
+  "icon": "inv_misc_bone_elfskull_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Skeletal Club</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->28 - 53 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(15.58 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->19<br><span class=\"q2\">Chance on hit: <a href=\"/spell=13440\" class=\"q2\">Sends a shadowy bolt at the enemy causing 30 Shadow damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">29</span> <span class=\"moneycopper\">96</span></div></td></tr></table>",
+  "url": "/item=2256/skeletal-club",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_elfskull_01.jpg",
+  "id": "2256",
+  "slug": "skeletal-club"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Ravasaur Scale Boots",
+  "quality": "Rare",
+  "icon": "inv_boots_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Ravasaur Scale Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->161 Armor</span><br><span><!--stat4-->+3 Strength</span><br><span><!--stat7-->+11 Stamina</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">39</span> <span class=\"moneycopper\">96</span></div></td></tr></table>",
+  "url": "/item=13124/ravasaur-scale-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_01.jpg",
+  "id": "13124",
+  "slug": "ravasaur-scale-boots"
+}

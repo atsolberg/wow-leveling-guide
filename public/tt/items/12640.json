@@ -1,0 +1,10 @@
+{
+  "name": "Lionheart Helm",
+  "quality": "Epic",
+  "icon": "inv_helmet_36",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Lionheart Helm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->565 Armor</span><br><span><!--stat4-->+18 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<br><span class=\"q2\">Equip: <a href=\"/spell=7598\" class=\"q2\">Improves your chance to get a critical strike by 2%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=15465\" class=\"q2\">Improves your chance to hit by 2%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">18</span> <span class=\"moneycopper\">94</span></div></td></tr></table>",
+  "url": "/item=12640/lionheart-helm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_36.jpg",
+  "id": "12640",
+  "slug": "lionheart-helm"
+}

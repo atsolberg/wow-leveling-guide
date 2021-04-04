@@ -1,0 +1,10 @@
+{
+  "name": "Fel Salve",
+  "quality": "Common",
+  "icon": "inv_potion_97",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fel Salve</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=12938\" class=\"q2\">Weakens the servants of Razelikh the Defiler. Must be within close proximity of the target to activate.</a></span><br />5 Charges<br><span class=\"q\">&quot;Use on Grol, Sevine, and Allistarj to break Razelikh's Ward.&quot;</span></td></tr></table>",
+  "url": "/item=11582/fel-salve",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_97.jpg",
+  "id": "11582",
+  "slug": "fel-salve"
+}

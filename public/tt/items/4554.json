@@ -1,0 +1,10 @@
+{
+  "name": "Shiny Polished Stone",
+  "quality": "Poor",
+  "icon": "inv_stone_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Shiny Polished Stone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">8</span></div></td></tr></table>",
+  "url": "/item=4554/shiny-polished-stone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_14.jpg",
+  "id": "4554",
+  "slug": "shiny-polished-stone"
+}

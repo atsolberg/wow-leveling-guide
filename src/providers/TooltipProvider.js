@@ -65,10 +65,9 @@ function TooltipProvider({ children, ...props }) {
 
   useSubscription(hover, (target) => {
     const { type, id } = target.dataset;
-    const tt = data[`${type}_${id}`];
-    if (!tt) {
-      // Fetch the tooltip for this target
-      client(`/tt/items-plus-data/${id}.html`)
+    if (!data[`${type}_${id}`]) {
+      // Fetch the data for this target
+      client(`/tt/${type}s/${id}.json`)
         .then((data) => {
           dispatch({ type: 'data', payload: { data, type, id } });
         })
@@ -90,11 +89,9 @@ function TooltipProvider({ children, ...props }) {
     []
   );
 
-  const tt = data[`${type}_${id}`];
-
   return (
     <TooltipContext.Provider value={value} {...props}>
-      <Tooltip content={tt} active={hovering} data={{ target, type, id }} />
+      <Tooltip target={target} active={hovering} data={data[`${type}_${id}`]} />
       {children}
     </TooltipContext.Provider>
   );

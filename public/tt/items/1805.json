@@ -1,0 +1,10 @@
+{
+  "name": "Tough Leather Bracers",
+  "quality": "Poor",
+  "icon": "inv_bracer_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Tough Leather Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->35 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->22<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">51</span></div></td></tr></table>",
+  "url": "/item=1805/tough-leather-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_01.jpg",
+  "id": "1805",
+  "slug": "tough-leather-bracers"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Skullsplitter Tusk",
+  "quality": "Common",
+  "icon": "inv_misc_monsterfang_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Skullsplitter Tusk</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=1524/skullsplitter-tusk",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterfang_01.jpg",
+  "id": "1524",
+  "slug": "skullsplitter-tusk"
+}

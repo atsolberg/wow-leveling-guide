@@ -1,0 +1,10 @@
+{
+  "name": "Untested Basilisk Sample",
+  "quality": "Common",
+  "icon": "inv_misc_monsterscales_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Untested Basilisk Sample</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Duration: 2 hrs<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=11759\" class=\"q2\">Test this sample for quality. &nbsp;Requires Field Testing Kit.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=9437/untested-basilisk-sample",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_03.jpg",
+  "id": "9437",
+  "slug": "untested-basilisk-sample"
+}

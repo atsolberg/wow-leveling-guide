@@ -1,0 +1,10 @@
+{
+  "name": "Pink Dye",
+  "quality": "Common",
+  "icon": "inv_potion_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pink Dye</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=10290/pink-dye",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_09.jpg",
+  "id": "10290",
+  "slug": "pink-dye"
+}

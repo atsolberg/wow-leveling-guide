@@ -1,0 +1,10 @@
+{
+  "name": "Rubbing: Rune of Beth'Amara",
+  "quality": "Common",
+  "icon": "inv_misc_note_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rubbing: Rune of Beth'Amara</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=10563/rubbing-rune-of-bethamara",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_06.jpg",
+  "id": "10563",
+  "slug": "rubbing-rune-of-bethamara"
+}

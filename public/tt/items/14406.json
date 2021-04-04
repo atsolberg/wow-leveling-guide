@@ -1,0 +1,10 @@
+{
+  "name": "Resilient Cord",
+  "quality": "Uncommon",
+  "icon": "inv_belt_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Resilient Cord</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->30</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->24 Armor</span><br><span><!--stat4-->+1 Strength</span><br><span><!--stat5-->+6 Intellect</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->25<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">35</span></div></td></tr></table>",
+  "url": "/item=14406/resilient-cord",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_03.jpg",
+  "id": "14406",
+  "slug": "resilient-cord"
+}

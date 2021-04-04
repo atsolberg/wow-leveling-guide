@@ -1,0 +1,10 @@
+{
+  "name": "Silverwing Talisman of Merit",
+  "quality": "Uncommon",
+  "icon": "inv_jewelry_talisman_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Silverwing Talisman of Merit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique (10)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Proof of winning a battle in Warsong Gulch&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div></td></tr></table>",
+  "url": "/item=19213/silverwing-talisman-of-merit",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_10.jpg",
+  "id": "19213",
+  "slug": "silverwing-talisman-of-merit"
+}

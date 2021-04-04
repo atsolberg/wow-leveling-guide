@@ -1,0 +1,10 @@
+{
+  "name": "Small Bat Skull",
+  "quality": "Poor",
+  "icon": "inv_misc_bone_orcskull_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Small Bat Skull</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">80</span></div></td></tr></table>",
+  "url": "/item=11393/small-bat-skull",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_orcskull_01.jpg",
+  "id": "11393",
+  "slug": "small-bat-skull"
+}

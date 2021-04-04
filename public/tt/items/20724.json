@@ -1,0 +1,10 @@
+{
+  "name": "Corrupted Blackwood Staff",
+  "quality": "Uncommon",
+  "icon": "inv_staff_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Corrupted Blackwood Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->131 - 197 Damage</span></td>\n    <th>Speed <!--spd-->3.40</th>\n</tr></table><!--dps-->(48.24 damage per second)<br><span><!--stat7-->+11 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=18049\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 26.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">88</span> <span class=\"moneycopper\">73</span></div></td></tr></table>",
+  "url": "/item=20724/corrupted-blackwood-staff",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_07.jpg",
+  "id": "20724",
+  "slug": "corrupted-blackwood-staff"
+}

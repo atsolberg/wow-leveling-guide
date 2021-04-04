@@ -1,0 +1,10 @@
+{
+  "name": "Staff of the Shade",
+  "quality": "Rare",
+  "icon": "inv_staff_25",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Staff of the Shade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->46 - 70 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(22.31 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 95 / 95</td></tr></table><table><tr><td>Requires Level <!--rlvl-->22<br><span class=\"q2\">Equip: <a href=\"/spell=9328\" class=\"q2\">Increases damage done by Shadow spells and effects by up to 21.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">16</span></div></td></tr></table>",
+  "url": "/item=2549/staff-of-the-shade",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_25.jpg",
+  "id": "2549",
+  "slug": "staff-of-the-shade"
+}

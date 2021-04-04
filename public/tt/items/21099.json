@@ -1,0 +1,11 @@
+{
+  "name": "Recipe: Smoked Sagefish",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Recipe: Smoked Sagefish</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=185\" class=\"q1\">Cooking</a> (80)<br><span class=\"q2\">Use: <a href=\"/spell=25705\" class=\"q2\">Teaches you how to cook Smoked Sagefish.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">25</span></div><br /><span class=\"q1\"><a href=\"/item=21072\">Smoked Sagefish</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires Level <!--rlvl-->10<br><span class=\"q2\">Use: <a href=\"/spell=25690\" class=\"q2\">Restores 378.0 health and 567 mana over 21 sec. &nbsp;Must remain seated while eating. &nbsp;If you spend at least 10 seconds eating you will become well fed and gain 3 Mana every 5 seconds for 15 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">40</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=21071\">Raw Sagefish</a>, <a href=\"/item=2678\">Mild Spices</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=21099/recipe-smoked-sagefish",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "21099",
+  "slug": "recipe-smoked-sagefish"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "PVP - Horde Tower Plans",
+  "quality": "Common",
+  "icon": "inv_misc_key_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">PVP - Horde Tower Plans</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=6207/pvp-horde-tower-plans",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_04.jpg",
+  "id": "6207",
+  "slug": "pvp-horde-tower-plans"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Silvered Bronze Shoulders",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Plans: Silvered Bronze Shoulders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (125)<br><span class=\"q2\">Use: <a href=\"/spell=3351\" class=\"q2\">Teaches you how to make Silvered Bronze Shoulders.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span></div><br /><span class=\"q2\"><a href=\"/item=3481\">Silvered Bronze Shoulders</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->137 Armor</span><br><span><!--stat4-->+3 Strength</span><br><span><!--stat7-->+3 Stamina</span><br><span><!--stat6-->+3 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55<br>Requires Level <!--rlvl-->20<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">84</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=2841\">Bronze Bar</a>&nbsp;(8), <a href=\"/item=2842\">Silver Bar</a>&nbsp;(2), <a href=\"/item=3478\">Coarse Grinding Stone</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=2882/plans-silvered-bronze-shoulders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "2882",
+  "slug": "plans-silvered-bronze-shoulders"
+}

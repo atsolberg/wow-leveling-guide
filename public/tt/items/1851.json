@@ -1,0 +1,10 @@
+{
+  "name": "Cleansing Water",
+  "quality": "Common",
+  "icon": "inv_potion_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Cleansing Water</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->24</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=1152\" class=\"q2\">Purifies the friendly target, removing 1 disease effect and 1 poison effect.</a> (5 Min Cooldown)</span><br />5 Charges<div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">85</span></div></td></tr></table>",
+  "url": "/item=1851/cleansing-water",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_13.jpg",
+  "id": "1851",
+  "slug": "cleansing-water"
+}

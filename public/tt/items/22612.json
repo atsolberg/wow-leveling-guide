@@ -1,0 +1,10 @@
+{
+  "name": "Craftsman's Writ - Runecloth Robe",
+  "quality": "Common",
+  "icon": "inv_misc_note_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Craftsman's Writ - Runecloth Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br /><a href=\"/quest=9194\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q\">&quot;Bears the seal of the Argent Dawn.&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Archmage Angela Dosantos</div></td></tr></table>",
+  "url": "/item=22612/craftsmans-writ-runecloth-robe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_02.jpg",
+  "id": "22612",
+  "slug": "craftsmans-writ-runecloth-robe"
+}

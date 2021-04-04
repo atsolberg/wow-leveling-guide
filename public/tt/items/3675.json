@@ -1,0 +1,10 @@
+{
+  "name": "Burnt Out Torch",
+  "quality": "Poor",
+  "icon": "inv_torch_unlit",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Burnt Out Torch</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">56</span></div></td></tr></table>",
+  "url": "/item=3675/burnt-out-torch",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_torch_unlit.jpg",
+  "id": "3675",
+  "slug": "burnt-out-torch"
+}

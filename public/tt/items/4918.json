@@ -1,0 +1,10 @@
+{
+  "name": "Sack of Supplies",
+  "quality": "Common",
+  "icon": "inv_misc_bag_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sack of Supplies</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=4918/sack-of-supplies",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_10.jpg",
+  "id": "4918",
+  "slug": "sack-of-supplies"
+}

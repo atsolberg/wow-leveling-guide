@@ -1,0 +1,10 @@
+{
+  "name": "Ichor Spitter",
+  "quality": "Uncommon",
+  "icon": "inv_weapon_halberd_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Ichor Spitter</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->61 - 114 Damage</span></td>\n    <th>Speed <!--spd-->2.40</th>\n</tr></table><!--dps-->(36.46 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td><span class=\"q2\">Chance on hit: <a href=\"/spell=17511\" class=\"q2\">Poisons target for 8 Nature damage every 2 sec for 20 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">48</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=17002/ichor-spitter",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_halberd_05.jpg",
+  "id": "17002",
+  "slug": "ichor-spitter"
+}

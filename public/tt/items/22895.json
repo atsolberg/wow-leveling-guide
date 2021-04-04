@@ -1,0 +1,10 @@
+{
+  "name": "Conjured Cinnamon Roll",
+  "quality": "Common",
+  "icon": "inv_misc_food_73cinnamonroll",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Conjured Cinnamon Roll</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->65</span><br />Conjured Item<!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Use: <a href=\"/spell=29073\" class=\"q2\">Restores 3180 health over 30 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=22895/conjured-cinnamon-roll",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_73cinnamonroll.jpg",
+  "id": "22895",
+  "slug": "conjured-cinnamon-roll"
+}

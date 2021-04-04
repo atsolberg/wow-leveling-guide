@@ -1,0 +1,10 @@
+{
+  "name": "zzOLD - QAEnchant 2H Weapon Major Intellect",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">zzOLD - QAEnchant 2H Weapon Major Intellect</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=17889/zzold-qaenchant-2h-weapon-major-intellect",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "17889",
+  "slug": "zzold-qaenchant-2h-weapon-major-intellect"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Lambent Scale Boots",
+  "quality": "Uncommon",
+  "icon": "inv_boots_plate_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Lambent Scale Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->130 Armor</span><br><span><!--stat7-->+6 Stamina</span><br><span><!--stat6-->+3 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->22<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span> <span class=\"moneycopper\">73</span></div></td></tr></table>",
+  "url": "/item=3045/lambent-scale-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_plate_07.jpg",
+  "id": "3045",
+  "slug": "lambent-scale-boots"
+}

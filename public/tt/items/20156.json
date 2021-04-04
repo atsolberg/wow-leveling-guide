@@ -1,0 +1,10 @@
+{
+  "name": "Defiler's Chain Greaves",
+  "quality": "Rare",
+  "icon": "inv_boots_chain_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Defiler's Chain Greaves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->43</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->183 Armor</span><br><span><!--stat3-->+10 Agility</span><br><span><!--stat5-->+3 Intellect</span><br><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=3\" class=\"c3\">Hunter</a>, <a href=\"/class=7\" class=\"c7\">Shaman</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br>Requires <a href=\"/faction=510\" class=\"q1\">The Defilers</a> - Revered<br><span class=\"q2\">Equip: <a href=\"/spell=23990\" class=\"q2\">Run speed increased slightly.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">76</span> <span class=\"moneycopper\">82</span></div></td></tr></table>",
+  "url": "/item=20156/defilers-chain-greaves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_chain_02.jpg",
+  "id": "20156",
+  "slug": "defilers-chain-greaves"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "QAEnchant Boots +8% Speed",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QAEnchant Boots +8% Speed</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=26019\" class=\"q2\">Permantly enchant boots to increase speed by 8%.</a></span></td></tr></table>",
+  "url": "/item=22587/qaenchant-boots-8-speed",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "22587",
+  "slug": "qaenchant-boots-8-speed"
+}

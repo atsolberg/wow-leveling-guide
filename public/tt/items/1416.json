@@ -1,0 +1,10 @@
+{
+  "name": "Rusty Hatchet",
+  "quality": "Poor",
+  "icon": "inv_throwingaxe_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Rusty Hatchet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->9</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->4 - 8 Damage</span></td>\n    <th>Speed <!--spd-->2.10</th>\n</tr></table><!--dps-->(2.86 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->4<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">72</span></div></td></tr></table>",
+  "url": "/item=1416/rusty-hatchet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_throwingaxe_03.jpg",
+  "id": "1416",
+  "slug": "rusty-hatchet"
+}

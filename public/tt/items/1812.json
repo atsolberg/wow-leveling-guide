@@ -1,0 +1,10 @@
+{
+  "name": "Short-handled Battle Axe",
+  "quality": "Poor",
+  "icon": "inv_throwingaxe_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Short-handled Battle Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->16 - 25 Damage</span></td>\n    <th>Speed <!--spd-->3.10</th>\n</tr></table><!--dps-->(6.61 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->12<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">52</span></div></td></tr></table>",
+  "url": "/item=1812/short-handled-battle-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_throwingaxe_05.jpg",
+  "id": "1812",
+  "slug": "short-handled-battle-axe"
+}

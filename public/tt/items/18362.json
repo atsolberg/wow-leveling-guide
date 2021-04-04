@@ -1,0 +1,10 @@
+{
+  "name": "Holy Bologna: What the Light Won't Tell You",
+  "quality": "Rare",
+  "icon": "inv_misc_book_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Holy Bologna: What the Light Won't Tell You</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Unique<br /><a href=\"/quest=7504\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=5\" class=\"c5\">Priest</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<br><span class=\"q\">&quot;-By Shadow Priest Allister&quot;</span></td></tr></table>",
+  "url": "/item=18362/holy-bologna-what-the-light-wont-tell-you",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_08.jpg",
+  "id": "18362",
+  "slug": "holy-bologna-what-the-light-wont-tell-you"
+}

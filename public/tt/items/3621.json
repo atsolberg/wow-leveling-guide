@@ -1,0 +1,10 @@
+{
+  "name": "Ivar's Head",
+  "quality": "Common",
+  "icon": "inv_misc_bone_orcskull_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ivar's Head</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ivar the Foul</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 98.56%</div></td></tr></table>",
+  "url": "/item=3621/ivars-head",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_orcskull_01.jpg",
+  "id": "3621",
+  "slug": "ivars-head"
+}

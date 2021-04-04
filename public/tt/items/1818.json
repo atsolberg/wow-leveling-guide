@@ -1,0 +1,10 @@
+{
+  "name": "Standard Claymore",
+  "quality": "Poor",
+  "icon": "inv_sword_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Standard Claymore</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->23 - 35 Damage</span></td>\n    <th>Speed <!--spd-->3.00</th>\n</tr></table><!--dps-->(9.67 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->19<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">21</span></div></td></tr></table>",
+  "url": "/item=1818/standard-claymore",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_06.jpg",
+  "id": "1818",
+  "slug": "standard-claymore"
+}

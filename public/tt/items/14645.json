@@ -1,0 +1,10 @@
+{
+  "name": "Unfinished Skeleton Key",
+  "quality": "Common",
+  "icon": "inv_weapon_shortblade_21",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Unfinished Skeleton Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;This key is missing its head.&quot;</span></td></tr></table>",
+  "url": "/item=14645/unfinished-skeleton-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_21.jpg",
+  "id": "14645",
+  "slug": "unfinished-skeleton-key"
+}

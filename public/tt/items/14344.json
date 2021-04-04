@@ -1,0 +1,10 @@
+{
+  "name": "Large Brilliant Shard",
+  "quality": "Rare",
+  "icon": "inv_enchant_shardbrilliantlarge",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Large Brilliant Shard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=14344/large-brilliant-shard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_enchant_shardbrilliantlarge.jpg",
+  "id": "14344",
+  "slug": "large-brilliant-shard"
+}

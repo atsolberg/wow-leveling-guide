@@ -1,0 +1,10 @@
+{
+  "name": "Dust Bowl",
+  "quality": "Uncommon",
+  "icon": "inv_shield_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Dust Bowl</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->378 Armor</span><br>6 Block<br><span><!--stat4-->+2 Strength</span><br><span><!--stat6-->+2 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->13<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">15</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Dust Devil</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 1.55%</div></td></tr></table>",
+  "url": "/item=4290/dust-bowl",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_09.jpg",
+  "id": "4290",
+  "slug": "dust-bowl"
+}

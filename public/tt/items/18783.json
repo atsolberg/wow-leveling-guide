@@ -1,0 +1,10 @@
+{
+  "name": "Bottom Half of Advanced Armorsmithing: Volume III",
+  "quality": "Rare",
+  "icon": "inv_misc_note_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Bottom Half of Advanced Armorsmithing: Volume III</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br><span class=\"q2\">Use: <a href=\"/spell=23233\" class=\"q2\">Combines the Top and Bottom Half of Advanced Armorsmithing: Volume III.</a></span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Black Guard Swordsmith</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 41.95%</div></td></tr></table>",
+  "url": "/item=18783/bottom-half-of-advanced-armorsmithing-volume-iii",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_04.jpg",
+  "id": "18783",
+  "slug": "bottom-half-of-advanced-armorsmithing-volume-iii"
+}

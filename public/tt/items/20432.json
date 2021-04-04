@@ -1,0 +1,10 @@
+{
+  "name": "Signet of Beckoning: Fire",
+  "quality": "Common",
+  "icon": "inv_misc_stonetablet_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Signet of Beckoning: Fire</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=20432/signet-of-beckoning-fire",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_stonetablet_03.jpg",
+  "id": "20432",
+  "slug": "signet-of-beckoning-fire"
+}

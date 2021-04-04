@@ -1,0 +1,10 @@
+{
+  "name": "Gnomish Cloaking Device",
+  "quality": "Common",
+  "icon": "inv_gizmo_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gnomish Cloaking Device</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (200)<br><span class=\"q2\">Use: <a href=\"/spell=4079\" class=\"q2\">Gives invisibility for 10 sec. &nbsp;It can only be used every 60 minutes.</a> (1 Hour Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=4397/gnomish-cloaking-device",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_01.jpg",
+  "id": "4397",
+  "slug": "gnomish-cloaking-device"
+}

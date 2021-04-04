@@ -1,0 +1,10 @@
+{
+  "name": "Incomplete Banner of Provocation",
+  "quality": "Common",
+  "icon": "inv_brd_banner",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Incomplete Banner of Provocation</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=21983/incomplete-banner-of-provocation",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_brd_banner.jpg",
+  "id": "21983",
+  "slug": "incomplete-banner-of-provocation"
+}

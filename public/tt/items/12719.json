@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Runic Plate Leggings",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Plans: Runic Plate Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (300)<br><span class=\"q2\">Use: <a href=\"/spell=16754\" class=\"q2\">Teaches you how to make Runic Plate Leggings.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">50</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Scarlet Smith</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 94.43%</div><br /><span class=\"q2\"><a href=\"/item=12614\">Runic Plate Leggings</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->665 Armor</span><!--ebstats--><!--egstats--><!--eistats--><br>+14 Fire Resistance<br>+14 Nature Resistance<!--e--><!--ps--><br>Durability 85 / 85<br>Requires Level <!--rlvl-->57<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">82</span> <span class=\"moneycopper\">72</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=12359\">Thorium Bar</a>&nbsp;(40), <a href=\"/item=12360\">Arcanite Bar</a>&nbsp;(2), <a href=\"/item=7910\">Star Ruby</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=12719/plans-runic-plate-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "12719",
+  "slug": "plans-runic-plate-leggings"
+}

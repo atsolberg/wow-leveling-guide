@@ -1,0 +1,10 @@
+{
+  "name": "Gordok Shackle Key",
+  "quality": "Uncommon",
+  "icon": "inv_misc_key_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Gordok Shackle Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Used with Gordok ogre shackles.&quot;</span></td></tr></table>",
+  "url": "/item=18250/gordok-shackle-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_11.jpg",
+  "id": "18250",
+  "slug": "gordok-shackle-key"
+}

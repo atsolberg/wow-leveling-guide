@@ -1,0 +1,10 @@
+{
+  "name": "Silk Wizard Hat",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Silk Wizard Hat</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->40 Armor</span><br><span><!--stat5-->+10 Intellect</span><br><span><!--stat6-->+9 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">27</span> <span class=\"moneycopper\">20</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Syndicate Magus</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 2.59%</div></td></tr></table>",
+  "url": "/item=3345/silk-wizard-hat",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_15.jpg",
+  "id": "3345",
+  "slug": "silk-wizard-hat"
+}

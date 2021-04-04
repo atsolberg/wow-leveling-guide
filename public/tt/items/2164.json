@@ -1,0 +1,10 @@
+{
+  "name": "Gut Ripper",
+  "quality": "Epic",
+  "icon": "inv_sword_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Gut Ripper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->42 - 80 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(33.89 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br><span class=\"q2\">Chance on hit: <a href=\"/spell=18107\" class=\"q2\">Wounds the target for 95 to 121 damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">70</span> <span class=\"moneycopper\">31</span></div></td></tr></table>",
+  "url": "/item=2164/gut-ripper",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_13.jpg",
+  "id": "2164",
+  "slug": "gut-ripper"
+}

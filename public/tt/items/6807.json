@@ -1,0 +1,10 @@
+{
+  "name": "Frog Leg Stew",
+  "quality": "Common",
+  "icon": "inv_misc_bowl_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Frog Leg Stew</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=1127\" class=\"q2\">Restores 874.8 health over 27 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">62</span></div></td></tr></table>",
+  "url": "/item=6807/frog-leg-stew",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bowl_01.jpg",
+  "id": "6807",
+  "slug": "frog-leg-stew"
+}

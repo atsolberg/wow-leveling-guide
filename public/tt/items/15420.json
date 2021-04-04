@@ -1,0 +1,10 @@
+{
+  "name": "Ironfeather",
+  "quality": "Common",
+  "icon": "inv_feather_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ironfeather</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 50</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span></div></td></tr></table>",
+  "url": "/item=15420/ironfeather",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_feather_05.jpg",
+  "id": "15420",
+  "slug": "ironfeather"
+}

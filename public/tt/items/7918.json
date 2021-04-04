@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Mithril Shoulder",
+  "quality": "Uncommon",
+  "icon": "inv_shoulder_22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Heavy Mithril Shoulder</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->41</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->225 Armor</span><br><span><!--stat7-->+12 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">37</span> <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=7918/heavy-mithril-shoulder",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_22.jpg",
+  "id": "7918",
+  "slug": "heavy-mithril-shoulder"
+}

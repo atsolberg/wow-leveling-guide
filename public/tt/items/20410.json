@@ -1,0 +1,10 @@
+{
+  "name": "Hallowed Wand - Bat",
+  "quality": "Common",
+  "icon": "inv_wand_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hallowed Wand - Bat</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=24733\" class=\"q2\">Puts a Bat costume on targeted party member.</a></span><br />5 Charges<div class=\"whtt-extra whtt-droppedby\">Dropped by: Elfarran</div></td></tr></table>",
+  "url": "/item=20410/hallowed-wand-bat",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_12.jpg",
+  "id": "20410",
+  "slug": "hallowed-wand-bat"
+}

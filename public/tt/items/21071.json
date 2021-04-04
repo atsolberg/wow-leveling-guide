@@ -1,0 +1,10 @@
+{
+  "name": "Raw Sagefish",
+  "quality": "Common",
+  "icon": "inv_misc_fish_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Raw Sagefish</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<br><span class=\"q2\">Use: <a href=\"/spell=25692\" class=\"q2\">Restores 155.4 health and 315 mana over 21 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=21071/raw-sagefish",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_20.jpg",
+  "id": "21071",
+  "slug": "raw-sagefish"
+}

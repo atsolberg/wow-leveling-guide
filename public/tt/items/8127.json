@@ -1,0 +1,10 @@
+{
+  "name": "Myrmidon's Cape",
+  "quality": "Uncommon",
+  "icon": "inv_misc_cape_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Myrmidon's Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->47</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->31 Armor</span><br><span><!--stat7-->+10 Stamina</span><br><span><!--stat6-->+3 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->42<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">59</span> <span class=\"moneycopper\">37</span></div></td></tr></table>",
+  "url": "/item=8127/myrmidons-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_14.jpg",
+  "id": "8127",
+  "slug": "myrmidons-cape"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Rumsey Rum Dark",
+  "quality": "Common",
+  "icon": "inv_drink_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rumsey Rum Dark</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=25722\" class=\"q2\">Increases Stamina by 10 for 15 min and gets you drunk to boot!</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=21114/rumsey-rum-dark",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_04.jpg",
+  "id": "21114",
+  "slug": "rumsey-rum-dark"
+}

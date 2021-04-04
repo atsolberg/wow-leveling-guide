@@ -1,0 +1,10 @@
+{
+  "name": "Glowing Shadowhide Pendant",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Glowing Shadowhide Pendant</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=178\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><span class=\"q\">&quot;This pendant glows with magic.&quot;</span></td></tr></table>",
+  "url": "/item=1962/glowing-shadowhide-pendant",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_05.jpg",
+  "id": "1962",
+  "slug": "glowing-shadowhide-pendant"
+}

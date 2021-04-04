@@ -1,0 +1,10 @@
+{
+  "name": "Stormpike Commander's Flesh",
+  "quality": "Common",
+  "icon": "inv_misc_food_69",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Stormpike Commander's Flesh</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><br /><a href=\"/zone=2597\" class=\"q1\">Alterac Valley</a><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 100</div></td></tr></table>",
+  "url": "/item=17328/stormpike-commanders-flesh",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_69.jpg",
+  "id": "17328",
+  "slug": "stormpike-commanders-flesh"
+}

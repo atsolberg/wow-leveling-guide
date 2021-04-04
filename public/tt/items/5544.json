@@ -1,0 +1,10 @@
+{
+  "name": "Dal Bloodclaw's Skull",
+  "quality": "Common",
+  "icon": "inv_misc_bone_orcskull_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dal Bloodclaw's Skull</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Dal Bloodclaw</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 74.50%</div></td></tr></table>",
+  "url": "/item=5544/dal-bloodclaws-skull",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_orcskull_01.jpg",
+  "id": "5544",
+  "slug": "dal-bloodclaws-skull"
+}

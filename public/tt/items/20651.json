@@ -1,0 +1,11 @@
+{
+  "name": "Orange Murloc Egg",
+  "quality": "Common",
+  "icon": "inv_egg_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Orange Murloc Egg</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=25018\" class=\"q2\">Right Click to summon and dismiss your Murki.</a></span></td></tr></table>",
+  "completion_category": "15-2",
+  "url": "/item=20651/orange-murloc-egg",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_egg_03.jpg",
+  "id": "20651",
+  "slug": "orange-murloc-egg"
+}

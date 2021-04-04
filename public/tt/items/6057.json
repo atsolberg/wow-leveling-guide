@@ -1,0 +1,11 @@
+{
+  "name": "Recipe: Nature Protection Potion",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Recipe: Nature Protection Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->38</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=171\" class=\"q1\">Alchemy</a> (190)<br><span class=\"q2\">Use: <a href=\"/spell=7264\" class=\"q2\">Teaches you how to make a Nature Protection Potion.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div><br /><span class=\"q1\"><a href=\"/item=6052\">Nature Protection Potion</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->38</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires Level <!--rlvl-->28<br><span class=\"q2\">Use: <a href=\"/spell=7254\" class=\"q2\">Absorbs 1350 to 2250 nature damage. &nbsp;Lasts 1 hour.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=3357\">Liferoot</a>, <a href=\"/item=3820\">Stranglekelp</a>, <a href=\"/item=3372\">Leaded Vial</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=6057/recipe-nature-protection-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "6057",
+  "slug": "recipe-nature-protection-potion"
+}

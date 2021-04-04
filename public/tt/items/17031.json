@@ -1,0 +1,10 @@
+{
+  "name": "Rune of Teleportation",
+  "quality": "Common",
+  "icon": "inv_misc_rune_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rune of Teleportation</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=17031/rune-of-teleportation",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_rune_06.jpg",
+  "id": "17031",
+  "slug": "rune-of-teleportation"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Aqual Quintessence",
+  "quality": "Common",
+  "icon": "inv_potion_76",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Aqual Quintessence</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=21358\" class=\"q2\">Dowses a rune of the Firelords.</a></span></td></tr></table>",
+  "url": "/item=17333/aqual-quintessence",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_76.jpg",
+  "id": "17333",
+  "slug": "aqual-quintessence"
+}

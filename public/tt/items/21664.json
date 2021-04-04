@@ -1,0 +1,10 @@
+{
+  "name": "Barbed Choker",
+  "quality": "Epic",
+  "icon": "inv_jewelry_necklace_ahnqiraj_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Barbed Choker</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->77</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=15810\" class=\"q2\">+44 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">8</span> <span class=\"moneysilver\">64</span> <span class=\"moneycopper\">43</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Fankriss the Unyielding</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 16.24%</div></td></tr></table>",
+  "url": "/item=21664/barbed-choker",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_ahnqiraj_02.jpg",
+  "id": "21664",
+  "slug": "barbed-choker"
+}

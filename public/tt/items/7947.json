@@ -1,0 +1,10 @@
+{
+  "name": "Ebon Shiv",
+  "quality": "Uncommon",
+  "icon": "inv_weapon_shortblade_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Ebon Shiv</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->51</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->32 - 59 Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(30.33 damage per second)<br><span><!--stat3-->+9 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->46<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">48</span> <span class=\"moneycopper\">92</span></div></td></tr></table>",
+  "url": "/item=7947/ebon-shiv",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_14.jpg",
+  "id": "7947",
+  "slug": "ebon-shiv"
+}

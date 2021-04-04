@@ -1,0 +1,10 @@
+{
+  "name": "Skull of Burning Shadows",
+  "quality": "Rare",
+  "icon": "inv_misc_bone_humanskull_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Skull of Burning Shadows</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats-->+15 Fire Resistance<br>+10 Shadow Resistance<!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">24</span> <span class=\"moneycopper\">58</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Maleki the Pallid</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 17.96%</div></td></tr></table>",
+  "url": "/item=13524/skull-of-burning-shadows",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_humanskull_01.jpg",
+  "id": "13524",
+  "slug": "skull-of-burning-shadows"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Reinforced Linen Cape",
+  "quality": "Common",
+  "icon": "inv_misc_cape_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Reinforced Linen Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->12</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->11 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->7<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">67</span></div></td></tr></table>",
+  "url": "/item=2580/reinforced-linen-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_07.jpg",
+  "id": "2580",
+  "slug": "reinforced-linen-cape"
+}

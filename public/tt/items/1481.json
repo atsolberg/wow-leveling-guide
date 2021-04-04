@@ -1,0 +1,10 @@
+{
+  "name": "Grimclaw",
+  "quality": "Rare",
+  "icon": "inv_axe_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Grimclaw</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->22 - 42 Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(16.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<br><span class=\"q2\">Chance on hit: <a href=\"/spell=13440\" class=\"q2\">Sends a shadowy bolt at the enemy causing 30 Shadow damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">33</span> <span class=\"moneycopper\">37</span></div></td></tr></table>",
+  "url": "/item=1481/grimclaw",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_13.jpg",
+  "id": "1481",
+  "slug": "grimclaw"
+}

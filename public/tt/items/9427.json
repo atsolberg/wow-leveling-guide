@@ -1,0 +1,10 @@
+{
+  "name": "Stonevault Bonebreaker",
+  "quality": "Rare",
+  "icon": "inv_misc_bone_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Stonevault Bonebreaker</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->42</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->54 - 101 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(28.70 damage per second)<br><span><!--stat4-->+8 Strength</span><br><span><!--stat3-->+4 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->37<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">48</span> <span class=\"moneycopper\">53</span></div></td></tr></table>",
+  "url": "/item=9427/stonevault-bonebreaker",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_01.jpg",
+  "id": "9427",
+  "slug": "stonevault-bonebreaker"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Lunar Wand",
+  "quality": "Uncommon",
+  "icon": "inv_staff_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Lunar Wand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->64</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->67 - 126 Arcane Damage</span></td>\n    <th>Speed <!--spd-->1.70</th>\n</tr></table><!--dps-->(56.76 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->59<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">73</span> <span class=\"moneycopper\">65</span></div></td></tr></table>",
+  "url": "/item=15283/lunar-wand",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_06.jpg",
+  "id": "15283",
+  "slug": "lunar-wand"
+}

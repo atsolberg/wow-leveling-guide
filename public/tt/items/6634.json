@@ -1,0 +1,10 @@
+{
+  "name": "Ritual Salve",
+  "quality": "Common",
+  "icon": "inv_potion_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ritual Salve</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Bristleback Shaman</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 13.93%</div></td></tr></table>",
+  "url": "/item=6634/ritual-salve",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_01.jpg",
+  "id": "6634",
+  "slug": "ritual-salve"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Schematic: Lovingly Crafted Boomstick",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Schematic: Lovingly Crafted Boomstick</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->24</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (120)<br><span class=\"q2\">Use: <a href=\"/spell=17433\" class=\"q2\">Teaches you how to make a Lovingly Crafted Boomstick.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q2\"><a href=\"/item=4372\">Lovingly Crafted Boomstick</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->12 - 23 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(9.72 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55<br>Requires Level <!--rlvl-->19<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">18</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4371\">Bronze Tube</a>&nbsp;(2), <a href=\"/item=4359\">Handful of Copper Bolts</a>&nbsp;(2), <a href=\"/item=4400\">Heavy Stock</a>, <a href=\"/item=1206\">Moss Agate</a>&nbsp;(3)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=13309/schematic-lovingly-crafted-boomstick",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "13309",
+  "slug": "schematic-lovingly-crafted-boomstick"
+}

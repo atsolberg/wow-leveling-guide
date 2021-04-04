@@ -1,0 +1,10 @@
+{
+  "name": "Hurricane",
+  "quality": "Epic",
+  "icon": "inv_weapon_bow_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Hurricane</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->53</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->34 - 63 Damage</span></td>\n    <th>Speed <!--spd-->1.60</th>\n</tr></table><!--dps-->(30.31 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->48<br><span class=\"q2\">Equip: <a href=\"/spell=29501\" class=\"q2\">Chance to strike your target with a Frost Arrow for 31 to 45 Frost damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">20</span> <span class=\"moneycopper\">32</span></div></td></tr></table>",
+  "url": "/item=2824/hurricane",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_12.jpg",
+  "id": "2824",
+  "slug": "hurricane"
+}

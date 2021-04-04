@@ -1,0 +1,10 @@
+{
+  "name": "Soul Dust",
+  "quality": "Common",
+  "icon": "inv_enchant_dustsoul",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Soul Dust</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Scarred Crag Boar</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 0.01%</div></td></tr></table>",
+  "url": "/item=11083/soul-dust",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_enchant_dustsoul.jpg",
+  "id": "11083",
+  "slug": "soul-dust"
+}

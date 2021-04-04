@@ -1,0 +1,10 @@
+{
+  "name": "Peacemaker",
+  "quality": "Rare",
+  "icon": "inv_spear_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Peacemaker</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:6--><span class=\"q1\">Polearm</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->137 - 206 Damage</span></td>\n    <th>Speed <!--spd-->3.40</th>\n</tr></table><!--dps-->(50.44 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=15814\" class=\"q2\">+56 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">99</span> <span class=\"moneycopper\">27</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Magistrate Barthilas</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 14.97%</div></td></tr></table>",
+  "url": "/item=18725/peacemaker",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_spear_07.jpg",
+  "id": "18725",
+  "slug": "peacemaker"
+}

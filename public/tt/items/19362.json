@@ -1,0 +1,10 @@
+{
+  "name": "Doom's Edge",
+  "quality": "Epic",
+  "icon": "inv_axe_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Doom's Edge</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->83 - 154 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(51.52 damage per second)<br><span><!--stat4-->+9 Strength</span><br><span><!--stat3-->+16 Agility</span><br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">10</span> <span class=\"moneysilver\">60</span> <span class=\"moneycopper\">98</span></div></td></tr></table>",
+  "url": "/item=19362/dooms-edge",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_15.jpg",
+  "id": "19362",
+  "slug": "dooms-edge"
+}

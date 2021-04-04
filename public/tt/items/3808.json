@@ -1,0 +1,10 @@
+{
+  "name": "Double Mail Belt",
+  "quality": "Poor",
+  "icon": "inv_belt_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Double Mail Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->34</span><!--bo--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->106 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->29<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">70</span></div></td></tr></table>",
+  "url": "/item=3808/double-mail-belt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_06.jpg",
+  "id": "3808",
+  "slug": "double-mail-belt"
+}

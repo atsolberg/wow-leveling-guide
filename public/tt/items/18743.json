@@ -1,0 +1,10 @@
+{
+  "name": "Gracious Cape",
+  "quality": "Rare",
+  "icon": "inv_misc_cape_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Gracious Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->42 Armor</span><br><span><!--stat5-->+7 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<br><span class=\"q2\">Equip: <a href=\"/spell=21627\" class=\"q2\">Restores 6 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">42</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=18743/gracious-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_18.jpg",
+  "id": "18743",
+  "slug": "gracious-cape"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Razor's Edge",
+  "quality": "Rare",
+  "icon": "inv_weapon_halberd_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Razor's Edge</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->25 - 48 Damage</span></td>\n    <th>Speed <!--spd-->2.40</th>\n</tr></table><!--dps-->(15.21 damage per second)<br><span><!--stat4-->+4 Strength</span><br><span><!--stat6-->+2 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">25</span> <span class=\"moneycopper\">89</span></div></td></tr></table>",
+  "url": "/item=12990/razors-edge",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_halberd_08.jpg",
+  "id": "12990",
+  "slug": "razors-edge"
+}

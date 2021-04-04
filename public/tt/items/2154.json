@@ -1,0 +1,10 @@
+{
+  "name": "The Story of Morgan Ladimore",
+  "quality": "Poor",
+  "icon": "inv_misc_book_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">The Story of Morgan Ladimore</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=2154/the-story-of-morgan-ladimore",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_09.jpg",
+  "id": "2154",
+  "slug": "the-story-of-morgan-ladimore"
+}

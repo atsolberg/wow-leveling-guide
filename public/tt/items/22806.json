@@ -1,0 +1,10 @@
+{
+  "name": "Widow's Remorse",
+  "quality": "Epic",
+  "icon": "inv_sword_60",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Widow's Remorse</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->81</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:7--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->70 - 131 Damage</span></td>\n    <th>Speed <!--spd-->1.60</th>\n</tr></table><!--dps-->(62.81 damage per second)<br><span><!--amr-->100 Armor</span><br><span><!--stat7-->+17 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=15464\" class=\"q2\">Improves your chance to hit by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">18</span> <span class=\"moneysilver\">22</span> <span class=\"moneycopper\">4</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Grand Widow Faerlina</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 19.88%</div></td></tr></table>",
+  "url": "/item=22806/widows-remorse",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_60.jpg",
+  "id": "22806",
+  "slug": "widows-remorse"
+}

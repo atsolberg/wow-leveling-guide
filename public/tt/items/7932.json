@@ -1,0 +1,10 @@
+{
+  "name": "Mithril Scale Shoulders",
+  "quality": "Uncommon",
+  "icon": "inv_shoulder_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Mithril Scale Shoulders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->47</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->194 Armor</span><br><span><!--stat7-->+10 Stamina</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->42<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">86</span> <span class=\"moneycopper\">61</span></div></td></tr></table>",
+  "url": "/item=7932/mithril-scale-shoulders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_12.jpg",
+  "id": "7932",
+  "slug": "mithril-scale-shoulders"
+}

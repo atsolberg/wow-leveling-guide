@@ -1,0 +1,10 @@
+{
+  "name": "Boar Champion's Belt",
+  "quality": "Rare",
+  "icon": "inv_belt_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Boar Champion's Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->42</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->147 Armor</span><br><span><!--stat4-->+15 Strength</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->37<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">45</span> <span class=\"moneycopper\">41</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ragglesnout</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 38.11%</div></td></tr></table>",
+  "url": "/item=10768/boar-champions-belt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_11.jpg",
+  "id": "10768",
+  "slug": "boar-champions-belt"
+}

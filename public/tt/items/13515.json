@@ -1,0 +1,10 @@
+{
+  "name": "Ramstein's Lightning Bolts",
+  "quality": "Rare",
+  "icon": "inv_misc_gear_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Ramstein's Lightning Bolts</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Use: <a href=\"/spell=17668\" class=\"q2\">Harness the power of lightning to strike down all enemies around you for 200 Nature damage.</a> (5 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">96</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ramstein the Gorger</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 12.38%</div></td></tr></table>",
+  "url": "/item=13515/ramsteins-lightning-bolts",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gear_06.jpg",
+  "id": "13515",
+  "slug": "ramsteins-lightning-bolts"
+}

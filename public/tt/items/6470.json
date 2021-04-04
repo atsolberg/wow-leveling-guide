@@ -1,0 +1,10 @@
+{
+  "name": "Deviate Scale",
+  "quality": "Common",
+  "icon": "inv_misc_monsterscales_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Deviate Scale</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">20</span></div></td></tr></table>",
+  "url": "/item=6470/deviate-scale",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_02.jpg",
+  "id": "6470",
+  "slug": "deviate-scale"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Gothic Sabatons",
+  "quality": "Uncommon",
+  "icon": "inv_boots_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Gothic Sabatons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->300 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">47</span> <span class=\"moneycopper\">49</span></div></td></tr></table>",
+  "url": "/item=10089/gothic-sabatons",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_08.jpg",
+  "id": "10089",
+  "slug": "gothic-sabatons"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Songstone of Ironforge",
+  "quality": "Rare",
+  "icon": "inv_jewelry_ring_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Songstone of Ironforge</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat5-->+7 Intellect</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=9346\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 18.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">71</span> <span class=\"moneycopper\">56</span></div></td></tr></table>",
+  "url": "/item=12543/songstone-of-ironforge",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_ring_05.jpg",
+  "id": "12543",
+  "slug": "songstone-of-ironforge"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Beaded Orb",
+  "quality": "Uncommon",
+  "icon": "inv_misc_orb_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Beaded Orb</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=15969/beaded-orb",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_orb_05.jpg",
+  "id": "15969",
+  "slug": "beaded-orb"
+}

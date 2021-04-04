@@ -1,0 +1,10 @@
+{
+  "name": "Copper Rod",
+  "quality": "Common",
+  "icon": "inv_misc_flute_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Copper Rod</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Needed by an Enchanter to make a runed copper rod.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">24</span></div></td></tr></table>",
+  "url": "/item=6217/copper-rod",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_flute_01.jpg",
+  "id": "6217",
+  "slug": "copper-rod"
+}

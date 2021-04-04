@@ -1,0 +1,10 @@
+{
+  "name": "Shell Launcher Shotgun",
+  "quality": "Rare",
+  "icon": "inv_weapon_rifle_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Shell Launcher Shotgun</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->48 - 89 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(29.78 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->53<br><span class=\"q2\">Equip: <a href=\"/spell=29635\" class=\"q2\">Chance to strike your ranged target with a Flaming Shell for 18 to 26 Fire damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">47</span> <span class=\"moneycopper\">4</span></div></td></tr></table>",
+  "url": "/item=13146/shell-launcher-shotgun",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_08.jpg",
+  "id": "13146",
+  "slug": "shell-launcher-shotgun"
+}

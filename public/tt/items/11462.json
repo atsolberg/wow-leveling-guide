@@ -1,0 +1,10 @@
+{
+  "name": "Discarded Knife",
+  "quality": "Common",
+  "icon": "inv_weapon_shortblade_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Discarded Knife</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=11462/discarded-knife",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_24.jpg",
+  "id": "11462",
+  "slug": "discarded-knife"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Call of the Raptor",
+  "quality": "Common",
+  "icon": "inv_misc_horn_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Call of the Raptor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->37</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=4318\" class=\"q2\">Increases your Agility by 12 for 30 min.</a></span><br />3 Charges<div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">33</span></div></td></tr></table>",
+  "url": "/item=4546/call-of-the-raptor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_horn_03.jpg",
+  "id": "4546",
+  "slug": "call-of-the-raptor"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Thaumaturgy Vessel Lockbox",
+  "quality": "Common",
+  "icon": "inv_box_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Thaumaturgy Vessel Lockbox</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Inside this lockbox are the empty thaumaturgy vessels.&quot;</span><br><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=7870/thaumaturgy-vessel-lockbox",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_02.jpg",
+  "id": "7870",
+  "slug": "thaumaturgy-vessel-lockbox"
+}

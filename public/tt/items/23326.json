@@ -1,0 +1,10 @@
+{
+  "name": "Midsummer Sausage",
+  "quality": "Common",
+  "icon": "inv_misc_food_53",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Midsummer Sausage</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Duration: 14 days<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=29333\" class=\"q2\">Increases damage done from spells by up to 23 for 1 hour.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=23326/midsummer-sausage",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_53.jpg",
+  "id": "23326",
+  "slug": "midsummer-sausage"
+}

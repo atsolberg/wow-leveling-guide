@@ -1,0 +1,10 @@
+{
+  "name": "Tattered Cloth Belt",
+  "quality": "Common",
+  "icon": "inv_belt_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tattered Cloth Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->6 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 14 / 14</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">4</span></div></td></tr></table>",
+  "url": "/item=3595/tattered-cloth-belt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_24.jpg",
+  "id": "3595",
+  "slug": "tattered-cloth-belt"
+}

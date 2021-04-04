@@ -1,0 +1,10 @@
+{
+  "name": "Worn Stone Token",
+  "quality": "Common",
+  "icon": "inv_misc_rune_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Worn Stone Token</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Its magic has faded.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=3714/worn-stone-token",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_rune_01.jpg",
+  "id": "3714",
+  "slug": "worn-stone-token"
+}

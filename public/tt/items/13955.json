@@ -1,0 +1,10 @@
+{
+  "name": "Stoneform Shoulders",
+  "quality": "Rare",
+  "icon": "inv_shoulder_25",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Stoneform Shoulders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->688 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<br><span class=\"q2\">Equip: <a href=\"/spell=13385\" class=\"q2\">Increased Defense +7.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">63</span> <span class=\"moneycopper\">67</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Kirtonos the Herald</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.28%</div></td></tr></table>",
+  "url": "/item=13955/stoneform-shoulders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_25.jpg",
+  "id": "13955",
+  "slug": "stoneform-shoulders"
+}

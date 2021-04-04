@@ -1,0 +1,10 @@
+{
+  "name": "White Tuxedo Shirt",
+  "quality": "Common",
+  "icon": "inv_shirt_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">White Tuxedo Shirt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><table width=\"100%\"><tr><td>Shirt</td><th><!--scstart4:-8--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div></td></tr></table>",
+  "url": "/item=6833/white-tuxedo-shirt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_08.jpg",
+  "id": "6833",
+  "slug": "white-tuxedo-shirt"
+}

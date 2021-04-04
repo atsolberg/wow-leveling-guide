@@ -1,0 +1,10 @@
+{
+  "name": "Spire of the Stoneshaper",
+  "quality": "Rare",
+  "icon": "inv_wand_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Spire of the Stoneshaper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->56</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->131 - 197 Damage</span></td>\n    <th>Speed <!--spd-->3.40</th>\n</tr></table><!--dps-->(48.24 damage per second)<br><span><!--stat5-->+17 Intellect</span><br><span><!--stat7-->+20 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->51<br><span class=\"q2\">Use: <a href=\"/spell=16470\" class=\"q2\">Increases armor by 1000 for 10 sec but cannot cast spells or attack for the duration of the spell.</a> (15 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">85</span> <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=12532/spire-of-the-stoneshaper",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_07.jpg",
+  "id": "12532",
+  "slug": "spire-of-the-stoneshaper"
+}

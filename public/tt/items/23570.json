@@ -1,0 +1,10 @@
+{
+  "name": "Jom Gabbar",
+  "quality": "Epic",
+  "icon": "inv_misc_enggizmos_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Jom Gabbar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->81</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=29602\" class=\"q2\">Increases attack power by 65 and an additional 65 every 2 sec. &nbsp;Lasts 20 sec.</a> (2 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">18</span> <span class=\"moneycopper\">7</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ouro</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 13.37%</div></td></tr></table>",
+  "url": "/item=23570/jom-gabbar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_enggizmos_19.jpg",
+  "id": "23570",
+  "slug": "jom-gabbar"
+}

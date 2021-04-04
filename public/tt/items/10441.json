@@ -1,0 +1,10 @@
+{
+  "name": "Glowing Shard",
+  "quality": "Common",
+  "icon": "inv_stone_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Glowing Shard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=6981\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<div class=\"whtt-extra whtt-droppedby\">Dropped by: Mutanus the Devourer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 68.31%</div></td></tr></table>",
+  "url": "/item=10441/glowing-shard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_03.jpg",
+  "id": "10441",
+  "slug": "glowing-shard"
+}

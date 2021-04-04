@@ -1,0 +1,10 @@
+{
+  "name": "Soulstealer Mantle",
+  "quality": "Rare",
+  "icon": "inv_shoulder_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Soulstealer Mantle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->64 Armor</span><br><span><!--stat5-->+22 Intellect</span><br><span><!--stat6-->+9 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">43</span> <span class=\"moneycopper\">15</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ramstein the Gorger</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 12.22%</div></td></tr></table>",
+  "url": "/item=13374/soulstealer-mantle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_02.jpg",
+  "id": "13374",
+  "slug": "soulstealer-mantle"
+}

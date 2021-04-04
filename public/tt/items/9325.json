@@ -1,0 +1,10 @@
+{
+  "name": "A Small Stave",
+  "quality": "Common",
+  "icon": "inv_staff_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">A Small Stave</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Troyas has entrusted this to you until you return.&quot;</span></td></tr></table>",
+  "url": "/item=9325/a-small-stave",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_08.jpg",
+  "id": "9325",
+  "slug": "a-small-stave"
+}

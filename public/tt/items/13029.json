@@ -1,0 +1,10 @@
+{
+  "name": "Umbral Crystal",
+  "quality": "Rare",
+  "icon": "inv_misc_orb_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Umbral Crystal</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->43</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat7-->+5 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->38<br><span class=\"q2\">Equip: <a href=\"/spell=9325\" class=\"q2\">Increases damage done by Shadow spells and effects by up to 17.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">56</span> <span class=\"moneycopper\">13</span></div></td></tr></table>",
+  "url": "/item=13029/umbral-crystal",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_orb_04.jpg",
+  "id": "13029",
+  "slug": "umbral-crystal"
+}

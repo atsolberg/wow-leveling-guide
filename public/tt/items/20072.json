@@ -1,0 +1,10 @@
+{
+  "name": "Defiler's Talisman",
+  "quality": "Rare",
+  "icon": "inv_jewelry_talisman_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Defiler's Talisman</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br>Requires <a href=\"/faction=510\" class=\"q1\">The Defilers</a> - Friendly<br><span class=\"q2\">Use: <a href=\"/spell=23991\" class=\"q2\">Absorbs 495 to 605 physical damage. &nbsp;Lasts 15 sec.</a> (3 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">7</span></div></td></tr></table>",
+  "url": "/item=20072/defilers-talisman",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_05.jpg",
+  "id": "20072",
+  "slug": "defilers-talisman"
+}

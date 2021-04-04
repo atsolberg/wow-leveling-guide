@@ -1,0 +1,10 @@
+{
+  "name": "Shadowfang",
+  "quality": "Rare",
+  "icon": "inv_sword_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Shadowfang</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:7--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->29 - 55 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr><tr><td colspan=\"2\">+ 4 - 8 Shadow Damage</td></tr></table><!--dps-->(17.78 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->19<br><span class=\"q2\">Chance on hit: <a href=\"/spell=13440\" class=\"q2\">Sends a shadowy bolt at the enemy causing 30 Shadow damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">29</span> <span class=\"moneycopper\">64</span></div></td></tr></table>",
+  "url": "/item=1482/shadowfang",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_13.jpg",
+  "id": "1482",
+  "slug": "shadowfang"
+}

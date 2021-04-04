@@ -1,0 +1,10 @@
+{
+  "name": "Message in a Bottle",
+  "quality": "Common",
+  "icon": "inv_drink_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Message in a Bottle</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=6307/message-in-a-bottle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_12.jpg",
+  "id": "6307",
+  "slug": "message-in-a-bottle"
+}

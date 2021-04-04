@@ -1,0 +1,10 @@
+{
+  "name": "The Frostwolf Artichoke",
+  "quality": "Common",
+  "icon": "inv_misc_book_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">The Frostwolf Artichoke</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Tales of Stormpike Glory - By Vanndar Stormpike&quot;</span><br><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=19484/the-frostwolf-artichoke",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_04.jpg",
+  "id": "19484",
+  "slug": "the-frostwolf-artichoke"
+}

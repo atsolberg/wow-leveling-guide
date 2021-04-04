@@ -1,0 +1,10 @@
+{
+  "name": "Green Hills of Stranglethorn - Chapter II",
+  "quality": "Common",
+  "icon": "inv_misc_bandage_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Green Hills of Stranglethorn - Chapter II</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=2757/green-hills-of-stranglethorn-chapter-ii",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bandage_07.jpg",
+  "id": "2757",
+  "slug": "green-hills-of-stranglethorn-chapter-ii"
+}

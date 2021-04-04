@@ -1,0 +1,10 @@
+{
+  "name": "Double Axe",
+  "quality": "Common",
+  "icon": "inv_axe_21",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Double Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->19 - 36 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(11.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->19<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">13</span> <span class=\"moneycopper\">90</span></div></td></tr></table>",
+  "url": "/item=927/double-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_21.jpg",
+  "id": "927",
+  "slug": "double-axe"
+}

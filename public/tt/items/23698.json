@@ -1,0 +1,10 @@
+{
+  "name": "[PH] Nature Resist Potion [DEP]",
+  "quality": "Common",
+  "icon": "inv_potion_29",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">[PH] Nature Resist Potion [DEP]</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=23698/ph-nature-resist-potion-dep",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_29.jpg",
+  "id": "23698",
+  "slug": "ph-nature-resist-potion-dep"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Relic Coffer Key",
+  "quality": "Common",
+  "icon": "inv_misc_key_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Relic Coffer Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=13478\" class=\"q2\">Opens a Black Vault Relic Coffer Door.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=11078/relic-coffer-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_03.jpg",
+  "id": "11078",
+  "slug": "relic-coffer-key"
+}

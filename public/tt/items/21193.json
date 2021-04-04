@@ -1,0 +1,10 @@
+{
+  "name": "D'Sak's Sack",
+  "quality": "Rare",
+  "icon": "inv_misc_bag_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">D'Sak's Sack</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<br />30 Slot Soul Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span></div></td></tr></table>",
+  "url": "/item=21193/dsaks-sack",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_13.jpg",
+  "id": "21193",
+  "slug": "dsaks-sack"
+}

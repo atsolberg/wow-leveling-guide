@@ -1,0 +1,10 @@
+{
+  "name": "Bloodwoven Boots",
+  "quality": "Uncommon",
+  "icon": "inv_boots_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Bloodwoven Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->46</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->41 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->41<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">56</span></div></td></tr></table>",
+  "url": "/item=14259/bloodwoven-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_08.jpg",
+  "id": "14259",
+  "slug": "bloodwoven-boots"
+}

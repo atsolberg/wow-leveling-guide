@@ -1,0 +1,10 @@
+{
+  "name": "Girdle of Nobility",
+  "quality": "Uncommon",
+  "icon": "inv_belt_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Girdle of Nobility</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->18 Armor</span><br><span><!--stat5-->+3 Intellect</span><br><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->13<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">9</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Brainwashed Noble</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 72.34%</div></td></tr></table>",
+  "url": "/item=5967/girdle-of-nobility",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_10.jpg",
+  "id": "5967",
+  "slug": "girdle-of-nobility"
+}

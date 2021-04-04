@@ -1,0 +1,10 @@
+{
+  "name": "Winterfall Ritual Totem",
+  "quality": "Common",
+  "icon": "spell_fire_frostresistancetotem",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Winterfall Ritual Totem</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=8471\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br><span class=\"q\">&quot;The totem is thick with the taint of corruption.&quot;</span></td></tr></table>",
+  "url": "/item=20742/winterfall-ritual-totem",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_fire_frostresistancetotem.jpg",
+  "id": "20742",
+  "slug": "winterfall-ritual-totem"
+}

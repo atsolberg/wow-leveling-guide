@@ -1,0 +1,11 @@
+{
+  "name": "Riding Turtle",
+  "quality": "Common",
+  "icon": "ability_hunter_pet_turtle",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Riding Turtle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when picked up<br />Mount<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<br><span class=\"q2\">Use: <a href=\"/spell=30174\" class=\"q2\">Summons and dismisses a rideable turtle. It may be slow, but it gets you off your feet!</a> (3 Sec Cooldown)</span></td></tr></table>",
+  "completion_category": "15-5",
+  "url": "/item=23720/riding-turtle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_hunter_pet_turtle.jpg",
+  "id": "23720",
+  "slug": "riding-turtle"
+}

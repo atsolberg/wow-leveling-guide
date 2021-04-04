@@ -1,0 +1,10 @@
+{
+  "name": "Accurate Slugs",
+  "quality": "Common",
+  "icon": "inv_ammo_bullet_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Accurate Slugs</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><table width=\"100%\"><tr><td>Ammo</td><th><!--scstart6:3--><span class=\"q1\">Bullet</span><!--scend--></th></tr></table><span>Adds 13 damage per second</span>\n<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<!--itemEffects:1--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=11284/accurate-slugs",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ammo_bullet_01.jpg",
+  "id": "11284",
+  "slug": "accurate-slugs"
+}

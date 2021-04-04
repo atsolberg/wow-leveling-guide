@@ -1,0 +1,10 @@
+{
+  "name": "Red Scepter Shard",
+  "quality": "Epic",
+  "icon": "inv_misc_gem_ruby_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Red Scepter Shard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Nefarian</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 15.55%</div></td></tr></table>",
+  "url": "/item=21138/red-scepter-shard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_ruby_03.jpg",
+  "id": "21138",
+  "slug": "red-scepter-shard"
+}

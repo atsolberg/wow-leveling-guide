@@ -1,0 +1,10 @@
+{
+  "name": "Explosive Rocket",
+  "quality": "Common",
+  "icon": "inv_ammo_bullet_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Explosive Rocket</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->8</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=1940\" class=\"q2\">Inflicts 28 to 32 Fire damage in a 3 yard radius.</a> (1 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">7</span></div></td></tr></table>",
+  "url": "/item=1178/explosive-rocket",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ammo_bullet_01.jpg",
+  "id": "1178",
+  "slug": "explosive-rocket"
+}

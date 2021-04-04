@@ -1,0 +1,10 @@
+{
+  "name": "Ring of Infinite Wisdom",
+  "quality": "Epic",
+  "icon": "inv_jewelry_ring_ahnqiraj_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Ring of Infinite Wisdom</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat5-->+13 Intellect</span><br><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=5\" class=\"c5\">Priest</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=21363\" class=\"q2\">Restores 5 mana per 5 sec.</a></span><!--itemEffects:1--><br /><br /><span class=\"q\"><a href=\"/item-set=508\" class=\"q\">Finery of Infinite Wisdom</a> (0/3)</span><div class=\"q0 indent\"><span><!--si21410--><a href=\"/item=21410\">Gavel of Infinite Wisdom</a></span><br /><span><!--si21411--><a href=\"/item=21411\">Ring of Infinite Wisdom</a></span><br /><span><!--si21412--><a href=\"/item=21412\">Shroud of Infinite Wisdom</a></span></div><br /><span class=\"q0\"><span>(3) Set : <a href=\"/spell=26172\">Increases the damage of your Shadow Word: Pain spell by 5%.</a></span></span></td></tr></table>",
+  "url": "/item=21411/ring-of-infinite-wisdom",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_ring_ahnqiraj_03.jpg",
+  "id": "21411",
+  "slug": "ring-of-infinite-wisdom"
+}

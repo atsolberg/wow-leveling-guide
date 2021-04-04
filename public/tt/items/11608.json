@@ -1,0 +1,10 @@
+{
+  "name": "Dark Iron Pulverizer",
+  "quality": "Rare",
+  "icon": "inv_hammer_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Dark Iron Pulverizer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->140 - 211 Damage</span></td>\n    <th>Speed <!--spd-->3.70</th>\n</tr></table><!--dps-->(47.43 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br><span class=\"q2\">Chance on hit: <a href=\"/spell=15283\" class=\"q2\">Stuns target for 8 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">57</span> <span class=\"moneycopper\">60</span></div></td></tr></table>",
+  "url": "/item=11608/dark-iron-pulverizer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_09.jpg",
+  "id": "11608",
+  "slug": "dark-iron-pulverizer"
+}

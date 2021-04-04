@@ -1,0 +1,10 @@
+{
+  "name": "Keen Axe",
+  "quality": "Poor",
+  "icon": "inv_axe_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Keen Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->38</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->19 - 35 Damage</span></td>\n    <th>Speed <!--spd-->2.20</th>\n</tr></table><!--dps-->(12.27 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->33<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">36</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=3785/keen-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_23.jpg",
+  "id": "3785",
+  "slug": "keen-axe"
+}

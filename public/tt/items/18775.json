@@ -1,0 +1,10 @@
+{
+  "name": "Manna-Enriched Horse Feed",
+  "quality": "Common",
+  "icon": "inv_misc_food_wheat_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Manna-Enriched Horse Feed</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Oats and grains specially mixed with the Argent Dawn's enriched manna biscuits.&quot;</span></td></tr></table>",
+  "url": "/item=18775/manna-enriched-horse-feed",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_wheat_01.jpg",
+  "id": "18775",
+  "slug": "manna-enriched-horse-feed"
+}

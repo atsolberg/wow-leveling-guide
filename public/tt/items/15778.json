@@ -1,0 +1,10 @@
+{
+  "name": "Mechanical Yeti",
+  "quality": "Uncommon",
+  "icon": "ability_hunter_pet_gorilla",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Mechanical Yeti</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=19363\" class=\"q2\">Summons a mechanical yeti that will protect you for 10 min.</a> (10 Min Cooldown)</span><br />3 Charges<div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=15778/mechanical-yeti",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_hunter_pet_gorilla.jpg",
+  "id": "15778",
+  "slug": "mechanical-yeti"
+}

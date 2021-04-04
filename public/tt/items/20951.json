@@ -1,0 +1,10 @@
+{
+  "name": "Narain's Scrying Goggles",
+  "quality": "Common",
+  "icon": "inv_helmet_47",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Narain's Scrying Goggles</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=20951/narains-scrying-goggles",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_47.jpg",
+  "id": "20951",
+  "slug": "narains-scrying-goggles"
+}

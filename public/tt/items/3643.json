@@ -1,0 +1,10 @@
+{
+  "name": "Spellbinder Bracers",
+  "quality": "Common",
+  "icon": "inv_bracer_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Spellbinder Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->14</span><!--bo--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->11 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 18 / 18</td></tr></table><table><tr><td>Requires Level <!--rlvl-->9<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">71</span></div></td></tr></table>",
+  "url": "/item=3643/spellbinder-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_06.jpg",
+  "id": "3643",
+  "slug": "spellbinder-bracers"
+}

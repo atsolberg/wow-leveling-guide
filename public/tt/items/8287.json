@@ -1,0 +1,10 @@
+{
+  "name": "Arcane Gloves",
+  "quality": "Uncommon",
+  "icon": "inv_gauntlets_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Arcane Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->46 Armor</span><br><span><!--stat5-->+12 Intellect</span><br><span><!--stat7-->+13 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">70</span> <span class=\"moneycopper\">87</span></div></td></tr></table>",
+  "url": "/item=8287/arcane-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_06.jpg",
+  "id": "8287",
+  "slug": "arcane-gloves"
+}

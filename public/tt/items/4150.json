@@ -1,0 +1,11 @@
+{
+  "name": "Tome of Conjure Water IV",
+  "quality": "Common",
+  "icon": "inv_misc_book_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tome of Conjure Water IV</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=8\" class=\"c8\">Mage</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<br><span class=\"q2\">Use: <a href=\"/spell=6639\" class=\"q2\">Teaches Conjure Water (Rank 4).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">24</span> <span class=\"moneycopper\">25</span></div><br /><span class=\"q1\"><a href=\"/item=3772\">Conjured Spring Water</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><br />Conjured Item<!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires Level <!--rlvl-->25<br><span class=\"q2\">Use: <a href=\"/spell=1133\" class=\"q2\">Restores 1344.6 mana over 27 sec. &nbsp;Must remain seated while drinking.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"q1 whtt-extra whtt-reagents\"><br /></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=4150/tome-of-conjure-water-iv",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_07.jpg",
+  "id": "4150",
+  "slug": "tome-of-conjure-water-iv"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Tribal Raptor Feathers",
+  "quality": "Poor",
+  "icon": "spell_magic_featherfall",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Tribal Raptor Feathers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">7</span></div></td></tr></table>",
+  "url": "/item=4587/tribal-raptor-feathers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_magic_featherfall.jpg",
+  "id": "4587",
+  "slug": "tribal-raptor-feathers"
+}

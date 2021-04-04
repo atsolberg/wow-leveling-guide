@@ -1,0 +1,10 @@
+{
+  "name": "Claw of the Black Drake",
+  "quality": "Epic",
+  "icon": "inv_weapon_shortblade_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Claw of the Black Drake</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->75</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:13--><span class=\"q1\">Fist Weapon</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->102 - 191 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(56.35 damage per second)<br><span><!--stat4-->+13 Strength</span><br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">13</span> <span class=\"moneysilver\">69</span> <span class=\"moneycopper\">28</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Firemaw</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 16.54%</div></td></tr></table>",
+  "url": "/item=19365/claw-of-the-black-drake",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_27.jpg",
+  "id": "19365",
+  "slug": "claw-of-the-black-drake"
+}

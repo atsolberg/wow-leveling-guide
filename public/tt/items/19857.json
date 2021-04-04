@@ -1,0 +1,10 @@
+{
+  "name": "Cloak of Consumption",
+  "quality": "Epic",
+  "icon": "inv_misc_cape_22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Cloak of Consumption</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->68</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->52 Armor</span><br><span><!--stat5-->+10 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=14047\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 23.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=23727\" class=\"q2\">Improves your chance to hit with spells by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">99</span> <span class=\"moneycopper\">66</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Hakkar</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 19.92%</div></td></tr></table>",
+  "url": "/item=19857/cloak-of-consumption",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_22.jpg",
+  "id": "19857",
+  "slug": "cloak-of-consumption"
+}

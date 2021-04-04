@@ -1,0 +1,10 @@
+{
+  "name": "Blue Ribboned Gift",
+  "quality": "Common",
+  "icon": "inv_misc_gift_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Blue Ribboned Gift</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=5044/blue-ribboned-gift",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gift_03.jpg",
+  "id": "5044",
+  "slug": "blue-ribboned-gift"
+}

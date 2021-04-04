@@ -1,0 +1,10 @@
+{
+  "name": "Crystal Slugthrower",
+  "quality": "Rare",
+  "icon": "inv_weapon_rifle_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Crystal Slugthrower</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->65 - 122 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(33.39 damage per second)<br><span><!--stat7-->+4 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=9331\" class=\"q2\">+20 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">54</span> <span class=\"moneycopper\">13</span></div></td></tr></table>",
+  "url": "/item=20722/crystal-slugthrower",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_03.jpg",
+  "id": "20722",
+  "slug": "crystal-slugthrower"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Azuredeep Shards",
+  "quality": "Poor",
+  "icon": "inv_misc_gem_sapphire_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Azuredeep Shards</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->36</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">86</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lesser Water Elemental</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 32.09%</div></td></tr></table>",
+  "url": "/item=1706/azuredeep-shards",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_sapphire_03.jpg",
+  "id": "1706",
+  "slug": "azuredeep-shards"
+}

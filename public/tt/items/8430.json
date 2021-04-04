@@ -1,0 +1,10 @@
+{
+  "name": "Empty Dew Gland",
+  "quality": "Poor",
+  "icon": "inv_misc_bone_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Empty Dew Gland</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">46</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Thistleshrub Dew Collector</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 46.71%</div></td></tr></table>",
+  "url": "/item=8430/empty-dew-gland",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_10.jpg",
+  "id": "8430",
+  "slug": "empty-dew-gland"
+}

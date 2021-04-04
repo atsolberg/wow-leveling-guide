@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Golden Scale Cuirass",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Plans: Golden Scale Cuirass</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->39</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (195)<br><span class=\"q2\">Use: <a href=\"/spell=3534\" class=\"q2\">Teaches you how to make a Golden Scale Cuirass.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">11</span></div><br /><span class=\"q2\"><a href=\"/item=3845\">Golden Scale Cuirass</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->231 Armor</span><br><span><!--stat4-->+14 Strength</span><br><span><!--stat6-->+6 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100<br>Requires Level <!--rlvl-->35<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">65</span> <span class=\"moneycopper\">58</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=3859\">Steel Bar</a>&nbsp;(12), <a href=\"/item=3577\">Gold Bar</a>&nbsp;(2), <a href=\"/item=3486\">Heavy Grinding Stone</a>&nbsp;(4), <a href=\"/item=1529\">Jade</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=3873/plans-golden-scale-cuirass",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "3873",
+  "slug": "plans-golden-scale-cuirass"
+}

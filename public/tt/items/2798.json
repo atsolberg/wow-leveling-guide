@@ -1,0 +1,10 @@
+{
+  "name": "Rethban Ore",
+  "quality": "Common",
+  "icon": "inv_ore_iron_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rethban Ore</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Redridge Drudger</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 47.89%</div></td></tr></table>",
+  "url": "/item=2798/rethban-ore",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ore_iron_01.jpg",
+  "id": "2798",
+  "slug": "rethban-ore"
+}

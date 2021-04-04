@@ -1,0 +1,10 @@
+{
+  "name": "Glass Shooter",
+  "quality": "Rare",
+  "icon": "inv_weapon_rifle_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Glass Shooter</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->36 - 68 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(17.93 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">66</span> <span class=\"moneycopper\">52</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Dark Iron Ambassador</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 32.67%</div></td></tr></table>",
+  "url": "/item=9456/glass-shooter",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_02.jpg",
+  "id": "9456",
+  "slug": "glass-shooter"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Sedge Boots",
+  "quality": "Rare",
+  "icon": "inv_boots_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Sedge Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->121 Armor</span><br><span><!--stat5-->+11 Intellect</span><br><span><!--stat7-->+18 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+5 Nature Resistance<br>+5 Shadow Resistance<!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">95</span></div></td></tr></table>",
+  "url": "/item=18424/sedge-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_05.jpg",
+  "id": "18424",
+  "slug": "sedge-boots"
+}

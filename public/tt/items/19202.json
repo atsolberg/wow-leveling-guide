@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Heavy Timbermaw Belt",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Plans: Heavy Timbermaw Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (290)<br>Requires <a href=\"/faction=576\" class=\"q1\">Timbermaw Hold</a> - Honored<br><span class=\"q2\">Use: <a href=\"/spell=23630\" class=\"q2\">Teaches you how to make a Heavy Timbermaw Belt.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">55</span></div><br /><span class=\"q3\"><a href=\"/item=19043\">Heavy Timbermaw Belt</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->193 Armor</span><br><span><!--stat7-->+9 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40<br>Requires Level <!--rlvl-->53<br><span class=\"q2\">Equip: <a href=\"/spell=15809\" class=\"q2\">+42 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">32</span> <span class=\"moneycopper\">91</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=12359\">Thorium Bar</a>&nbsp;(12), <a href=\"/item=7076\">Essence of Earth</a>&nbsp;(3), <a href=\"/item=12803\">Living Essence</a>&nbsp;(3)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=19202/plans-heavy-timbermaw-belt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "19202",
+  "slug": "plans-heavy-timbermaw-belt"
+}

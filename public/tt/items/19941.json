@@ -1,0 +1,10 @@
+{
+  "name": "Wushoolay's Mane",
+  "quality": "Uncommon",
+  "icon": "inv_misc_monstertail_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Wushoolay's Mane</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Wushoolay's Unkempt Mane.&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Wushoolay</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 93.39%</div></td></tr></table>",
+  "url": "/item=19941/wushoolays-mane",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monstertail_02.jpg",
+  "id": "19941",
+  "slug": "wushoolays-mane"
+}

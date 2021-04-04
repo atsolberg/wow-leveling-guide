@@ -1,0 +1,10 @@
+{
+  "name": "Captain Sander's Sash",
+  "quality": "Uncommon",
+  "icon": "inv_misc_bandana_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Captain Sander's Sash</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->16 Armor</span><br><span><!--stat7-->+2 Stamina</span><br><span><!--stat6-->+2 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 18 / 18</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">45</span></div></td></tr></table>",
+  "url": "/item=3344/captain-sanders-sash",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bandana_03.jpg",
+  "id": "3344",
+  "slug": "captain-sanders-sash"
+}

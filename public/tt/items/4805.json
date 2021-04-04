@@ -1,0 +1,10 @@
+{
+  "name": "Flatland Cougar Femur",
+  "quality": "Common",
+  "icon": "inv_misc_bone_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Flatland Cougar Femur</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Flatland Cougar</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 5.57%</div></td></tr></table>",
+  "url": "/item=4805/flatland-cougar-femur",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_01.jpg",
+  "id": "4805",
+  "slug": "flatland-cougar-femur"
+}

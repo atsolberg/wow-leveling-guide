@@ -1,0 +1,10 @@
+{
+  "name": "Vek'nilash's Circlet",
+  "quality": "Epic",
+  "icon": "inv_bracer_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Vek'nilash's Circlet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a>, <a href=\"/class=5\" class=\"c5\">Priest</a>, <a href=\"/class=8\" class=\"c8\">Mage</a>, <a href=\"/class=9\" class=\"c9\">Warlock</a></div></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Emperor Vek'nilash</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 84.18%</div></td></tr></table>",
+  "url": "/item=20926/veknilashs-circlet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_18.jpg",
+  "id": "20926",
+  "slug": "veknilashs-circlet"
+}

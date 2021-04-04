@@ -1,0 +1,10 @@
+{
+  "name": "Highlander's Chain Pauldrons",
+  "quality": "Epic",
+  "icon": "inv_shoulder_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Highlander's Chain Pauldrons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->312 Armor</span><br><span><!--stat3-->+20 Agility</span><br><span><!--stat5-->+17 Intellect</span><br><span><!--stat7-->+18 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=3\" class=\"c3\">Hunter</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br>Requires <a href=\"/faction=509\" class=\"q1\">The League of Arathor</a> - Exalted<!--itemEffects:1--><br /><br /><span class=\"q\"><a href=\"/item-set=469\" class=\"q\">The Highlander's Determination</a> (0/3)</span><div class=\"q0 indent\"><span><!--si20043--><a href=\"/item=20043\">Highlander's Chain Girdle</a></span><br /><span><!--si20050--><a href=\"/item=20050\">Highlander's Chain Greaves</a></span><br /><span><!--si20055--><a href=\"/item=20055\">Highlander's Chain Pauldrons</a></span></div><br /><span class=\"q0\"><span>(2) Set : <a href=\"/spell=7503\">+5 Stamina.</a></span><br /><span>(3) Set : <a href=\"/spell=7597\">Improves your chance to get a critical strike by 1%.</a></span></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">68</span> <span class=\"moneycopper\">67</span></div></td></tr></table>",
+  "url": "/item=20055/highlanders-chain-pauldrons",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_01.jpg",
+  "id": "20055",
+  "slug": "highlanders-chain-pauldrons"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Strange Water Globe",
+  "quality": "Uncommon",
+  "icon": "spell_shadow_teleport",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Strange Water Globe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->21</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=6922\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->21<div class=\"whtt-extra whtt-droppedby\">Dropped by: Baron Aquanis</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 92.76%</div></td></tr></table>",
+  "url": "/item=16782/strange-water-globe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_teleport.jpg",
+  "id": "16782",
+  "slug": "strange-water-globe"
+}

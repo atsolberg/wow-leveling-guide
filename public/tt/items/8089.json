@@ -1,0 +1,10 @@
+{
+  "name": "Platemail Boots",
+  "quality": "Common",
+  "icon": "inv_boots_plate_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Platemail Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->314 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">40</span> <span class=\"moneycopper\">16</span></div></td></tr></table>",
+  "url": "/item=8089/platemail-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_plate_08.jpg",
+  "id": "8089",
+  "slug": "platemail-boots"
+}

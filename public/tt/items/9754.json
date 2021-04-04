@@ -1,0 +1,10 @@
+{
+  "name": "Gypsy Cloak",
+  "quality": "Common",
+  "icon": "inv_misc_cape_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gypsy Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->10 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">70</span></div></td></tr></table>",
+  "url": "/item=9754/gypsy-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_17.jpg",
+  "id": "9754",
+  "slug": "gypsy-cloak"
+}

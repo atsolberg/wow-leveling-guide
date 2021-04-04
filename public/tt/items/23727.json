@@ -1,0 +1,10 @@
+{
+  "name": "QAEnchant Gloves +5 Fishing",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QAEnchant Gloves +5 Fishing</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=30187\" class=\"q2\">Permanently enchant gloves to grant 2 fishing skill.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=23727/qaenchant-gloves-5-fishing",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "23727",
+  "slug": "qaenchant-gloves-5-fishing"
+}

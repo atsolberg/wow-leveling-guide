@@ -1,0 +1,10 @@
+{
+  "name": "Mendicant's Slippers",
+  "quality": "Epic",
+  "icon": "inv_boots_cloth_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Mendicant's Slippers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->71</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->75 Armor</span><br><span><!--stat5-->+23 Intellect</span><br><span><!--stat7-->+12 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=21632\" class=\"q2\">Restores 10 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">68</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Taerar</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 13.88%</div></td></tr></table>",
+  "url": "/item=20631/mendicants-slippers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_cloth_05.jpg",
+  "id": "20631",
+  "slug": "mendicants-slippers"
+}

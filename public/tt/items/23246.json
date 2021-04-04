@@ -1,0 +1,10 @@
+{
+  "name": "Fiery Festival Brew",
+  "quality": "Common",
+  "icon": "inv_summerfest_firedrink",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fiery Festival Brew</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=29388\" class=\"q2\">Sets your breath aflame!</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=23246/fiery-festival-brew",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_summerfest_firedrink.jpg",
+  "id": "23246",
+  "slug": "fiery-festival-brew"
+}

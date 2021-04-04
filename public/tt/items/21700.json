@@ -1,0 +1,10 @@
+{
+  "name": "Pendant of the Qiraji Guardian",
+  "quality": "Epic",
+  "icon": "inv_jewelry_necklace_ahnqiraj_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Pendant of the Qiraji Guardian</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->73</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat4-->+12 Strength</span><br><span><!--stat3-->+11 Agility</span><br><span><!--stat7-->+17 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=13384\" class=\"q2\">Increased Defense +6.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">9</span> <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">35</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: The Prophet Skeram</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 15.99%</div></td></tr></table>",
+  "url": "/item=21700/pendant-of-the-qiraji-guardian",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_ahnqiraj_01.jpg",
+  "id": "21700",
+  "slug": "pendant-of-the-qiraji-guardian"
+}

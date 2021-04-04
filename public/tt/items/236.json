@@ -1,0 +1,10 @@
+{
+  "name": "Cured Leather Armor",
+  "quality": "Common",
+  "icon": "inv_chest_leather_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Cured Leather Armor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->77 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">59</span></div></td></tr></table>",
+  "url": "/item=236/cured-leather-armor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_leather_10.jpg",
+  "id": "236",
+  "slug": "cured-leather-armor"
+}

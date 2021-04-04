@@ -1,0 +1,10 @@
+{
+  "name": "Battle Tabard of the Defilers",
+  "quality": "Common",
+  "icon": "inv_shirt_guildtabard_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Battle Tabard of the Defilers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Tabard</td><th><!--scstart4:-7--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires <a href=\"/faction=510\" class=\"q1\">The Defilers</a> - Exalted<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">25</span></div></td></tr></table>",
+  "url": "/item=20131/battle-tabard-of-the-defilers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_guildtabard_01.jpg",
+  "id": "20131",
+  "slug": "battle-tabard-of-the-defilers"
+}

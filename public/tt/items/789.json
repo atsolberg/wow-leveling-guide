@@ -1,0 +1,10 @@
+{
+  "name": "Stout Battlehammer",
+  "quality": "Uncommon",
+  "icon": "inv_hammer_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Stout Battlehammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->17 - 33 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(10.87 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">19</span> <span class=\"moneycopper\">69</span></div></td></tr></table>",
+  "url": "/item=789/stout-battlehammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_08.jpg",
+  "id": "789",
+  "slug": "stout-battlehammer"
+}

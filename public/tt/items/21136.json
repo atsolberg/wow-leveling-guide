@@ -1,0 +1,10 @@
+{
+  "name": "Arcanite Buoy",
+  "quality": "Common",
+  "icon": "inv_gizmo_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Arcanite Buoy</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=25783\" class=\"q2\">Places Arcanite Buoy at the Swirling Maelstrom in the Bay of Storms. This should coax Maws out of his minnow disguise. Hopefully, you brought some friends!</a></span></td></tr></table>",
+  "url": "/item=21136/arcanite-buoy",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_07.jpg",
+  "id": "21136",
+  "slug": "arcanite-buoy"
+}

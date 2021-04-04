@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Gloves of the Greatfather",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Pattern: Gloves of the Greatfather</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->38</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=165\" class=\"q1\">Leatherworking</a> (190)<br><span class=\"q2\">Use: <a href=\"/spell=21944\" class=\"q2\">Teaches you how to craft Gloves of the Greatfather.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span></div><br /><span class=\"q2\"><a href=\"/item=17721\">Gloves of the Greatfather</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->38</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->66 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30<br>Requires Level <!--rlvl-->33<br><span class=\"q2\">Equip: <a href=\"/spell=9406\" class=\"q2\">Increases healing done by spells and effects by up to 18.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=7696\" class=\"q2\">Increases damage done by Nature spells and effects by up to 10.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">22</span> <span class=\"moneycopper\">68</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4234\">Heavy Leather</a>&nbsp;(8), <a href=\"/item=7067\">Elemental Earth</a>&nbsp;(4), <a href=\"/item=4291\">Silken Thread</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=17722/pattern-gloves-of-the-greatfather",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "17722",
+  "slug": "pattern-gloves-of-the-greatfather"
+}

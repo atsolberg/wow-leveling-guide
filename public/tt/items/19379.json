@@ -1,0 +1,10 @@
+{
+  "name": "Neltharion's Tear",
+  "quality": "Epic",
+  "icon": "inv_stone_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Neltharion's Tear</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->83</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=17493\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 44.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=23729\" class=\"q2\">Improves your chance to hit with spells by 2%.</a></span><!--itemEffects:1--><br><span class=\"q\">&quot;A silver liquid flows within the impenetrable ebony shell. The item feels pure. It radiates an essence of extreme power.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">20</span> <span class=\"moneysilver\">58</span> <span class=\"moneycopper\">63</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Nefarian</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.77%</div></td></tr></table>",
+  "url": "/item=19379/neltharions-tear",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_15.jpg",
+  "id": "19379",
+  "slug": "neltharions-tear"
+}

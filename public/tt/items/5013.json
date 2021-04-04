@@ -1,0 +1,10 @@
+{
+  "name": "Fertile Bulb",
+  "quality": "Common",
+  "icon": "inv_misc_herb_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fertile Bulb</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<br><span class=\"q2\">Use: <a href=\"/spell=5100\" class=\"q2\">Inflicts 47 to 53 Nature damage in a 10 yard radius.</a> (1 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">38</span></div></td></tr></table>",
+  "url": "/item=5013/fertile-bulb",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_herb_08.jpg",
+  "id": "5013",
+  "slug": "fertile-bulb"
+}

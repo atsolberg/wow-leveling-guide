@@ -1,0 +1,11 @@
+{
+  "name": "Truesilver Shafted Arrow",
+  "quality": "Common",
+  "icon": "inv_ammo_arrow_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Truesilver Shafted Arrow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27570\" class=\"q2\">Right Click to summon and dismiss Kwee Q. Peddlefeet.</a></span></td></tr></table>",
+  "completion_category": "15-2",
+  "url": "/item=22235/truesilver-shafted-arrow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ammo_arrow_02.jpg",
+  "id": "22235",
+  "slug": "truesilver-shafted-arrow"
+}

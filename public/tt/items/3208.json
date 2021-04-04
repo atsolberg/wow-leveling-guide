@@ -1,0 +1,10 @@
+{
+  "name": "Conk Hammer",
+  "quality": "Uncommon",
+  "icon": "inv_mace_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Conk Hammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->48</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->104 - 157 Damage</span></td>\n    <th>Speed <!--spd-->3.50</th>\n</tr></table><!--dps-->(37.29 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->43<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">53</span> <span class=\"moneycopper\">78</span></div></td></tr></table>",
+  "url": "/item=3208/conk-hammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_04.jpg",
+  "id": "3208",
+  "slug": "conk-hammer"
+}

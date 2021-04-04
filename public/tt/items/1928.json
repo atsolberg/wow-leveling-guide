@@ -1,0 +1,10 @@
+{
+  "name": "Defias Mage Staff",
+  "quality": "Uncommon",
+  "icon": "inv_staff_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Defias Mage Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->16</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->24 - 36 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(10.71 damage per second)<br><span><!--stat5-->+4 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->11<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">95</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Defias Magician</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 5.22%</div></td></tr></table>",
+  "url": "/item=1928/defias-mage-staff",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_18.jpg",
+  "id": "1928",
+  "slug": "defias-mage-staff"
+}

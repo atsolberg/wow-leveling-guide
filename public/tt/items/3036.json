@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Shortbow",
+  "quality": "Uncommon",
+  "icon": "inv_weapon_bow_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Heavy Shortbow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->10 - 20 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(6.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">15</span></div></td></tr></table>",
+  "url": "/item=3036/heavy-shortbow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_12.jpg",
+  "id": "3036",
+  "slug": "heavy-shortbow"
+}

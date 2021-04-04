@@ -1,0 +1,10 @@
+{
+  "name": "Warchief Kilt",
+  "quality": "Rare",
+  "icon": "inv_pants_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Warchief Kilt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->39</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->105 Armor</span><br><span><!--stat4-->+5 Strength</span><br><span><!--stat5-->+6 Intellect</span><br><span><!--stat6-->+19 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->34<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">60</span> <span class=\"moneycopper\">74</span></div></td></tr></table>",
+  "url": "/item=7760/warchief-kilt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_06.jpg",
+  "id": "7760",
+  "slug": "warchief-kilt"
+}

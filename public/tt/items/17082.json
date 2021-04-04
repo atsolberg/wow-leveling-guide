@@ -1,0 +1,10 @@
+{
+  "name": "Shard of the Flame",
+  "quality": "Epic",
+  "icon": "inv_misc_orb_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Shard of the Flame</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->74</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=23210\" class=\"q2\">Restores 16 health per 5 sec.</a></span><!--itemEffects:1--><br /><br /><span class=\"q\"><a href=\"/item-set=241\" class=\"q\">Shard of the Gods</a> (0/2)</span><div class=\"q0 indent\"><span><!--si17082--><a href=\"/item=17082\">Shard of the Flame</a></span><br /><span><!--si17064--><a href=\"/item=17064\">Shard of the Scale</a></span></div><br /><span class=\"q0\"><span>(2) Set : <a href=\"/spell=18681\">+10 All Resistances.</a></span></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">61</span> <span class=\"moneycopper\">46</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ragnaros</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 4.42%</div></td></tr></table>",
+  "url": "/item=17082/shard-of-the-flame",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_orb_05.jpg",
+  "id": "17082",
+  "slug": "shard-of-the-flame"
+}

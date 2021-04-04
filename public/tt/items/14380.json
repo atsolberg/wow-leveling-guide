@@ -1,0 +1,10 @@
+{
+  "name": "Sanguine Robe",
+  "quality": "Uncommon",
+  "icon": "inv_chest_cloth_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Sanguine Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->28</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->41 Armor</span><br><span><!--stat5-->+6 Intellect</span><br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->23<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">73</span></div></td></tr></table>",
+  "url": "/item=14380/sanguine-robe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_09.jpg",
+  "id": "14380",
+  "slug": "sanguine-robe"
+}

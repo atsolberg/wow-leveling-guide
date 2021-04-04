@@ -1,0 +1,10 @@
+{
+  "name": "An Unsent Letter",
+  "quality": "Common",
+  "icon": "inv_letter_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">An Unsent Letter</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->16</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=373\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<br><span class=\"q\">&quot;A letter found on Edwin VanCleef's person.&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Edwin VanCleef</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 56.26%</div></td></tr></table>",
+  "url": "/item=2874/an-unsent-letter",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_15.jpg",
+  "id": "2874",
+  "slug": "an-unsent-letter"
+}

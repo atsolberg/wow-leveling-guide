@@ -1,0 +1,10 @@
+{
+  "name": "Ice Deflector",
+  "quality": "Common",
+  "icon": "inv_gizmo_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ice Deflector</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->31</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->21<br><span class=\"q2\">Use: <a href=\"/spell=4077\" class=\"q2\">Absorbs 600 frost damage. &nbsp;Lasts 1 min.</a> (15 Min Cooldown)</span><br />5 Charges<div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=4386/ice-deflector",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_01.jpg",
+  "id": "4386",
+  "slug": "ice-deflector"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Ensorcelled Parchment",
+  "quality": "Common",
+  "icon": "inv_scroll_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ensorcelled Parchment</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=551\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<br><span class=\"q\">&quot;Its letters are enshrouded in magic.&quot;</span></td></tr></table>",
+  "url": "/item=3706/ensorcelled-parchment",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_02.jpg",
+  "id": "3706",
+  "slug": "ensorcelled-parchment"
+}

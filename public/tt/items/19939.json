@@ -1,0 +1,10 @@
+{
+  "name": "Gri'lek's Blood",
+  "quality": "Uncommon",
+  "icon": "inv_potion_26",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Gri'lek's Blood</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;The Iron Blood of Gri'lek.&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Gri'lek</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 90.89%</div></td></tr></table>",
+  "url": "/item=19939/grileks-blood",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_26.jpg",
+  "id": "19939",
+  "slug": "grileks-blood"
+}

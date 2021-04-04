@@ -1,0 +1,10 @@
+{
+  "name": "Troll Tribal Necklace",
+  "quality": "Common",
+  "icon": "inv_jewelry_necklace_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Troll Tribal Necklace</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">64</span></div></td></tr></table>",
+  "url": "/item=9259/troll-tribal-necklace",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_09.jpg",
+  "id": "9259",
+  "slug": "troll-tribal-necklace"
+}

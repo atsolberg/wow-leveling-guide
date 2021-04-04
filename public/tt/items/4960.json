@@ -1,0 +1,10 @@
+{
+  "name": "Flash Pellet",
+  "quality": "Common",
+  "icon": "inv_ammo_bullet_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Flash Pellet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->7</span><!--bo--><table width=\"100%\"><tr><td>Ammo</td><th><!--scstart6:3--><span class=\"q1\">Bullet</span><!--scend--></th></tr></table><span>Adds 2 damage per second</span>\n<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=4960/flash-pellet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ammo_bullet_02.jpg",
+  "id": "4960",
+  "slug": "flash-pellet"
+}

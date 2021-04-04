@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Gray Woolen Robe",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Pattern: Gray Woolen Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->21</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=197\" class=\"q1\">Tailoring</a> (105)<br><span class=\"q2\">Use: <a href=\"/spell=2411\" class=\"q2\">Teaches you how to sew a Gray Woolen Robe.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span></div><br /><span class=\"q2\"><a href=\"/item=2585\">Gray Woolen Robe</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->35 Armor</span><br><span><!--stat5-->+5 Intellect</span><br><span><!--stat7-->+4 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60<br>Requires Level <!--rlvl-->16<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">38</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=2997\">Bolt of Woolen Cloth</a>&nbsp;(4), <a href=\"/item=2321\">Fine Thread</a>&nbsp;(3), <a href=\"/item=4340\">Gray Dye</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=2601/pattern-gray-woolen-robe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "2601",
+  "slug": "pattern-gray-woolen-robe"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Preserved Threshadon Meat",
+  "quality": "Common",
+  "icon": "inv_misc_food_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Preserved Threshadon Meat</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=15118\" class=\"q2\">Place upon the Flat Un'Goro Rock.</a></span></td></tr></table>",
+  "url": "/item=11569/preserved-threshadon-meat",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_14.jpg",
+  "id": "11569",
+  "slug": "preserved-threshadon-meat"
+}

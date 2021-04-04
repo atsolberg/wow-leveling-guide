@@ -1,0 +1,10 @@
+{
+  "name": "Boots of the Full Moon",
+  "quality": "Rare",
+  "icon": "inv_boots_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Boots of the Full Moon</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->60 Armor</span><br><span><!--stat5-->+12 Intellect</span><br><span><!--stat7-->+12 Stamina</span><br><span><!--stat6-->+9 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=9315\" class=\"q2\">Increases healing done by spells and effects by up to 26.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">56</span> <span class=\"moneycopper\">92</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Captain Kromcrush</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 22.71%</div></td></tr></table>",
+  "url": "/item=18507/boots-of-the-full-moon",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_05.jpg",
+  "id": "18507",
+  "slug": "boots-of-the-full-moon"
+}

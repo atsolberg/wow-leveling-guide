@@ -1,0 +1,10 @@
+{
+  "name": "Lucky Charm",
+  "quality": "Common",
+  "icon": "inv_misc_armorkit_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Lucky Charm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">72</span></div></td></tr></table>",
+  "url": "/item=5373/lucky-charm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_armorkit_06.jpg",
+  "id": "5373",
+  "slug": "lucky-charm"
+}

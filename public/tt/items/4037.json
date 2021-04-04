@@ -1,0 +1,10 @@
+{
+  "name": "Silver-thread Pants",
+  "quality": "Uncommon",
+  "icon": "inv_pants_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Silver-thread Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->30</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->37 Armor</span><br><span><!--stat5-->+8 Intellect</span><br><span><!--stat7-->+4 Stamina</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->25<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">18</span> <span class=\"moneycopper\">21</span></div></td></tr></table>",
+  "url": "/item=4037/silver-thread-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_08.jpg",
+  "id": "4037",
+  "slug": "silver-thread-pants"
+}

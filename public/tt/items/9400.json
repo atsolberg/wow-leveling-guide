@@ -1,0 +1,10 @@
+{
+  "name": "Baelog's Shortbow",
+  "quality": "Common",
+  "icon": "inv_weapon_bow_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Baelog's Shortbow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->41</span><!--bo--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->26 - 50 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(16.52 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->36<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">24</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Baelog</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 40.13%</div></td></tr></table>",
+  "url": "/item=9400/baelogs-shortbow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_11.jpg",
+  "id": "9400",
+  "slug": "baelogs-shortbow"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Shadowhide Mace",
+  "quality": "Uncommon",
+  "icon": "inv_mace_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Shadowhide Mace</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->17 - 32 Damage</span></td>\n    <th>Speed <!--spd-->2.20</th>\n</tr></table><!--dps-->(11.14 damage per second)<br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">18</span> <span class=\"moneycopper\">50</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Shadowhide Gnoll</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 2.10%</div></td></tr></table>",
+  "url": "/item=1457/shadowhide-mace",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_01.jpg",
+  "id": "1457",
+  "slug": "shadowhide-mace"
+}

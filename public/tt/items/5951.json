@@ -1,0 +1,10 @@
+{
+  "name": "Moist Towelette",
+  "quality": "Common",
+  "icon": "inv_misc_bandage_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Moist Towelette</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=7108\" class=\"q2\">Removes 1 negative spell effect from user. &nbsp;Cleans with the power of lemon.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">41</span></div></td></tr></table>",
+  "url": "/item=5951/moist-towelette",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bandage_07.jpg",
+  "id": "5951",
+  "slug": "moist-towelette"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Caliph Scorpidsting's Head",
+  "quality": "Common",
+  "icon": "inv_misc_head_human_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Caliph Scorpidsting's Head</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Caliph Scorpidsting</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 91.09%</div></td></tr></table>",
+  "url": "/item=8723/caliph-scorpidstings-head",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_human_01.jpg",
+  "id": "8723",
+  "slug": "caliph-scorpidstings-head"
+}

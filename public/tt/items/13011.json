@@ -1,0 +1,10 @@
+{
+  "name": "Silver-lined Belt",
+  "quality": "Rare",
+  "icon": "inv_belt_22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Silver-lined Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->55 Armor</span><br><span><!--stat5-->+9 Intellect</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->22<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span> <span class=\"moneycopper\">31</span></div></td></tr></table>",
+  "url": "/item=13011/silver-lined-belt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_22.jpg",
+  "id": "13011",
+  "slug": "silver-lined-belt"
+}

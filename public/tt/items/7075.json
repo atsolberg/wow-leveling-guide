@@ -1,0 +1,10 @@
+{
+  "name": "Core of Earth",
+  "quality": "Common",
+  "icon": "inv_stone_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Core of Earth</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span></div></td></tr></table>",
+  "url": "/item=7075/core-of-earth",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_05.jpg",
+  "id": "7075",
+  "slug": "core-of-earth"
+}

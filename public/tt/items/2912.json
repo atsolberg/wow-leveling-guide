@@ -1,0 +1,10 @@
+{
+  "name": "Claw of the Shadowmancer",
+  "quality": "Rare",
+  "icon": "inv_weapon_shortblade_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Claw of the Shadowmancer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br />Binds when equipped<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->27 - 51 Damage</span></td>\n    <th>Speed <!--spd-->1.90</th>\n</tr></table><!--dps-->(20.53 damage per second)<br><span><!--stat5-->+2 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->27<br><span class=\"q2\">Chance on hit: <a href=\"/spell=16409\" class=\"q2\">Sends a shadowy bolt at the enemy causing 35 Shadow damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">67</span> <span class=\"moneycopper\">31</span></div></td></tr></table>",
+  "url": "/item=2912/claw-of-the-shadowmancer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_16.jpg",
+  "id": "2912",
+  "slug": "claw-of-the-shadowmancer"
+}

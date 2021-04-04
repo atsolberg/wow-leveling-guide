@@ -1,0 +1,10 @@
+{
+  "name": "Reinforced Chain Bracers",
+  "quality": "Poor",
+  "icon": "inv_bracer_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Reinforced Chain Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->28</span><!--bo--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->76 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->23<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">38</span></div></td></tr></table>",
+  "url": "/item=1756/reinforced-chain-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_03.jpg",
+  "id": "1756",
+  "slug": "reinforced-chain-bracers"
+}

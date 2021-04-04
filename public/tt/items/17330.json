@@ -1,0 +1,10 @@
+{
+  "name": "Hand of Sulfuron",
+  "quality": "Common",
+  "icon": "inv_gauntlets_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hand of Sulfuron</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Sulfuron Harbinger</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 4.85%</div></td></tr></table>",
+  "url": "/item=17330/hand-of-sulfuron",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_03.jpg",
+  "id": "17330",
+  "slug": "hand-of-sulfuron"
+}

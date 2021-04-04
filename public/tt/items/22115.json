@@ -1,0 +1,10 @@
+{
+  "name": "Extra-Dimensional Ghost Revealer",
+  "quality": "Common",
+  "icon": "inv_misc_enggizmos_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Extra-Dimensional Ghost Revealer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27616\" class=\"q2\">Allows wielder to see ghosts of the recently deceased.</a> (1 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=22115/extra-dimensional-ghost-revealer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_enggizmos_20.jpg",
+  "id": "22115",
+  "slug": "extra-dimensional-ghost-revealer"
+}

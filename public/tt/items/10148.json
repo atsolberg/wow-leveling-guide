@@ -1,0 +1,10 @@
+{
+  "name": "Mighty Cloak",
+  "quality": "Uncommon",
+  "icon": "inv_misc_cape_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Mighty Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->38 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->53<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">73</span></div></td></tr></table>",
+  "url": "/item=10148/mighty-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_10.jpg",
+  "id": "10148",
+  "slug": "mighty-cloak"
+}

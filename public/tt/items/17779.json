@@ -1,0 +1,10 @@
+{
+  "name": "Hulkstone Pauldrons",
+  "quality": "Uncommon",
+  "icon": "inv_shoulder_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Hulkstone Pauldrons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->47</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->341 Armor</span><br><span><!--stat4-->+5 Strength</span><br><span><!--stat7-->+13 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">55</span> <span class=\"moneycopper\">47</span></div></td></tr></table>",
+  "url": "/item=17779/hulkstone-pauldrons",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_23.jpg",
+  "id": "17779",
+  "slug": "hulkstone-pauldrons"
+}

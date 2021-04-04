@@ -1,0 +1,10 @@
+{
+  "name": "Ruined Wolf Pelt",
+  "quality": "Common",
+  "icon": "inv_misc_pelt_wolf_ruin_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ruined Wolf Pelt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">5</span></div></td></tr></table>",
+  "url": "/item=2887/ruined-wolf-pelt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_pelt_wolf_ruin_02.jpg",
+  "id": "2887",
+  "slug": "ruined-wolf-pelt"
+}

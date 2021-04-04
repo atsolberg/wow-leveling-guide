@@ -1,0 +1,10 @@
+{
+  "name": "Pumpkin Bag",
+  "quality": "Uncommon",
+  "icon": "inv_misc_food_59",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Pumpkin Bag</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />16 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span></div></td></tr></table>",
+  "url": "/item=20400/pumpkin-bag",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_59.jpg",
+  "id": "20400",
+  "slug": "pumpkin-bag"
+}

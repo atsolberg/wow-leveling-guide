@@ -1,0 +1,10 @@
+{
+  "name": "Tuxedo Jacket",
+  "quality": "Common",
+  "icon": "inv_shirt_black_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tuxedo Jacket</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->44 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<br><span class=\"q2\">Equip: <a href=\"/spell=17816\" class=\"q2\">Impress others with your fashion sense.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">41</span></div></td></tr></table>",
+  "url": "/item=10036/tuxedo-jacket",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_black_01.jpg",
+  "id": "10036",
+  "slug": "tuxedo-jacket"
+}

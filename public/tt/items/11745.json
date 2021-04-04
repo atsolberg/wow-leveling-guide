@@ -1,0 +1,10 @@
+{
+  "name": "Fists of Phalanx",
+  "quality": "Rare",
+  "icon": "inv_gauntlets_22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Fists of Phalanx</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->56</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->367 Armor</span><br><span><!--stat4-->+20 Strength</span><br><span><!--stat7-->+9 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->51<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">78</span> <span class=\"moneycopper\">78</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Phalanx</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 29.90%</div></td></tr></table>",
+  "url": "/item=11745/fists-of-phalanx",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_22.jpg",
+  "id": "11745",
+  "slug": "fists-of-phalanx"
+}

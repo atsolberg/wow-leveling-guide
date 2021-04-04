@@ -1,0 +1,11 @@
+{
+  "name": "Recipe: Redridge Goulash",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Recipe: Redridge Goulash</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=185\" class=\"q1\">Cooking</a> (100)<br><span class=\"q2\">Use: <a href=\"/spell=2556\" class=\"q2\">Teaches you how to cook a delicious Redridge Goulash.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span></div><br /><span class=\"q1\"><a href=\"/item=1082\">Redridge Goulash</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires Level <!--rlvl-->10<br><span class=\"q2\">Use: <a href=\"/spell=5006\" class=\"q2\">Restores 552 health over 24 sec. &nbsp;Must remain seated while eating. &nbsp;If you spend at least 10 seconds eating you will become well fed and gain 6 Stamina and Spirit for 15 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">50</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=1081\">Crisp Spider Meat</a>, <a href=\"/item=1080\">Tough Condor Meat</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=2699/recipe-redridge-goulash",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "2699",
+  "slug": "recipe-redridge-goulash"
+}

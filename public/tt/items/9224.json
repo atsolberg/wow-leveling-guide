@@ -1,0 +1,10 @@
+{
+  "name": "Elixir of Demonslaying",
+  "quality": "Common",
+  "icon": "inv_potion_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Elixir of Demonslaying</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br><span class=\"q2\">Use: <a href=\"/spell=11406\" class=\"q2\">Increases attack power by 265 against demons. &nbsp;Lasts 5 min.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Cenarion Hold Infantry</div></td></tr></table>",
+  "url": "/item=9224/elixir-of-demonslaying",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_27.jpg",
+  "id": "9224",
+  "slug": "elixir-of-demonslaying"
+}

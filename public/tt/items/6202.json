@@ -1,0 +1,10 @@
+{
+  "name": "Fingerless Gloves",
+  "quality": "Common",
+  "icon": "inv_gauntlets_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fingerless Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->12 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 16 / 16</td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">35</span></div></td></tr></table>",
+  "url": "/item=6202/fingerless-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_05.jpg",
+  "id": "6202",
+  "slug": "fingerless-gloves"
+}

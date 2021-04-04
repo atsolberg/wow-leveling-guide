@@ -1,0 +1,11 @@
+{
+  "name": "Manual: Mageweave Bandage",
+  "quality": "Common",
+  "icon": "inv_misc_book_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Manual: Mageweave Bandage</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->42</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=129\" class=\"q1\">First Aid</a> (210)<br><span class=\"q2\">Use: <a href=\"/spell=10842\" class=\"q2\">Teaches you how to make a Mageweave Bandage.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q1\"><a href=\"/item=8544\">Mageweave Bandage</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires <a href=\"/skill=129\" class=\"q1\">First Aid</a> (150)<br><span class=\"q2\">Use: <a href=\"/spell=10838\" class=\"q2\">Heals 800 damage over 8 sec.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4338\">Mageweave Cloth</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=16113/manual-mageweave-bandage",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_03.jpg",
+  "id": "16113",
+  "slug": "manual-mageweave-bandage"
+}

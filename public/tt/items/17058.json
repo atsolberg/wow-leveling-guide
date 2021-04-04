@@ -1,0 +1,10 @@
+{
+  "name": "Fish Oil",
+  "quality": "Common",
+  "icon": "inv_potion_64",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fish Oil</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">7</span></div></td></tr></table>",
+  "url": "/item=17058/fish-oil",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_64.jpg",
+  "id": "17058",
+  "slug": "fish-oil"
+}

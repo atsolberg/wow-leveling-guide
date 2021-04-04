@@ -1,0 +1,10 @@
+{
+  "name": "Blackrock Mace",
+  "quality": "Uncommon",
+  "icon": "inv_mace_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Blackrock Mace</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->18 - 35 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(10.60 damage per second)<br><span><!--stat4-->+3 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">81</span></div></td></tr></table>",
+  "url": "/item=1296/blackrock-mace",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_06.jpg",
+  "id": "1296",
+  "slug": "blackrock-mace"
+}

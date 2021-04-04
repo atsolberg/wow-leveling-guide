@@ -1,0 +1,10 @@
+{
+  "name": "Firebane Cloak",
+  "quality": "Rare",
+  "icon": "inv_misc_cape_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Firebane Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->19 Armor</span><br><span><!--stat7-->+5 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+5 Fire Resistance<!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">17</span></div></td></tr></table>",
+  "url": "/item=12979/firebane-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_08.jpg",
+  "id": "12979",
+  "slug": "firebane-cloak"
+}

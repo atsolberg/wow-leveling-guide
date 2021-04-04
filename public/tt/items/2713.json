@@ -1,0 +1,10 @@
+{
+  "name": "Ol' Sooty's Head",
+  "quality": "Common",
+  "icon": "ability_hunter_pet_bear",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ol' Sooty's Head</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ol' Sooty</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 86.12%</div></td></tr></table>",
+  "url": "/item=2713/ol-sootys-head",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_hunter_pet_bear.jpg",
+  "id": "2713",
+  "slug": "ol-sootys-head"
+}

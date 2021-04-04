@@ -1,0 +1,10 @@
+{
+  "name": "Nightmare Engulfed Object",
+  "quality": "Epic",
+  "icon": "spell_shadow_haunting",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Nightmare Engulfed Object</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=8446\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q\">&quot;An unknown object shrouded in nightmares.&quot;</span></td></tr></table>",
+  "url": "/item=20644/nightmare-engulfed-object",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_haunting.jpg",
+  "id": "20644",
+  "slug": "nightmare-engulfed-object"
+}

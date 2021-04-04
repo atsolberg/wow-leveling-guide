@@ -1,0 +1,10 @@
+{
+  "name": "Icy Scale Spaulders",
+  "quality": "Epic",
+  "icon": "inv_shoulder_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Icy Scale Spaulders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->83</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->393 Armor</span><br><span><!--stat7-->+25 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+33 Frost Resistance<!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">9</span> <span class=\"moneysilver\">59</span> <span class=\"moneycopper\">26</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Grobbulus</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 19.66%</div></td></tr></table>",
+  "url": "/item=22967/icy-scale-spaulders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_14.jpg",
+  "id": "22967",
+  "slug": "icy-scale-spaulders"
+}

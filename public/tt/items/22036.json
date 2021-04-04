@@ -1,0 +1,10 @@
+{
+  "name": "QAEnchant Bracer +4 Mana\\5",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QAEnchant Bracer +4 Mana\\5</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27115\" class=\"q2\">Permanently enchants bracers to restore 4 mana every 5 seconds.</a></span></td></tr></table>",
+  "url": "/item=22036/qaenchant-bracer-4-mana-5",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "22036",
+  "slug": "qaenchant-bracer-4-mana-5"
+}

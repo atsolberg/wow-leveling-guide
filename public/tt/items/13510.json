@@ -1,0 +1,10 @@
+{
+  "name": "Flask of the Titans",
+  "quality": "Common",
+  "icon": "inv_potion_62",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Flask of the Titans</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br><span class=\"q2\">Use: <a href=\"/spell=17626\" class=\"q2\">Increases the player's maximum health by 1200 for 2 hrs. &nbsp;You can only have the effect of one flask at a time. &nbsp;This effect persists through death.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=13510/flask-of-the-titans",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_62.jpg",
+  "id": "13510",
+  "slug": "flask-of-the-titans"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Jade Epaulets",
+  "quality": "Uncommon",
+  "icon": "inv_shoulder_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Jade Epaulets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->49</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->354 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->44<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">64</span> <span class=\"moneycopper\">7</span></div></td></tr></table>",
+  "url": "/item=14921/jade-epaulets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_16.jpg",
+  "id": "14921",
+  "slug": "jade-epaulets"
+}

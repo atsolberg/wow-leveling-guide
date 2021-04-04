@@ -1,0 +1,10 @@
+{
+  "name": "Sturdy Male Undead Mask",
+  "quality": "Uncommon",
+  "icon": "inv_misc_head_undead_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Sturdy Male Undead Mask</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">46</span> <span class=\"moneycopper\">49</span></div></td></tr></table>",
+  "url": "/item=20598/sturdy-male-undead-mask",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_undead_01.jpg",
+  "id": "20598",
+  "slug": "sturdy-male-undead-mask"
+}

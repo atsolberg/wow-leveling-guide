@@ -1,0 +1,10 @@
+{
+  "name": "Gnome Engineer's Renewal Gift",
+  "quality": "Common",
+  "icon": "inv_misc_gift_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gnome Engineer's Renewal Gift</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=11423/gnome-engineers-renewal-gift",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gift_05.jpg",
+  "id": "11423",
+  "slug": "gnome-engineers-renewal-gift"
+}

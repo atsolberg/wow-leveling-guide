@@ -1,0 +1,10 @@
+{
+  "name": "Pet Rock",
+  "quality": "Poor",
+  "icon": "inv_stone_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Pet Rock</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;It looks happy.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span> <span class=\"moneycopper\">80</span></div></td></tr></table>",
+  "url": "/item=20030/pet-rock",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_08.jpg",
+  "id": "20030",
+  "slug": "pet-rock"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Gently Shaken Gift",
+  "quality": "Common",
+  "icon": "inv_holiday_christmas_present_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gently Shaken Gift</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=21271/gently-shaken-gift",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_holiday_christmas_present_01.jpg",
+  "id": "21271",
+  "slug": "gently-shaken-gift"
+}

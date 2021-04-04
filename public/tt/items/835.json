@@ -1,0 +1,10 @@
+{
+  "name": "Large Rope Net",
+  "quality": "Common",
+  "icon": "inv_misc_net_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Large Rope Net</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->12</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->2<br><span class=\"q2\">Use: <a href=\"/spell=8312\" class=\"q2\">Renders a target unable to move for 10 sec.</a> (1 Min Cooldown)</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">23</span></div></td></tr></table>",
+  "url": "/item=835/large-rope-net",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_net_01.jpg",
+  "id": "835",
+  "slug": "large-rope-net"
+}

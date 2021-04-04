@@ -1,0 +1,10 @@
+{
+  "name": "Treated Ancient Blade",
+  "quality": "Epic",
+  "icon": "inv_sword_28",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Treated Ancient Blade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Tempered in the blood of Onyxia.&quot;</span></td></tr></table>",
+  "url": "/item=18492/treated-ancient-blade",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_28.jpg",
+  "id": "18492",
+  "slug": "treated-ancient-blade"
+}

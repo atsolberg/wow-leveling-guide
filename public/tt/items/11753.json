@@ -1,0 +1,10 @@
+{
+  "name": "Eye of Kajal",
+  "quality": "Common",
+  "icon": "spell_shadow_evileye",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Eye of Kajal</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;The pupil tracks your every move.&quot;</span></td></tr></table>",
+  "url": "/item=11753/eye-of-kajal",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_evileye.jpg",
+  "id": "11753",
+  "slug": "eye-of-kajal"
+}

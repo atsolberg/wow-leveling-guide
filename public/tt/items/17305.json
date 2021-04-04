@@ -1,0 +1,10 @@
+{
+  "name": "Green Ribboned Holiday Gift",
+  "quality": "Common",
+  "icon": "inv_holiday_christmas_present_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Green Ribboned Holiday Gift</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=17305/green-ribboned-holiday-gift",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_holiday_christmas_present_01.jpg",
+  "id": "17305",
+  "slug": "green-ribboned-holiday-gift"
+}

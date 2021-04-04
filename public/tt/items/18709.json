@@ -1,0 +1,10 @@
+{
+  "name": "Arena Wristguards",
+  "quality": "Rare",
+  "icon": "inv_bracer_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Arena Wristguards</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->31 Armor</span><br><span><!--stat6-->+6 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<br><span class=\"q2\">Equip: <a href=\"/spell=18384\" class=\"q2\">Improves your chance to get a critical strike with spells by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">57</span> <span class=\"moneycopper\">58</span></div></td></tr></table>",
+  "url": "/item=18709/arena-wristguards",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_10.jpg",
+  "id": "18709",
+  "slug": "arena-wristguards"
+}

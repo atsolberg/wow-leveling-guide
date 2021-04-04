@@ -1,0 +1,10 @@
+{
+  "name": "High Bergg Helm",
+  "quality": "Rare",
+  "icon": "inv_helmet_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">High Bergg Helm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->47</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->231 Armor</span><br><span><!--stat5-->+15 Intellect</span><br><span><!--stat7-->+10 Stamina</span><br><span><!--stat6-->+15 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->42<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">43</span></div></td></tr></table>",
+  "url": "/item=13128/high-bergg-helm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_18.jpg",
+  "id": "13128",
+  "slug": "high-bergg-helm"
+}

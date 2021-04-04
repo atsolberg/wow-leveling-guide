@@ -1,0 +1,10 @@
+{
+  "name": "Steel Weapon Chain",
+  "quality": "Common",
+  "icon": "spell_frost_chainsofice",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Steel Weapon Chain</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->38</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (190)<br><span class=\"q2\">Use: <a href=\"/spell=7220\" class=\"q2\">Attaches a chain to your weapon, making it impossible to disarm.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span></div></td></tr></table>",
+  "url": "/item=6041/steel-weapon-chain",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_frost_chainsofice.jpg",
+  "id": "6041",
+  "slug": "steel-weapon-chain"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Flash Powder",
+  "quality": "Common",
+  "icon": "inv_misc_powder_purple",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Flash Powder</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">6</span></div></td></tr></table>",
+  "url": "/item=5140/flash-powder",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_powder_purple.jpg",
+  "id": "5140",
+  "slug": "flash-powder"
+}

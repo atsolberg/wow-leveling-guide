@@ -1,0 +1,10 @@
+{
+  "name": "Horn of Arra'chea",
+  "quality": "Common",
+  "icon": "inv_misc_bone_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Horn of Arra'chea</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Arra'chea</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 91.37%</div></td></tr></table>",
+  "url": "/item=4841/horn-of-arrachea",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_05.jpg",
+  "id": "4841",
+  "slug": "horn-of-arrachea"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "General's Mail Waistband",
+  "quality": "Epic",
+  "icon": "inv_belt_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">General's Mail Waistband</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->234 Armor</span><br><span><!--stat4-->+5 Strength</span><br><span><!--stat5-->+25 Intellect</span><br><span><!--stat7-->+15 Stamina</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=7\" class=\"c7\">Shaman</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br>Requires <span class=\"icon-horde\">General</span> <span class=\"icon-alliance\">Marshal</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">23</span> <span class=\"moneycopper\">73</span></div></td></tr></table>",
+  "url": "/item=16575/generals-mail-waistband",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_14.jpg",
+  "id": "16575",
+  "slug": "generals-mail-waistband"
+}

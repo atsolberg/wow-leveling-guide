@@ -1,0 +1,11 @@
+{
+  "name": "Libram of Rapidity",
+  "quality": "Uncommon",
+  "icon": "inv_misc_book_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Libram of Rapidity</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br><span class=\"q\">&quot;Dark runes skitter across the surface.&quot;</span><br><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=18332/libram-of-rapidity",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_02.jpg",
+  "id": "18332",
+  "slug": "libram-of-rapidity"
+}

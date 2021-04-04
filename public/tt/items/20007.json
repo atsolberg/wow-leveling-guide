@@ -1,0 +1,10 @@
+{
+  "name": "Mageblood Potion",
+  "quality": "Common",
+  "icon": "inv_potion_45",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Mageblood Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br><span class=\"q2\">Use: <a href=\"/spell=24363\" class=\"q2\">Regenerate 12 mana per 5 sec for 1 hour.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div></td></tr></table>",
+  "url": "/item=20007/mageblood-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_45.jpg",
+  "id": "20007",
+  "slug": "mageblood-potion"
+}

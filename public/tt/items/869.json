@@ -1,0 +1,10 @@
+{
+  "name": "Dazzling Longsword",
+  "quality": "Epic",
+  "icon": "inv_sword_25",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Dazzling Longsword</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->41</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:7--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->37 - 70 Damage</span></td>\n    <th>Speed <!--spd-->1.70</th>\n</tr></table><!--dps-->(31.47 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->36<br><span class=\"q2\">Chance on hit: <a href=\"/spell=13752\" class=\"q2\">Decrease the armor of the target by 100 for 30 sec. &nbsp;While affected, the target cannot stealth or turn invisible.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">85</span> <span class=\"moneycopper\">29</span></div></td></tr></table>",
+  "url": "/item=869/dazzling-longsword",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_25.jpg",
+  "id": "869",
+  "slug": "dazzling-longsword"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Greater Healing Potion",
+  "quality": "Common",
+  "icon": "inv_potion_52",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Greater Healing Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->31</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->21<br><span class=\"q2\">Use: <a href=\"/spell=2024\" class=\"q2\">Restores 455 to 585 health.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=1710/greater-healing-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_52.jpg",
+  "id": "1710",
+  "slug": "greater-healing-potion"
+}

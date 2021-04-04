@@ -1,0 +1,10 @@
+{
+  "name": "Etched Sigil",
+  "quality": "Common",
+  "icon": "inv_misc_rune_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Etched Sigil</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=9567/etched-sigil",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_rune_02.jpg",
+  "id": "9567",
+  "slug": "etched-sigil"
+}

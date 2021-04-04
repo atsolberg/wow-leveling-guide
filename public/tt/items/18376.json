@@ -1,0 +1,10 @@
+{
+  "name": "Timeworn Mace",
+  "quality": "Rare",
+  "icon": "inv_mace_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Timeworn Mace</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->62 - 117 Damage</span></td>\n    <th>Speed <!--spd-->2.20</th>\n</tr></table><!--dps-->(40.68 damage per second)<br><span><!--amr-->120 Armor</span><br><span><!--stat4-->+7 Strength</span><br><span><!--stat7-->+11 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">23</span> <span class=\"moneycopper\">6</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Prince Tortheldrin</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 17.98%</div></td></tr></table>",
+  "url": "/item=18376/timeworn-mace",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_07.jpg",
+  "id": "18376",
+  "slug": "timeworn-mace"
+}

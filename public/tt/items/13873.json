@@ -1,0 +1,10 @@
+{
+  "name": "Viewing Room Key",
+  "quality": "Common",
+  "icon": "inv_misc_key_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Viewing Room Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Rattlegore</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 27.32%</div></td></tr></table>",
+  "url": "/item=13873/viewing-room-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_14.jpg",
+  "id": "13873",
+  "slug": "viewing-room-key"
+}

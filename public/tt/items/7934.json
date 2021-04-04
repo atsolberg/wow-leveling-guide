@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Mithril Helm",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Heavy Mithril Helm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->47</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->469 Armor</span><br><span><!--stat7-->+15 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->42<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">57</span> <span class=\"moneycopper\">90</span></div></td></tr></table>",
+  "url": "/item=7934/heavy-mithril-helm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_10.jpg",
+  "id": "7934",
+  "slug": "heavy-mithril-helm"
+}

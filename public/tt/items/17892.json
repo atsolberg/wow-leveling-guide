@@ -1,0 +1,10 @@
+{
+  "name": "QAEnchant Shield +8 Frost Resistance",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QAEnchant Shield +8 Frost Resistance</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=22099\" class=\"q2\">Permanently enchant a shield to give 8 Frost Resistance.</a></span></td></tr></table>",
+  "url": "/item=17892/qaenchant-shield-8-frost-resistance",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "17892",
+  "slug": "qaenchant-shield-8-frost-resistance"
+}

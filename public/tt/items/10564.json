@@ -1,0 +1,10 @@
+{
+  "name": "Rubbing: Rune of Jin'yael",
+  "quality": "Common",
+  "icon": "inv_misc_note_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rubbing: Rune of Jin'yael</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=10564/rubbing-rune-of-jinyael",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_06.jpg",
+  "id": "10564",
+  "slug": "rubbing-rune-of-jinyael"
+}

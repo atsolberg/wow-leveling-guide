@@ -1,0 +1,10 @@
+{
+  "name": "Sentry's Sash",
+  "quality": "Uncommon",
+  "icon": "inv_belt_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Sentry's Sash</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->26</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->105 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->21<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">30</span></div></td></tr></table>",
+  "url": "/item=15528/sentrys-sash",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_27.jpg",
+  "id": "15528",
+  "slug": "sentrys-sash"
+}

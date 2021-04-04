@@ -1,0 +1,10 @@
+{
+  "name": "Darkwood Fishing Pole",
+  "quality": "Common",
+  "icon": "inv_fishingpole_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Darkwood Fishing Pole</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:20--><span class=\"q1\">Fishing Pole</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->28 - 43 Damage</span></td>\n    <th>Speed <!--spd-->3.00</th>\n</tr></table><!--dps-->(11.83 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br>Requires <a href=\"/skill=356\" class=\"q1\">Fishing</a> (50)<br><span class=\"q2\">Equip: <a href=\"/spell=7825\" class=\"q2\">Increased Fishing +15.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span> <span class=\"moneycopper\">66</span></div></td></tr></table>",
+  "url": "/item=6366/darkwood-fishing-pole",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_fishingpole_02.jpg",
+  "id": "6366",
+  "slug": "darkwood-fishing-pole"
+}

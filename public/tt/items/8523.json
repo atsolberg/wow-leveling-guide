@@ -1,0 +1,10 @@
+{
+  "name": "Field Testing Kit",
+  "quality": "Common",
+  "icon": "inv_misc_bag_07_red",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Field Testing Kit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=8523/field-testing-kit",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_07_red.jpg",
+  "id": "8523",
+  "slug": "field-testing-kit"
+}

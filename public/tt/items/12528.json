@@ -1,0 +1,10 @@
+{
+  "name": "The Judge's Gavel",
+  "quality": "Rare",
+  "icon": "inv_hammer_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">The Judge's Gavel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->52</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->122 - 184 Damage</span></td>\n    <th>Speed <!--spd-->3.40</th>\n</tr></table><!--dps-->(45.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->47<br><span class=\"q2\">Chance on hit: <a href=\"/spell=56\" class=\"q2\">Stuns target for 3 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">78</span> <span class=\"moneycopper\">33</span></div></td></tr></table>",
+  "url": "/item=12528/the-judges-gavel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_07.jpg",
+  "id": "12528",
+  "slug": "the-judges-gavel"
+}

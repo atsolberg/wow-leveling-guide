@@ -1,0 +1,10 @@
+{
+  "name": "Fiery Chain Shoulders",
+  "quality": "Epic",
+  "icon": "inv_shoulder_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Fiery Chain Shoulders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->299 Armor</span><br><span><!--stat5-->+14 Intellect</span><br><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+25 Fire Resistance<!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">60</span></div></td></tr></table>",
+  "url": "/item=16988/fiery-chain-shoulders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_23.jpg",
+  "id": "16988",
+  "slug": "fiery-chain-shoulders"
+}

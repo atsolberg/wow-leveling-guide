@@ -1,0 +1,10 @@
+{
+  "name": "Black Dragonscale",
+  "quality": "Common",
+  "icon": "inv_misc_monsterscales_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Black Dragonscale</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div></td></tr></table>",
+  "url": "/item=15416/black-dragonscale",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_07.jpg",
+  "id": "15416",
+  "slug": "black-dragonscale"
+}

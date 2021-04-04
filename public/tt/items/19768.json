@@ -1,0 +1,10 @@
+{
+  "name": "Primal Tiger Leather",
+  "quality": "Common",
+  "icon": "inv_misc_pelt_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Primal Tiger Leather</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span></div></td></tr></table>",
+  "url": "/item=19768/primal-tiger-leather",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_pelt_04.jpg",
+  "id": "19768",
+  "slug": "primal-tiger-leather"
+}

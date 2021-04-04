@@ -1,0 +1,10 @@
+{
+  "name": "Troll-hide Bag",
+  "quality": "Common",
+  "icon": "inv_misc_bag_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Troll-hide Bag</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />14 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">62</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=1685/troll-hide-bag",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_11.jpg",
+  "id": "1685",
+  "slug": "troll-hide-bag"
+}

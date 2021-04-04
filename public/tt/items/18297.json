@@ -1,0 +1,10 @@
+{
+  "name": "Thornling Seed",
+  "quality": "Common",
+  "icon": "inv_enchant_shardglimmeringsmall",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Thornling Seed</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Use: <a href=\"/spell=22792\" class=\"q2\">Plants a Thornling which attracts nearby enemies.</a> (15 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div></td></tr></table>",
+  "url": "/item=18297/thornling-seed",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_enchant_shardglimmeringsmall.jpg",
+  "id": "18297",
+  "slug": "thornling-seed"
+}

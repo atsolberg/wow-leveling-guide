@@ -1,0 +1,11 @@
+{
+  "name": "Formula: Enchant 2H Weapon - Agility",
+  "quality": "Common",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Formula: Enchant 2H Weapon - Agility</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=333\" class=\"q1\">Enchanting</a> (290)<br>Requires <a href=\"/faction=576\" class=\"q1\">Timbermaw Hold</a> - Friendly<br><span class=\"q2\">Use: <a href=\"/spell=27838\" class=\"q2\">Teaches you how to permanently enchant a two-handed weapon to increase your agility by 25.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">62</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=22392/formula-enchant-2h-weapon-agility",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "22392",
+  "slug": "formula-enchant-2h-weapon-agility"
+}

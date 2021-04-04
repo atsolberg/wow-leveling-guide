@@ -1,0 +1,10 @@
+{
+  "name": "Treat Bag",
+  "quality": "Common",
+  "icon": "inv_misc_bag_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Treat Bag</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><br />Conjured Item<!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Open your bag quickly as it will fade on logout.&quot;</span><br><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=20393/treat-bag",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_11.jpg",
+  "id": "20393",
+  "slug": "treat-bag"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Hard Spider Leg Tip",
+  "quality": "Poor",
+  "icon": "inv_misc_monsterspidercarapace_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Hard Spider Leg Tip</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">91</span></div></td></tr></table>",
+  "url": "/item=1074/hard-spider-leg-tip",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterspidercarapace_01.jpg",
+  "id": "1074",
+  "slug": "hard-spider-leg-tip"
+}

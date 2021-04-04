@@ -1,0 +1,10 @@
+{
+  "name": "Rune of Recall",
+  "quality": "Uncommon",
+  "icon": "inv_misc_rune_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Rune of Recall</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=22563\" class=\"q2\">Returns you to the sanctuary of Frostwolf Keep.</a></span><br />20 Charges</td></tr></table>",
+  "url": "/item=18149/rune-of-recall",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_rune_05.jpg",
+  "id": "18149",
+  "slug": "rune-of-recall"
+}

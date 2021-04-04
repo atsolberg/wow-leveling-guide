@@ -1,0 +1,10 @@
+{
+  "name": "Highborne Robes",
+  "quality": "Uncommon",
+  "icon": "inv_chest_cloth_36",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Highborne Robes</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->76 Armor</span><br><span><!--stat5-->+19 Intellect</span><br><span><!--stat6-->+15 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">56</span> <span class=\"moneycopper\">77</span></div></td></tr></table>",
+  "url": "/item=14453/highborne-robes",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_36.jpg",
+  "id": "14453",
+  "slug": "highborne-robes"
+}

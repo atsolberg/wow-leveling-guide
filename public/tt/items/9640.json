@@ -1,0 +1,10 @@
+{
+  "name": "Vice Grips",
+  "quality": "Rare",
+  "icon": "inv_gauntlets_26",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Vice Grips</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->48</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->318 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->43<br><span class=\"q2\">Equip: <a href=\"/spell=9142\" class=\"q2\">+14 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">48</span> <span class=\"moneycopper\">40</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Antu'sul</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 31.76%</div></td></tr></table>",
+  "url": "/item=9640/vice-grips",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_26.jpg",
+  "id": "9640",
+  "slug": "vice-grips"
+}

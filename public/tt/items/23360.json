@@ -1,0 +1,10 @@
+{
+  "name": "Head of Instructor Razuvious",
+  "quality": "Common",
+  "icon": "inv_misc_head_scourge_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Head of Instructor Razuvious</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=23360/head-of-instructor-razuvious",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_scourge_01.jpg",
+  "id": "23360",
+  "slug": "head-of-instructor-razuvious"
+}

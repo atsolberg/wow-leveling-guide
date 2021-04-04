@@ -1,0 +1,10 @@
+{
+  "name": "Thundering Charm",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Thundering Charm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->25<br><span class=\"q2\">Use: <a href=\"/spell=4131\" class=\"q2\">Banishes a Cresting Exile</a> (10 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">85</span></div></td></tr></table>",
+  "url": "/item=4480/thundering-charm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_02.jpg",
+  "id": "4480",
+  "slug": "thundering-charm"
+}

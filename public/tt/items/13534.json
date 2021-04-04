@@ -1,0 +1,10 @@
+{
+  "name": "Banshee Finger",
+  "quality": "Rare",
+  "icon": "inv_weapon_shortblade_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Banshee Finger</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->79 - 148 Frost Damage</span></td>\n    <th>Speed <!--spd-->1.90</th>\n</tr></table><!--dps-->(59.74 damage per second)<!--ebstats--><!--egstats--><!--eistats--><br>+10 Frost Resistance<!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">77</span> <span class=\"moneycopper\">27</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Baroness Anastari</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 17.57%</div></td></tr></table>",
+  "url": "/item=13534/banshee-finger",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_18.jpg",
+  "id": "13534",
+  "slug": "banshee-finger"
+}

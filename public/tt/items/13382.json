@@ -1,0 +1,10 @@
+{
+  "name": "Cannonball Runner",
+  "quality": "Rare",
+  "icon": "inv_misc_bomb_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Cannonball Runner</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<br><span class=\"q2\">Use: <a href=\"/spell=6251\" class=\"q2\">Summons a cannon that will fire at enemies in front of it that are attacking you.</a> (5 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">50</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Cannon Master Willey</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.31%</div></td></tr></table>",
+  "url": "/item=13382/cannonball-runner",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bomb_04.jpg",
+  "id": "13382",
+  "slug": "cannonball-runner"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Royal Dangui",
+  "quality": "Common",
+  "icon": "inv_chest_cloth_30",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Royal Dangui</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><table width=\"100%\"><tr><td>Chest</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">77</span> <span class=\"moneycopper\">39</span></div></td></tr></table>",
+  "url": "/item=13898/royal-dangui",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_30.jpg",
+  "id": "13898",
+  "slug": "royal-dangui"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Head of Rend Blackhand",
+  "quality": "Common",
+  "icon": "inv_misc_head_orc_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Head of Rend Blackhand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Sickening, bloody, foulness.&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Warchief Rend Blackhand</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 8.07%</div></td></tr></table>",
+  "url": "/item=12630/head-of-rend-blackhand",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_orc_01.jpg",
+  "id": "12630",
+  "slug": "head-of-rend-blackhand"
+}

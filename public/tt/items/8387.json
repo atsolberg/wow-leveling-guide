@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Big Voodoo Mask",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Pattern: Big Voodoo Mask</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->44</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=165\" class=\"q1\">Leatherworking</a> (220)<br><span class=\"q2\">Use: <a href=\"/spell=10532\" class=\"q2\">Teaches you how to craft a Big Voodoo Mask.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div><br /><span class=\"q2\"><a href=\"/item=8201\">Big Voodoo Mask</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->44</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->97 Armor</span><br><span><!--stat5-->+14 Intellect</span><br><span><!--stat6-->+9 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50<br>Requires Level <!--rlvl-->39<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">53</span> <span class=\"moneycopper\">50</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4304\">Thick Leather</a>&nbsp;(8), <a href=\"/item=8151\">Flask of Mojo</a>&nbsp;(6), <a href=\"/item=8343\">Heavy Silken Thread</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=8387/pattern-big-voodoo-mask",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "8387",
+  "slug": "pattern-big-voodoo-mask"
+}

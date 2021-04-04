@@ -1,0 +1,10 @@
+{
+  "name": "Winter Veil Eggnog",
+  "quality": "Common",
+  "icon": "inv_drink_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Winter Veil Eggnog</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<br />Unique (20)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=24355\" class=\"q2\">Restores 2% of your mana per second for 30 sec. &nbsp;Must remain seated while drinking.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=21241/winter-veil-eggnog",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_16.jpg",
+  "id": "21241",
+  "slug": "winter-veil-eggnog"
+}

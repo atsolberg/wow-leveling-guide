@@ -1,0 +1,10 @@
+{
+  "name": "Rondel",
+  "quality": "Common",
+  "icon": "inv_sword_31",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rondel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->44</span><!--bo--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->27 - 50 Damage</span></td>\n    <th>Speed <!--spd-->1.60</th>\n</tr></table><!--dps-->(24.06 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->39<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">90</span> <span class=\"moneycopper\">86</span></div></td></tr></table>",
+  "url": "/item=2534/rondel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_31.jpg",
+  "id": "2534",
+  "slug": "rondel"
+}

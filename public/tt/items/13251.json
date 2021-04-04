@@ -1,0 +1,10 @@
+{
+  "name": "Head of Baron Rivendare",
+  "quality": "Common",
+  "icon": "spell_shadow_charm",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Head of Baron Rivendare</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Baron Rivendare</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 4.68%</div></td></tr></table>",
+  "url": "/item=13251/head-of-baron-rivendare",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_charm.jpg",
+  "id": "13251",
+  "slug": "head-of-baron-rivendare"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Linen Bandage",
+  "quality": "Common",
+  "icon": "inv_misc_bandage_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Linen Bandage</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=129\" class=\"q1\">First Aid</a> (1)<br><span class=\"q2\">Use: <a href=\"/spell=746\" class=\"q2\">Heals 66 damage over 6 sec.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=1251/linen-bandage",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bandage_15.jpg",
+  "id": "1251",
+  "slug": "linen-bandage"
+}

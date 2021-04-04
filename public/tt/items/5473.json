@@ -1,0 +1,10 @@
+{
+  "name": "Scorpid Surprise",
+  "quality": "Common",
+  "icon": "inv_misc_food_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Scorpid Surprise</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->8</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=6410\" class=\"q2\">Heals 294 damage over 21 sec, assuming you don't bite down on a poison sac.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=5473/scorpid-surprise",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_10.jpg",
+  "id": "5473",
+  "slug": "scorpid-surprise"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Will of Arlokk",
+  "quality": "Epic",
+  "icon": "inv_staff_35",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Will of Arlokk</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->129 - 204 Damage</span></td>\n    <th>Speed <!--spd-->3.00</th>\n</tr></table><!--dps-->(55.50 damage per second)<br><span><!--stat5-->+19 Intellect</span><br><span><!--stat7-->+15 Stamina</span><br><span><!--stat6-->+35 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=18033\" class=\"q2\">Increases healing done by spells and effects by up to 46.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">10</span> <span class=\"moneysilver\">47</span> <span class=\"moneycopper\">7</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: High Priestess Arlokk</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 9.58%</div></td></tr></table>",
+  "url": "/item=19909/will-of-arlokk",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_35.jpg",
+  "id": "19909",
+  "slug": "will-of-arlokk"
+}

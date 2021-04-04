@@ -1,0 +1,10 @@
+{
+  "name": "Arathi Basin Runecloth Bandage",
+  "quality": "Common",
+  "icon": "inv_misc_bandage_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Arathi Basin Runecloth Bandage</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<br>Requires <a href=\"/skill=129\" class=\"q1\">First Aid</a> (225)<br><span class=\"q2\">Use: <a href=\"/spell=24414\" class=\"q2\">Heals 2000 damage over 8 sec. &nbsp;Usable only inside Arathi Basin.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span></div></td></tr></table>",
+  "url": "/item=20066/arathi-basin-runecloth-bandage",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bandage_12.jpg",
+  "id": "20066",
+  "slug": "arathi-basin-runecloth-bandage"
+}

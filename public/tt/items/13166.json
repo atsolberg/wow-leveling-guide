@@ -1,0 +1,10 @@
+{
+  "name": "Slamshot Shoulders",
+  "quality": "Rare",
+  "icon": "inv_shoulder_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Slamshot Shoulders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->470 Armor</span><br><span><!--stat7-->+21 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Equip: <a href=\"/spell=9331\" class=\"q2\">+20 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">42</span> <span class=\"moneycopper\">4</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Highlord Omokk</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 12.79%</div></td></tr></table>",
+  "url": "/item=13166/slamshot-shoulders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_23.jpg",
+  "id": "13166",
+  "slug": "slamshot-shoulders"
+}

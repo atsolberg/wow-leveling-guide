@@ -1,0 +1,10 @@
+{
+  "name": "Imbued Skeletal Fragments",
+  "quality": "Common",
+  "icon": "spell_nature_slowingtotem",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Imbued Skeletal Fragments</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=14628/imbued-skeletal-fragments",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_slowingtotem.jpg",
+  "id": "14628",
+  "slug": "imbued-skeletal-fragments"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Box of Fresh Pies",
+  "quality": "Common",
+  "icon": "inv_crate_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Box of Fresh Pies</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Duration: 7 days<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27669\" class=\"q2\">Combines a Box of Fresh Pies, an Orgrimmar Pledge Collection and a Package of Cards into an Orgrimmar Gift Collection.</a></span></td></tr></table>",
+  "url": "/item=22292/box-of-fresh-pies",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crate_01.jpg",
+  "id": "22292",
+  "slug": "box-of-fresh-pies"
+}

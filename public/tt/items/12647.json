@@ -1,0 +1,10 @@
+{
+  "name": "Felhas Ruby",
+  "quality": "Common",
+  "icon": "inv_misc_gem_ruby_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Felhas Ruby</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=16627\" class=\"q2\">Captures the spirit of a Felhound to be used in the creation of a warlockian orb.</a></span></td></tr></table>",
+  "url": "/item=12647/felhas-ruby",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_ruby_02.jpg",
+  "id": "12647",
+  "slug": "felhas-ruby"
+}

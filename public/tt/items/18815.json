@@ -1,0 +1,10 @@
+{
+  "name": "Essence of the Pure Flame",
+  "quality": "Epic",
+  "icon": "spell_fire_fire",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Essence of the Pure Flame</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->75</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=23266\" class=\"q2\">When struck in combat inflicts 13 Fire damage to the attacker.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">40</span> <span class=\"moneycopper\">95</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ragnaros</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 23.89%</div></td></tr></table>",
+  "url": "/item=18815/essence-of-the-pure-flame",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_fire_fire.jpg",
+  "id": "18815",
+  "slug": "essence-of-the-pure-flame"
+}

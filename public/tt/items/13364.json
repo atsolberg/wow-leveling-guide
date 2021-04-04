@@ -1,0 +1,10 @@
+{
+  "name": "Fras Siabi's Advertisement",
+  "quality": "Poor",
+  "icon": "inv_scroll_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Fras Siabi's Advertisement</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Undead Postman</div></td></tr></table>",
+  "url": "/item=13364/fras-siabis-advertisement",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_08.jpg",
+  "id": "13364",
+  "slug": "fras-siabis-advertisement"
+}

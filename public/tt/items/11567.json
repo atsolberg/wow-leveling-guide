@@ -1,0 +1,10 @@
+{
+  "name": "Crystal Spire",
+  "quality": "Common",
+  "icon": "inv_misc_gem_stone_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Crystal Spire</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=15279\" class=\"q2\">A crystal shield surrounds the friendly target, doing 12 damage to anyone who hits <dfn title=\"her\">him</dfn>. &nbsp;Lasts 10 min.</a> (5 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div></td></tr></table>",
+  "url": "/item=11567/crystal-spire",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_stone_01.jpg",
+  "id": "11567",
+  "slug": "crystal-spire"
+}

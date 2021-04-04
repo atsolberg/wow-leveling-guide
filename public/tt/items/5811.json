@@ -1,0 +1,10 @@
+{
+  "name": "Frostmaw's Mane",
+  "quality": "Common",
+  "icon": "inv_misc_pelt_bear_ruin_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Frostmaw's Mane</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Frostmaw</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 98.15%</div></td></tr></table>",
+  "url": "/item=5811/frostmaws-mane",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_pelt_bear_ruin_01.jpg",
+  "id": "5811",
+  "slug": "frostmaws-mane"
+}

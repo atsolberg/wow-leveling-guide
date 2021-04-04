@@ -1,0 +1,10 @@
+{
+  "name": "Mechanical Repair Kit",
+  "quality": "Common",
+  "icon": "inv_gizmo_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Mechanical Repair Kit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (200)<br><span class=\"q2\">Use: <a href=\"/spell=15057\" class=\"q2\">Restores 700 health to a friendly mechanical target</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=11590/mechanical-repair-kit",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_03.jpg",
+  "id": "11590",
+  "slug": "mechanical-repair-kit"
+}

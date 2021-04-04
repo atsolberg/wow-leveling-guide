@@ -1,0 +1,10 @@
+{
+  "name": "Sand Skitterer Fang",
+  "quality": "Common",
+  "icon": "inv_misc_bone_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sand Skitterer Fang</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Sand Skitterer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 17.97%</div></td></tr></table>",
+  "url": "/item=20376/sand-skitterer-fang",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_06.jpg",
+  "id": "20376",
+  "slug": "sand-skitterer-fang"
+}

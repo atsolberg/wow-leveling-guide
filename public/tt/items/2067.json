@@ -1,0 +1,10 @@
+{
+  "name": "Frostbit Staff",
+  "quality": "Common",
+  "icon": "inv_staff_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Frostbit Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->12 - 19 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(5.74 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">86</span></div></td></tr></table>",
+  "url": "/item=2067/frostbit-staff",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_15.jpg",
+  "id": "2067",
+  "slug": "frostbit-staff"
+}

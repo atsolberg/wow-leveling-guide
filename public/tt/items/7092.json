@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Hands of Darkness",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Pattern: Hands of Darkness</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->29</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=197\" class=\"q1\">Tailoring</a> (145)<br><span class=\"q2\">Use: <a href=\"/spell=8781\" class=\"q2\">Teaches you how to sew Hands of Darkness.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q2\"><a href=\"/item=7047\">Hands of Darkness</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->26 Armor</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25<br>Requires Level <!--rlvl-->24<br><span class=\"q2\">Equip: <a href=\"/spell=7710\" class=\"q2\">Increases damage done by Shadow spells and effects by up to 9.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">24</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4305\">Bolt of Silk Cloth</a>&nbsp;(3), <a href=\"/item=4234\">Heavy Leather</a>&nbsp;(2), <a href=\"/item=6048\">Shadow Protection Potion</a>&nbsp;(2), <a href=\"/item=2321\">Fine Thread</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=7092/pattern-hands-of-darkness",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "7092",
+  "slug": "pattern-hands-of-darkness"
+}

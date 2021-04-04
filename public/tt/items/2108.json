@@ -1,0 +1,10 @@
+{
+  "name": "Frostmane Leather Vest",
+  "quality": "Common",
+  "icon": "inv_chest_wolf",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Frostmane Leather Vest</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->4</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->29 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">8</span></div></td></tr></table>",
+  "url": "/item=2108/frostmane-leather-vest",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_wolf.jpg",
+  "id": "2108",
+  "slug": "frostmane-leather-vest"
+}

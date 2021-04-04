@@ -1,0 +1,10 @@
+{
+  "name": "Drakesfire Epaulets",
+  "quality": "Rare",
+  "icon": "inv_shoulder_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Drakesfire Epaulets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->270 Armor</span><br><span><!--stat5-->+14 Intellect</span><br><span><!--stat7-->+5 Stamina</span><br><span><!--stat6-->+15 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Fire Resistance<!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">83</span></div></td></tr></table>",
+  "url": "/item=13133/drakesfire-epaulets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_23.jpg",
+  "id": "13133",
+  "slug": "drakesfire-epaulets"
+}

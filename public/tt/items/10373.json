@@ -1,0 +1,10 @@
+{
+  "name": "Imbued Plate Leggings",
+  "quality": "Uncommon",
+  "icon": "inv_pants_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Imbued Plate Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->507 Armor</span><br><span><!--stat4-->+18 Strength</span><br><span><!--stat6-->+17 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">73</span> <span class=\"moneycopper\">36</span></div></td></tr></table>",
+  "url": "/item=10373/imbued-plate-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_08.jpg",
+  "id": "10373",
+  "slug": "imbued-plate-leggings"
+}

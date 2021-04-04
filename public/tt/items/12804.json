@@ -1,0 +1,10 @@
+{
+  "name": "Powerful Mojo",
+  "quality": "Common",
+  "icon": "spell_nature_astralrecalgroup",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Powerful Mojo</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span></div></td></tr></table>",
+  "url": "/item=12804/powerful-mojo",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_astralrecalgroup.jpg",
+  "id": "12804",
+  "slug": "powerful-mojo"
+}

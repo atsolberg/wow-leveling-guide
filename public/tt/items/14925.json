@@ -1,0 +1,10 @@
+{
+  "name": "Lofty Helm",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Lofty Helm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->441 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">62</span></div></td></tr></table>",
+  "url": "/item=14925/lofty-helm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_10.jpg",
+  "id": "14925",
+  "slug": "lofty-helm"
+}

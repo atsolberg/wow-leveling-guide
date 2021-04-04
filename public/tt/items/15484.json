@@ -1,0 +1,10 @@
+{
+  "name": "War Torn Handgrips",
+  "quality": "Common",
+  "icon": "inv_gauntlets_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">War Torn Handgrips</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->12</span><!--bo--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->73 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->7<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">68</span></div></td></tr></table>",
+  "url": "/item=15484/war-torn-handgrips",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_19.jpg",
+  "id": "15484",
+  "slug": "war-torn-handgrips"
+}

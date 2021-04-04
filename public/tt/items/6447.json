@@ -1,0 +1,10 @@
+{
+  "name": "Worn Turtle Shell Shield",
+  "quality": "Common",
+  "icon": "inv_shield_21",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Worn Turtle Shell Shield</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->412 Armor</span><br>6 Block<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">62</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Kresh</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 67.26%</div></td></tr></table>",
+  "url": "/item=6447/worn-turtle-shell-shield",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_21.jpg",
+  "id": "6447",
+  "slug": "worn-turtle-shell-shield"
+}

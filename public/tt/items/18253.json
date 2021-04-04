@@ -1,0 +1,10 @@
+{
+  "name": "Major Rejuvenation Potion",
+  "quality": "Common",
+  "icon": "inv_potion_47",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Major Rejuvenation Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br><span class=\"q2\">Use: <a href=\"/spell=22729\" class=\"q2\">Restores 1440 to 1760 mana and health.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">15</span></div></td></tr></table>",
+  "url": "/item=18253/major-rejuvenation-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_47.jpg",
+  "id": "18253",
+  "slug": "major-rejuvenation-potion"
+}

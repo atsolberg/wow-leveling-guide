@@ -1,0 +1,10 @@
+{
+  "name": "Syndicate Man Tracker (MURP)",
+  "quality": "Uncommon",
+  "icon": "inv_gizmo_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Syndicate Man Tracker (MURP)</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=17347/syndicate-man-tracker-murp",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_08.jpg",
+  "id": "17347",
+  "slug": "syndicate-man-tracker-murp"
+}

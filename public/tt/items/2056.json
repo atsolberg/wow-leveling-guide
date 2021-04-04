@@ -1,0 +1,10 @@
+{
+  "name": "The Velvet Hammer",
+  "quality": "Poor",
+  "icon": "inv_hammer_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">The Velvet Hammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->4 - 9 Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(3.25 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">92</span></div></td></tr></table>",
+  "url": "/item=2056/the-velvet-hammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_02.jpg",
+  "id": "2056",
+  "slug": "the-velvet-hammer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Crafted Solid Shot",
+  "quality": "Common",
+  "icon": "inv_ammo_bullet_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Crafted Solid Shot</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><table width=\"100%\"><tr><td>Ammo</td><th><!--scstart6:3--><span class=\"q1\">Bullet</span><!--scend--></th></tr></table><span>Adds 8.5 damage per second</span>\n<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<!--itemEffects:1--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div></td></tr></table>",
+  "url": "/item=8069/crafted-solid-shot",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ammo_bullet_02.jpg",
+  "id": "8069",
+  "slug": "crafted-solid-shot"
+}

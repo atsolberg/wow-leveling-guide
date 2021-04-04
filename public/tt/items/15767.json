@@ -1,0 +1,10 @@
+{
+  "name": "Hameya's Key",
+  "quality": "Common",
+  "icon": "inv_misc_key_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hameya's Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Infiltrator Hameya</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 92.55%</div></td></tr></table>",
+  "url": "/item=15767/hameyas-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_11.jpg",
+  "id": "15767",
+  "slug": "hameyas-key"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Monster - Torch, Ranged",
+  "quality": "Poor",
+  "icon": "inv_sword_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Monster - Torch, Ranged</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><table width=\"100%\"><tr><td>Thrown</td><th><!--scstart2:16--><span class=\"q1\">Thrown</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->1 - 2 Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(0.75 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">2</span></div></td></tr></table>",
+  "url": "/item=6088/monster-torch-ranged",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_09.jpg",
+  "id": "6088",
+  "slug": "monster-torch-ranged"
+}

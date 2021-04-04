@@ -1,0 +1,10 @@
+{
+  "name": "QAEnchant Weapon Lifestealing",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QAEnchant Weapon Lifestealing</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27104\" class=\"q2\">Permanently enchant a melee weapon to often steal life from the enemy and give it to the wielder.</a></span></td></tr></table>",
+  "url": "/item=22025/qaenchant-weapon-lifestealing",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "22025",
+  "slug": "qaenchant-weapon-lifestealing"
+}

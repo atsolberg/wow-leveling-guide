@@ -1,0 +1,10 @@
+{
+  "name": "[PH] Victorious Standard of the Horde [DEP]",
+  "quality": "Common",
+  "icon": "inv_bannerpvp_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">[PH] Victorious Standard of the Horde [DEP]</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=23701/ph-victorious-standard-of-the-horde-dep",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bannerpvp_01.jpg",
+  "id": "23701",
+  "slug": "ph-victorious-standard-of-the-horde-dep"
+}

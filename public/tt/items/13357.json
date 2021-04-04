@@ -1,0 +1,10 @@
+{
+  "name": "Osseous Agitator",
+  "quality": "Common",
+  "icon": "spell_shadow_requiem",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Osseous Agitator</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=13357/osseous-agitator",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_requiem.jpg",
+  "id": "13357",
+  "slug": "osseous-agitator"
+}

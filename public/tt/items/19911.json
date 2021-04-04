@@ -1,0 +1,10 @@
+{
+  "name": "Whipweed Heart",
+  "quality": "Common",
+  "icon": "inv_misc_herb_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Whipweed Heart</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div></td></tr></table>",
+  "url": "/item=19911/whipweed-heart",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_herb_07.jpg",
+  "id": "19911",
+  "slug": "whipweed-heart"
+}

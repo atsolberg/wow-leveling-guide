@@ -1,0 +1,10 @@
+{
+  "name": "Crochet Gloves",
+  "quality": "Poor",
+  "icon": "inv_gauntlets_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Crochet Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->48</span><!--bo--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->35 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->43<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">30</span></div></td></tr></table>",
+  "url": "/item=3940/crochet-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_23.jpg",
+  "id": "3940",
+  "slug": "crochet-gloves"
+}

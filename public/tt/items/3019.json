@@ -1,0 +1,10 @@
+{
+  "name": "Noble's Robe",
+  "quality": "Uncommon",
+  "icon": "inv_chest_cloth_38",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Noble's Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->32 Armor</span><br><span><!--stat4-->+1 Strength</span><br><span><!--stat7-->+3 Stamina</span><br><span><!--stat6-->+3 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->13<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">23</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Marisa du'Paige</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 20.98%</div></td></tr></table>",
+  "url": "/item=3019/nobles-robe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_38.jpg",
+  "id": "3019",
+  "slug": "nobles-robe"
+}

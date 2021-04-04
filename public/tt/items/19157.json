@@ -1,0 +1,10 @@
+{
+  "name": "Chromatic Gauntlets",
+  "quality": "Epic",
+  "icon": "inv_gauntlets_22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Chromatic Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->279 Armor</span><!--ebstats--><!--egstats--><!--eistats--><br>+5 Fire Resistance<br>+5 Nature Resistance<br>+5 Frost Resistance<br>+5 Shadow Resistance<!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=15810\" class=\"q2\">+44 Attack Power.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=18384\" class=\"q2\">Improves your chance to get a critical strike with spells by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">19</span> <span class=\"moneycopper\">43</span></div></td></tr></table>",
+  "url": "/item=19157/chromatic-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_22.jpg",
+  "id": "19157",
+  "slug": "chromatic-gauntlets"
+}

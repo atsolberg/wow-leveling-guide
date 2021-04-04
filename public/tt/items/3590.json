@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Weave Bracers",
+  "quality": "Common",
+  "icon": "inv_bracer_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Heavy Weave Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->13 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->12<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">15</span></div></td></tr></table>",
+  "url": "/item=3590/heavy-weave-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_06.jpg",
+  "id": "3590",
+  "slug": "heavy-weave-bracers"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Hallowed Wand - Random",
+  "quality": "Common",
+  "icon": "inv_wand_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hallowed Wand - Random</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=24720\" class=\"q2\">Puts a random costume on targeted party member.</a></span><br />5 Charges</td></tr></table>",
+  "url": "/item=20413/hallowed-wand-random",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_12.jpg",
+  "id": "20413",
+  "slug": "hallowed-wand-random"
+}

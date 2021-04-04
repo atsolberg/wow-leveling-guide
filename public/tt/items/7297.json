@@ -1,0 +1,10 @@
+{
+  "name": "Morbent's Bane",
+  "quality": "Common",
+  "icon": "inv_staff_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Morbent's Bane</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=8913\" class=\"q2\">Removes the protective enchantments around Morbent Fel.</a> (3 Min Cooldown)</span><!--itemEffects:1--></td></tr></table>",
+  "url": "/item=7297/morbents-bane",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_05.jpg",
+  "id": "7297",
+  "slug": "morbents-bane"
+}

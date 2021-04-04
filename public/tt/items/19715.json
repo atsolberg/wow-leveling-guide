@@ -1,0 +1,10 @@
+{
+  "name": "Gold Hakkari Bijou",
+  "quality": "Rare",
+  "icon": "inv_bijou_gold",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Gold Hakkari Bijou</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->61</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q\">&quot;A significant Paragon of Power from the Gurubashi Empire.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div></td></tr></table>",
+  "url": "/item=19715/gold-hakkari-bijou",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bijou_gold.jpg",
+  "id": "19715",
+  "slug": "gold-hakkari-bijou"
+}

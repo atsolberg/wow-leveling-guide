@@ -1,0 +1,10 @@
+{
+  "name": "Shadow Silk",
+  "quality": "Common",
+  "icon": "spell_nature_web",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Shadow Silk</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div></td></tr></table>",
+  "url": "/item=10285/shadow-silk",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_web.jpg",
+  "id": "10285",
+  "slug": "shadow-silk"
+}

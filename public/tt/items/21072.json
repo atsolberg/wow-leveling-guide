@@ -1,0 +1,10 @@
+{
+  "name": "Smoked Sagefish",
+  "quality": "Common",
+  "icon": "inv_misc_fish_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Smoked Sagefish</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<br><span class=\"q2\">Use: <a href=\"/spell=25690\" class=\"q2\">Restores 378.0 health and 567 mana over 21 sec. &nbsp;Must remain seated while eating. &nbsp;If you spend at least 10 seconds eating you will become well fed and gain 3 Mana every 5 seconds for 15 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">40</span></div></td></tr></table>",
+  "url": "/item=21072/smoked-sagefish",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_20.jpg",
+  "id": "21072",
+  "slug": "smoked-sagefish"
+}

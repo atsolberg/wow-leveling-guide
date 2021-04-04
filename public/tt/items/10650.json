@@ -1,0 +1,10 @@
+{
+  "name": "Plague-Infested Quilboar Mane",
+  "quality": "Common",
+  "icon": "inv_misc_pelt_bear_ruin_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Plague-Infested Quilboar Mane</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=10650/plague-infested-quilboar-mane",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_pelt_bear_ruin_03.jpg",
+  "id": "10650",
+  "slug": "plague-infested-quilboar-mane"
+}

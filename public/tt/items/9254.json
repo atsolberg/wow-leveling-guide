@@ -1,0 +1,10 @@
+{
+  "name": "Cuergo's Treasure Map",
+  "quality": "Common",
+  "icon": "inv_misc_map_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Cuergo's Treasure Map</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><br /><a href=\"/quest=2882\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40</td></tr></table>",
+  "url": "/item=9254/cuergos-treasure-map",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_map_01.jpg",
+  "id": "9254",
+  "slug": "cuergos-treasure-map"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Corrupted Furbolg Totem",
+  "quality": "Common",
+  "icon": "spell_totem_wardofdraining",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Corrupted Furbolg Totem</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=5389/corrupted-furbolg-totem",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_totem_wardofdraining.jpg",
+  "id": "5389",
+  "slug": "corrupted-furbolg-totem"
+}

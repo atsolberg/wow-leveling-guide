@@ -1,0 +1,10 @@
+{
+  "name": "Mark of Cenarius",
+  "quality": "Uncommon",
+  "icon": "inv_jewelry_necklace_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Mark of Cenarius</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=21508/mark-of-cenarius",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_12.jpg",
+  "id": "21508",
+  "slug": "mark-of-cenarius"
+}

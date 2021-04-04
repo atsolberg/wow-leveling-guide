@@ -1,0 +1,10 @@
+{
+  "name": "Wizbang's Special Brew",
+  "quality": "Common",
+  "icon": "inv_drink_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Wizbang's Special Brew</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=11008\" class=\"q2\">A typical alcoholic beverage.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">30</span></div></td></tr></table>",
+  "url": "/item=11846/wizbangs-special-brew",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_14.jpg",
+  "id": "11846",
+  "slug": "wizbangs-special-brew"
+}

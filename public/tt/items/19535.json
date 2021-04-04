@@ -1,0 +1,10 @@
+{
+  "name": "Scout's Medallion",
+  "quality": "Rare",
+  "icon": "inv_jewelry_necklace_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Scout's Medallion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->53</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat3-->+12 Agility</span><br><span><!--stat7-->+8 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->48<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=19535/scouts-medallion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_14.jpg",
+  "id": "19535",
+  "slug": "scouts-medallion"
+}

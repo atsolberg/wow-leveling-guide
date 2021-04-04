@@ -1,0 +1,10 @@
+{
+  "name": "Strapped Shoulderpads",
+  "quality": "Poor",
+  "icon": "inv_shoulder_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Strapped Shoulderpads</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->111 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">80</span> <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=3983/strapped-shoulderpads",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_06.jpg",
+  "id": "3983",
+  "slug": "strapped-shoulderpads"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Crested Buckler",
+  "quality": "Poor",
+  "icon": "inv_shield_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Crested Buckler</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->56</span><!--bo--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->1517 Armor</span><br>23 Block<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->51<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">82</span> <span class=\"moneycopper\">37</span></div></td></tr></table>",
+  "url": "/item=3990/crested-buckler",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_10.jpg",
+  "id": "3990",
+  "slug": "crested-buckler"
+}

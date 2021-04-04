@@ -1,0 +1,10 @@
+{
+  "name": "Secrecy of Plans",
+  "quality": "Common",
+  "icon": "inv_scroll_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Secrecy of Plans</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=12762/secrecy-of-plans",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_07.jpg",
+  "id": "12762",
+  "slug": "secrecy-of-plans"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Gold-capped Troll Tusk",
+  "quality": "Poor",
+  "icon": "inv_gizmo_pipe_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Gold-capped Troll Tusk</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">88</span></div></td></tr></table>",
+  "url": "/item=9336/gold-capped-troll-tusk",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_pipe_02.jpg",
+  "id": "9336",
+  "slug": "gold-capped-troll-tusk"
+}

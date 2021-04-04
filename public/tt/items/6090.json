@@ -1,0 +1,10 @@
+{
+  "name": "OLDNoboru's Cudgel",
+  "quality": "Common",
+  "icon": "inv_mace_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">OLDNoboru's Cudgel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=6090/oldnoborus-cudgel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_10.jpg",
+  "id": "6090",
+  "slug": "oldnoborus-cudgel"
+}

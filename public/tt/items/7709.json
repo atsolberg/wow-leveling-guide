@@ -1,0 +1,10 @@
+{
+  "name": "Blighted Leggings",
+  "quality": "Rare",
+  "icon": "inv_pants_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Blighted Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->45 Armor</span><br><span><!--stat6-->+17 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<br><span class=\"q2\">Equip: <a href=\"/spell=7709\" class=\"q2\">Increases damage done by Shadow spells and effects by up to 10.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">35</span> <span class=\"moneycopper\">59</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Azshir the Sleepless</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 31.18%</div></td></tr></table>",
+  "url": "/item=7709/blighted-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_07.jpg",
+  "id": "7709",
+  "slug": "blighted-leggings"
+}

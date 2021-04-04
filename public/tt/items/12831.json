@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Blood Talon",
+  "quality": "Rare",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Plans: Blood Talon</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (300)<br>Requires <a href=\"/spells=11.164.9787\" class=\"q1\">Weaponsmith</a><br><span class=\"q2\">Use: <a href=\"/spell=17029\" class=\"q2\">Teaches you how to make Blood Talon.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span></div><br /><span class=\"q3\"><a href=\"/item=12795\">Blood Talon</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:13--><span class=\"q1\">Fist Weapon</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->35 - 67 Damage</span></td>\n    <th>Speed <!--spd-->1.30</th>\n</tr></table><!--dps-->(39.23 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65<br>Requires Level <!--rlvl-->55<br><span class=\"q2\">Chance on hit: <a href=\"/spell=13318\" class=\"q2\">Wounds the target causing them to bleed for 100 damage over 30 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">88</span> <span class=\"moneycopper\">21</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=12655\">Enchanted Thorium Bar</a>&nbsp;(10), <a href=\"/item=12360\">Arcanite Bar</a>&nbsp;(10), <a href=\"/item=12662\">Demonic Rune</a>&nbsp;(8), <a href=\"/item=7910\">Star Ruby</a>&nbsp;(10), <a href=\"/item=12644\">Dense Grinding Stone</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=12831/plans-blood-talon",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "12831",
+  "slug": "plans-blood-talon"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Large Obsidian Shard",
+  "quality": "Common",
+  "icon": "inv_stone_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Large Obsidian Shard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=22203/large-obsidian-shard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_15.jpg",
+  "id": "22203",
+  "slug": "large-obsidian-shard"
+}

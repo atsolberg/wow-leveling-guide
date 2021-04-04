@@ -1,0 +1,10 @@
+{
+  "name": "Mistscape Sash",
+  "quality": "Uncommon",
+  "icon": "inv_belt_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Mistscape Sash</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->42</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->31 Armor</span><br><span><!--stat5-->+11 Intellect</span><br><span><!--stat7-->+4 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->37<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">16</span></div></td></tr></table>",
+  "url": "/item=4736/mistscape-sash",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_04.jpg",
+  "id": "4736",
+  "slug": "mistscape-sash"
+}

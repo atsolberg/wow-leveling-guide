@@ -1,0 +1,10 @@
+{
+  "name": "Black Lotus",
+  "quality": "Uncommon",
+  "icon": "inv_misc_herb_blacklotus",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Black Lotus</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Mushgog</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 1.56%</div></td></tr></table>",
+  "url": "/item=13468/black-lotus",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_herb_blacklotus.jpg",
+  "id": "13468",
+  "slug": "black-lotus"
+}

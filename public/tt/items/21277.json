@@ -1,0 +1,10 @@
+{
+  "name": "Tranquil Mechanical Yeti",
+  "quality": "Common",
+  "icon": "ability_hunter_pet_gorilla",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tranquil Mechanical Yeti</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when used<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=26010\" class=\"q2\">Right Click to summon and dismiss your Tranquil Mechanical Yeti.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=21277/tranquil-mechanical-yeti",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_hunter_pet_gorilla.jpg",
+  "id": "21277",
+  "slug": "tranquil-mechanical-yeti"
+}

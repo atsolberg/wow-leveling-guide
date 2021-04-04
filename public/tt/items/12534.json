@@ -1,0 +1,10 @@
+{
+  "name": "Omokk's Head",
+  "quality": "Common",
+  "icon": "inv_misc_head_centaur_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Omokk's Head</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=16447\" class=\"q2\">At Urok's Tribute Pile, combine Omokk's Head with the Roughshod Pike.</a></span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Highlord Omokk</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 90.66%</div></td></tr></table>",
+  "url": "/item=12534/omokks-head",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_centaur_01.jpg",
+  "id": "12534",
+  "slug": "omokks-head"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Giant Clam Scorcho",
+  "quality": "Common",
+  "icon": "inv_ammo_firetar",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Giant Clam Scorcho</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->25<br><span class=\"q2\">Use: <a href=\"/spell=5007\" class=\"q2\">Restores 874.8 health over 27 sec. &nbsp;Must remain seated while eating. &nbsp;If you spend at least 10 seconds eating you will become well fed and gain 8 Stamina and Spirit for 15 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=6038/giant-clam-scorcho",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ammo_firetar.jpg",
+  "id": "6038",
+  "slug": "giant-clam-scorcho"
+}

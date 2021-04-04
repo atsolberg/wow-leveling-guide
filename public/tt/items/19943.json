@@ -1,0 +1,10 @@
+{
+  "name": "Massive Mojo",
+  "quality": "Common",
+  "icon": "spell_nature_strength",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Massive Mojo</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;More Mojo than any one troll should have.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span></div></td></tr></table>",
+  "url": "/item=19943/massive-mojo",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_strength.jpg",
+  "id": "19943",
+  "slug": "massive-mojo"
+}

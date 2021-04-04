@@ -1,0 +1,10 @@
+{
+  "name": "Veteran Girdle",
+  "quality": "Common",
+  "icon": "inv_belt_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Veteran Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->14</span><!--bo--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->73 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->9<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">8</span></div></td></tr></table>",
+  "url": "/item=4678/veteran-girdle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_05.jpg",
+  "id": "4678",
+  "slug": "veteran-girdle"
+}

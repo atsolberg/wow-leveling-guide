@@ -1,0 +1,11 @@
+{
+  "name": "Recipe: Mageblood Potion",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Recipe: Mageblood Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=171\" class=\"q1\">Alchemy</a> (275)<br>Requires <a href=\"/faction=270\" class=\"q1\">Zandalar Tribe</a> - Revered<br><span class=\"q2\">Use: <a href=\"/spell=24369\" class=\"q2\">Teaches you how to make a Mageblood Potion.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">25</span></div><br /><span class=\"q1\"><a href=\"/item=20007\">Mageblood Potion</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires Level <!--rlvl-->40<br><span class=\"q2\">Use: <a href=\"/spell=24363\" class=\"q2\">Regenerate 12 mana per 5 sec for 1 hour.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=13463\">Dreamfoil</a>, <a href=\"/item=13466\">Plaguebloom</a>&nbsp;(2), <a href=\"/item=8925\">Crystal Vial</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=20011/recipe-mageblood-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "20011",
+  "slug": "recipe-mageblood-potion"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Flame of Stormwind",
+  "quality": "Common",
+  "icon": "spell_fire_flameshock",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Flame of Stormwind</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=9330\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=23182/flame-of-stormwind",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_fire_flameshock.jpg",
+  "id": "23182",
+  "slug": "flame-of-stormwind"
+}

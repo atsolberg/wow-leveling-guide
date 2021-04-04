@@ -1,0 +1,10 @@
+{
+  "name": "Large Slimy Bone",
+  "quality": "Poor",
+  "icon": "inv_misc_bone_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Large Slimy Bone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">70</span></div></td></tr></table>",
+  "url": "/item=3670/large-slimy-bone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_01.jpg",
+  "id": "3670",
+  "slug": "large-slimy-bone"
+}

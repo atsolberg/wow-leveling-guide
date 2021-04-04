@@ -1,0 +1,11 @@
+{
+  "name": "Formula: Enchant Bracer - Minor Strength",
+  "quality": "Uncommon",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Formula: Enchant Bracer - Minor Strength</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->19</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=333\" class=\"q1\">Enchanting</a> (80)<br><span class=\"q2\">Use: <a href=\"/spell=7783\" class=\"q2\">Teaches you how to permanently enchant a bracer to give +1 Strength.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=6347/formula-enchant-bracer-minor-strength",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "6347",
+  "slug": "formula-enchant-bracer-minor-strength"
+}

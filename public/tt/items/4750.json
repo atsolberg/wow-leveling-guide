@@ -1,0 +1,10 @@
+{
+  "name": "OLDWinterhoof Cleansing Totem",
+  "quality": "Common",
+  "icon": "inv_staff_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">OLDWinterhoof Cleansing Totem</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<table width=\"100%\"><tr><td>Two-Hand</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-races\">Races: <a href=\"/race=6\" class=\"q1\">Tauren</a></div></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=4975\" class=\"q2\">Invokes Winterhoof spirits of cleansing.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">4</span></div></td></tr></table>",
+  "url": "/item=4750/oldwinterhoof-cleansing-totem",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_03.jpg",
+  "id": "4750",
+  "slug": "oldwinterhoof-cleansing-totem"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Two-handed Sword",
+  "quality": "Common",
+  "icon": "inv_sword_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Two-handed Sword</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->7</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->8 - 13 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(3.62 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->2<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">68</span></div></td></tr></table>",
+  "url": "/item=2489/two-handed-sword",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_14.jpg",
+  "id": "2489",
+  "slug": "two-handed-sword"
+}

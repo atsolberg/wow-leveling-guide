@@ -1,0 +1,10 @@
+{
+  "name": "Hefty Battlehammer",
+  "quality": "Uncommon",
+  "icon": "inv_hammer_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Hefty Battlehammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->43 - 65 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(16.88 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">33</span> <span class=\"moneycopper\">6</span></div></td></tr></table>",
+  "url": "/item=15259/hefty-battlehammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_16.jpg",
+  "id": "15259",
+  "slug": "hefty-battlehammer"
+}

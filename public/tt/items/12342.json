@@ -1,0 +1,10 @@
+{
+  "name": "Blackwood Grain Sample",
+  "quality": "Common",
+  "icon": "inv_misc_food_wheat_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Blackwood Grain Sample</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=12342/blackwood-grain-sample",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_wheat_02.jpg",
+  "id": "12342",
+  "slug": "blackwood-grain-sample"
+}

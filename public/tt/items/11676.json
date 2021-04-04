@@ -1,0 +1,10 @@
+{
+  "name": "[PH] Legendary Arcane Amalgamation (Melee)",
+  "quality": "Epic",
+  "icon": "inv_misc_gem_diamond_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">[PH] Legendary Arcane Amalgamation (Melee)</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=11676/ph-legendary-arcane-amalgamation-melee",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_diamond_01.jpg",
+  "id": "11676",
+  "slug": "ph-legendary-arcane-amalgamation-melee"
+}

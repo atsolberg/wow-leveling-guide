@@ -1,0 +1,10 @@
+{
+  "name": "Band of Purification",
+  "quality": "Rare",
+  "icon": "inv_jewelry_ring_31",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Band of Purification</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br />Binds when equipped<br />Unique<table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat7-->+2 Stamina</span><br><span><!--stat6-->+6 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span> <span class=\"moneycopper\">27</span></div></td></tr></table>",
+  "url": "/item=12996/band-of-purification",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_ring_31.jpg",
+  "id": "12996",
+  "slug": "band-of-purification"
+}

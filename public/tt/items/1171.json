@@ -1,0 +1,10 @@
+{
+  "name": "Well-stitched Robe",
+  "quality": "Common",
+  "icon": "inv_chest_cloth_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Well-stitched Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->18 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">55</span></div></td></tr></table>",
+  "url": "/item=1171/well-stitched-robe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_24.jpg",
+  "id": "1171",
+  "slug": "well-stitched-robe"
+}

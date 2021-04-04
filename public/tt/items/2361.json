@@ -1,0 +1,10 @@
+{
+  "name": "Battleworn Hammer",
+  "quality": "Common",
+  "icon": "inv_hammer_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Battleworn Hammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->2</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->3 - 5 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(1.38 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">9</span></div></td></tr></table>",
+  "url": "/item=2361/battleworn-hammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_15.jpg",
+  "id": "2361",
+  "slug": "battleworn-hammer"
+}

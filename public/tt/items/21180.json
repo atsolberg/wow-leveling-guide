@@ -1,0 +1,10 @@
+{
+  "name": "Earthstrike",
+  "quality": "Epic",
+  "icon": "spell_nature_abolishmagic",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Earthstrike</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->66</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=25891\" class=\"q2\">Increases your melee and ranged attack power by 280. &nbsp;Effect lasts for 20 sec.</a> (2 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=21180/earthstrike",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_abolishmagic.jpg",
+  "id": "21180",
+  "slug": "earthstrike"
+}

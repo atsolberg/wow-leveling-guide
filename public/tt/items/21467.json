@@ -1,0 +1,10 @@
+{
+  "name": "Thick Silithid Chestguard",
+  "quality": "Epic",
+  "icon": "inv_chest_leather_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Thick Silithid Chestguard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->69</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->258 Armor</span><br><span><!--stat4-->+15 Strength</span><br><span><!--stat3-->+21 Agility</span><br><span><!--stat7-->+30 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+5 Arcane Resistance<br>+5 Fire Resistance<br>+5 Nature Resistance<br>+5 Frost Resistance<br>+5 Shadow Resistance<!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">58</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Moam</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 10.13%</div></td></tr></table>",
+  "url": "/item=21467/thick-silithid-chestguard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_leather_07.jpg",
+  "id": "21467",
+  "slug": "thick-silithid-chestguard"
+}

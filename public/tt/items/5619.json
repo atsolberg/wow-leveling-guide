@@ -1,0 +1,10 @@
+{
+  "name": "Jade Phial",
+  "quality": "Common",
+  "icon": "inv_potion_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Jade Phial</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=6609\" class=\"q2\">Fill the Jade Phial at the Starbreeze moonwell.</a></span></td></tr></table>",
+  "url": "/item=5619/jade-phial",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_10.jpg",
+  "id": "5619",
+  "slug": "jade-phial"
+}

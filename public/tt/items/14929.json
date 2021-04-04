@@ -1,0 +1,10 @@
+{
+  "name": "Lofty Shoulder Pads",
+  "quality": "Uncommon",
+  "icon": "inv_shoulder_28",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Lofty Shoulder Pads</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->54</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->387 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->49<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">89</span> <span class=\"moneycopper\">99</span></div></td></tr></table>",
+  "url": "/item=14929/lofty-shoulder-pads",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_28.jpg",
+  "id": "14929",
+  "slug": "lofty-shoulder-pads"
+}

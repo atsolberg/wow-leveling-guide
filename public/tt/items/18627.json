@@ -1,0 +1,10 @@
+{
+  "name": "Gong of Dethmoora",
+  "quality": "Common",
+  "icon": "inv_hammer_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gong of Dethmoora</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=23058\" class=\"q2\">Restarts the Bell of Dethmoora during the Ritual of Greater Summoning. &nbsp;Requires 1 Soul Shard.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=18627/gong-of-dethmoora",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_24.jpg",
+  "id": "18627",
+  "slug": "gong-of-dethmoora"
+}

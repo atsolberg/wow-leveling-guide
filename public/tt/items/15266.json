@@ -1,0 +1,10 @@
+{
+  "name": "Fierce Mauler",
+  "quality": "Uncommon",
+  "icon": "inv_hammer_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Fierce Mauler</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->125 - 188 Damage</span></td>\n    <th>Speed <!--spd-->3.30</th>\n</tr></table><!--dps-->(47.42 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">44</span> <span class=\"moneycopper\">5</span></div></td></tr></table>",
+  "url": "/item=15266/fierce-mauler",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_08.jpg",
+  "id": "15266",
+  "slug": "fierce-mauler"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Filled Festive Mug",
+  "quality": "Common",
+  "icon": "inv_drink_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Filled Festive Mug</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Unique<br />Duration: 1 day (real time)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=25851\" class=\"q2\">Drink me. &nbsp;I'm delicious!</a> (5 Sec Cooldown)</span></td></tr></table>",
+  "url": "/item=21171/filled-festive-mug",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_05.jpg",
+  "id": "21171",
+  "slug": "filled-festive-mug"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Grizzly Belt",
+  "quality": "Common",
+  "icon": "inv_belt_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Grizzly Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->31 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">47</span></div></td></tr></table>",
+  "url": "/item=15302/grizzly-belt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_09.jpg",
+  "id": "15302",
+  "slug": "grizzly-belt"
+}

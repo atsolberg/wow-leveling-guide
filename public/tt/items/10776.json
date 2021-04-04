@@ -1,0 +1,10 @@
+{
+  "name": "Silky Spider Cape",
+  "quality": "Rare",
+  "icon": "inv_misc_cape_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Silky Spider Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->42</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->30 Armor</span><br><span><!--stat7-->+11 Stamina</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">47</span> <span class=\"moneycopper\">99</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Tuten'kash</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 34.21%</div></td></tr></table>",
+  "url": "/item=10776/silky-spider-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_17.jpg",
+  "id": "10776",
+  "slug": "silky-spider-cape"
+}

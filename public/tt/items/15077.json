@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Scorpid Bracers",
+  "quality": "Uncommon",
+  "icon": "inv_bracer_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Heavy Scorpid Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->51</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->122 Armor</span><br><span><!--stat7-->+8 Stamina</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->46<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">76</span> <span class=\"moneycopper\">15</span></div></td></tr></table>",
+  "url": "/item=15077/heavy-scorpid-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_09.jpg",
+  "id": "15077",
+  "slug": "heavy-scorpid-bracers"
+}

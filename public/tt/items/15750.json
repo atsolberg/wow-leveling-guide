@@ -1,0 +1,10 @@
+{
+  "name": "Sceptre of Light",
+  "quality": "Common",
+  "icon": "inv_staff_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sceptre of Light</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Burning Blade Seer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 98.14%</div></td></tr></table>",
+  "url": "/item=15750/sceptre-of-light",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_24.jpg",
+  "id": "15750",
+  "slug": "sceptre-of-light"
+}

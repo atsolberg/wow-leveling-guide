@@ -1,0 +1,10 @@
+{
+  "name": "Prowler Claws",
+  "quality": "Common",
+  "icon": "inv_gauntlets_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Prowler Claws</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Savannah Prowler</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 56.26%</div></td></tr></table>",
+  "url": "/item=5096/prowler-claws",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_01.jpg",
+  "id": "5096",
+  "slug": "prowler-claws"
+}

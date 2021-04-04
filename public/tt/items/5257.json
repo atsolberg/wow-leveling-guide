@@ -1,0 +1,10 @@
+{
+  "name": "Dark Hooded Cape",
+  "quality": "Rare",
+  "icon": "inv_misc_cape_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Dark Hooded Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->27 Armor</span><br><span><!--stat4-->+4 Strength</span><br><span><!--stat3-->+10 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">31</span> <span class=\"moneycopper\">59</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Nimar the Slayer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 9.11%</div></td></tr></table>",
+  "url": "/item=5257/dark-hooded-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_04.jpg",
+  "id": "5257",
+  "slug": "dark-hooded-cape"
+}

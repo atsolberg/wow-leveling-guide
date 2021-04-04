@@ -1,0 +1,10 @@
+{
+  "name": "Singed Letter",
+  "quality": "Common",
+  "icon": "inv_letter_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Singed Letter</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->48</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40</td></tr></table>",
+  "url": "/item=10443/singed-letter",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_15.jpg",
+  "id": "10443",
+  "slug": "singed-letter"
+}

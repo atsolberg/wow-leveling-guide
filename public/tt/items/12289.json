@@ -1,0 +1,10 @@
+{
+  "name": "Sea Turtle Remains",
+  "quality": "Common",
+  "icon": "inv_misc_bone_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sea Turtle Remains</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=12289/sea-turtle-remains",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_07.jpg",
+  "id": "12289",
+  "slug": "sea-turtle-remains"
+}

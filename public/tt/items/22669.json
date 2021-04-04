@@ -1,0 +1,10 @@
+{
+  "name": "Icebane Breastplate",
+  "quality": "Epic",
+  "icon": "inv_chest_chain_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Icebane Breastplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->80</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->899 Armor</span><br><span><!--stat4-->+12 Strength</span><br><span><!--stat7-->+24 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+42 Frost Resistance<!--e--><!--ps--><br>Durability 165 / 165</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=13387\" class=\"q2\">Increased Defense +8.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">83</span> <span class=\"moneycopper\">90</span></div></td></tr></table>",
+  "url": "/item=22669/icebane-breastplate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_11.jpg",
+  "id": "22669",
+  "slug": "icebane-breastplate"
+}

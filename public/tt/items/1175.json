@@ -1,0 +1,10 @@
+{
+  "name": "A Gold Tooth",
+  "quality": "Poor",
+  "icon": "inv_ore_copper_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">A Gold Tooth</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">28</span></div></td></tr></table>",
+  "url": "/item=1175/a-gold-tooth",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ore_copper_01.jpg",
+  "id": "1175",
+  "slug": "a-gold-tooth"
+}

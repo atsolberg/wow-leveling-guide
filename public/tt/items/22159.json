@@ -1,0 +1,10 @@
+{
+  "name": "Pledge of Friendship: Darnassus",
+  "quality": "Common",
+  "icon": "inv_valentinesboxofchocolates01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pledge of Friendship: Darnassus</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=22159/pledge-of-friendship-darnassus",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_valentinesboxofchocolates01.jpg",
+  "id": "22159",
+  "slug": "pledge-of-friendship-darnassus"
+}

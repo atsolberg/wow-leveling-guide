@@ -1,0 +1,10 @@
+{
+  "name": "Skullplate Bracers",
+  "quality": "Rare",
+  "icon": "inv_bracer_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Skullplate Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->42</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->163 Armor</span><br><span><!--stat4-->+5 Strength</span><br><span><!--stat7-->+9 Stamina</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">27</span></div></td></tr></table>",
+  "url": "/item=9432/skullplate-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_14.jpg",
+  "id": "9432",
+  "slug": "skullplate-bracers"
+}

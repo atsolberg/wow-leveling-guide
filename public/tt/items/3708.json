@@ -1,0 +1,10 @@
+{
+  "name": "Helcular's Rod",
+  "quality": "Common",
+  "icon": "inv_wand_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Helcular's Rod</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=3708/helculars-rod",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_09.jpg",
+  "id": "3708",
+  "slug": "helculars-rod"
+}

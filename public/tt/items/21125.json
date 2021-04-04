@@ -1,0 +1,10 @@
+{
+  "name": "Ahn'Qiraj Staff [PH]",
+  "quality": "Epic",
+  "icon": "inv_staff_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Ahn'Qiraj Staff [PH]</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->75</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->170 - 255 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(73.28 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">16</span> <span class=\"moneysilver\">61</span> <span class=\"moneycopper\">45</span></div></td></tr></table>",
+  "url": "/item=21125/ahnqiraj-staff-ph",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_01.jpg",
+  "id": "21125",
+  "slug": "ahnqiraj-staff-ph"
+}

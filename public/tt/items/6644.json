@@ -1,0 +1,10 @@
+{
+  "name": "Bloated Mackerel",
+  "quality": "Common",
+  "icon": "inv_misc_fish_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bloated Mackerel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">6</span></div></td></tr></table>",
+  "url": "/item=6644/bloated-mackerel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_24.jpg",
+  "id": "6644",
+  "slug": "bloated-mackerel"
+}

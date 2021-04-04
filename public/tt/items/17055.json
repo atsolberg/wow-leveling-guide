@@ -1,0 +1,10 @@
+{
+  "name": "Changuk Smasher",
+  "quality": "Rare",
+  "icon": "inv_hammer_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Changuk Smasher</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->44 - 83 Damage</span></td>\n    <th>Speed <!--spd-->1.90</th>\n</tr></table><!--dps-->(33.42 damage per second)<br><span><!--stat5-->+6 Intellect</span><br><span><!--stat7-->+6 Stamina</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">67</span> <span class=\"moneycopper\">47</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Omgorn the Lost</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 30.92%</div></td></tr></table>",
+  "url": "/item=17055/changuk-smasher",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_17.jpg",
+  "id": "17055",
+  "slug": "changuk-smasher"
+}

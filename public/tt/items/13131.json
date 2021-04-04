@@ -1,0 +1,10 @@
+{
+  "name": "Sparkleshell Mantle",
+  "quality": "Rare",
+  "icon": "inv_shoulder_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Sparkleshell Mantle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->161 Armor</span><br><span><!--stat3-->+4 Agility</span><br><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->24<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">23</span> <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=13131/sparkleshell-mantle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_18.jpg",
+  "id": "13131",
+  "slug": "sparkleshell-mantle"
+}

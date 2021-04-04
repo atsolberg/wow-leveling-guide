@@ -1,0 +1,10 @@
+{
+  "name": "Linked Chain Cloak",
+  "quality": "Poor",
+  "icon": "inv_misc_cape_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Linked Chain Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->17 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">96</span></div></td></tr></table>",
+  "url": "/item=1749/linked-chain-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_12.jpg",
+  "id": "1749",
+  "slug": "linked-chain-cloak"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Primitive Kilt",
+  "quality": "Poor",
+  "icon": "inv_pants_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Primitive Kilt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->14 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=153/primitive-kilt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_02.jpg",
+  "id": "153",
+  "slug": "primitive-kilt"
+}

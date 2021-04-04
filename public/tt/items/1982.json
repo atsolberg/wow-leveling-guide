@@ -1,0 +1,10 @@
+{
+  "name": "Nightblade",
+  "quality": "Epic",
+  "icon": "inv_sword_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Nightblade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->44</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->97 - 146 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(43.39 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->39<br><span class=\"q2\">Chance on hit: <a href=\"/spell=18211\" class=\"q2\">Sends a shadowy bolt at the enemy causing 125 to 275 Shadow damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">95</span> <span class=\"moneycopper\">13</span></div></td></tr></table>",
+  "url": "/item=1982/nightblade",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_02.jpg",
+  "id": "1982",
+  "slug": "nightblade"
+}

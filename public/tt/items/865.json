@@ -1,0 +1,10 @@
+{
+  "name": "Leaden Mace",
+  "quality": "Uncommon",
+  "icon": "inv_mace_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Leaden Mace</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->31</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->32 - 61 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(16.03 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->26<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">96</span></div></td></tr></table>",
+  "url": "/item=865/leaden-mace",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_03.jpg",
+  "id": "865",
+  "slug": "leaden-mace"
+}

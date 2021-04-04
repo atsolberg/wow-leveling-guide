@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Dark Iron Plate",
+  "quality": "Rare",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Plans: Dark Iron Plate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->57</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (285)<br>Requires <a href=\"/spells=11.164.9788\" class=\"q1\">Armorsmith</a><br><span class=\"q2\">Use: <a href=\"/spell=15299\" class=\"q2\">Teaches you how to make Dark Iron Plate.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ribbly Screwspigot</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 13.33%</div><br /><span class=\"q3\"><a href=\"/item=11604\">Dark Iron Plate</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->817 Armor</span><br><span><!--stat7-->+12 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+19 Fire Resistance<!--e--><!--ps--><br>Durability 135 / 135<br>Requires Level <!--rlvl-->54<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">94</span> <span class=\"moneycopper\">28</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=11371\">Dark Iron Bar</a>&nbsp;(20), <a href=\"/item=7077\">Heart of Fire</a>&nbsp;(8)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=11612/plans-dark-iron-plate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "11612",
+  "slug": "plans-dark-iron-plate"
+}

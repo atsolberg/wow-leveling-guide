@@ -1,0 +1,10 @@
+{
+  "name": "Argent Dawn Valor Token",
+  "quality": "Uncommon",
+  "icon": "inv_jewelry_talisman_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Argent Dawn Valor Token</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=17047\" class=\"q2\">Increase your reputation permanently with the Argent Dawn.</a> (2 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div></td></tr></table>",
+  "url": "/item=12844/argent-dawn-valor-token",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_08.jpg",
+  "id": "12844",
+  "slug": "argent-dawn-valor-token"
+}

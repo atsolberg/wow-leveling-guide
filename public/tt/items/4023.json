@@ -1,0 +1,10 @@
+{
+  "name": "Fine Pointed Dagger",
+  "quality": "Poor",
+  "icon": "inv_weapon_shortblade_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Fine Pointed Dagger</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->44</span><!--bo--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->15 - 28 Damage</span></td>\n    <th>Speed <!--spd-->1.40</th>\n</tr></table><!--dps-->(15.36 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->39<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">62</span> <span class=\"moneycopper\">15</span></div></td></tr></table>",
+  "url": "/item=4023/fine-pointed-dagger",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_05.jpg",
+  "id": "4023",
+  "slug": "fine-pointed-dagger"
+}

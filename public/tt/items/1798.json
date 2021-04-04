@@ -1,0 +1,10 @@
+{
+  "name": "Rawhide Cloak",
+  "quality": "Poor",
+  "icon": "inv_misc_cape_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Rawhide Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->16 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">79</span></div></td></tr></table>",
+  "url": "/item=1798/rawhide-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_07.jpg",
+  "id": "1798",
+  "slug": "rawhide-cloak"
+}

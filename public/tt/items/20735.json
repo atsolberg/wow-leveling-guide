@@ -1,0 +1,11 @@
+{
+  "name": "Formula: Enchant Cloak - Subtlety",
+  "quality": "Rare",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Formula: Enchant Cloak - Subtlety</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=333\" class=\"q1\">Enchanting</a> (300)<br><span class=\"q2\">Use: <a href=\"/spell=25096\" class=\"q2\">Teaches you how to permanently enchant a cloak to reduce how threatening the wearer is to monsters by 2%.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">50</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Emperor Vek'lor</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 8.29%</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=20735/formula-enchant-cloak-subtlety",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "20735",
+  "slug": "formula-enchant-cloak-subtlety"
+}

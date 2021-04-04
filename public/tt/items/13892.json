@@ -1,0 +1,10 @@
+{
+  "name": "Kodo Kombobulator",
+  "quality": "Common",
+  "icon": "inv_battery_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Kodo Kombobulator</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><span class=\"q2\">Use: <a href=\"/spell=18153\" class=\"q2\">Kodo Kombobulator on any Ancient, Aged, or Dying Kodo to lure the Kodo to follow (one at a time).</a></span></td></tr></table>",
+  "url": "/item=13892/kodo-kombobulator",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_battery_01.jpg",
+  "id": "13892",
+  "slug": "kodo-kombobulator"
+}

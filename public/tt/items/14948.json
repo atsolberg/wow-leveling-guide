@@ -1,0 +1,10 @@
+{
+  "name": "Bloodforged Chestpiece",
+  "quality": "Uncommon",
+  "icon": "inv_chest_chain_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Bloodforged Chestpiece</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->51</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->489 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 115 / 115</td></tr></table><table><tr><td>Requires Level <!--rlvl-->46<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=14948/bloodforged-chestpiece",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_07.jpg",
+  "id": "14948",
+  "slug": "bloodforged-chestpiece"
+}

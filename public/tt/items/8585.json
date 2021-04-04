@@ -1,0 +1,10 @@
+{
+  "name": "Tapped Dowsing Widget",
+  "quality": "Common",
+  "icon": "inv_potion_73",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tapped Dowsing Widget</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=8585/tapped-dowsing-widget",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_73.jpg",
+  "id": "8585",
+  "slug": "tapped-dowsing-widget"
+}

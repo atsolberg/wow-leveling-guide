@@ -1,0 +1,10 @@
+{
+  "name": "Khazgorm's Journal",
+  "quality": "Common",
+  "icon": "inv_misc_book_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Khazgorm's Journal</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Read&gt;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Prospector Khazgorm</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 92.78%</div></td></tr></table>",
+  "url": "/item=5006/khazgorms-journal",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_09.jpg",
+  "id": "5006",
+  "slug": "khazgorms-journal"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Thunder Bluff Marzipan",
+  "quality": "Common",
+  "icon": "inv_misc_food_29",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Thunder Bluff Marzipan</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;A classic Hallow's End treat of the Tauren.&quot;</span></td></tr></table>",
+  "url": "/item=20497/thunder-bluff-marzipan",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_29.jpg",
+  "id": "20497",
+  "slug": "thunder-bluff-marzipan"
+}

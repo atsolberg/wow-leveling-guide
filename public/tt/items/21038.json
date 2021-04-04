@@ -1,0 +1,10 @@
+{
+  "name": "Hardpacked Snowball",
+  "quality": "Common",
+  "icon": "inv_ammo_snowball",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hardpacked Snowball</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><br /><a href=\"/zone=2597\" class=\"q1\">Alterac Valley</a><!--bo--><br />Unique (5)<br />Duration: 5 min<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=25677\" class=\"q2\">Throw me before I melt!</a> (30 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=21038/hardpacked-snowball",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ammo_snowball.jpg",
+  "id": "21038",
+  "slug": "hardpacked-snowball"
+}

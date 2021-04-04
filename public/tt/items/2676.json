@@ -1,0 +1,10 @@
+{
+  "name": "Shimmerweed",
+  "quality": "Common",
+  "icon": "inv_misc_herb_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Shimmerweed</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Frostmane Seer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 50.04%</div></td></tr></table>",
+  "url": "/item=2676/shimmerweed",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_herb_04.jpg",
+  "id": "2676",
+  "slug": "shimmerweed"
+}

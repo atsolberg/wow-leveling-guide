@@ -1,0 +1,10 @@
+{
+  "name": "Savage Frond",
+  "quality": "Common",
+  "icon": "spell_nature_protectionformnature",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Savage Frond</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div></td></tr></table>",
+  "url": "/item=22529/savage-frond",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_protectionformnature.jpg",
+  "id": "22529",
+  "slug": "savage-frond"
+}

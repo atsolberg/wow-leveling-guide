@@ -1,0 +1,10 @@
+{
+  "name": "Power of the Scourge",
+  "quality": "Epic",
+  "icon": "spell_shadow_darkritual",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Power of the Scourge</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=29467\" class=\"q2\">Permanently adds to a shoulder slot item increased damage and healing done by magical spells and effects up to 15 and also increases your chance to land a critical strike with spells by 1%.</a></span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Sapphiron</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 49.09%</div></td></tr></table>",
+  "url": "/item=23545/power-of-the-scourge",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_darkritual.jpg",
+  "id": "23545",
+  "slug": "power-of-the-scourge"
+}

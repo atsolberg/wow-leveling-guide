@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Leather Ammo Pouch",
+  "quality": "Uncommon",
+  "icon": "inv_misc_bag_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Heavy Leather Ammo Pouch</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><table width=\"100%\"><tr><td>Bag</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<br><span class=\"q2\">Equip: <a href=\"/spell=14826\" class=\"q2\">Increases ranged attack speed by 12%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div></td></tr></table>",
+  "url": "/item=7372/heavy-leather-ammo-pouch",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_09.jpg",
+  "id": "7372",
+  "slug": "heavy-leather-ammo-pouch"
+}

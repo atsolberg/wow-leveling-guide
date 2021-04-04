@@ -1,0 +1,10 @@
+{
+  "name": "Dacian Falx",
+  "quality": "Common",
+  "icon": "inv_sword_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dacian Falx</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->26</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->39 - 60 Damage</span></td>\n    <th>Speed <!--spd-->3.10</th>\n</tr></table><!--dps-->(15.97 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->21<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">24</span> <span class=\"moneycopper\">7</span></div></td></tr></table>",
+  "url": "/item=922/dacian-falx",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_10.jpg",
+  "id": "922",
+  "slug": "dacian-falx"
+}

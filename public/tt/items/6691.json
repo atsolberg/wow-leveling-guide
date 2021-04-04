@@ -1,0 +1,10 @@
+{
+  "name": "Swinetusk Shank",
+  "quality": "Rare",
+  "icon": "inv_misc_bone_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Swinetusk Shank</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->24 - 45 Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(23.00 damage per second)<br><span><!--stat7-->+6 Stamina</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">88</span> <span class=\"moneycopper\">66</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Agathelos the Raging</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 33.18%</div></td></tr></table>",
+  "url": "/item=6691/swinetusk-shank",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_06.jpg",
+  "id": "6691",
+  "slug": "swinetusk-shank"
+}

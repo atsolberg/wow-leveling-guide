@@ -1,0 +1,10 @@
+{
+  "name": "Hedgecutter",
+  "quality": "Rare",
+  "icon": "inv_axe_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Hedgecutter</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->60 - 90 Damage</span></td>\n    <th>Speed <!--spd-->1.90</th>\n</tr></table><!--dps-->(39.47 damage per second)<br><span><!--stat4-->+5 Strength</span><br><span><!--stat7-->+12 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">74</span> <span class=\"moneycopper\">43</span></div></td></tr></table>",
+  "url": "/item=18498/hedgecutter",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_11.jpg",
+  "id": "18498",
+  "slug": "hedgecutter"
+}

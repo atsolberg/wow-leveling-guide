@@ -1,0 +1,10 @@
+{
+  "name": "Vital Leggings",
+  "quality": "Uncommon",
+  "icon": "inv_pants_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Vital Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->42 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->31<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">76</span></div></td></tr></table>",
+  "url": "/item=14207/vital-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_07.jpg",
+  "id": "14207",
+  "slug": "vital-leggings"
+}

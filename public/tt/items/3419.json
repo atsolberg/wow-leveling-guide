@@ -1,0 +1,10 @@
+{
+  "name": "Red Rose",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Red Rose</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=3419/red-rose",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_03.jpg",
+  "id": "3419",
+  "slug": "red-rose"
+}

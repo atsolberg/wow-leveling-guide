@@ -1,0 +1,10 @@
+{
+  "name": "Tablet of Beth'Amara",
+  "quality": "Common",
+  "icon": "inv_misc_stonetablet_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tablet of Beth'Amara</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=10538/tablet-of-bethamara",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_stonetablet_03.jpg",
+  "id": "10538",
+  "slug": "tablet-of-bethamara"
+}

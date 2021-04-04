@@ -1,0 +1,10 @@
+{
+  "name": "Armswake Cloak",
+  "quality": "Rare",
+  "icon": "inv_misc_cape_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Armswake Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->43 Armor</span><br><span><!--stat7-->+15 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Equip: <a href=\"/spell=9329\" class=\"q2\">+16 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">55</span> <span class=\"moneycopper\">29</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ghok Bashguud</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 38.01%</div></td></tr></table>",
+  "url": "/item=13203/armswake-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_19.jpg",
+  "id": "13203",
+  "slug": "armswake-cloak"
+}

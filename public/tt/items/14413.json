@@ -1,0 +1,10 @@
+{
+  "name": "Stonecloth Robe",
+  "quality": "Uncommon",
+  "icon": "inv_chest_cloth_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Stonecloth Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->39</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->52 Armor</span><br><span><!--stat4-->+2 Strength</span><br><span><!--stat7-->+2 Stamina</span><br><span><!--stat6-->+15 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->34<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">39</span> <span class=\"moneycopper\">47</span></div></td></tr></table>",
+  "url": "/item=14413/stonecloth-robe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_05.jpg",
+  "id": "14413",
+  "slug": "stonecloth-robe"
+}

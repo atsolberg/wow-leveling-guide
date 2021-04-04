@@ -1,0 +1,10 @@
+{
+  "name": "Dark Iron Bomb",
+  "quality": "Common",
+  "icon": "inv_misc_bomb_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dark Iron Bomb</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->57</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (285)<br><span class=\"q2\">Use: <a href=\"/spell=19784\" class=\"q2\">Inflicts 225 to 675 Fire damage and stuns targets in a 5 yard radius for 4 sec. &nbsp;Any damage will break the effect.</a> (1 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=16005/dark-iron-bomb",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bomb_05.jpg",
+  "id": "16005",
+  "slug": "dark-iron-bomb"
+}

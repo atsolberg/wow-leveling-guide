@@ -1,0 +1,10 @@
+{
+  "name": "Bite of Serra'kis",
+  "quality": "Rare",
+  "icon": "inv_misc_monsterfang_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Bite of Serra'kis</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->28</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->16 - 30 Damage</span></td>\n    <th>Speed <!--spd-->1.30</th>\n</tr></table><!--dps-->(17.69 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->23<br><span class=\"q2\">Chance on hit: <a href=\"/spell=8313\" class=\"q2\">Poisons target for 4 Nature damage every 2 sec for 20 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">46</span> <span class=\"moneycopper\">65</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Old Serra'kis</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 21.35%</div></td></tr></table>",
+  "url": "/item=6904/bite-of-serrakis",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterfang_01.jpg",
+  "id": "6904",
+  "slug": "bite-of-serrakis"
+}

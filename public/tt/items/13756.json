@@ -1,0 +1,10 @@
+{
+  "name": "Raw Summer Bass",
+  "quality": "Common",
+  "icon": "inv_misc_fish_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Raw Summer Bass</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<br><span class=\"q2\">Use: <a href=\"/spell=1127\" class=\"q2\">Restores 874.8 health over 27 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">9</span></div></td></tr></table>",
+  "url": "/item=13756/raw-summer-bass",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_03.jpg",
+  "id": "13756",
+  "slug": "raw-summer-bass"
+}

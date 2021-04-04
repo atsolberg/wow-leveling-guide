@@ -1,0 +1,10 @@
+{
+  "name": "Interlaced Gloves",
+  "quality": "Poor",
+  "icon": "inv_gauntlets_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Interlaced Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->25 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->28<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">93</span></div></td></tr></table>",
+  "url": "/item=3796/interlaced-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_23.jpg",
+  "id": "3796",
+  "slug": "interlaced-gloves"
+}

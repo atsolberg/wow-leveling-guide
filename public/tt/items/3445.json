@@ -1,0 +1,10 @@
+{
+  "name": "Ceremonial Knife",
+  "quality": "Common",
+  "icon": "inv_weapon_shortblade_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ceremonial Knife</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->12</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->5 - 10 Damage</span></td>\n    <th>Speed <!--spd-->1.40</th>\n</tr></table><!--dps-->(5.36 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">26</span></div></td></tr></table>",
+  "url": "/item=3445/ceremonial-knife",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_10.jpg",
+  "id": "3445",
+  "slug": "ceremonial-knife"
+}

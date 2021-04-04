@@ -1,0 +1,11 @@
+{
+  "name": "Recipe: Elixir of Giant Growth",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Recipe: Elixir of Giant Growth</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->18</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=171\" class=\"q1\">Alchemy</a> (90)<br><span class=\"q2\">Use: <a href=\"/spell=8241\" class=\"q2\">Teaches you how to make an Elixir of Giant Growth.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q1\"><a href=\"/item=6662\">Elixir of Giant Growth</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->18</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires Level <!--rlvl-->8<br><span class=\"q2\">Use: <a href=\"/spell=8212\" class=\"q2\">Your size is increased and your Strength goes up by 8 to match your new size. &nbsp;Lasts 2 min.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">95</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=6522\">Deviate Fish</a>, <a href=\"/item=2449\">Earthroot</a>, <a href=\"/item=3371\">Empty Vial</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=6663/recipe-elixir-of-giant-growth",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "6663",
+  "slug": "recipe-elixir-of-giant-growth"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Double-layered Gloves",
+  "quality": "Common",
+  "icon": "inv_gauntlets_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Double-layered Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->8</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->28 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 18 / 18</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">20</span></div></td></tr></table>",
+  "url": "/item=4962/double-layered-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_05.jpg",
+  "id": "4962",
+  "slug": "double-layered-gloves"
+}

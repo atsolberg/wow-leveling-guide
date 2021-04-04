@@ -1,0 +1,10 @@
+{
+  "name": "Prison Cell Key",
+  "quality": "Common",
+  "icon": "inv_misc_key_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Prison Cell Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Various runes and etchings cover the surface of the key.&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: High Interrogator Gerstahn</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 49.64%</div></td></tr></table>",
+  "url": "/item=11140/prison-cell-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_10.jpg",
+  "id": "11140",
+  "slug": "prison-cell-key"
+}

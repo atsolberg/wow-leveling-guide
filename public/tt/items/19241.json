@@ -1,0 +1,10 @@
+{
+  "name": "Sayge's Fortune #6",
+  "quality": "Common",
+  "icon": "inv_scroll_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sayge's Fortune #6</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Be cautious when landing in unfamiliar territory.&quot;</span></td></tr></table>",
+  "url": "/item=19241/sayges-fortune-6",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_02.jpg",
+  "id": "19241",
+  "slug": "sayges-fortune-6"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Band of Earthen Wrath",
+  "quality": "Rare",
+  "icon": "inv_jewelry_ring_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Band of Earthen Wrath</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat5-->+8 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=18384\" class=\"q2\">Improves your chance to get a critical strike with spells by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=21361\" class=\"q2\">Restores 3 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">9</span></div></td></tr></table>",
+  "url": "/item=21179/band-of-earthen-wrath",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_ring_18.jpg",
+  "id": "21179",
+  "slug": "band-of-earthen-wrath"
+}

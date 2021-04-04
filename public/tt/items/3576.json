@@ -1,0 +1,10 @@
+{
+  "name": "Tin Bar",
+  "quality": "Common",
+  "icon": "inv_ingot_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tin Bar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">35</span></div></td></tr></table>",
+  "url": "/item=3576/tin-bar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ingot_05.jpg",
+  "id": "3576",
+  "slug": "tin-bar"
+}

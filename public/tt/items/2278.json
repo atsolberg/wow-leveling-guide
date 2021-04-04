@@ -1,0 +1,10 @@
+{
+  "name": "Forest Tracker Epaulets",
+  "quality": "Rare",
+  "icon": "inv_shoulder_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Forest Tracker Epaulets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->31</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->78 Armor</span><br><span><!--stat4-->+5 Strength</span><br><span><!--stat3-->+11 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->26<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">23</span> <span class=\"moneycopper\">26</span></div></td></tr></table>",
+  "url": "/item=2278/forest-tracker-epaulets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_18.jpg",
+  "id": "2278",
+  "slug": "forest-tracker-epaulets"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Precisely Calibrated Boomstick",
+  "quality": "Epic",
+  "icon": "inv_weapon_rifle_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Precisely Calibrated Boomstick</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->48</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->38 - 45 Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(27.67 damage per second)<br><span><!--stat3-->+14 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->43<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">45</span> <span class=\"moneycopper\">39</span></div></td></tr></table>",
+  "url": "/item=2100/precisely-calibrated-boomstick",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_06.jpg",
+  "id": "2100",
+  "slug": "precisely-calibrated-boomstick"
+}

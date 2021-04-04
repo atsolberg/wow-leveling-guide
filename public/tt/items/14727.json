@@ -1,0 +1,10 @@
+{
+  "name": "War Paint Legguards",
+  "quality": "Uncommon",
+  "icon": "inv_pants_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">War Paint Legguards</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->144 Armor</span><br><span><!--stat4-->+3 Strength</span><br><span><!--stat3-->+1 Agility</span><br><span><!--stat7-->+4 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->14<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">78</span></div></td></tr></table>",
+  "url": "/item=14727/war-paint-legguards",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_05.jpg",
+  "id": "14727",
+  "slug": "war-paint-legguards"
+}

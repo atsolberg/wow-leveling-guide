@@ -1,0 +1,10 @@
+{
+  "name": "Journeyman's Gloves",
+  "quality": "Common",
+  "icon": "inv_gauntlets_21",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Journeyman's Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->9</span><!--bo--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->10 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 16 / 16</td></tr></table><table><tr><td>Requires Level <!--rlvl-->4<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">21</span></div></td></tr></table>",
+  "url": "/item=2960/journeymans-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_21.jpg",
+  "id": "2960",
+  "slug": "journeymans-gloves"
+}

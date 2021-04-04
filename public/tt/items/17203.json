@@ -1,0 +1,10 @@
+{
+  "name": "Sulfuron Ingot",
+  "quality": "Epic",
+  "icon": "spell_fire_sealoffire",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Sulfuron Ingot</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">10</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Golemagg the Incinerator</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 33.11%</div></td></tr></table>",
+  "url": "/item=17203/sulfuron-ingot",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_fire_sealoffire.jpg",
+  "id": "17203",
+  "slug": "sulfuron-ingot"
+}

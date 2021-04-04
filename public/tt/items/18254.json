@@ -1,0 +1,10 @@
+{
+  "name": "Runn Tum Tuber Surprise",
+  "quality": "Common",
+  "icon": "inv_misc_food_63",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Runn Tum Tuber Surprise</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<br><span class=\"q2\">Use: <a href=\"/spell=22731\" class=\"q2\">Restores 1933.2 health over 27 sec. &nbsp; Must remain seated while eating. &nbsp; Also increases your Intellect by 10 for 10 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">18</span></div></td></tr></table>",
+  "url": "/item=18254/runn-tum-tuber-surprise",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_63.jpg",
+  "id": "18254",
+  "slug": "runn-tum-tuber-surprise"
+}

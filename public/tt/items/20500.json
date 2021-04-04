@@ -1,0 +1,10 @@
+{
+  "name": "Light Silithid Carapace",
+  "quality": "Common",
+  "icon": "inv_misc_monsterscales_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Light Silithid Carapace</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span></div></td></tr></table>",
+  "url": "/item=20500/light-silithid-carapace",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_14.jpg",
+  "id": "20500",
+  "slug": "light-silithid-carapace"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Fine Cloth Shirt",
+  "quality": "Common",
+  "icon": "inv_shirt_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fine Cloth Shirt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Shirt</td><th><!--scstart4:-8--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">87</span></div></td></tr></table>",
+  "url": "/item=859/fine-cloth-shirt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_02.jpg",
+  "id": "859",
+  "slug": "fine-cloth-shirt"
+}

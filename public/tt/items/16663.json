@@ -1,0 +1,10 @@
+{
+  "name": "Blood of the Black Dragon Champion",
+  "quality": "Common",
+  "icon": "inv_potion_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Blood of the Black Dragon Champion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: General Drakkisath</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 19.93%</div></td></tr></table>",
+  "url": "/item=16663/blood-of-the-black-dragon-champion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_27.jpg",
+  "id": "16663",
+  "slug": "blood-of-the-black-dragon-champion"
+}

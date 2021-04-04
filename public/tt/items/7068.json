@@ -1,0 +1,10 @@
+{
+  "name": "Elemental Fire",
+  "quality": "Common",
+  "icon": "spell_fire_fire",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Elemental Fire</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span></div></td></tr></table>",
+  "url": "/item=7068/elemental-fire",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_fire_fire.jpg",
+  "id": "7068",
+  "slug": "elemental-fire"
+}

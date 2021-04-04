@@ -1,0 +1,10 @@
+{
+  "name": "Rhahk'Zor's Hammer",
+  "quality": "Common",
+  "icon": "inv_hammer_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rhahk'Zor's Hammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->30 - 46 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(11.88 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span> <span class=\"moneycopper\">81</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Rhahk'Zor</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 73.38%</div></td></tr></table>",
+  "url": "/item=5187/rhahkzors-hammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_09.jpg",
+  "id": "5187",
+  "slug": "rhahkzors-hammer"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Nightfall",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Plans: Nightfall</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (300)<br>Requires <a href=\"/spells=11.164.17041\" class=\"q1\">Master Axesmith</a><br><span class=\"q2\">Use: <a href=\"/spell=23655\" class=\"q2\">Teaches you how to make Nightfall.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span></div><br /><span class=\"q4\"><a href=\"/item=19169\">Nightfall</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->187 - 282 Damage</span></td>\n    <th>Speed <!--spd-->3.50</th>\n</tr></table><!--dps-->(67.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120<br>Requires Level <!--rlvl-->60<br><span class=\"q2\">Chance on hit: <a href=\"/spell=23605\" class=\"q2\">Spell damage taken by target increased by 15% for 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">12</span> <span class=\"moneysilver\">91</span> <span class=\"moneycopper\">12</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=17011\">Lava Core</a>&nbsp;(8), <a href=\"/item=17010\">Fiery Core</a>&nbsp;(5), <a href=\"/item=12360\">Arcanite Bar</a>&nbsp;(10), <a href=\"/item=11371\">Dark Iron Bar</a>&nbsp;(12), <a href=\"/item=12364\">Huge Emerald</a>&nbsp;(4)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=19212/plans-nightfall",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "19212",
+  "slug": "plans-nightfall"
+}

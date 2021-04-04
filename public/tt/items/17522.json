@@ -1,0 +1,10 @@
+{
+  "name": "Irondeep Supplies",
+  "quality": "Common",
+  "icon": "inv_crate_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Irondeep Supplies</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><br /><a href=\"/zone=2597\" class=\"q1\">Alterac Valley</a><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">2</span></div></td></tr></table>",
+  "url": "/item=17522/irondeep-supplies",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crate_01.jpg",
+  "id": "17522",
+  "slug": "irondeep-supplies"
+}

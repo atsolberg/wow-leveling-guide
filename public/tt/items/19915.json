@@ -1,0 +1,10 @@
+{
+  "name": "Zulian Defender",
+  "quality": "Rare",
+  "icon": "inv_shield_22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Zulian Defender</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->68</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->2312 Armor</span><br>43 Block<br><span><!--stat5-->+9 Intellect</span><br><span><!--stat7-->+15 Stamina</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">88</span> <span class=\"moneycopper\">26</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: High Priestess Jeklik</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.66%</div></td></tr></table>",
+  "url": "/item=19915/zulian-defender",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_22.jpg",
+  "id": "19915",
+  "slug": "zulian-defender"
+}

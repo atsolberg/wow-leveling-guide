@@ -1,0 +1,10 @@
+{
+  "name": "Ancient Crown",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Ancient Crown</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->202 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">72</span> <span class=\"moneycopper\">11</span></div></td></tr></table>",
+  "url": "/item=15602/ancient-crown",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_11.jpg",
+  "id": "15602",
+  "slug": "ancient-crown"
+}

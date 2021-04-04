@@ -1,0 +1,10 @@
+{
+  "name": "Maury's Clubbed Foot",
+  "quality": "Common",
+  "icon": "inv_mace_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Maury's Clubbed Foot</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;It jingles when shaken.&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Maury \"Club Foot\" Wilkins</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 80.56%</div></td></tr></table>",
+  "url": "/item=3924/maurys-clubbed-foot",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_01.jpg",
+  "id": "3924",
+  "slug": "maurys-clubbed-foot"
+}

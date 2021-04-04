@@ -1,0 +1,10 @@
+{
+  "name": "Bolt of Linen Cloth",
+  "quality": "Common",
+  "icon": "inv_fabric_linen_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bolt of Linen Cloth</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">40</span></div></td></tr></table>",
+  "url": "/item=2996/bolt-of-linen-cloth",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_fabric_linen_02.jpg",
+  "id": "2996",
+  "slug": "bolt-of-linen-cloth"
+}

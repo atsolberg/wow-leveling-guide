@@ -1,0 +1,10 @@
+{
+  "name": "Sealed Crate",
+  "quality": "Common",
+  "icon": "inv_crate_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sealed Crate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Venture Company Supplies&quot;</span><br><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=6357/sealed-crate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crate_03.jpg",
+  "id": "6357",
+  "slug": "sealed-crate"
+}

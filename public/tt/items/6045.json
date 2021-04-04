@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Iron Counterweight",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Plans: Iron Counterweight</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->33</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (165)<br><span class=\"q2\">Use: <a href=\"/spell=7227\" class=\"q2\">Teaches you how to make an Iron Counterweight to help balance a two-handed weapon.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q1\"><a href=\"/item=6043\">Iron Counterweight</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->33</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (165)<br><span class=\"q2\">Use: <a href=\"/spell=7218\" class=\"q2\">Attaches a counterweight to a two-handed sword, mace, axe or polearm making it 3% faster.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=3575\">Iron Bar</a>&nbsp;(4), <a href=\"/item=3478\">Coarse Grinding Stone</a>&nbsp;(2), <a href=\"/item=1705\">Lesser Moonstone</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=6045/plans-iron-counterweight",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "6045",
+  "slug": "plans-iron-counterweight"
+}

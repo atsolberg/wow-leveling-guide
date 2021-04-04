@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Stormcloth Headband",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Pattern: Stormcloth Headband</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->48</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=197\" class=\"q1\">Tailoring</a> (240)<br><span class=\"q2\">Use: <a href=\"/spell=12147\" class=\"q2\">Teaches you how to sew a Stormcloth Headband.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q2\"><a href=\"/item=10032\">Stormcloth Headband</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->48</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->51 Armor</span><br><span><!--stat5-->+10 Intellect</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45<br>Requires Level <!--rlvl-->43<br><span class=\"q2\">Equip: <a href=\"/spell=9411\" class=\"q2\">Increases damage done by Nature spells and effects by up to 14.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">60</span> <span class=\"moneycopper\">52</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4339\">Bolt of Mageweave</a>&nbsp;(4), <a href=\"/item=7079\">Globe of Water</a>&nbsp;(4), <a href=\"/item=8343\">Heavy Silken Thread</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=10319/pattern-stormcloth-headband",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "10319",
+  "slug": "pattern-stormcloth-headband"
+}

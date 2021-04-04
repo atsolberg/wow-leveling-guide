@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Chimeric Gloves",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pattern: Chimeric Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->53</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=165\" class=\"q1\">Leatherworking</a> (265)<br>Requires <a href=\"/spells=11.165.10660\" class=\"q1\">Tribal Leatherworking</a><br><span class=\"q2\">Use: <a href=\"/spell=19164\" class=\"q2\">Teaches you how to craft Chimeric Gloves.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span></div><br /><span class=\"q2\"><a href=\"/item=15074\">Chimeric Gloves</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->53</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->87 Armor</span><!--ebstats--><!--egstats--><!--eistats--><br>+11 Arcane Resistance<br>+12 Nature Resistance<!--e--><!--ps--><br>Durability 30 / 30<br>Requires Level <!--rlvl-->48<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">68</span> <span class=\"moneycopper\">67</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=8170\">Rugged Leather</a>&nbsp;(6), <a href=\"/item=15423\">Chimera Leather</a>&nbsp;(6), <a href=\"/item=14341\">Rune Thread</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=15729/pattern-chimeric-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "15729",
+  "slug": "pattern-chimeric-gloves"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Steel Bar",
+  "quality": "Common",
+  "icon": "inv_ingot_steel",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Steel Bar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">60</span></div></td></tr></table>",
+  "url": "/item=3859/steel-bar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ingot_steel.jpg",
+  "id": "3859",
+  "slug": "steel-bar"
+}

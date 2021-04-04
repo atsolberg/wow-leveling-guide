@@ -1,0 +1,10 @@
+{
+  "name": "Rough Leather Bracers",
+  "quality": "Common",
+  "icon": "inv_bracer_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rough Leather Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->23 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">37</span></div></td></tr></table>",
+  "url": "/item=1840/rough-leather-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_02.jpg",
+  "id": "1840",
+  "slug": "rough-leather-bracers"
+}

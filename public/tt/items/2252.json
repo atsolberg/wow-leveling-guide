@@ -1,0 +1,10 @@
+{
+  "name": "Miscellaneous Goblin Supplies",
+  "quality": "Common",
+  "icon": "inv_misc_gear_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Miscellaneous Goblin Supplies</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;A crate of miscellaneous supplies addressed to Private Thorsen.&quot;</span></td></tr></table>",
+  "url": "/item=2252/miscellaneous-goblin-supplies",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gear_08.jpg",
+  "id": "2252",
+  "slug": "miscellaneous-goblin-supplies"
+}

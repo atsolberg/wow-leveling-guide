@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Murloc Scale Breastplate",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pattern: Murloc Scale Breastplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->19</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=165\" class=\"q1\">Leatherworking</a> (95)<br><span class=\"q2\">Use: <a href=\"/spell=6707\" class=\"q2\">Teaches you how to craft a Murloc Scale Breastplate.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q2\"><a href=\"/item=5781\">Murloc Scale Breastplate</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->76 Armor</span><br><span><!--stat4-->+5 Strength</span><br><span><!--stat3-->+3 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70<br>Requires Level <!--rlvl-->14<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">1</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=5784\">Slimy Murloc Scale</a>&nbsp;(12), <a href=\"/item=4231\">Cured Light Hide</a>, <a href=\"/item=2318\">Light Leather</a>&nbsp;(8), <a href=\"/item=2321\">Fine Thread</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=5787/pattern-murloc-scale-breastplate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "5787",
+  "slug": "pattern-murloc-scale-breastplate"
+}

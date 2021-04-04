@@ -1,0 +1,10 @@
+{
+  "name": "Watered-down Beer",
+  "quality": "Common",
+  "icon": "inv_drink_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Watered-down Beer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=5909\" class=\"q2\">This weak beer increases your Spirit by 1 and decreases your Stamina by 1 for 10 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div></td></tr></table>",
+  "url": "/item=5265/watered-down-beer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_13.jpg",
+  "id": "5265",
+  "slug": "watered-down-beer"
+}

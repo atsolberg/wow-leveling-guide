@@ -1,0 +1,10 @@
+{
+  "name": "zzOLD - QAEnchant Weapon +5 Damage",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">zzOLD - QAEnchant Weapon +5 Damage</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=22027/zzold-qaenchant-weapon-5-damage",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "22027",
+  "slug": "zzold-qaenchant-weapon-5-damage"
+}

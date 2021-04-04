@@ -1,0 +1,10 @@
+{
+  "name": "Drake Talon Cleaver",
+  "quality": "Epic",
+  "icon": "inv_axe_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Drake Talon Cleaver</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->75</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->199 - 300 Damage</span></td>\n    <th>Speed <!--spd-->3.40</th>\n</tr></table><!--dps-->(73.38 damage per second)<br><span><!--stat4-->+22 Strength</span><br><span><!--stat7-->+17 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Chance on hit: <a href=\"/spell=21140\" class=\"q2\">Delivers a fatal wound for 240 damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">18</span> <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=19353/drake-talon-cleaver",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_10.jpg",
+  "id": "19353",
+  "slug": "drake-talon-cleaver"
+}

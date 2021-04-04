@@ -1,0 +1,10 @@
+{
+  "name": "QAEnchant Shield +2% Block Chance",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QAEnchant Shield +2% Block Chance</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27117\" class=\"q2\">Permanently enchant a shield to give +2% chance to block.</a></span></td></tr></table>",
+  "url": "/item=22038/qaenchant-shield-2-block-chance",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "22038",
+  "slug": "qaenchant-shield-2-block-chance"
+}

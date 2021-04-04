@@ -1,0 +1,10 @@
+{
+  "name": "Nightbane Staff",
+  "quality": "Uncommon",
+  "icon": "inv_staff_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Nightbane Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->32 - 49 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(15.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><br>+7 Shadow Resistance<!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">33</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lupos</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 19.74%</div></td></tr></table>",
+  "url": "/item=3227/nightbane-staff",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_12.jpg",
+  "id": "3227",
+  "slug": "nightbane-staff"
+}

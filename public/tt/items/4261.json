@@ -1,0 +1,10 @@
+{
+  "name": "Solliden's Trousers",
+  "quality": "Common",
+  "icon": "inv_pants_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Solliden's Trousers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->8</span><!--bo--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->13 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->3<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">31</span></div></td></tr></table>",
+  "url": "/item=4261/sollidens-trousers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_02.jpg",
+  "id": "4261",
+  "slug": "sollidens-trousers"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "22 Pound Catfish",
+  "quality": "Common",
+  "icon": "inv_misc_fish_30",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">22 Pound Catfish</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">87</span></div></td></tr></table>",
+  "url": "/item=6311/22-pound-catfish",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_30.jpg",
+  "id": "6311",
+  "slug": "22-pound-catfish"
+}

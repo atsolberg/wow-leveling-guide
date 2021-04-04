@@ -1,0 +1,10 @@
+{
+  "name": "Solid Iron Maul",
+  "quality": "Uncommon",
+  "icon": "inv_hammer_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Solid Iron Maul</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->31</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->59 - 89 Damage</span></td>\n    <th>Speed <!--spd-->3.50</th>\n</tr></table><!--dps-->(21.14 damage per second)<br><span><!--stat7-->+12 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->26<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">62</span> <span class=\"moneycopper\">58</span></div></td></tr></table>",
+  "url": "/item=3851/solid-iron-maul",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_07.jpg",
+  "id": "3851",
+  "slug": "solid-iron-maul"
+}

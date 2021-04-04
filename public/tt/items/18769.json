@@ -1,0 +1,10 @@
+{
+  "name": "Enchanted Thorium Platemail",
+  "quality": "Rare",
+  "icon": "inv_misc_book_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Enchanted Thorium Platemail</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Unique<br /><a href=\"/quest=7649\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (300)<br><span class=\"q\">&quot;Volume I&quot;</span></td></tr></table>",
+  "url": "/item=18769/enchanted-thorium-platemail",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_01.jpg",
+  "id": "18769",
+  "slug": "enchanted-thorium-platemail"
+}

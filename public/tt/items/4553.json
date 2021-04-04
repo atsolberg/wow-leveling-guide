@@ -1,0 +1,10 @@
+{
+  "name": "Jagged Piece of Stone",
+  "quality": "Poor",
+  "icon": "inv_stone_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Jagged Piece of Stone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">11</span></div></td></tr></table>",
+  "url": "/item=4553/jagged-piece-of-stone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_13.jpg",
+  "id": "4553",
+  "slug": "jagged-piece-of-stone"
+}

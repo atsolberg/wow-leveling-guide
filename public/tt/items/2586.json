@@ -1,0 +1,10 @@
+{
+  "name": "Gamemaster's Robe",
+  "quality": "Common",
+  "icon": "inv_chest_cloth_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gamemaster's Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->3 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=2586/gamemasters-robe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_23.jpg",
+  "id": "2586",
+  "slug": "gamemasters-robe"
+}

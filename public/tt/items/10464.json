@@ -1,0 +1,10 @@
+{
+  "name": "Staff of Command",
+  "quality": "Common",
+  "icon": "inv_staff_26",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Staff of Command</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<br />Duration: 45 min<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=12347\" class=\"q2\">Right click on the Staff of Command when you are near Shadowsilk Poachers to make Raze attack.</a></span></td></tr></table>",
+  "url": "/item=10464/staff-of-command",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_26.jpg",
+  "id": "10464",
+  "slug": "staff-of-command"
+}

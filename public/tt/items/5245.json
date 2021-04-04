@@ -1,0 +1,10 @@
+{
+  "name": "Summoner's Wand",
+  "quality": "Uncommon",
+  "icon": "inv_staff_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Summoner's Wand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->34</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->35 - 66 Arcane Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(28.06 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->29<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">91</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Dalaran Summoner</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 0.84%</div></td></tr></table>",
+  "url": "/item=5245/summoners-wand",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_07.jpg",
+  "id": "5245",
+  "slug": "summoners-wand"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Unconscious Dig Rat",
+  "quality": "Common",
+  "icon": "inv_misc_pelt_boar_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Unconscious Dig Rat</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=5161\" class=\"q2\">This dig rat is still struggling, why don't you let it go?</a></span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Dig Rat</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 2.04%</div></td></tr></table>",
+  "url": "/item=5052/unconscious-dig-rat",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_pelt_boar_01.jpg",
+  "id": "5052",
+  "slug": "unconscious-dig-rat"
+}

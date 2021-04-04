@@ -1,0 +1,10 @@
+{
+  "name": "Elixir of Lion's Strength",
+  "quality": "Common",
+  "icon": "inv_potion_56",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Elixir of Lion's Strength</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=2367\" class=\"q2\">Increases Strength by 4 for 1 hour.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">20</span></div></td></tr></table>",
+  "url": "/item=2454/elixir-of-lions-strength",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_56.jpg",
+  "id": "2454",
+  "slug": "elixir-of-lions-strength"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Doomshot",
+  "quality": "Rare",
+  "icon": "ability_hunter_criticalshot",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Doomshot</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Ammo</td><th><!--scstart6:2--><span class=\"q1\">Arrow</span><!--scend--></th></tr></table><span>Adds 20 damage per second</span>\n<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<!--itemEffects:1--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">62</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Shadow Hunter Vosh'gajin</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 27.57%</div></td></tr></table>",
+  "url": "/item=12654/doomshot",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_hunter_criticalshot.jpg",
+  "id": "12654",
+  "slug": "doomshot"
+}

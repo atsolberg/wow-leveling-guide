@@ -1,0 +1,10 @@
+{
+  "name": "Totem of Life",
+  "quality": "Epic",
+  "icon": "inv_relics_totemoflife",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Totem of Life</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->78</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Relic</td><th><!--scstart4:9--><span class=\"q1\">Totem</span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=27855\" class=\"q2\">Increases healing done by Lesser Healing Wave by up to 80.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">88</span> <span class=\"moneycopper\">27</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Fankriss the Unyielding</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 7.23%</div></td></tr></table>",
+  "url": "/item=22396/totem-of-life",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_relics_totemoflife.jpg",
+  "id": "22396",
+  "slug": "totem-of-life"
+}

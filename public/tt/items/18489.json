@@ -1,0 +1,10 @@
+{
+  "name": "Unfired Ancient Blade",
+  "quality": "Epic",
+  "icon": "inv_sword_47",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Unfired Ancient Blade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=22905\" class=\"q2\">Place under the flaming breath of Onyxia.</a></span></td></tr></table>",
+  "url": "/item=18489/unfired-ancient-blade",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_47.jpg",
+  "id": "18489",
+  "slug": "unfired-ancient-blade"
+}

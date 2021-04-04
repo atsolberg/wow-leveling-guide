@@ -1,0 +1,10 @@
+{
+  "name": "Kromcrush's Chestplate",
+  "quality": "Rare",
+  "icon": "inv_chest_chain_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Kromcrush's Chestplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->777 Armor</span><br><span><!--stat4-->+16 Strength</span><br><span><!--stat7-->+16 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 135 / 135</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=13390\" class=\"q2\">Increased Defense +10.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">25</span> <span class=\"moneycopper\">21</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Captain Kromcrush</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 22.84%</div></td></tr></table>",
+  "url": "/item=18503/kromcrushs-chestplate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_14.jpg",
+  "id": "18503",
+  "slug": "kromcrushs-chestplate"
+}

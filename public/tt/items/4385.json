@@ -1,0 +1,10 @@
+{
+  "name": "Green Tinted Goggles",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_47",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Green Tinted Goggles</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->30</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->35 Armor</span><br><span><!--stat7-->+8 Stamina</span><br><span><!--stat6-->+7 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (150)<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=4385/green-tinted-goggles",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_47.jpg",
+  "id": "4385",
+  "slug": "green-tinted-goggles"
+}

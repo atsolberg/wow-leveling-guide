@@ -1,0 +1,10 @@
+{
+  "name": "Abyssal Plate Vambraces",
+  "quality": "Rare",
+  "icon": "inv_bracer_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Abyssal Plate Vambraces</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->68</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->309 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">40</span> <span class=\"moneycopper\">19</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Baron Kazum</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 35.29%</div></td></tr></table>",
+  "url": "/item=20687/abyssal-plate-vambraces",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_19.jpg",
+  "id": "20687",
+  "slug": "abyssal-plate-vambraces"
+}

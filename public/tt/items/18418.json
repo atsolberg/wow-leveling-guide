@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Cloak of Warding",
+  "quality": "Rare",
+  "icon": "inv_scroll_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Pattern: Cloak of Warding</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=197\" class=\"q1\">Tailoring</a> (300)<br><span class=\"q2\">Use: <a href=\"/spell=22875\" class=\"q2\">Teaches you how to sew a Cloak of Warding.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span></div><br /><span class=\"q3\"><a href=\"/item=18413\">Cloak of Warding</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->214 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=7518\" class=\"q2\">Increased Defense +5.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">70</span> <span class=\"moneycopper\">70</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=14048\">Bolt of Runecloth</a>&nbsp;(12), <a href=\"/item=12809\">Guardian Stone</a>&nbsp;(4), <a href=\"/item=12360\">Arcanite Bar</a>, <a href=\"/item=14341\">Rune Thread</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=18418/pattern-cloak-of-warding",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_05.jpg",
+  "id": "18418",
+  "slug": "pattern-cloak-of-warding"
+}

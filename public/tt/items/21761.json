@@ -1,0 +1,10 @@
+{
+  "name": "Scarab Coffer Key",
+  "quality": "Common",
+  "icon": "inv_misc_key_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Scarab Coffer Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=26587\" class=\"q2\">Opens a Scarab Coffer.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=21761/scarab-coffer-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_08.jpg",
+  "id": "21761",
+  "slug": "scarab-coffer-key"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Green Firework",
+  "quality": "Common",
+  "icon": "spell_nature_abolishmagic",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Green Firework</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=11541\" class=\"q2\">Shoots a firework into the air that bursts into a thousand green stars.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">5</span></div></td></tr></table>",
+  "url": "/item=9313/green-firework",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_abolishmagic.jpg",
+  "id": "9313",
+  "slug": "green-firework"
+}

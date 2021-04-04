@@ -1,0 +1,10 @@
+{
+  "name": "Outrunner's Pauldrons",
+  "quality": "Common",
+  "icon": "inv_shoulder_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Outrunner's Pauldrons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->126 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">61</span></div></td></tr></table>",
+  "url": "/item=15505/outrunners-pauldrons",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_27.jpg",
+  "id": "15505",
+  "slug": "outrunners-pauldrons"
+}

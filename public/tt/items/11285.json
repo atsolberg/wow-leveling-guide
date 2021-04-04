@@ -1,0 +1,10 @@
+{
+  "name": "Jagged Arrow",
+  "quality": "Common",
+  "icon": "inv_weapon_shortblade_25",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Jagged Arrow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><table width=\"100%\"><tr><td>Ammo</td><th><!--scstart6:2--><span class=\"q1\">Arrow</span><!--scend--></th></tr></table><span>Adds 13 damage per second</span>\n<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<!--itemEffects:1--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">2</span></div></td></tr></table>",
+  "url": "/item=11285/jagged-arrow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_25.jpg",
+  "id": "11285",
+  "slug": "jagged-arrow"
+}

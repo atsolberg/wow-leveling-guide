@@ -1,0 +1,10 @@
+{
+  "name": "QAEnchant Gloves Riding Skill",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QAEnchant Gloves Riding Skill</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=30190\" class=\"q2\">Permanently enchant gloves to grant a minor movement bonus while mounted.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=23728/qaenchant-gloves-riding-skill",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "23728",
+  "slug": "qaenchant-gloves-riding-skill"
+}

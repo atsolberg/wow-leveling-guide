@@ -1,0 +1,10 @@
+{
+  "name": "Battleborn Armbraces",
+  "quality": "Rare",
+  "icon": "inv_bracer_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Battleborn Armbraces</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->287 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=15464\" class=\"q2\">Improves your chance to hit by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">40</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Warchief Rend Blackhand</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.95%</div></td></tr></table>",
+  "url": "/item=12936/battleborn-armbraces",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_17.jpg",
+  "id": "12936",
+  "slug": "battleborn-armbraces"
+}

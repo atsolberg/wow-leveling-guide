@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Scorpid Leggings",
+  "quality": "Uncommon",
+  "icon": "inv_pants_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Heavy Scorpid Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->269 Armor</span><br><span><!--stat7-->+12 Stamina</span><br><span><!--stat6-->+20 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">60</span></div></td></tr></table>",
+  "url": "/item=15079/heavy-scorpid-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_12.jpg",
+  "id": "15079",
+  "slug": "heavy-scorpid-leggings"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "PVP Cloth Legs Horde",
+  "quality": "Common",
+  "icon": "inv_pants_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">PVP Cloth Legs Horde</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><table width=\"100%\"><tr><td>Legs</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">94</span> <span class=\"moneycopper\">88</span></div></td></tr></table>",
+  "url": "/item=16037/pvp-cloth-legs-horde",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_09.jpg",
+  "id": "16037",
+  "slug": "pvp-cloth-legs-horde"
+}

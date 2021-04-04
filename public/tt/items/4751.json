@@ -1,0 +1,10 @@
+{
+  "name": "Windfury Talon",
+  "quality": "Common",
+  "icon": "spell_nature_natureswrath",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Windfury Talon</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=4751/windfury-talon",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_natureswrath.jpg",
+  "id": "4751",
+  "slug": "windfury-talon"
+}

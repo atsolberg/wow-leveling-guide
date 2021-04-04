@@ -1,0 +1,10 @@
+{
+  "name": "Glacial Gloves",
+  "quality": "Epic",
+  "icon": "inv_gauntlets_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Glacial Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->80</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->76 Armor</span><br><span><!--stat7-->+22 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+30 Frost Resistance<!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=9344\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 15.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">48</span> <span class=\"moneycopper\">46</span></div></td></tr></table>",
+  "url": "/item=22654/glacial-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_06.jpg",
+  "id": "22654",
+  "slug": "glacial-gloves"
+}

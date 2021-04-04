@@ -1,0 +1,11 @@
+{
+  "name": "Red Dragon Orb",
+  "quality": "Common",
+  "icon": "inv_misc_orb_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Red Dragon Orb</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=23530\" class=\"q2\">Right Click to summon and dismiss your tiny red dragon.</a></span></td></tr></table>",
+  "completion_category": "15-2",
+  "url": "/item=19054/red-dragon-orb",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_orb_05.jpg",
+  "id": "19054",
+  "slug": "red-dragon-orb"
+}

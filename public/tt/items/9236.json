@@ -1,0 +1,10 @@
+{
+  "name": "Jangdor's Letter",
+  "quality": "Common",
+  "icon": "inv_letter_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Jangdor's Letter</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=9236/jangdors-letter",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_13.jpg",
+  "id": "9236",
+  "slug": "jangdors-letter"
+}

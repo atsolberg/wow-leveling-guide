@@ -1,0 +1,10 @@
+{
+  "name": "Gnomish Shrink Ray",
+  "quality": "Common",
+  "icon": "inv_gizmo_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gnomish Shrink Ray</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->41</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (205)<br><span class=\"q2\">Use: <a href=\"/spell=13006\" class=\"q2\">Shrinks the target reducing their attack power by 250. &nbsp;Thats what it usually does anyway.....</a> (5 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=10716/gnomish-shrink-ray",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_09.jpg",
+  "id": "10716",
+  "slug": "gnomish-shrink-ray"
+}

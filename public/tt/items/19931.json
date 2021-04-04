@@ -1,0 +1,10 @@
+{
+  "name": "Gurubashi Mojo Madness",
+  "quality": "Rare",
+  "icon": "inv_poison_mindnumbing",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Gurubashi Mojo Madness</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=24264\" class=\"q2\">Extinguishes the Brazier of Madness.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=19931/gurubashi-mojo-madness",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_poison_mindnumbing.jpg",
+  "id": "19931",
+  "slug": "gurubashi-mojo-madness"
+}

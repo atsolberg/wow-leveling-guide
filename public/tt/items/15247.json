@@ -1,0 +1,10 @@
+{
+  "name": "Bloodstrike Dagger",
+  "quality": "Uncommon",
+  "icon": "inv_weapon_shortblade_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Bloodstrike Dagger</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->64</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->45 - 85 Damage</span></td>\n    <th>Speed <!--spd-->1.70</th>\n</tr></table><!--dps-->(38.24 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->59<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">76</span></div></td></tr></table>",
+  "url": "/item=15247/bloodstrike-dagger",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_03.jpg",
+  "id": "15247",
+  "slug": "bloodstrike-dagger"
+}

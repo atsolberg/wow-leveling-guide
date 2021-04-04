@@ -1,0 +1,10 @@
+{
+  "name": "Gouging Pick",
+  "quality": "Poor",
+  "icon": "inv_pick_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Gouging Pick</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->8 - 16 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(6.67 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">68</span></div></td></tr></table>",
+  "url": "/item=1819/gouging-pick",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pick_02.jpg",
+  "id": "1819",
+  "slug": "gouging-pick"
+}

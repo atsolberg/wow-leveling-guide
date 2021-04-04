@@ -1,0 +1,10 @@
+{
+  "name": "Thornspike",
+  "quality": "Common",
+  "icon": "inv_weapon_shortblade_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Thornspike</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->18 - 35 Damage</span></td>\n    <th>Speed <!--spd-->1.70</th>\n</tr></table><!--dps-->(15.59 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->27<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">31</span> <span class=\"moneycopper\">24</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Aggem Thorncurse</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 48.70%</div></td></tr></table>",
+  "url": "/item=6681/thornspike",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_10.jpg",
+  "id": "6681",
+  "slug": "thornspike"
+}

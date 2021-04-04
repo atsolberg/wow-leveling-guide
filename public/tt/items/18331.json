@@ -1,0 +1,10 @@
+{
+  "name": "Arcanum of Protection",
+  "quality": "Uncommon",
+  "icon": "inv_misc_gem_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Arcanum of Protection</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=22846\" class=\"q2\">Permanently adds 1% dodge to a leg or head slot item. Does not stack with other enchantments for the selected equipment slot.</a></span></td></tr></table>",
+  "url": "/item=18331/arcanum-of-protection",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_02.jpg",
+  "id": "18331",
+  "slug": "arcanum-of-protection"
+}

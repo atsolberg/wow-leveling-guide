@@ -1,0 +1,10 @@
+{
+  "name": "Souldarite",
+  "quality": "Uncommon",
+  "icon": "inv_misc_gem_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Souldarite</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=19774/souldarite",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_01.jpg",
+  "id": "19774",
+  "slug": "souldarite"
+}

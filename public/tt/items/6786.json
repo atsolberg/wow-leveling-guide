@@ -1,0 +1,10 @@
+{
+  "name": "Simple Dress",
+  "quality": "Common",
+  "icon": "inv_shirt_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Simple Dress</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><table width=\"100%\"><tr><td>Chest</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">59</span></div></td></tr></table>",
+  "url": "/item=6786/simple-dress",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_12.jpg",
+  "id": "6786",
+  "slug": "simple-dress"
+}

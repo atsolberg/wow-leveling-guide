@@ -1,0 +1,10 @@
+{
+  "name": "Red Defias Mask",
+  "quality": "Poor",
+  "icon": "inv_misc_bandana_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Red Defias Mask</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Head</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=4\" class=\"c4\">Rogue</a></div></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">81</span></div></td></tr></table>",
+  "url": "/item=7997/red-defias-mask",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bandana_03.jpg",
+  "id": "7997",
+  "slug": "red-defias-mask"
+}

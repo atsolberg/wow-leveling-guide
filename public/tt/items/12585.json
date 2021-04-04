@@ -1,0 +1,10 @@
+{
+  "name": "Stormwind Medallion",
+  "quality": "Common",
+  "icon": "inv_misc_rune_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Stormwind Medallion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=10059\" class=\"q2\">Creates a portal, teleporting group members that use it to Stormwind.</a> (1 Min Cooldown)</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span></div></td></tr></table>",
+  "url": "/item=12585/stormwind-medallion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_rune_01.jpg",
+  "id": "12585",
+  "slug": "stormwind-medallion"
+}

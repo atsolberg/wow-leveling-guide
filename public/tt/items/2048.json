@@ -1,0 +1,10 @@
+{
+  "name": "Anvilmar Hammer",
+  "quality": "Common",
+  "icon": "inv_hammer_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Anvilmar Hammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->3 - 6 Damage</span></td>\n    <th>Speed <!--spd-->2.10</th>\n</tr></table><!--dps-->(2.14 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=2048/anvilmar-hammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_20.jpg",
+  "id": "2048",
+  "slug": "anvilmar-hammer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Runesword of the Red",
+  "quality": "Epic",
+  "icon": "inv_sword_51",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Runesword of the Red</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->76</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:7--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->53 - 129 Damage</span></td>\n    <th>Speed <!--spd-->2.20</th>\n</tr></table><!--dps-->(41.36 damage per second)<br><span><!--stat5-->+9 Intellect</span><br><span><!--stat7-->+17 Stamina</span><br><span><!--stat6-->+7 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=23730\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 64.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">13</span> <span class=\"moneysilver\">79</span> <span class=\"moneycopper\">11</span></div></td></tr></table>",
+  "url": "/item=21521/runesword-of-the-red",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_51.jpg",
+  "id": "21521",
+  "slug": "runesword-of-the-red"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Primal Batskin Jerkin",
+  "quality": "Rare",
+  "icon": "inv_chest_leather_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Primal Batskin Jerkin</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->181 Armor</span><br><span><!--stat3-->+32 Agility</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=15464\" class=\"q2\">Improves your chance to hit by 1%.</a></span><!--itemEffects:1--><br /><br /><span class=\"q\"><a href=\"/item-set=441\" class=\"q\">Primal Batskin</a> (0/3)</span><br />Requires <a href=\"/spells=11.165\" class=\"q1\">Leatherworking</a> (300)<div class=\"q0 indent\"><span><!--si19685--><a href=\"/item=19685\">Primal Batskin Jerkin</a></span><br /><span><!--si19687--><a href=\"/item=19687\">Primal Batskin Bracers</a></span><br /><span><!--si19686--><a href=\"/item=19686\">Primal Batskin Gloves</a></span></div><br /><span class=\"q0\"><span>(3) Set : <a href=\"/spell=24090\">Minor increase to running and swimming speed.</a></span></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">44</span></div></td></tr></table>",
+  "url": "/item=19685/primal-batskin-jerkin",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_leather_03.jpg",
+  "id": "19685",
+  "slug": "primal-batskin-jerkin"
+}

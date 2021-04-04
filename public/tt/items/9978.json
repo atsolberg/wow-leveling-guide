@@ -1,0 +1,10 @@
+{
+  "name": "Gahz'ridian Detector",
+  "quality": "Common",
+  "icon": "inv_helmet_49",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gahz'ridian Detector</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<table width=\"100%\"><tr><td>Head</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=11992\" class=\"q2\">Nearby Gahz'ridian appears on the minimap.</a></span><!--itemEffects:1--></td></tr></table>",
+  "url": "/item=9978/gahzridian-detector",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_49.jpg",
+  "id": "9978",
+  "slug": "gahzridian-detector"
+}

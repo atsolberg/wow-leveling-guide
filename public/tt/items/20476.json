@@ -1,0 +1,10 @@
+{
+  "name": "Sandstalker Bracers",
+  "quality": "Rare",
+  "icon": "inv_bracer_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Sandstalker Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->220 Armor</span><br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+15 Nature Resistance<!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">64</span> <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=20476/sandstalker-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_12.jpg",
+  "id": "20476",
+  "slug": "sandstalker-bracers"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Blackflame Cape",
+  "quality": "Rare",
+  "icon": "inv_misc_cape_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Blackflame Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->49</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->35 Armor</span><br><span><!--stat3-->+12 Agility</span><!--ebstats--><!--egstats--><!--eistats--><br>+5 Fire Resistance<br>+5 Shadow Resistance<!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->44<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">81</span> <span class=\"moneycopper\">52</span></div></td></tr></table>",
+  "url": "/item=13109/blackflame-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_20.jpg",
+  "id": "13109",
+  "slug": "blackflame-cape"
+}

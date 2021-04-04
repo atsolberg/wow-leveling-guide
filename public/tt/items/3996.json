@@ -1,0 +1,10 @@
+{
+  "name": "Laminated Scale Gloves",
+  "quality": "Poor",
+  "icon": "inv_gauntlets_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Laminated Scale Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->179 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">46</span> <span class=\"moneycopper\">59</span></div></td></tr></table>",
+  "url": "/item=3996/laminated-scale-gloves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_04.jpg",
+  "id": "3996",
+  "slug": "laminated-scale-gloves"
+}

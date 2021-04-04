@@ -1,0 +1,10 @@
+{
+  "name": "Good Luck Other-Half-Charm",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Good Luck Other-Half-Charm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=16781\" class=\"q2\">Combine the Good Luck Half-Charm with the Good Luck Other-Half-Charm.</a></span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Jabbering Ghoul</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 61.84%</div></td></tr></table>",
+  "url": "/item=12722/good-luck-other-half-charm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_10.jpg",
+  "id": "12722",
+  "slug": "good-luck-other-half-charm"
+}

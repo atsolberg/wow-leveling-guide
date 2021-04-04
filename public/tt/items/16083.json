@@ -1,0 +1,11 @@
+{
+  "name": "Expert Fishing - The Bass and You",
+  "quality": "Common",
+  "icon": "inv_misc_book_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Expert Fishing - The Bass and You</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<br>Requires <a href=\"/skill=356\" class=\"q1\">Fishing</a> (125)<br><span class=\"q2\">Use: <a href=\"/spell=19889\" class=\"q2\">Teaches you how to be an Expert Fisherman, allowing a maximum of 225 fishing skill.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">25</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=16083/expert-fishing-the-bass-and-you",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_08.jpg",
+  "id": "16083",
+  "slug": "expert-fishing-the-bass-and-you"
+}

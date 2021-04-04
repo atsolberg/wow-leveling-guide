@@ -1,0 +1,10 @@
+{
+  "name": "Prairie Alpha Tooth",
+  "quality": "Common",
+  "icon": "inv_misc_bone_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Prairie Alpha Tooth</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Prairie Wolf Alpha</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 27.31%</div></td></tr></table>",
+  "url": "/item=4803/prairie-alpha-tooth",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_08.jpg",
+  "id": "4803",
+  "slug": "prairie-alpha-tooth"
+}

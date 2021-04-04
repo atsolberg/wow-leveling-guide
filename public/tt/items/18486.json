@@ -1,0 +1,10 @@
+{
+  "name": "Mooncloth Robe",
+  "quality": "Rare",
+  "icon": "inv_chest_cloth_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Mooncloth Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->87 Armor</span><br><span><!--stat5-->+25 Intellect</span><br><span><!--stat7-->+12 Stamina</span><br><span><!--stat6-->+12 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">83</span></div></td></tr></table>",
+  "url": "/item=18486/mooncloth-robe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_04.jpg",
+  "id": "18486",
+  "slug": "mooncloth-robe"
+}

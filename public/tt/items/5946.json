@@ -1,0 +1,10 @@
+{
+  "name": "Sealed Note to Elling",
+  "quality": "Common",
+  "icon": "inv_letter_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sealed Note to Elling</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=5946/sealed-note-to-elling",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_02.jpg",
+  "id": "5946",
+  "slug": "sealed-note-to-elling"
+}

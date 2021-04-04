@@ -1,0 +1,10 @@
+{
+  "name": "Bloodstone Choker",
+  "quality": "Common",
+  "icon": "inv_jewelry_necklace_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bloodstone Choker</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=7728\" class=\"q2\">Call forth a voidwalker using the summoning circle.</a> (3 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=6928/bloodstone-choker",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_05.jpg",
+  "id": "6928",
+  "slug": "bloodstone-choker"
+}

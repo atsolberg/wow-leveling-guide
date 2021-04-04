@@ -1,0 +1,10 @@
+{
+  "name": "Ancient Sinew Wrapped Lamina",
+  "quality": "Epic",
+  "icon": "inv_misc_quiver_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Ancient Sinew Wrapped Lamina</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->75</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Bag</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=3\" class=\"c3\">Hunter</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=29414\" class=\"q2\">Increases ranged attack speed by 15%.</a></span><!--itemEffects:1--></td></tr></table>",
+  "url": "/item=18714/ancient-sinew-wrapped-lamina",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_quiver_03.jpg",
+  "id": "18714",
+  "slug": "ancient-sinew-wrapped-lamina"
+}

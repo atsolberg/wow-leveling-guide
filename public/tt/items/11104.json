@@ -1,0 +1,10 @@
+{
+  "name": "Large Compass",
+  "quality": "Common",
+  "icon": "inv_misc_pocketwatch_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Large Compass</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;It always points towards the center of Ungoro Crater...&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Gryfe</div></td></tr></table>",
+  "url": "/item=11104/large-compass",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_pocketwatch_02.jpg",
+  "id": "11104",
+  "slug": "large-compass"
+}

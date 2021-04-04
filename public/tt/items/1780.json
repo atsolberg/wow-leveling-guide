@@ -1,0 +1,10 @@
+{
+  "name": "Cross-stitched Sandals",
+  "quality": "Poor",
+  "icon": "inv_boots_fabric_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Cross-stitched Sandals</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->26 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->24<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">89</span></div></td></tr></table>",
+  "url": "/item=1780/cross-stitched-sandals",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_fabric_01.jpg",
+  "id": "1780",
+  "slug": "cross-stitched-sandals"
+}

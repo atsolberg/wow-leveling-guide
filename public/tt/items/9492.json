@@ -1,0 +1,10 @@
+{
+  "name": "Electromagnetic Gigaflux Reactivator",
+  "quality": "Rare",
+  "icon": "inv_gizmo_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Electromagnetic Gigaflux Reactivator</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->44 Armor</span><br><span><!--stat5-->+15 Intellect</span><br><span><!--stat6-->+12 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<br><span class=\"q2\">Use: <a href=\"/spell=11826\" class=\"q2\">Channels a bolt of lightning and hurls it towards all enemies in front of the caster causing <!--ppl11826:32:37:147:100-->152 to <!--ppl11826:32:37:167:100:1-->172 Nature damage. The caster is then surrounded by a barrier of electricity for 10 min.</a> (30 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">31</span> <span class=\"moneycopper\">72</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Mekgineer Thermaplugg</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 9.58%</div></td></tr></table>",
+  "url": "/item=9492/electromagnetic-gigaflux-reactivator",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_01.jpg",
+  "id": "9492",
+  "slug": "electromagnetic-gigaflux-reactivator"
+}

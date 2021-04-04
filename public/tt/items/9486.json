@@ -1,0 +1,10 @@
+{
+  "name": "Supercharger Battle Axe",
+  "quality": "Rare",
+  "icon": "inv_axe_21",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Supercharger Battle Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->28</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->51 - 78 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(23.04 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 95 / 95</td></tr></table><table><tr><td>Requires Level <!--rlvl-->23<br><span class=\"q2\">Chance on hit: <a href=\"/spell=13527\" class=\"q2\">Blasts a target for 80 to 100 Nature damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">54</span> <span class=\"moneycopper\">83</span></div></td></tr></table>",
+  "url": "/item=9486/supercharger-battle-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_21.jpg",
+  "id": "9486",
+  "slug": "supercharger-battle-axe"
+}

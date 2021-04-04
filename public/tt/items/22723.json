@@ -1,0 +1,10 @@
+{
+  "name": "A Letter from the Keeper of the Rolls",
+  "quality": "Common",
+  "icon": "inv_letter_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">A Letter from the Keeper of the Rolls</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br /><a href=\"/quest=9247\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;The indelible mark of the Argent Dawn is pressed clearly into the wax of the seal.&quot;</span></td></tr></table>",
+  "url": "/item=22723/a-letter-from-the-keeper-of-the-rolls",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_05.jpg",
+  "id": "22723",
+  "slug": "a-letter-from-the-keeper-of-the-rolls"
+}

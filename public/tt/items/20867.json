@@ -1,0 +1,10 @@
+{
+  "name": "Onyx Idol",
+  "quality": "Rare",
+  "icon": "inv_qirajidol_onyx",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Onyx Idol</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->61</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a>, <a href=\"/class=4\" class=\"c4\">Rogue</a>, <a href=\"/class=9\" class=\"c9\">Warlock</a></div></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div></td></tr></table>",
+  "url": "/item=20867/onyx-idol",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_qirajidol_onyx.jpg",
+  "id": "20867",
+  "slug": "onyx-idol"
+}

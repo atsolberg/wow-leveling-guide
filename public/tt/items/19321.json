@@ -1,0 +1,10 @@
+{
+  "name": "The Immovable Object",
+  "quality": "Epic",
+  "icon": "spell_frost_chillingarmor",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">The Immovable Object</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->2468 Armor</span><br>44 Block<br><span><!--stat7-->+15 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=23516\" class=\"q2\">Increases the block value of your shield by 27.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">15</span> <span class=\"moneysilver\">90</span> <span class=\"moneycopper\">59</span></div></td></tr></table>",
+  "url": "/item=19321/the-immovable-object",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_frost_chillingarmor.jpg",
+  "id": "19321",
+  "slug": "the-immovable-object"
+}

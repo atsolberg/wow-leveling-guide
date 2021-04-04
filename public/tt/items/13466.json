@@ -1,0 +1,10 @@
+{
+  "name": "Plaguebloom",
+  "quality": "Common",
+  "icon": "inv_misc_herb_plaguebloom",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Plaguebloom</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->57</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: The Husk</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 1.10%</div></td></tr></table>",
+  "url": "/item=13466/plaguebloom",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_herb_plaguebloom.jpg",
+  "id": "13466",
+  "slug": "plaguebloom"
+}

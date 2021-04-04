@@ -1,0 +1,10 @@
+{
+  "name": "Magma Tempered Boots",
+  "quality": "Epic",
+  "icon": "inv_boots_plate_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Magma Tempered Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->544 Armor</span><br><span><!--stat5-->+18 Intellect</span><br><span><!--stat7-->+19 Stamina</span><br><span><!--stat6-->+12 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><br>+8 Fire Resistance<!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=9406\" class=\"q2\">Increases healing done by spells and effects by up to 18.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">35</span> <span class=\"moneycopper\">18</span></div></td></tr></table>",
+  "url": "/item=18824/magma-tempered-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_plate_08.jpg",
+  "id": "18824",
+  "slug": "magma-tempered-boots"
+}

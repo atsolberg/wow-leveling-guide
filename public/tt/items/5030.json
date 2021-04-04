@@ -1,0 +1,10 @@
+{
+  "name": "Centaur Bracers",
+  "quality": "Common",
+  "icon": "inv_bracer_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Centaur Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=5030/centaur-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_08.jpg",
+  "id": "5030",
+  "slug": "centaur-bracers"
+}

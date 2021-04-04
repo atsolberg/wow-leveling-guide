@@ -1,0 +1,10 @@
+{
+  "name": "Lion Meat",
+  "quality": "Common",
+  "icon": "inv_misc_food_71",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Lion Meat</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->23</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">55</span></div></td></tr></table>",
+  "url": "/item=3731/lion-meat",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_71.jpg",
+  "id": "3731",
+  "slug": "lion-meat"
+}

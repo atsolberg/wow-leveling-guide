@@ -1,0 +1,10 @@
+{
+  "name": "Bloodscalp Channeling Staff",
+  "quality": "Uncommon",
+  "icon": "inv_staff_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Bloodscalp Channeling Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->50 - 75 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(22.32 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->28<br><span class=\"q2\">Equip: <a href=\"/spell=9359\" class=\"q2\">Increases damage done by Nature spells and effects by up to 19.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">72</span> <span class=\"moneycopper\">39</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Bloodscalp Shaman</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 0.76%</div></td></tr></table>",
+  "url": "/item=1998/bloodscalp-channeling-staff",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_18.jpg",
+  "id": "1998",
+  "slug": "bloodscalp-channeling-staff"
+}

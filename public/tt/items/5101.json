@@ -1,0 +1,10 @@
+{
+  "name": "Ishamuhale's Fang",
+  "quality": "Common",
+  "icon": "inv_misc_monsterfang_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ishamuhale's Fang</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ishamuhale</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 97.33%</div></td></tr></table>",
+  "url": "/item=5101/ishamuhales-fang",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterfang_01.jpg",
+  "id": "5101",
+  "slug": "ishamuhales-fang"
+}

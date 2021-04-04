@@ -1,0 +1,10 @@
+{
+  "name": "Crystal Restore",
+  "quality": "Common",
+  "icon": "inv_misc_gem_diamond_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Crystal Restore</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=15229\" class=\"q2\">Heals the target of 670 damage over 15 sec.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span></div></td></tr></table>",
+  "url": "/item=11562/crystal-restore",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_diamond_02.jpg",
+  "id": "11562",
+  "slug": "crystal-restore"
+}

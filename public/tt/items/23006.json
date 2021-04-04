@@ -1,0 +1,10 @@
+{
+  "name": "Libram of Light",
+  "quality": "Epic",
+  "icon": "inv_relics_libramofgrace",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Libram of Light</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->83</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Relic</td><th><!--scstart4:7--><span class=\"q1\">Libram</span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=28851\" class=\"q2\">Increases healing done by Flash of Light by up to 83.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">89</span> <span class=\"moneycopper\">25</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Noth the Plaguebringer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 9.89%</div></td></tr></table>",
+  "url": "/item=23006/libram-of-light",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_relics_libramofgrace.jpg",
+  "id": "23006",
+  "slug": "libram-of-light"
+}

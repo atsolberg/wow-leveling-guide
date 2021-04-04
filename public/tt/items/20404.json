@@ -1,0 +1,10 @@
+{
+  "name": "Encrypted Twilight Text",
+  "quality": "Common",
+  "icon": "inv_misc_note_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Encrypted Twilight Text</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;These words are unintelligible&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div></td></tr></table>",
+  "url": "/item=20404/encrypted-twilight-text",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_06.jpg",
+  "id": "20404",
+  "slug": "encrypted-twilight-text"
+}

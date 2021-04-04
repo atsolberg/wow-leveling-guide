@@ -1,0 +1,10 @@
+{
+  "name": "Calico Tunic",
+  "quality": "Poor",
+  "icon": "inv_shirt_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Calico Tunic</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->13</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->22 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->8<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">80</span></div></td></tr></table>",
+  "url": "/item=1501/calico-tunic",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_16.jpg",
+  "id": "1501",
+  "slug": "calico-tunic"
+}

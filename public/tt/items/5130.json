@@ -1,0 +1,11 @@
+{
+  "name": "Knowledge: Dalaran Wizard Disguise",
+  "quality": "Common",
+  "icon": "inv_scroll_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Knowledge: Dalaran Wizard Disguise</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->13</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=4\" class=\"c4\">Rogue</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->13<br><span class=\"q2\">Use: <a href=\"/spell=5272\" class=\"q2\">Learn how to disguise yourself as a Dalaran Wizard.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">62</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=5130/knowledge-dalaran-wizard-disguise",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_05.jpg",
+  "id": "5130",
+  "slug": "knowledge-dalaran-wizard-disguise"
+}

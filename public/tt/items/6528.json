@@ -1,0 +1,10 @@
+{
+  "name": "Spellbinder Robe",
+  "quality": "Uncommon",
+  "icon": "inv_chest_cloth_22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Spellbinder Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->30 Armor</span><br><span><!--stat5-->+2 Intellect</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->12<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">58</span></div></td></tr></table>",
+  "url": "/item=6528/spellbinder-robe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_22.jpg",
+  "id": "6528",
+  "slug": "spellbinder-robe"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Robe of Winter Night",
+  "quality": "Rare",
+  "icon": "inv_chest_cloth_49",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Robe of Winter Night</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->81 Armor</span><br><span><!--stat5-->+12 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<br><span class=\"q2\">Equip: <a href=\"/spell=18018\" class=\"q2\">Increases damage done by Shadow spells and effects by up to 40.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=17900\" class=\"q2\">Increases damage done by Frost spells and effects by up to 40.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">70</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=14136/robe-of-winter-night",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_49.jpg",
+  "id": "14136",
+  "slug": "robe-of-winter-night"
+}

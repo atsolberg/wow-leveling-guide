@@ -1,0 +1,10 @@
+{
+  "name": "Night Dragon's Breath",
+  "quality": "Common",
+  "icon": "inv_misc_food_45",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Night Dragon's Breath</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<br><span class=\"q2\">Use: <a href=\"/spell=15701\" class=\"q2\">Restores 394 to 456 mana and 394 to 456 health.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=11952/night-dragons-breath",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_45.jpg",
+  "id": "11952",
+  "slug": "night-dragons-breath"
+}

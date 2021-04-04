@@ -1,0 +1,10 @@
+{
+  "name": "Bloodpetal Sprout",
+  "quality": "Common",
+  "icon": "inv_misc_food_45",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bloodpetal Sprout</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 100</div></td></tr></table>",
+  "url": "/item=11315/bloodpetal-sprout",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_45.jpg",
+  "id": "11315",
+  "slug": "bloodpetal-sprout"
+}

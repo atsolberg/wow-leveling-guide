@@ -1,0 +1,10 @@
+{
+  "name": "Gold Power Core",
+  "quality": "Common",
+  "icon": "inv_battery_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gold Power Core</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=10558/gold-power-core",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_battery_02.jpg",
+  "id": "10558",
+  "slug": "gold-power-core"
+}

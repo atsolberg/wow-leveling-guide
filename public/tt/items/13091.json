@@ -1,0 +1,10 @@
+{
+  "name": "Medallion of Grand Marshal Morris",
+  "quality": "Rare",
+  "icon": "inv_jewelry_talisman_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Medallion of Grand Marshal Morris</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<br><span class=\"q2\">Equip: <a href=\"/spell=13390\" class=\"q2\">Increased Defense +10.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">37</span></div></td></tr></table>",
+  "url": "/item=13091/medallion-of-grand-marshal-morris",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_08.jpg",
+  "id": "13091",
+  "slug": "medallion-of-grand-marshal-morris"
+}

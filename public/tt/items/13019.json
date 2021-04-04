@@ -1,0 +1,10 @@
+{
+  "name": "Harpyclaw Short Bow",
+  "quality": "Rare",
+  "icon": "inv_weapon_bow_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Harpyclaw Short Bow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->20 - 38 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(16.11 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->27<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">47</span> <span class=\"moneycopper\">65</span></div></td></tr></table>",
+  "url": "/item=13019/harpyclaw-short-bow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_11.jpg",
+  "id": "13019",
+  "slug": "harpyclaw-short-bow"
+}

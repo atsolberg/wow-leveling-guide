@@ -1,0 +1,10 @@
+{
+  "name": "Abyssal Scepter",
+  "quality": "Epic",
+  "icon": "inv_staff_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Abyssal Scepter</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=20515/abyssal-scepter",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_13.jpg",
+  "id": "20515",
+  "slug": "abyssal-scepter"
+}

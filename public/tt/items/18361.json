@@ -1,0 +1,10 @@
+{
+  "name": "The Greatest Race of Hunters",
+  "quality": "Rare",
+  "icon": "inv_misc_book_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">The Greatest Race of Hunters</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Unique<br /><a href=\"/quest=7503\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=3\" class=\"c3\">Hunter</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<br><span class=\"q\">&quot;A Tale of a Female Troll and Her Tiger&quot;</span></td></tr></table>",
+  "url": "/item=18361/the-greatest-race-of-hunters",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_02.jpg",
+  "id": "18361",
+  "slug": "the-greatest-race-of-hunters"
+}

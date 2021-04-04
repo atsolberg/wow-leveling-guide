@@ -1,0 +1,10 @@
+{
+  "name": "Ravencrest's Legacy",
+  "quality": "Epic",
+  "icon": "inv_sword_49",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Ravencrest's Legacy</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->76</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:7--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->84 - 157 Damage</span></td>\n    <th>Speed <!--spd-->2.10</th>\n</tr></table><!--dps-->(57.38 damage per second)<br><span><!--stat4-->+13 Strength</span><br><span><!--stat3-->+9 Agility</span><br><span><!--stat7-->+14 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">15</span> <span class=\"moneysilver\">18</span> <span class=\"moneycopper\">68</span></div></td></tr></table>",
+  "url": "/item=21520/ravencrests-legacy",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_49.jpg",
+  "id": "21520",
+  "slug": "ravencrests-legacy"
+}

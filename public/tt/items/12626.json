@@ -1,0 +1,10 @@
+{
+  "name": "Funeral Cuffs",
+  "quality": "Rare",
+  "icon": "inv_bracer_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Funeral Cuffs</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->37 Armor</span><br><span><!--stat5-->+14 Intellect</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Shadow Resistance<!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">91</span> <span class=\"moneycopper\">91</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Shadow Hunter Vosh'gajin</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.59%</div></td></tr></table>",
+  "url": "/item=12626/funeral-cuffs",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_07.jpg",
+  "id": "12626",
+  "slug": "funeral-cuffs"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Smelling Salts",
+  "quality": "Common",
+  "icon": "inv_misc_ammo_gunpowder_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Smelling Salts</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->8</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=2006\" class=\"q2\">Brings a dead player back to life with 70 health and 135 mana. &nbsp;Cannot be cast when in combat.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">32</span></div></td></tr></table>",
+  "url": "/item=1176/smelling-salts",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_ammo_gunpowder_02.jpg",
+  "id": "1176",
+  "slug": "smelling-salts"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Earthen Guard",
+  "quality": "Epic",
+  "icon": "inv_shield_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Earthen Guard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->2468 Armor</span><br>44 Block<br><span><!--stat7-->+19 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=13386\" class=\"q2\">Increased Defense +7.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=25036\" class=\"q2\">Increases the block value of your shield by 12.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">66</span> <span class=\"moneycopper\">44</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Baron Kazum</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 29.84%</div></td></tr></table>",
+  "url": "/item=20688/earthen-guard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_15.jpg",
+  "id": "20688",
+  "slug": "earthen-guard"
+}

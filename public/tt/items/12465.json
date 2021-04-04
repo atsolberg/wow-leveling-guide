@@ -1,0 +1,10 @@
+{
+  "name": "Nightfall Drape",
+  "quality": "Rare",
+  "icon": "inv_misc_cape_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Nightfall Drape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->53</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->38 Armor</span><br><span><!--stat7-->+14 Stamina</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->48<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">61</span></div></td></tr></table>",
+  "url": "/item=12465/nightfall-drape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_05.jpg",
+  "id": "12465",
+  "slug": "nightfall-drape"
+}

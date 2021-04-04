@@ -1,0 +1,11 @@
+{
+  "name": "Formula: Enchant Weapon - Strength",
+  "quality": "Common",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Formula: Enchant Weapon - Strength</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=333\" class=\"q1\">Enchanting</a> (290)<br><span class=\"q2\">Use: <a href=\"/spell=23805\" class=\"q2\">Teaches you how to permanently enchant a weapon to increase your strength by 15.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">75</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=19444/formula-enchant-weapon-strength",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "19444",
+  "slug": "formula-enchant-weapon-strength"
+}

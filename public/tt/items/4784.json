@@ -1,0 +1,10 @@
+{
+  "name": "Lifeless Stone",
+  "quality": "Poor",
+  "icon": "inv_stone_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Lifeless Stone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">60</span></div></td></tr></table>",
+  "url": "/item=4784/lifeless-stone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_10.jpg",
+  "id": "4784",
+  "slug": "lifeless-stone"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Scuffed Dagger",
+  "quality": "Common",
+  "icon": "inv_weapon_shortblade_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Scuffed Dagger</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->7</span><!--bo--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->3 - 6 Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(3.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->2<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">59</span></div></td></tr></table>",
+  "url": "/item=2502/scuffed-dagger",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_01.jpg",
+  "id": "2502",
+  "slug": "scuffed-dagger"
+}

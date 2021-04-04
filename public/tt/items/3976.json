@@ -1,0 +1,10 @@
+{
+  "name": "Smooth Leather Armor",
+  "quality": "Poor",
+  "icon": "inv_chest_leather_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Smooth Leather Armor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->133 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">69</span> <span class=\"moneycopper\">78</span></div></td></tr></table>",
+  "url": "/item=3976/smooth-leather-armor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_leather_09.jpg",
+  "id": "3976",
+  "slug": "smooth-leather-armor"
+}

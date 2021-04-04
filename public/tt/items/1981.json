@@ -1,0 +1,10 @@
+{
+  "name": "Icemail Jerkin",
+  "quality": "Epic",
+  "icon": "inv_chest_plate06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Icemail Jerkin</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->44</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->294 Armor</span><br><span><!--stat3-->+5 Agility</span><br><span><!--stat7-->+15 Stamina</span><br><span><!--stat6-->+24 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Frost Resistance<!--e--><!--ps--><br>Durability 140 / 140</td></tr></table><table><tr><td>Requires Level <!--rlvl-->39<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">41</span> <span class=\"moneycopper\">13</span></div></td></tr></table>",
+  "url": "/item=1981/icemail-jerkin",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_plate06.jpg",
+  "id": "1981",
+  "slug": "icemail-jerkin"
+}

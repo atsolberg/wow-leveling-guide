@@ -1,0 +1,10 @@
+{
+  "name": "Scourge Data",
+  "quality": "Common",
+  "icon": "inv_misc_rune_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Scourge Data</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=13176/scourge-data",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_rune_07.jpg",
+  "id": "13176",
+  "slug": "scourge-data"
+}

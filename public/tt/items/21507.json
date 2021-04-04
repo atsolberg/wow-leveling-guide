@@ -1,0 +1,10 @@
+{
+  "name": "Amulet of the Shifting Sands",
+  "quality": "Epic",
+  "icon": "inv_jewelry_necklace_ahnqiraj_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Amulet of the Shifting Sands</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=18033\" class=\"q2\">Increases healing done by spells and effects by up to 46.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=21627\" class=\"q2\">Restores 6 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">11</span> <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">28</span></div></td></tr></table>",
+  "url": "/item=21507/amulet-of-the-shifting-sands",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_ahnqiraj_03.jpg",
+  "id": "21507",
+  "slug": "amulet-of-the-shifting-sands"
+}

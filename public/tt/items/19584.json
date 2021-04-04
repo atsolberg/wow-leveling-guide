@@ -1,0 +1,10 @@
+{
+  "name": "Windtalker's Wristguards",
+  "quality": "Epic",
+  "icon": "inv_bracer_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Windtalker's Wristguards</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->130 Armor</span><br><span><!--stat5-->+6 Intellect</span><br><span><!--stat7-->+6 Stamina</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br><span class=\"q2\">Equip: <a href=\"/spell=9335\" class=\"q2\">+28 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">74</span> <span class=\"moneycopper\">18</span></div></td></tr></table>",
+  "url": "/item=19584/windtalkers-wristguards",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_03.jpg",
+  "id": "19584",
+  "slug": "windtalkers-wristguards"
+}

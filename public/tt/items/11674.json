@@ -1,0 +1,10 @@
+{
+  "name": "Jadefire Felbind",
+  "quality": "Common",
+  "icon": "inv_mask_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Jadefire Felbind</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=11674/jadefire-felbind",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mask_02.jpg",
+  "id": "11674",
+  "slug": "jadefire-felbind"
+}

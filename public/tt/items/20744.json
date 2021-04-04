@@ -1,0 +1,10 @@
+{
+  "name": "Minor Wizard Oil",
+  "quality": "Common",
+  "icon": "inv_poison_mindnumbing",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Minor Wizard Oil</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<br><span class=\"q2\">Use: <a href=\"/spell=25117\" class=\"q2\">While applied to target weapon it increases spell damage by up to 8. &nbsp;Lasts for 30 minutes.</a></span><br />5 Charges<div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div></td></tr></table>",
+  "url": "/item=20744/minor-wizard-oil",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_poison_mindnumbing.jpg",
+  "id": "20744",
+  "slug": "minor-wizard-oil"
+}

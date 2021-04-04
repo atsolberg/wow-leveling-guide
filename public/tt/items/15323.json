@@ -1,0 +1,10 @@
+{
+  "name": "Percussion Shotgun",
+  "quality": "Uncommon",
+  "icon": "inv_weapon_rifle_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Percussion Shotgun</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->37 - 70 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(23.26 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">77</span> <span class=\"moneycopper\">91</span></div></td></tr></table>",
+  "url": "/item=15323/percussion-shotgun",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_01.jpg",
+  "id": "15323",
+  "slug": "percussion-shotgun"
+}

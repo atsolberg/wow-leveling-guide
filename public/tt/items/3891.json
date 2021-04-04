@@ -1,0 +1,10 @@
+{
+  "name": "Augmented Chain Helm",
+  "quality": "Common",
+  "icon": "inv_helmet_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Augmented Chain Helm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><table width=\"100%\"><tr><td>Head</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->169 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">24</span> <span class=\"moneycopper\">56</span></div></td></tr></table>",
+  "url": "/item=3891/augmented-chain-helm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_03.jpg",
+  "id": "3891",
+  "slug": "augmented-chain-helm"
+}

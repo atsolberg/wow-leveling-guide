@@ -1,0 +1,10 @@
+{
+  "name": "Pledge of Friendship: Thunder Bluff",
+  "quality": "Common",
+  "icon": "inv_valentinesboxofchocolates01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pledge of Friendship: Thunder Bluff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=22162/pledge-of-friendship-thunder-bluff",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_valentinesboxofchocolates01.jpg",
+  "id": "22162",
+  "slug": "pledge-of-friendship-thunder-bluff"
+}

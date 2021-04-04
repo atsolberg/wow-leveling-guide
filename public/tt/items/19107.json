@@ -1,0 +1,10 @@
+{
+  "name": "Bloodseeker",
+  "quality": "Rare",
+  "icon": "inv_weapon_crossbow_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Bloodseeker</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:18--><span class=\"q1\">Crossbow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->85 - 128 Damage</span></td>\n    <th>Speed <!--spd-->3.30</th>\n</tr></table><!--dps-->(32.27 damage per second)<br><span><!--stat4-->+8 Strength</span><br><span><!--stat3-->+7 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">41</span> <span class=\"moneycopper\">71</span></div></td></tr></table>",
+  "url": "/item=19107/bloodseeker",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_crossbow_07.jpg",
+  "id": "19107",
+  "slug": "bloodseeker"
+}

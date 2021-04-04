@@ -1,0 +1,10 @@
+{
+  "name": "Tyrant's Belt",
+  "quality": "Uncommon",
+  "icon": "inv_belt_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Tyrant's Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->43</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->215 Armor</span><br><span><!--stat4-->+9 Strength</span><br><span><!--stat6-->+3 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">28</span> <span class=\"moneycopper\">92</span></div></td></tr></table>",
+  "url": "/item=14838/tyrants-belt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_24.jpg",
+  "id": "14838",
+  "slug": "tyrants-belt"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Regent's Cloak",
+  "quality": "Uncommon",
+  "icon": "inv_misc_cape_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Regent's Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->18 Armor</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">81</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ravenclaw Regent</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 72.97%</div></td></tr></table>",
+  "url": "/item=5969/regents-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_14.jpg",
+  "id": "5969",
+  "slug": "regents-cloak"
+}

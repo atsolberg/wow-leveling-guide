@@ -1,0 +1,10 @@
+{
+  "name": "Hulking Gauntlets",
+  "quality": "Uncommon",
+  "icon": "inv_gauntlets_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Hulking Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->110 Armor</span><br><span><!--stat4-->+5 Strength</span><br><span><!--stat3-->+2 Agility</span><br><span><!--stat7-->+1 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">68</span></div></td></tr></table>",
+  "url": "/item=14747/hulking-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_05.jpg",
+  "id": "14747",
+  "slug": "hulking-gauntlets"
+}

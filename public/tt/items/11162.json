@@ -1,0 +1,10 @@
+{
+  "name": "Linken's Superior Sword",
+  "quality": "Common",
+  "icon": "inv_sword_39",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Linken's Superior Sword</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=11162/linkens-superior-sword",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_39.jpg",
+  "id": "11162",
+  "slug": "linkens-superior-sword"
+}

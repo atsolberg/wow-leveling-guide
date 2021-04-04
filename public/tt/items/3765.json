@@ -1,0 +1,10 @@
+{
+  "name": "Brigand's Pauldrons",
+  "quality": "Uncommon",
+  "icon": "inv_shoulder_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Brigand's Pauldrons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->173 Armor</span><br><span><!--stat4-->+8 Strength</span><br><span><!--stat7-->+8 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">48</span> <span class=\"moneycopper\">11</span></div></td></tr></table>",
+  "url": "/item=3765/brigands-pauldrons",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_03.jpg",
+  "id": "3765",
+  "slug": "brigands-pauldrons"
+}

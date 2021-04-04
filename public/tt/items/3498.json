@@ -1,0 +1,10 @@
+{
+  "name": "Taretha's Necklace",
+  "quality": "Common",
+  "icon": "inv_jewelry_necklace_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Taretha's Necklace</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;A crescent moon dangling from a silver chain.&quot;</span></td></tr></table>",
+  "url": "/item=3498/tarethas-necklace",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_11.jpg",
+  "id": "3498",
+  "slug": "tarethas-necklace"
+}

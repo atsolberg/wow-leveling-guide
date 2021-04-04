@@ -1,0 +1,10 @@
+{
+  "name": "Bloodsoaked Greaves",
+  "quality": "Rare",
+  "icon": "inv_boots_plate_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Bloodsoaked Greaves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->68</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->486 Armor</span><br><span><!--stat3-->+8 Agility</span><br><span><!--stat7-->+25 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=7518\" class=\"q2\">Increased Defense +5.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">21</span> <span class=\"moneycopper\">42</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: High Priestess Arlokk</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 25.33%</div></td></tr></table>",
+  "url": "/item=19913/bloodsoaked-greaves",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_plate_06.jpg",
+  "id": "19913",
+  "slug": "bloodsoaked-greaves"
+}

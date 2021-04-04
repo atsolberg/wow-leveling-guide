@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Heavy Scorpid Bracers",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pattern: Heavy Scorpid Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->51</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=165\" class=\"q1\">Leatherworking</a> (255)<br><span class=\"q2\">Use: <a href=\"/spell=19149\" class=\"q2\">Teaches you how to craft Heavy Scorpid Bracers.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span></div><br /><span class=\"q2\"><a href=\"/item=15077\">Heavy Scorpid Bracers</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->51</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->122 Armor</span><br><span><!--stat7-->+8 Stamina</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35<br>Requires Level <!--rlvl-->46<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">76</span> <span class=\"moneycopper\">15</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=8170\">Rugged Leather</a>&nbsp;(4), <a href=\"/item=15408\">Heavy Scorpid Scale</a>&nbsp;(4), <a href=\"/item=14341\">Rune Thread</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=15724/pattern-heavy-scorpid-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "15724",
+  "slug": "pattern-heavy-scorpid-bracers"
+}

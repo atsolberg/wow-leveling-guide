@@ -1,0 +1,10 @@
+{
+  "name": "Savory Deviate Delight",
+  "quality": "Common",
+  "icon": "inv_misc_monsterhead_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Savory Deviate Delight</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->18</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=8213\" class=\"q2\">Eat me.</a> (10 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">5</span></div></td></tr></table>",
+  "url": "/item=6657/savory-deviate-delight",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterhead_04.jpg",
+  "id": "6657",
+  "slug": "savory-deviate-delight"
+}

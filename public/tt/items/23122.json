@@ -1,0 +1,10 @@
+{
+  "name": "Consecrated Sharpening Stone",
+  "quality": "Uncommon",
+  "icon": "inv_stone_sharpeningstone_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Consecrated Sharpening Stone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br><span class=\"q2\">Use: <a href=\"/spell=28891\" class=\"q2\">While applied to target weapon it increases attack power against undead by 100. Lasts for 1 hour.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">40</span></div></td></tr></table>",
+  "url": "/item=23122/consecrated-sharpening-stone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_sharpeningstone_02.jpg",
+  "id": "23122",
+  "slug": "consecrated-sharpening-stone"
+}

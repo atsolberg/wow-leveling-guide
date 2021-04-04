@@ -1,0 +1,10 @@
+{
+  "name": "Thick Leather",
+  "quality": "Common",
+  "icon": "inv_misc_leatherscrap_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Thick Leather</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span></div></td></tr></table>",
+  "url": "/item=4304/thick-leather",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_leatherscrap_08.jpg",
+  "id": "4304",
+  "slug": "thick-leather"
+}

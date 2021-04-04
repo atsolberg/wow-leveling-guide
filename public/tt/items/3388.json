@@ -1,0 +1,10 @@
+{
+  "name": "Strong Troll's Blood Potion",
+  "quality": "Common",
+  "icon": "inv_potion_78",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Strong Troll's Blood Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><span class=\"q2\">Use: <a href=\"/spell=3222\" class=\"q2\">Regenerate 6 health every 5 sec for 1 hour.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">40</span></div></td></tr></table>",
+  "url": "/item=3388/strong-trolls-blood-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_78.jpg",
+  "id": "3388",
+  "slug": "strong-trolls-blood-potion"
+}

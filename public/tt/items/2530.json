@@ -1,0 +1,10 @@
+{
+  "name": "Francisca",
+  "quality": "Common",
+  "icon": "inv_axe_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Francisca</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->46</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->41 - 78 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(25.87 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->41<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">43</span></div></td></tr></table>",
+  "url": "/item=2530/francisca",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_01.jpg",
+  "id": "2530",
+  "slug": "francisca"
+}

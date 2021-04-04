@@ -1,0 +1,10 @@
+{
+  "name": "Lesser Darkmoon Prize",
+  "quality": "Uncommon",
+  "icon": "inv_misc_bag_07_black",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Lesser Darkmoon Prize</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<br><span class=\"q\">&quot;Guaranteed to contain an item of value!&quot;</span><br><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=19297/lesser-darkmoon-prize",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_07_black.jpg",
+  "id": "19297",
+  "slug": "lesser-darkmoon-prize"
+}

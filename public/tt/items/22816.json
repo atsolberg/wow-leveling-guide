@@ -1,0 +1,10 @@
+{
+  "name": "Hatchet of Sundered Bone",
+  "quality": "Epic",
+  "icon": "inv_axe_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Hatchet of Sundered Bone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->83</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->119 - 221 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(65.38 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=14089\" class=\"q2\">+36 Attack Power.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">21</span> <span class=\"moneysilver\">37</span> <span class=\"moneycopper\">75</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Noth the Plaguebringer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 15.26%</div></td></tr></table>",
+  "url": "/item=22816/hatchet-of-sundered-bone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_08.jpg",
+  "id": "22816",
+  "slug": "hatchet-of-sundered-bone"
+}

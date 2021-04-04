@@ -1,0 +1,10 @@
+{
+  "name": "Elune's Lantern",
+  "quality": "Uncommon",
+  "icon": "inv_misc_lantern_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Elune's Lantern</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br><span class=\"q2\">Use: <a href=\"/spell=26265\" class=\"q2\">Create an Elune Stone. &nbsp;Requires a Solid Stone.</a> (1 Day Cooldown)</span><br><span class=\"q\">&quot;A device said to capture the light shed by Elune herself.&quot;</span></td></tr></table>",
+  "url": "/item=21540/elunes-lantern",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_lantern_01.jpg",
+  "id": "21540",
+  "slug": "elunes-lantern"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Recipe: Gingerbread Cookie",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Recipe: Gingerbread Cookie</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=185\" class=\"q1\">Cooking</a> (1)<br><span class=\"q2\">Use: <a href=\"/spell=21145\" class=\"q2\">Teaches you how to bake a Gingerbread Cookie.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">6</span></div><br /><span class=\"q1\"><a href=\"/item=17197\">Gingerbread Cookie</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->7</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br><span class=\"q2\">Use: <a href=\"/spell=5004\" class=\"q2\">Restores 61.2 health over 18 sec. &nbsp;Must remain seated while eating. &nbsp;If you spend at least 10 seconds eating you will become well fed and gain 2 Stamina and Spirit for 15 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">10</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=6889\">Small Egg</a>, <a href=\"/item=17194\">Holiday Spices</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=17200/recipe-gingerbread-cookie",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "17200",
+  "slug": "recipe-gingerbread-cookie"
+}

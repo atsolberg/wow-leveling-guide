@@ -1,0 +1,10 @@
+{
+  "name": "High Councillor's Cloak",
+  "quality": "Uncommon",
+  "icon": "inv_misc_cape_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">High Councillor's Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->38 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">22</span> <span class=\"moneycopper\">74</span></div></td></tr></table>",
+  "url": "/item=10138/high-councillors-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_16.jpg",
+  "id": "10138",
+  "slug": "high-councillors-cloak"
+}

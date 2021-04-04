@@ -1,0 +1,10 @@
+{
+  "name": "Cadet Cloak",
+  "quality": "Common",
+  "icon": "inv_misc_cape_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Cadet Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->10 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">58</span></div></td></tr></table>",
+  "url": "/item=9761/cadet-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_01.jpg",
+  "id": "9761",
+  "slug": "cadet-cloak"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Frostwolf Battle Standard",
+  "quality": "Rare",
+  "icon": "inv_bannerpvp_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Frostwolf Battle Standard</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=23538\" class=\"q2\">Place a Battle Standard with 1500 health that increases the maximum damage of all party members that stay within 45 yards of the Battle Standard by 10%. &nbsp;Lasts 2 min. May only be used in Alterac Valley.</a> (15 Min Cooldown)</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">25</span></div></td></tr></table>",
+  "url": "/item=19046/frostwolf-battle-standard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bannerpvp_01.jpg",
+  "id": "19046",
+  "slug": "frostwolf-battle-standard"
+}

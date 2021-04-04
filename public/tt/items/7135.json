@@ -1,0 +1,10 @@
+{
+  "name": "Broken Dragonmaw Shinbone",
+  "quality": "Poor",
+  "icon": "inv_misc_bone_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Broken Dragonmaw Shinbone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=7135/broken-dragonmaw-shinbone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_07.jpg",
+  "id": "7135",
+  "slug": "broken-dragonmaw-shinbone"
+}

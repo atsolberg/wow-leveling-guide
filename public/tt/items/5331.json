@@ -1,0 +1,10 @@
+{
+  "name": "OLDBlackfathom MAGIC Relic",
+  "quality": "Common",
+  "icon": "inv_jewelry_amulet_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">OLDBlackfathom MAGIC Relic</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">36</span></div></td></tr></table>",
+  "url": "/item=5331/oldblackfathom-magic-relic",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_amulet_01.jpg",
+  "id": "5331",
+  "slug": "oldblackfathom-magic-relic"
+}

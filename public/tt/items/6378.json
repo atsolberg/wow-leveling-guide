@@ -1,0 +1,10 @@
+{
+  "name": "Seer's Cape",
+  "quality": "Uncommon",
+  "icon": "inv_misc_cape_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Seer's Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->15 Armor</span><br><span><!--stat5-->+2 Intellect</span><br><span><!--stat6-->+2 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->12<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">92</span></div></td></tr></table>",
+  "url": "/item=6378/seers-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_05.jpg",
+  "id": "6378",
+  "slug": "seers-cape"
+}

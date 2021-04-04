@@ -1,0 +1,10 @@
+{
+  "name": "Eau de Mixilpixil",
+  "quality": "Common",
+  "icon": "inv_potion_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Eau de Mixilpixil</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=10723\" class=\"q2\">Cure for the Touch of Zanzil.</a></span></td></tr></table>",
+  "url": "/item=8432/eau-de-mixilpixil",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_27.jpg",
+  "id": "8432",
+  "slug": "eau-de-mixilpixil"
+}

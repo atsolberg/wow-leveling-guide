@@ -1,0 +1,11 @@
+{
+  "name": "Recipe: Ghost Dye",
+  "quality": "Common",
+  "icon": "inv_scroll_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Recipe: Ghost Dye</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->49</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=171\" class=\"q1\">Alchemy</a> (245)<br><span class=\"q2\">Use: <a href=\"/spell=11530\" class=\"q2\">Teaches you how to make Ghost Dye.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">22</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q1\"><a href=\"/item=9210\">Ghost Dye</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->49</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">50</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=8845\">Ghost Mushroom</a>&nbsp;(2), <a href=\"/item=4342\">Purple Dye</a>, <a href=\"/item=8925\">Crystal Vial</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=9302/recipe-ghost-dye",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_05.jpg",
+  "id": "9302",
+  "slug": "recipe-ghost-dye"
+}

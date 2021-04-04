@@ -1,0 +1,10 @@
+{
+  "name": "Hawkeye's Buckler",
+  "quality": "Uncommon",
+  "icon": "inv_shield_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Hawkeye's Buckler</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->695 Armor</span><br>15 Block<br><span><!--stat4-->+5 Strength</span><br><span><!--stat5-->+6 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">55</span> <span class=\"moneycopper\">81</span></div></td></tr></table>",
+  "url": "/item=14607/hawkeyes-buckler",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_10.jpg",
+  "id": "14607",
+  "slug": "hawkeyes-buckler"
+}

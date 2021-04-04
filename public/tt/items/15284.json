@@ -1,0 +1,10 @@
+{
+  "name": "Long Battle Bow",
+  "quality": "Uncommon",
+  "icon": "inv_weapon_bow_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Long Battle Bow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->18 - 34 Damage</span></td>\n    <th>Speed <!--spd-->2.20</th>\n</tr></table><!--dps-->(11.82 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->24<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">39</span></div></td></tr></table>",
+  "url": "/item=15284/long-battle-bow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_01.jpg",
+  "id": "15284",
+  "slug": "long-battle-bow"
+}

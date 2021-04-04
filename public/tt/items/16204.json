@@ -1,0 +1,10 @@
+{
+  "name": "Illusion Dust",
+  "quality": "Common",
+  "icon": "inv_enchant_dustillusion",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Illusion Dust</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=16204/illusion-dust",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_enchant_dustillusion.jpg",
+  "id": "16204",
+  "slug": "illusion-dust"
+}

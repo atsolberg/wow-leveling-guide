@@ -1,0 +1,10 @@
+{
+  "name": "Pillager's Chestguard",
+  "quality": "Uncommon",
+  "icon": "inv_chest_chain_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Pillager's Chestguard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->219 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">54</span> <span class=\"moneycopper\">86</span></div></td></tr></table>",
+  "url": "/item=15557/pillagers-chestguard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_12.jpg",
+  "id": "15557",
+  "slug": "pillagers-chestguard"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Wildfire Cape",
+  "quality": "Rare",
+  "icon": "inv_chest_cloth_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Wildfire Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->43 Armor</span><!--ebstats--><!--egstats--><!--eistats--><br>+20 Fire Resistance<!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">63</span> <span class=\"moneycopper\">59</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Pyroguard Emberseer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 26.07%</div></td></tr></table>",
+  "url": "/item=12905/wildfire-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_16.jpg",
+  "id": "12905",
+  "slug": "wildfire-cape"
+}

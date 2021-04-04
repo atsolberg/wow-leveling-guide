@@ -1,0 +1,10 @@
+{
+  "name": "Shining Silver Breastplate",
+  "quality": "Rare",
+  "icon": "inv_chest_plate15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Shining Silver Breastplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->214 Armor</span><br><span><!--stat4-->+14 Strength</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->24<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">29</span> <span class=\"moneycopper\">35</span></div></td></tr></table>",
+  "url": "/item=2870/shining-silver-breastplate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_plate15.jpg",
+  "id": "2870",
+  "slug": "shining-silver-breastplate"
+}

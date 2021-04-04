@@ -1,0 +1,10 @@
+{
+  "name": "Fist-sized Spinneret",
+  "quality": "Poor",
+  "icon": "inv_misc_monsterspidercarapace_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Fist-sized Spinneret</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">56</span></div></td></tr></table>",
+  "url": "/item=878/fist-sized-spinneret",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterspidercarapace_01.jpg",
+  "id": "878",
+  "slug": "fist-sized-spinneret"
+}

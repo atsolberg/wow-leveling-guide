@@ -1,0 +1,10 @@
+{
+  "name": "Large Brown Sack",
+  "quality": "Common",
+  "icon": "inv_misc_bag_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Large Brown Sack</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br />10 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">25</span></div></td></tr></table>",
+  "url": "/item=5576/large-brown-sack",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_10.jpg",
+  "id": "5576",
+  "slug": "large-brown-sack"
+}

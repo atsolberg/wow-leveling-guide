@@ -1,0 +1,10 @@
+{
+  "name": "Jin'do's Hexxer",
+  "quality": "Epic",
+  "icon": "inv_mace_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Jin'do's Hexxer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->66</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->64 - 134 Damage</span></td>\n    <th>Speed <!--spd-->2.40</th>\n</tr></table><!--dps-->(41.25 damage per second)<br><span><!--stat5-->+9 Intellect</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=18035\" class=\"q2\">Increases healing done by spells and effects by up to 51.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=18384\" class=\"q2\">Improves your chance to get a critical strike with spells by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">8</span> <span class=\"moneysilver\">82</span> <span class=\"moneycopper\">92</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Jin'do the Hexxer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 14.01%</div></td></tr></table>",
+  "url": "/item=19890/jindos-hexxer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_17.jpg",
+  "id": "19890",
+  "slug": "jindos-hexxer"
+}

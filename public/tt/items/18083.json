@@ -1,0 +1,10 @@
+{
+  "name": "Jumanza Grips",
+  "quality": "Rare",
+  "icon": "inv_gauntlets_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Jumanza Grips</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->47</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->42 Armor</span><br><span><!--stat5-->+11 Intellect</span><br><span><!--stat7-->+10 Stamina</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->42<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">45</span> <span class=\"moneycopper\">22</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Witch Doctor Zum'rah</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 34.89%</div></td></tr></table>",
+  "url": "/item=18083/jumanza-grips",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_09.jpg",
+  "id": "18083",
+  "slug": "jumanza-grips"
+}

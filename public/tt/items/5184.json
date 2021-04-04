@@ -1,0 +1,10 @@
+{
+  "name": "Filled Crystal Phial",
+  "quality": "Common",
+  "icon": "inv_potion_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Filled Crystal Phial</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=5184/filled-crystal-phial",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_17.jpg",
+  "id": "5184",
+  "slug": "filled-crystal-phial"
+}

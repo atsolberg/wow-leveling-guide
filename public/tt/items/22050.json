@@ -1,0 +1,10 @@
+{
+  "name": "Brazier of Beckoning",
+  "quality": "Common",
+  "icon": "inv_misc_enggizmos_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Brazier of Beckoning</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27190\" class=\"q2\">Summon the spirit of Isalien.</a> (10 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=22050/brazier-of-beckoning",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_enggizmos_24.jpg",
+  "id": "22050",
+  "slug": "brazier-of-beckoning"
+}

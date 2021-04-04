@@ -1,0 +1,10 @@
+{
+  "name": "Lead Surveyor's Mantle",
+  "quality": "Rare",
+  "icon": "inv_shoulder_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Lead Surveyor's Mantle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->246 Armor</span><br><span><!--stat5-->+14 Intellect</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br><span class=\"q2\">Equip: <a href=\"/spell=9344\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 15.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">70</span> <span class=\"moneycopper\">50</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Fineous Darkvire</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 23.89%</div></td></tr></table>",
+  "url": "/item=11842/lead-surveyors-mantle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_15.jpg",
+  "id": "11842",
+  "slug": "lead-surveyors-mantle"
+}

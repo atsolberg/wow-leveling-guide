@@ -1,0 +1,10 @@
+{
+  "name": "Myrmidon's Girdle",
+  "quality": "Uncommon",
+  "icon": "inv_belt_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Myrmidon's Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->49</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->151 Armor</span><br><span><!--stat5-->+11 Intellect</span><br><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->44<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">62</span> <span class=\"moneycopper\">53</span></div></td></tr></table>",
+  "url": "/item=8129/myrmidons-girdle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_06.jpg",
+  "id": "8129",
+  "slug": "myrmidons-girdle"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Twilight Cultist Medallion of Station",
+  "quality": "Common",
+  "icon": "inv_jewelry_amulet_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Twilight Cultist Medallion of Station</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=24748\" class=\"q2\">When worn with the Twilight Trappings Set, allows access to a Wind Stone in Silithus.</a></span><!--itemEffects:1--></td></tr></table>",
+  "url": "/item=20422/twilight-cultist-medallion-of-station",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_amulet_06.jpg",
+  "id": "20422",
+  "slug": "twilight-cultist-medallion-of-station"
+}

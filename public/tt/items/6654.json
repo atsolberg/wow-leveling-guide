@@ -1,0 +1,10 @@
+{
+  "name": "Torch of the Eternal Flame",
+  "quality": "Common",
+  "icon": "inv_torch_lit",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Torch of the Eternal Flame</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--></td></tr></table>",
+  "url": "/item=6654/torch-of-the-eternal-flame",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_torch_lit.jpg",
+  "id": "6654",
+  "slug": "torch-of-the-eternal-flame"
+}

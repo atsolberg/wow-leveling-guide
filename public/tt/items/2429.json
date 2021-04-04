@@ -1,0 +1,10 @@
+{
+  "name": "Russet Vest",
+  "quality": "Common",
+  "icon": "inv_shirt_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Russet Vest</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->46 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">20</span> <span class=\"moneycopper\">27</span></div></td></tr></table>",
+  "url": "/item=2429/russet-vest",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_14.jpg",
+  "id": "2429",
+  "slug": "russet-vest"
+}

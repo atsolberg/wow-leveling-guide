@@ -1,0 +1,10 @@
+{
+  "name": "Last Month's Mutton",
+  "quality": "Common",
+  "icon": "inv_misc_food_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Last Month's Mutton</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->34</span><!--bo--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->29 - 54 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(16.60 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->29<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">40</span> <span class=\"moneycopper\">22</span></div></td></tr></table>",
+  "url": "/item=19292/last-months-mutton",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_18.jpg",
+  "id": "19292",
+  "slug": "last-months-mutton"
+}

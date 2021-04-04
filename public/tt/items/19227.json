@@ -1,0 +1,10 @@
+{
+  "name": "Ace of Beasts",
+  "quality": "Rare",
+  "icon": "inv_misc_ticket_tarot_beasts_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Ace of Beasts</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=23677\" class=\"q2\">Combine the Ace through Eight of Beasts to complete the set.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">25</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: The Beast</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 7.22%</div></td></tr></table>",
+  "url": "/item=19227/ace-of-beasts",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_ticket_tarot_beasts_01.jpg",
+  "id": "19227",
+  "slug": "ace-of-beasts"
+}

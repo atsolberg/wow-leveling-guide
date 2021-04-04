@@ -1,0 +1,10 @@
+{
+  "name": "Phoenix Pants",
+  "quality": "Uncommon",
+  "icon": "inv_pants_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Phoenix Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->34 Armor</span><br><span><!--stat5-->+4 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<br><span class=\"q2\">Equip: <a href=\"/spell=7689\" class=\"q2\">Increases damage done by Fire spells and effects by up to 10.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span> <span class=\"moneycopper\">76</span></div></td></tr></table>",
+  "url": "/item=4317/phoenix-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_06.jpg",
+  "id": "4317",
+  "slug": "phoenix-pants"
+}

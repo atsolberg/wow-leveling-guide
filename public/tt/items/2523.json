@@ -1,0 +1,10 @@
+{
+  "name": "Bullova",
+  "quality": "Common",
+  "icon": "inv_weapon_halberd_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bullova</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->68 - 102 Damage</span></td>\n    <th>Speed <!--spd-->3.80</th>\n</tr></table><!--dps-->(22.37 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">56</span> <span class=\"moneycopper\">57</span></div></td></tr></table>",
+  "url": "/item=2523/bullova",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_halberd_06.jpg",
+  "id": "2523",
+  "slug": "bullova"
+}

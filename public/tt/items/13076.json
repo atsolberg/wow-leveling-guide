@@ -1,0 +1,10 @@
+{
+  "name": "Giantslayer Bracers",
+  "quality": "Rare",
+  "icon": "inv_bracer_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Giantslayer Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->48</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->223 Armor</span><br><span><!--stat4-->+10 Strength</span><br><span><!--stat3-->+5 Agility</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->43<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">47</span> <span class=\"moneycopper\">15</span></div></td></tr></table>",
+  "url": "/item=13076/giantslayer-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_17.jpg",
+  "id": "13076",
+  "slug": "giantslayer-bracers"
+}

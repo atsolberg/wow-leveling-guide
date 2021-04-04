@@ -1,0 +1,10 @@
+{
+  "name": "Shiny Dirk",
+  "quality": "Poor",
+  "icon": "inv_weapon_shortblade_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Shiny Dirk</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->39</span><!--bo--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->14 - 27 Damage</span></td>\n    <th>Speed <!--spd-->1.60</th>\n</tr></table><!--dps-->(12.81 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->34<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">39</span> <span class=\"moneycopper\">57</span></div></td></tr></table>",
+  "url": "/item=3786/shiny-dirk",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_01.jpg",
+  "id": "3786",
+  "slug": "shiny-dirk"
+}

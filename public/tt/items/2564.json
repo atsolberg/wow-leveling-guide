@@ -1,0 +1,10 @@
+{
+  "name": "Elven Spirit Claws",
+  "quality": "Rare",
+  "icon": "inv_gauntlets_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Elven Spirit Claws</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->91 Armor</span><br><span><!--stat5-->+5 Intellect</span><br><span><!--stat6-->+9 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<br><span class=\"q2\">Equip: <a href=\"/spell=9361\" class=\"q2\">Increases damage done by Nature spells and effects by up to 21.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">68</span> <span class=\"moneycopper\">17</span></div></td></tr></table>",
+  "url": "/item=2564/elven-spirit-claws",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_07.jpg",
+  "id": "2564",
+  "slug": "elven-spirit-claws"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Pulsating Hydra Heart",
+  "quality": "Rare",
+  "icon": "inv_misc_orb_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Pulsating Hydra Heart</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><span class=\"q2\">Equip: <a href=\"/spell=7687\" class=\"q2\">Increases damage done by Fire spells and effects by up to 7.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span> <span class=\"moneycopper\">75</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Gesharahan</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 22.84%</div></td></tr></table>",
+  "url": "/item=5183/pulsating-hydra-heart",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_orb_04.jpg",
+  "id": "5183",
+  "slug": "pulsating-hydra-heart"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Bloodmail Hauberk",
+  "quality": "Rare",
+  "icon": "inv_chest_leather_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Bloodmail Hauberk</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->360 Armor</span><br><span><!--stat4-->+10 Strength</span><br><span><!--stat5-->+15 Intellect</span><br><span><!--stat7-->+15 Stamina</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<br><span class=\"q2\">Equip: <a href=\"/spell=13669\" class=\"q2\">Increases your chance to dodge an attack by 1%.</a></span><!--itemEffects:1--><br /><br /><span class=\"q\"><a href=\"/item-set=123\" class=\"q\">Bloodmail Regalia</a> (0/5)</span><div class=\"q0 indent\"><span><!--si14614--><a href=\"/item=14614\">Bloodmail Belt</a></span><br /><span><!--si14616--><a href=\"/item=14616\">Bloodmail Boots</a></span><br /><span><!--si14615--><a href=\"/item=14615\">Bloodmail Gauntlets</a></span><br /><span><!--si14611--><a href=\"/item=14611\">Bloodmail Hauberk</a></span><br /><span><!--si14612--><a href=\"/item=14612\">Bloodmail Legguards</a></span></div><br /><span class=\"q0\"><span>(2) Set : <a href=\"/spell=7516\">Increased Defense +3.</a></span><br /><span>(3) Set : <a href=\"/spell=9140\">+10 Attack Power.</a></span><br /><span>(4) Set : <a href=\"/spell=18686\">+15 All Resistances.</a></span><br /><span>(5) Set : <a href=\"/spell=13665\">Increases your chance to parry an attack by 1%.</a></span></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">25</span> <span class=\"moneycopper\">9</span></div></td></tr></table>",
+  "url": "/item=14611/bloodmail-hauberk",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_leather_05.jpg",
+  "id": "14611",
+  "slug": "bloodmail-hauberk"
+}

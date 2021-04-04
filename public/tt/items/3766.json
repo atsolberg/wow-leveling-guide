@@ -1,0 +1,10 @@
+{
+  "name": "Gryphon Feather Quill",
+  "quality": "Poor",
+  "icon": "inv_feather_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Gryphon Feather Quill</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">30</span></div></td></tr></table>",
+  "url": "/item=3766/gryphon-feather-quill",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_feather_08.jpg",
+  "id": "3766",
+  "slug": "gryphon-feather-quill"
+}

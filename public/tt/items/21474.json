@@ -1,0 +1,10 @@
+{
+  "name": "Chitinous Shoulderguards",
+  "quality": "Rare",
+  "icon": "inv_shoulder_29",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Chitinous Shoulderguards</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->74</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->151 Armor</span><br><span><!--stat4-->+11 Strength</span><br><span><!--stat3-->+25 Agility</span><br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">79</span> <span class=\"moneycopper\">36</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Moam</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 19.93%</div></td></tr></table>",
+  "url": "/item=21474/chitinous-shoulderguards",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_29.jpg",
+  "id": "21474",
+  "slug": "chitinous-shoulderguards"
+}

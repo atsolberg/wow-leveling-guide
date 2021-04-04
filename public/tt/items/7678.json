@@ -1,0 +1,11 @@
+{
+  "name": "Recipe: Thistle Tea",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Recipe: Thistle Tea</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=185\" class=\"q1\">Cooking</a> (60)<br><span class=\"q2\">Use: <a href=\"/spell=9514\" class=\"q2\">Teaches you how to brew a Thistle Tea.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">50</span></div><br /><span class=\"q1\"><a href=\"/item=7676\">Thistle Tea</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=4\" class=\"c4\">Rogue</a></div>Requires Level <!--rlvl-->5<br><span class=\"q2\">Use: <a href=\"/spell=9512\" class=\"q2\">Instantly restores 100 energy.</a> (5 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">30</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=2452\">Swiftthistle</a>, <a href=\"/item=159\">Refreshing Spring Water</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=7678/recipe-thistle-tea",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "7678",
+  "slug": "recipe-thistle-tea"
+}

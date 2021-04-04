@@ -1,0 +1,10 @@
+{
+  "name": "Blunt Claymore",
+  "quality": "Poor",
+  "icon": "inv_sword_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Blunt Claymore</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->16 - 25 Damage</span></td>\n    <th>Speed <!--spd-->3.10</th>\n</tr></table><!--dps-->(6.61 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->12<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">51</span></div></td></tr></table>",
+  "url": "/item=1811/blunt-claymore",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_06.jpg",
+  "id": "1811",
+  "slug": "blunt-claymore"
+}

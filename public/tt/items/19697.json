@@ -1,0 +1,10 @@
+{
+  "name": "Bounty of the Harvest",
+  "quality": "Common",
+  "icon": "inv_misc_horn_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bounty of the Harvest</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=24006\" class=\"q2\">Conjures 4 food from the harvest.<br /><br />Conjured items disappear if logged out for more than 15 minutes.</a> (12 Hrs Cooldown)</span></td></tr></table>",
+  "url": "/item=19697/bounty-of-the-harvest",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_horn_03.jpg",
+  "id": "19697",
+  "slug": "bounty-of-the-harvest"
+}

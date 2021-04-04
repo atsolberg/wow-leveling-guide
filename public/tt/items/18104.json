@@ -1,0 +1,10 @@
+{
+  "name": "Feralsurge Girdle",
+  "quality": "Rare",
+  "icon": "inv_belt_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Feralsurge Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->208 Armor</span><br><span><!--stat5-->+10 Intellect</span><br><span><!--stat7-->+9 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=21629\" class=\"q2\">Restores 8 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">72</span> <span class=\"moneycopper\">85</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Warchief Rend Blackhand</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.95%</div></td></tr></table>",
+  "url": "/item=18104/feralsurge-girdle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_03.jpg",
+  "id": "18104",
+  "slug": "feralsurge-girdle"
+}

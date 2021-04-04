@@ -1,0 +1,10 @@
+{
+  "name": "Gutgore Ripper",
+  "quality": "Epic",
+  "icon": "inv_weapon_shortblade_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Gutgore Ripper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->69</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->63 - 119 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(50.56 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Chance on hit: <a href=\"/spell=21151\" class=\"q2\">Sends a shadowy bolt at the enemy causing 75 Shadow damage and lowering all stats by 25 for 30 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">10</span> <span class=\"moneysilver\">44</span> <span class=\"moneycopper\">72</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Garr</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.96%</div></td></tr></table>",
+  "url": "/item=17071/gutgore-ripper",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_18.jpg",
+  "id": "17071",
+  "slug": "gutgore-ripper"
+}

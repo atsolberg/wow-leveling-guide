@@ -1,0 +1,10 @@
+{
+  "name": "Permanent Sheen of Zanza",
+  "quality": "Uncommon",
+  "icon": "inv_potion_29",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Permanent Sheen of Zanza</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Use: <a href=\"/spell=30331\" class=\"q2\">Increases the chance that the player will reflect hostile spells cast on them by 3% for 2 hrs. Will automatically reflect the first offensive spell cast against the user. Only one type of Zanza potion may be active at any given time.</a></span><br><span class=\"q\">&quot;Blessed with the mojo of Zanza!&quot;</span></td></tr></table>",
+  "url": "/item=23794/permanent-sheen-of-zanza",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_29.jpg",
+  "id": "23794",
+  "slug": "permanent-sheen-of-zanza"
+}

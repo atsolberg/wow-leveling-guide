@@ -1,0 +1,10 @@
+{
+  "name": "Mageweave Bandage",
+  "quality": "Common",
+  "icon": "inv_misc_bandage_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Mageweave Bandage</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=129\" class=\"q1\">First Aid</a> (150)<br><span class=\"q2\">Use: <a href=\"/spell=10838\" class=\"q2\">Heals 800 damage over 8 sec.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span></div></td></tr></table>",
+  "url": "/item=8544/mageweave-bandage",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bandage_19.jpg",
+  "id": "8544",
+  "slug": "mageweave-bandage"
+}

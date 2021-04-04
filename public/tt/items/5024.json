@@ -1,0 +1,10 @@
+{
+  "name": "Frost Vial",
+  "quality": "Common",
+  "icon": "inv_potion_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Frost Vial</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=5024/frost-vial",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_13.jpg",
+  "id": "5024",
+  "slug": "frost-vial"
+}

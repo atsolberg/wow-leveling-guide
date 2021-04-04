@@ -1,0 +1,10 @@
+{
+  "name": "Gem of Nerubis",
+  "quality": "Epic",
+  "icon": "inv_offhand_naxxramas_d_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Gem of Nerubis</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->83</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat5-->+10 Intellect</span><br><span><!--stat7-->+14 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=25975\" class=\"q2\">Decreases the magical resistances of your spell targets by 10.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=15715\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 25.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">7</span> <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">51</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Anub'Rekhan</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.29%</div></td></tr></table>",
+  "url": "/item=22937/gem-of-nerubis",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_offhand_naxxramas_d_01.jpg",
+  "id": "22937",
+  "slug": "gem-of-nerubis"
+}

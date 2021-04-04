@@ -1,0 +1,11 @@
+{
+  "name": "Book of Wrath VI",
+  "quality": "Common",
+  "icon": "inv_misc_book_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Book of Wrath VI</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->38</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->38<br><span class=\"q2\">Use: <a href=\"/spell=3737\" class=\"q2\">Teaches Wrath (Rank 6).</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">45</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=4226/book-of-wrath-vi",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_11.jpg",
+  "id": "4226",
+  "slug": "book-of-wrath-vi"
+}

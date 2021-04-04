@@ -1,0 +1,10 @@
+{
+  "name": "Sigil of the Hammer",
+  "quality": "Common",
+  "icon": "inv_misc_rune_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sigil of the Hammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=4648/sigil-of-the-hammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_rune_03.jpg",
+  "id": "4648",
+  "slug": "sigil-of-the-hammer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Flask of Petrification",
+  "quality": "Common",
+  "icon": "inv_potion_26",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Flask of Petrification</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br><span class=\"q2\">Use: <a href=\"/spell=17624\" class=\"q2\">You turn to stone, protecting you from all physical attacks and spells for 1 min, but during that time you cannot attack, move or cast spells. &nbsp;You can only have the effect of one flask at a time.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=13506/flask-of-petrification",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_26.jpg",
+  "id": "13506",
+  "slug": "flask-of-petrification"
+}

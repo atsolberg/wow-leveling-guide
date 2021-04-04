@@ -1,0 +1,10 @@
+{
+  "name": "Outrunner's Bow",
+  "quality": "Rare",
+  "icon": "inv_weapon_bow_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Outrunner's Bow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->19 - 37 Damage</span></td>\n    <th>Speed <!--spd-->2.40</th>\n</tr></table><!--dps-->(11.67 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">18</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=20438/outrunners-bow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_02.jpg",
+  "id": "20438",
+  "slug": "outrunners-bow"
+}

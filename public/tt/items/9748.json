@@ -1,0 +1,10 @@
+{
+  "name": "Simple Robe",
+  "quality": "Uncommon",
+  "icon": "inv_chest_cloth_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Simple Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->28 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">74</span></div></td></tr></table>",
+  "url": "/item=9748/simple-robe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_18.jpg",
+  "id": "9748",
+  "slug": "simple-robe"
+}

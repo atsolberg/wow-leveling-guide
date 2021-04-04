@@ -1,0 +1,10 @@
+{
+  "name": "Dark Iron Helm",
+  "quality": "Epic",
+  "icon": "inv_helmet_22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Dark Iron Helm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->66</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->758 Armor</span><br><span><!--stat7-->+20 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+35 Fire Resistance<!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">53</span> <span class=\"moneycopper\">99</span></div></td></tr></table>",
+  "url": "/item=19148/dark-iron-helm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_22.jpg",
+  "id": "19148",
+  "slug": "dark-iron-helm"
+}

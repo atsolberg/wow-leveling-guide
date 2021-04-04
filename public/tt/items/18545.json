@@ -1,0 +1,10 @@
+{
+  "name": "Leggings of Arcane Supremacy",
+  "quality": "Epic",
+  "icon": "inv_pants_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Leggings of Arcane Supremacy</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->69</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->93 Armor</span><br><span><!--stat5-->+24 Intellect</span><br><span><!--stat7-->+14 Stamina</span><br><span><!--stat6-->+14 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Arcane Resistance<br>+10 Frost Resistance<!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=17830\" class=\"q2\">Increases damage done by Arcane spells and effects by up to 36.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">25</span> <span class=\"moneycopper\">46</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Azuregos</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 14.04%</div></td></tr></table>",
+  "url": "/item=18545/leggings-of-arcane-supremacy",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_08.jpg",
+  "id": "18545",
+  "slug": "leggings-of-arcane-supremacy"
+}

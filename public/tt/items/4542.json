@@ -1,0 +1,10 @@
+{
+  "name": "Moist Cornbread",
+  "quality": "Common",
+  "icon": "inv_misc_food_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Moist Cornbread</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><span class=\"q2\">Use: <a href=\"/spell=435\" class=\"q2\">Restores 552 health over 24 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=4542/moist-cornbread",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_08.jpg",
+  "id": "4542",
+  "slug": "moist-cornbread"
+}

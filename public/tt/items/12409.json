@@ -1,0 +1,10 @@
+{
+  "name": "Thorium Boots",
+  "quality": "Uncommon",
+  "icon": "inv_boots_plate_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Thorium Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->56</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->367 Armor</span><!--ebstats--><!--egstats--><!--eistats--><br>+7 Arcane Resistance<br>+7 Fire Resistance<br>+7 Nature Resistance<br>+7 Frost Resistance<br>+7 Shadow Resistance<!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->51<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">36</span></div></td></tr></table>",
+  "url": "/item=12409/thorium-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_plate_08.jpg",
+  "id": "12409",
+  "slug": "thorium-boots"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Legends of the Gurubashi, Volume 3",
+  "quality": "Poor",
+  "icon": "inv_misc_book_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Legends of the Gurubashi, Volume 3</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Stone of the Tides&quot;</span><br><span class=\"q2\">&lt;Right Click to Read&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=3899/legends-of-the-gurubashi-volume-3",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_04.jpg",
+  "id": "3899",
+  "slug": "legends-of-the-gurubashi-volume-3"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Mercurial Breastplate",
+  "quality": "Uncommon",
+  "icon": "inv_chest_chain_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Mercurial Breastplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->64</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->342 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->59<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">16</span></div></td></tr></table>",
+  "url": "/item=10157/mercurial-breastplate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_07.jpg",
+  "id": "10157",
+  "slug": "mercurial-breastplate"
+}

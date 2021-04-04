@@ -1,0 +1,10 @@
+{
+  "name": "Dust of Deterioration",
+  "quality": "Common",
+  "icon": "inv_misc_ammo_gunpowder_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dust of Deterioration</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=4\" class=\"c4\">Rogue</a></div></td></tr></table><table><tr><td><span class=\"q\">&quot;Used by rogues to brew poison.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=8924/dust-of-deterioration",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_ammo_gunpowder_01.jpg",
+  "id": "8924",
+  "slug": "dust-of-deterioration"
+}

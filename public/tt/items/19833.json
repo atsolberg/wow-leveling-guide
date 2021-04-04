@@ -1,0 +1,10 @@
+{
+  "name": "Zandalar Predator's Bracers",
+  "quality": "Epic",
+  "icon": "inv_bracer_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Zandalar Predator's Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->172 Armor</span><br><span><!--stat5-->+10 Intellect</span><br><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=3\" class=\"c3\">Hunter</a></div></td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=21439\" class=\"q2\">+34 ranged Attack Power.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=21362\" class=\"q2\">Restores 4 mana per 5 sec.</a></span><!--itemEffects:1--><br /><br /><span class=\"q\"><a href=\"/item-set=477\" class=\"q\">Predator's Armor</a> (0/5)</span><div class=\"q0 indent\"><span><!--si19621--><a href=\"/item=19621\">Maelstrom's Wrath</a></span><br /><span><!--si19953--><a href=\"/item=19953\">Renataki's Charm of Beasts</a></span><br /><span><!--si19833--><a href=\"/item=19833\">Zandalar Predator's Bracers</a></span><br /><span><!--si19832--><a href=\"/item=19832\">Zandalar Predator's Belt</a></span><br /><span><!--si19831--><a href=\"/item=19831\">Zandalar Predator's Mantle</a></span></div><br /><span class=\"q0\"><span>(2) Set : <a href=\"/spell=9331\">+20 Attack Power.</a></span><br /><span>(3) Set : <a href=\"/spell=24465\">Decreases the cooldown of Concussive Shot by 1 sec.</a></span><br /><span>(5) Set : <a href=\"/spell=24467\">Increases the duration of Serpent Sting by 3 sec.</a></span></span></td></tr></table>",
+  "url": "/item=19833/zandalar-predators-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_18.jpg",
+  "id": "19833",
+  "slug": "zandalar-predators-bracers"
+}

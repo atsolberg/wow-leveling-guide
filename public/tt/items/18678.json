@@ -1,0 +1,10 @@
+{
+  "name": "Tempestria's Frozen Necklace",
+  "quality": "Rare",
+  "icon": "inv_jewelry_necklace_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Tempestria's Frozen Necklace</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat5-->+5 Intellect</span><br><span><!--stat7-->+8 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+15 Frost Resistance<!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">66</span> <span class=\"moneycopper\">35</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Princess Tempestria</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.79%</div></td></tr></table>",
+  "url": "/item=18678/tempestrias-frozen-necklace",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_03.jpg",
+  "id": "18678",
+  "slug": "tempestrias-frozen-necklace"
+}

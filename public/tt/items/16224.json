@@ -1,0 +1,11 @@
+{
+  "name": "Formula: Enchant Cloak - Superior Defense",
+  "quality": "Common",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Formula: Enchant Cloak - Superior Defense</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->57</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=333\" class=\"q1\">Enchanting</a> (285)<br><span class=\"q2\">Use: <a href=\"/spell=20076\" class=\"q2\">Teaches you how to permanently enchant a cloak to give 70 additional armor.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=16224/formula-enchant-cloak-superior-defense",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "16224",
+  "slug": "formula-enchant-cloak-superior-defense"
+}

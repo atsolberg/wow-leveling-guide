@@ -1,0 +1,10 @@
+{
+  "name": "Sharp Claw",
+  "quality": "Common",
+  "icon": "inv_misc_monsterclaw_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sharp Claw</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">45</span></div></td></tr></table>",
+  "url": "/item=5635/sharp-claw",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterclaw_03.jpg",
+  "id": "5635",
+  "slug": "sharp-claw"
+}

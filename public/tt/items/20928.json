@@ -1,0 +1,10 @@
+{
+  "name": "Qiraji Bindings of Command",
+  "quality": "Epic",
+  "icon": "inv_qiraj_bindingscommand",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Qiraji Bindings of Command</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a>, <a href=\"/class=3\" class=\"c3\">Hunter</a>, <a href=\"/class=4\" class=\"c4\">Rogue</a>, <a href=\"/class=5\" class=\"c5\">Priest</a></div></td></tr></table>",
+  "url": "/item=20928/qiraji-bindings-of-command",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_qiraj_bindingscommand.jpg",
+  "id": "20928",
+  "slug": "qiraji-bindings-of-command"
+}

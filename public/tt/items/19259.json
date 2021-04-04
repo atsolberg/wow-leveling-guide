@@ -1,0 +1,10 @@
+{
+  "name": "Two of Warlords",
+  "quality": "Rare",
+  "icon": "inv_misc_ticket_tarot_warlord_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Two of Warlords</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=23678\" class=\"q2\">Combine the Ace through Eight of Warlords to complete the set.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">25</span></div></td></tr></table>",
+  "url": "/item=19259/two-of-warlords",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_ticket_tarot_warlord_01.jpg",
+  "id": "19259",
+  "slug": "two-of-warlords"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "High Warlord's Tome of Mending",
+  "quality": "Epic",
+  "icon": "inv_misc_book_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">High Warlord's Tome of Mending</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->78</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat5-->+14 Intellect</span><br><span><!--stat7-->+14 Stamina</span><br><span><!--stat6-->+14 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br>Requires <span class=\"icon-horde\">High Warlord</span> <span class=\"icon-alliance\">Grand Marshal</span><br><span class=\"q2\">Equip: <a href=\"/spell=9317\" class=\"q2\">Increases healing done by spells and effects by up to 31.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">7</span> <span class=\"moneysilver\">54</span> <span class=\"moneycopper\">52</span></div></td></tr></table>",
+  "url": "/item=23469/high-warlords-tome-of-mending",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_14.jpg",
+  "id": "23469",
+  "slug": "high-warlords-tome-of-mending"
+}

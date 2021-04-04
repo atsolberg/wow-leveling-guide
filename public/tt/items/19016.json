@@ -1,0 +1,10 @@
+{
+  "name": "Vessel of Rebirth",
+  "quality": "Legendary",
+  "icon": "inv_enchant_shardglowinglarge",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q5\">Vessel of Rebirth</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=7785\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60</td></tr></table>",
+  "url": "/item=19016/vessel-of-rebirth",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_enchant_shardglowinglarge.jpg",
+  "id": "19016",
+  "slug": "vessel-of-rebirth"
+}

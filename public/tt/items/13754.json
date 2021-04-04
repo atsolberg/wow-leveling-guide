@@ -1,0 +1,10 @@
+{
+  "name": "Raw Glossy Mightfish",
+  "quality": "Common",
+  "icon": "inv_misc_monsterhead_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Raw Glossy Mightfish</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<br><span class=\"q2\">Use: <a href=\"/spell=1127\" class=\"q2\">Restores 874.8 health over 27 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">6</span></div></td></tr></table>",
+  "url": "/item=13754/raw-glossy-mightfish",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterhead_03.jpg",
+  "id": "13754",
+  "slug": "raw-glossy-mightfish"
+}

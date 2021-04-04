@@ -1,0 +1,10 @@
+{
+  "name": "QAEnchant Weapon +15 Agility",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QAEnchant Weapon +15 Agility</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=26792\" class=\"q2\">Permanently enchant a Melee Weapon to add 15 to Agility.</a></span></td></tr></table>",
+  "url": "/item=22020/qaenchant-weapon-15-agility",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "22020",
+  "slug": "qaenchant-weapon-15-agility"
+}

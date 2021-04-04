@@ -1,0 +1,10 @@
+{
+  "name": "Burning War Axe",
+  "quality": "Rare",
+  "icon": "inv_axe_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Burning War Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->73 - 110 Damage</span></td>\n    <th>Speed <!--spd-->3.30</th>\n</tr></table><!--dps-->(27.73 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->28<br><span class=\"q2\">Chance on hit: <a href=\"/spell=18199\" class=\"q2\">Hurls a fiery ball that causes 86 to 110 Fire damage and an additional 18 damage over 6 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">87</span> <span class=\"moneycopper\">56</span></div></td></tr></table>",
+  "url": "/item=2299/burning-war-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_02.jpg",
+  "id": "2299",
+  "slug": "burning-war-axe"
+}

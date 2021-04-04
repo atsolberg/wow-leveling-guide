@@ -1,0 +1,10 @@
+{
+  "name": "Zandalar Signet of Might",
+  "quality": "Rare",
+  "icon": "inv_misc_armorkit_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Zandalar Signet of Might</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=24422\" class=\"q2\">Permanently adds 30 attack power to a shoulder slot item.</a></span></td></tr></table>",
+  "url": "/item=20077/zandalar-signet-of-might",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_armorkit_08.jpg",
+  "id": "20077",
+  "slug": "zandalar-signet-of-might"
+}

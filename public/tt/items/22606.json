@@ -1,0 +1,10 @@
+{
+  "name": "Craftsman's Writ - Rugged Armor Kit",
+  "quality": "Common",
+  "icon": "inv_misc_note_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Craftsman's Writ - Rugged Armor Kit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br /><a href=\"/quest=9185\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q\">&quot;Bears the seal of the Argent Dawn.&quot;</span></td></tr></table>",
+  "url": "/item=22606/craftsmans-writ-rugged-armor-kit",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_02.jpg",
+  "id": "22606",
+  "slug": "craftsmans-writ-rugged-armor-kit"
+}

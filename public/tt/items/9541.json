@@ -1,0 +1,10 @@
+{
+  "name": "Box of Goodies",
+  "quality": "Common",
+  "icon": "inv_box_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Box of Goodies</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->47</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span></div></td></tr></table>",
+  "url": "/item=9541/box-of-goodies",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_04.jpg",
+  "id": "9541",
+  "slug": "box-of-goodies"
+}

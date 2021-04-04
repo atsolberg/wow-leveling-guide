@@ -1,0 +1,10 @@
+{
+  "name": "Coarse Dynamite",
+  "quality": "Common",
+  "icon": "inv_misc_bomb_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Coarse Dynamite</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (75)<br><span class=\"q2\">Use: <a href=\"/spell=4061\" class=\"q2\">Inflicts 51 to 69 Fire damage in a 5 yard radius.</a> (1 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=4365/coarse-dynamite",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bomb_06.jpg",
+  "id": "4365",
+  "slug": "coarse-dynamite"
+}

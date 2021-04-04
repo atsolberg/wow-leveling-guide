@@ -1,0 +1,10 @@
+{
+  "name": "Galgann's Fireblaster",
+  "quality": "Rare",
+  "icon": "inv_weapon_rifle_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Galgann's Fireblaster</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->47</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->44 - 84 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(24.62 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->42<br><span class=\"q2\">Equip: <a href=\"/spell=29633\" class=\"q2\">Chance to strike your ranged target with a Fire Blast for 12 to 18 Fire damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">66</span> <span class=\"moneycopper\">81</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Galgann Firehammer</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 17.73%</div></td></tr></table>",
+  "url": "/item=9412/galganns-fireblaster",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_07.jpg",
+  "id": "9412",
+  "slug": "galganns-fireblaster"
+}

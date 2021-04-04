@@ -1,0 +1,10 @@
+{
+  "name": "Pure Hearts",
+  "quality": "Common",
+  "icon": "inv_misc_organ_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pure Hearts</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=9223\" class=\"q2\">Call forth a succubus using the summoning circle.</a> (3 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=6286/pure-hearts",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_organ_06.jpg",
+  "id": "6286",
+  "slug": "pure-hearts"
+}

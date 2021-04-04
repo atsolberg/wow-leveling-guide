@@ -1,0 +1,10 @@
+{
+  "name": "Pirate's Footlocker",
+  "quality": "Common",
+  "icon": "inv_box_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pirate's Footlocker</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span></div></td></tr></table>",
+  "url": "/item=9276/pirates-footlocker",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_03.jpg",
+  "id": "9276",
+  "slug": "pirates-footlocker"
+}

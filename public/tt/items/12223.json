@@ -1,0 +1,10 @@
+{
+  "name": "Meaty Bat Wing",
+  "quality": "Common",
+  "icon": "inv_misc_pelt_bear_ruin_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Meaty Bat Wing</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">4</span></div></td></tr></table>",
+  "url": "/item=12223/meaty-bat-wing",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_pelt_bear_ruin_05.jpg",
+  "id": "12223",
+  "slug": "meaty-bat-wing"
+}

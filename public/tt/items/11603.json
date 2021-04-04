@@ -1,0 +1,10 @@
+{
+  "name": "Vilerend Slicer",
+  "quality": "Rare",
+  "icon": "ability_whirlwind",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Vilerend Slicer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->51</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:13--><span class=\"q1\">Fist Weapon</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->33 - 62 Damage</span></td>\n    <th>Speed <!--spd-->1.40</th>\n</tr></table><!--dps-->(33.93 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->46<br><span class=\"q2\">Chance on hit: <a href=\"/spell=16405\" class=\"q2\">Wounds the target for 75 damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">56</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: The Behemoth</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 45.71%</div></td></tr></table>",
+  "url": "/item=11603/vilerend-slicer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_whirlwind.jpg",
+  "id": "11603",
+  "slug": "vilerend-slicer"
+}

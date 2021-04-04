@@ -1,0 +1,10 @@
+{
+  "name": "Explorer's Knapsack",
+  "quality": "Common",
+  "icon": "inv_misc_bag_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Explorer's Knapsack</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><br />Binds when picked up<br />12 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=16057/explorers-knapsack",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_19.jpg",
+  "id": "16057",
+  "slug": "explorers-knapsack"
+}

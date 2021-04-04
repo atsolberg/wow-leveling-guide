@@ -1,0 +1,10 @@
+{
+  "name": "Quiver of the Night Watch",
+  "quality": "Uncommon",
+  "icon": "inv_misc_quiver_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Quiver of the Night Watch</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Bag</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=29417\" class=\"q2\">Increases ranged attack speed by 11%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div></td></tr></table>",
+  "url": "/item=3605/quiver-of-the-night-watch",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_quiver_04.jpg",
+  "id": "3605",
+  "slug": "quiver-of-the-night-watch"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Carved Ivory Bone",
+  "quality": "Poor",
+  "icon": "inv_misc_bone_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Carved Ivory Bone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Looks like the carving was never finished...&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">2</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Glordrum Steelbeard</div></td></tr></table>",
+  "url": "/item=24281/carved-ivory-bone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_10.jpg",
+  "id": "24281",
+  "slug": "carved-ivory-bone"
+}

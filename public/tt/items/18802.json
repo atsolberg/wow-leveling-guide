@@ -1,0 +1,10 @@
+{
+  "name": "Shadowy Potion",
+  "quality": "Common",
+  "icon": "inv_potion_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Shadowy Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=23179\" class=\"q2\">Infuses imbiber with a taint of shadow, making <dfn title=\"her\">him</dfn> friendly to the denizens of Jaedenar. &nbsp;Lasts 20 minutes.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=18802/shadowy-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_27.jpg",
+  "id": "18802",
+  "slug": "shadowy-potion"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Dark Iron Shoulders",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Plans: Dark Iron Shoulders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->56</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (280)<br><span class=\"q2\">Use: <a href=\"/spell=15302\" class=\"q2\">Teaches you how to make Dark Iron Shoulders.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span></div><br /><span class=\"q2\"><a href=\"/item=11605\">Dark Iron Shoulders</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->514 Armor</span><br><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Fire Resistance<!--e--><!--ps--><br>Durability 70 / 70<br>Requires Level <!--rlvl-->53<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">76</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=11371\">Dark Iron Bar</a>&nbsp;(6), <a href=\"/item=7077\">Heart of Fire</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=11615/plans-dark-iron-shoulders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "11615",
+  "slug": "plans-dark-iron-shoulders"
+}

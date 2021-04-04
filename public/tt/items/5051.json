@@ -1,0 +1,10 @@
+{
+  "name": "Dig Rat",
+  "quality": "Common",
+  "icon": "inv_misc_pelt_bear_ruin_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dig Rat</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Dig Rat</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 97.35%</div></td></tr></table>",
+  "url": "/item=5051/dig-rat",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_pelt_bear_ruin_04.jpg",
+  "id": "5051",
+  "slug": "dig-rat"
+}

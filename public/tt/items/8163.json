@@ -1,0 +1,10 @@
+{
+  "name": "Jouster's Pauldrons",
+  "quality": "Uncommon",
+  "icon": "inv_shoulder_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Jouster's Pauldrons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->41</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->225 Armor</span><br><span><!--stat4-->+9 Strength</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">36</span> <span class=\"moneycopper\">88</span></div></td></tr></table>",
+  "url": "/item=8163/jousters-pauldrons",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_12.jpg",
+  "id": "8163",
+  "slug": "jousters-pauldrons"
+}

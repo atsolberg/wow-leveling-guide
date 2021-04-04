@@ -1,0 +1,10 @@
+{
+  "name": "Twill Cloak",
+  "quality": "Poor",
+  "icon": "inv_misc_cape_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Twill Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->52</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->30 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->47<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">32</span> <span class=\"moneycopper\">58</span></div></td></tr></table>",
+  "url": "/item=3947/twill-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_14.jpg",
+  "id": "3947",
+  "slug": "twill-cloak"
+}

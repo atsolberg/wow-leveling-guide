@@ -1,0 +1,10 @@
+{
+  "name": "Diamond Runestone",
+  "quality": "Common",
+  "icon": "inv_misc_gem_diamond_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Diamond Runestone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=4845/diamond-runestone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_diamond_01.jpg",
+  "id": "4845",
+  "slug": "diamond-runestone"
+}

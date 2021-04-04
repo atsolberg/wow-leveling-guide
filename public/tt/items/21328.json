@@ -1,0 +1,10 @@
+{
+  "name": "Wand of Holiday Cheer",
+  "quality": "Common",
+  "icon": "inv_wand_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Wand of Holiday Cheer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Duration: 10 days (real time)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=26074\" class=\"q2\">Fills targets with holiday cheer.</a> (2 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=21328/wand-of-holiday-cheer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_02.jpg",
+  "id": "21328",
+  "slug": "wand-of-holiday-cheer"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Obsidian Cleaver",
+  "quality": "Rare",
+  "icon": "inv_axe_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Obsidian Cleaver</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->94 - 141 Damage</span></td>\n    <th>Speed <!--spd-->3.30</th>\n</tr></table><!--dps-->(35.61 damage per second)<br><span><!--stat4-->+6 Strength</span><br><span><!--stat3-->+5 Agility</span><br><span><!--stat7-->+19 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">68</span> <span class=\"moneycopper\">95</span></div></td></tr></table>",
+  "url": "/item=9383/obsidian-cleaver",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_14.jpg",
+  "id": "9383",
+  "slug": "obsidian-cleaver"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Unforged Seal of Ascension",
+  "quality": "Common",
+  "icon": "inv_jewelry_amulet_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Unforged Seal of Ascension</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=16057\" class=\"q2\">Places the Unforged Seal of Ascension. Use in front of Emberstrife.</a></span><br />5 Charges</td></tr></table>",
+  "url": "/item=12323/unforged-seal-of-ascension",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_amulet_01.jpg",
+  "id": "12323",
+  "slug": "unforged-seal-of-ascension"
+}

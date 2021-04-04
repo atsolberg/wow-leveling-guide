@@ -1,0 +1,10 @@
+{
+  "name": "Celestial Pauldrons",
+  "quality": "Uncommon",
+  "icon": "inv_shoulder_25",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Celestial Pauldrons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->57 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">71</span></div></td></tr></table>",
+  "url": "/item=14316/celestial-pauldrons",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_25.jpg",
+  "id": "14316",
+  "slug": "celestial-pauldrons"
+}

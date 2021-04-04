@@ -1,0 +1,10 @@
+{
+  "name": "Remains of Trey Lightforge",
+  "quality": "Common",
+  "icon": "inv_misc_bag_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Remains of Trey Lightforge</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=13562/remains-of-trey-lightforge",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_10.jpg",
+  "id": "13562",
+  "slug": "remains-of-trey-lightforge"
+}

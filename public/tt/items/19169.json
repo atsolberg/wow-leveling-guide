@@ -1,0 +1,10 @@
+{
+  "name": "Nightfall",
+  "quality": "Epic",
+  "icon": "inv_axe_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Nightfall</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->70</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->187 - 282 Damage</span></td>\n    <th>Speed <!--spd-->3.50</th>\n</tr></table><!--dps-->(67.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Chance on hit: <a href=\"/spell=23605\" class=\"q2\">Spell damage taken by target increased by 15% for 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">12</span> <span class=\"moneysilver\">91</span> <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=19169/nightfall",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_12.jpg",
+  "id": "19169",
+  "slug": "nightfall"
+}

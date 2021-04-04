@@ -1,0 +1,10 @@
+{
+  "name": "Brigade Circlet",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Brigade Circlet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->44</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->199 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->39<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">69</span> <span class=\"moneycopper\">95</span></div></td></tr></table>",
+  "url": "/item=9932/brigade-circlet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_11.jpg",
+  "id": "9932",
+  "slug": "brigade-circlet"
+}

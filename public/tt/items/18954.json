@@ -1,0 +1,10 @@
+{
+  "name": "Solenor's Head",
+  "quality": "Common",
+  "icon": "spell_shadow_summonvoidwalker",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Solenor's Head</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Nelson the Nice</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 85.31%</div></td></tr></table>",
+  "url": "/item=18954/solenors-head",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_summonvoidwalker.jpg",
+  "id": "18954",
+  "slug": "solenors-head"
+}

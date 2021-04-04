@@ -1,0 +1,10 @@
+{
+  "name": "Halberd of Smiting",
+  "quality": "Epic",
+  "icon": "inv_weapon_halberd_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Halberd of Smiting</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->66</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:6--><span class=\"q1\">Polearm</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->175 - 263 Damage</span></td>\n    <th>Speed <!--spd-->3.50</th>\n</tr></table><!--dps-->(62.57 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=25669\" class=\"q2\">Chance to decapitate the target on a melee swing, causing 452 to 676 damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">11</span> <span class=\"moneysilver\">20</span> <span class=\"moneycopper\">9</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Bloodlord Mandokir</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 9.00%</div></td></tr></table>",
+  "url": "/item=19874/halberd-of-smiting",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_halberd_12.jpg",
+  "id": "19874",
+  "slug": "halberd-of-smiting"
+}

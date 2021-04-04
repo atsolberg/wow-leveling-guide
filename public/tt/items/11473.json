@@ -1,0 +1,10 @@
+{
+  "name": "PX83-Enigmatron",
+  "quality": "Common",
+  "icon": "inv_gizmo_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">PX83-Enigmatron</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=15066\" class=\"q2\">Use in the Tomb of the Seven in Blackrock Depths.</a></span></td></tr></table>",
+  "url": "/item=11473/px83-enigmatron",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_07.jpg",
+  "id": "11473",
+  "slug": "px83-enigmatron"
+}

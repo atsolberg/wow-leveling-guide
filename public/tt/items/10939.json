@@ -1,0 +1,10 @@
+{
+  "name": "Greater Magic Essence",
+  "quality": "Uncommon",
+  "icon": "inv_enchant_essencemagiclarge",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Greater Magic Essence</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=13362\" class=\"q2\">Turn a greater magic essence into three lesser ones.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div></td></tr></table>",
+  "url": "/item=10939/greater-magic-essence",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_enchant_essencemagiclarge.jpg",
+  "id": "10939",
+  "slug": "greater-magic-essence"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Lunar Festival Invitation DEBUG",
+  "quality": "Common",
+  "icon": "inv_scroll_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Lunar Festival Invitation DEBUG</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<br />Unique<br />Duration: 1 day<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=26373\" class=\"q2\">Teleports the caster from within Greater Moonlight.</a></span></td></tr></table>",
+  "url": "/item=21739/lunar-festival-invitation-debug",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_05.jpg",
+  "id": "21739",
+  "slug": "lunar-festival-invitation-debug"
+}

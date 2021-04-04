@@ -1,0 +1,10 @@
+{
+  "name": "Squirrel Nut",
+  "quality": "Common",
+  "icon": "inv_misc_food_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Squirrel Nut</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=2688/squirrel-nut",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_02.jpg",
+  "id": "2688",
+  "slug": "squirrel-nut"
+}

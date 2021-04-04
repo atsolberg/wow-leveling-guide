@@ -1,0 +1,10 @@
+{
+  "name": "Staff of Prehistoria",
+  "quality": "Common",
+  "icon": "inv_staff_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Staff of Prehistoria</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=9577\" class=\"q2\">Place in the Uldaman map room.</a></span></td></tr></table>",
+  "url": "/item=7733/staff-of-prehistoria",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_01.jpg",
+  "id": "7733",
+  "slug": "staff-of-prehistoria"
+}

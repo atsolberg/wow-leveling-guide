@@ -1,0 +1,10 @@
+{
+  "name": "Raw Rainbow Fin Albacore",
+  "quality": "Common",
+  "icon": "inv_misc_fish_25",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Raw Rainbow Fin Albacore</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<br><span class=\"q2\">Use: <a href=\"/spell=433\" class=\"q2\">Restores 61.2 health over 18 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">2</span></div></td></tr></table>",
+  "url": "/item=6361/raw-rainbow-fin-albacore",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_25.jpg",
+  "id": "6361",
+  "slug": "raw-rainbow-fin-albacore"
+}

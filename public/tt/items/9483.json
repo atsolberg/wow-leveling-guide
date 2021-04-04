@@ -1,0 +1,10 @@
+{
+  "name": "Flaming Incinerator",
+  "quality": "Rare",
+  "icon": "inv_torch_lit",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Flaming Incinerator</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->49</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->59 - 111 Fire Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(47.22 damage per second)<!--ebstats--><!--egstats--><!--eistats--><br>+8 Fire Resistance<!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->44<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">91</span> <span class=\"moneycopper\">39</span></div></td></tr></table>",
+  "url": "/item=9483/flaming-incinerator",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_torch_lit.jpg",
+  "id": "9483",
+  "slug": "flaming-incinerator"
+}

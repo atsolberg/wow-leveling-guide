@@ -1,0 +1,11 @@
+{
+  "name": "Formula: Enchant 2H Weapon - Lesser Intellect",
+  "quality": "Common",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Formula: Enchant 2H Weapon - Lesser Intellect</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=333\" class=\"q1\">Enchanting</a> (100)<br><span class=\"q2\">Use: <a href=\"/spell=7798\" class=\"q2\">Teaches you how to permanently enchant a two-handed weapon so it grants +3 intellect.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=6349/formula-enchant-2h-weapon-lesser-intellect",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "6349",
+  "slug": "formula-enchant-2h-weapon-lesser-intellect"
+}

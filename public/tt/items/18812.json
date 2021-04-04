@@ -1,0 +1,10 @@
+{
+  "name": "Wristguards of True Flight",
+  "quality": "Epic",
+  "icon": "inv_bracer_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Wristguards of True Flight</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->71</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->198 Armor</span><br><span><!--stat3-->+19 Agility</span><br><span><!--stat5-->+6 Intellect</span><br><span><!--stat7-->+11 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=15464\" class=\"q2\">Improves your chance to hit by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">24</span> <span class=\"moneycopper\">58</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Majordomo Executus</div></td></tr></table>",
+  "url": "/item=18812/wristguards-of-true-flight",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_02.jpg",
+  "id": "18812",
+  "slug": "wristguards-of-true-flight"
+}

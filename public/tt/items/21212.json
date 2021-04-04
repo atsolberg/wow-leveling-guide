@@ -1,0 +1,10 @@
+{
+  "name": "Fresh Holly",
+  "quality": "Common",
+  "icon": "inv_misc_branch_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fresh Holly</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when picked up<br />Duration: 7 days (real time)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br><span class=\"q2\">Use: <a href=\"/spell=25860\" class=\"q2\">Transforms your mount into something more festive.</a> (1 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=21212/fresh-holly",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_branch_01.jpg",
+  "id": "21212",
+  "slug": "fresh-holly"
+}

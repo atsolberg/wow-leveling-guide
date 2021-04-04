@@ -1,0 +1,10 @@
+{
+  "name": "Dawnspire Cord",
+  "quality": "Rare",
+  "icon": "inv_belt_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Dawnspire Cord</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->53</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->43 Armor</span><br><span><!--stat5-->+19 Intellect</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->48<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">68</span> <span class=\"moneycopper\">65</span></div></td></tr></table>",
+  "url": "/item=12466/dawnspire-cord",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_11.jpg",
+  "id": "12466",
+  "slug": "dawnspire-cord"
+}

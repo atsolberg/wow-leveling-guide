@@ -1,0 +1,10 @@
+{
+  "name": "Earth Totem",
+  "quality": "Common",
+  "icon": "spell_totem_wardofdraining",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Earth Totem</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->4</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=5175/earth-totem",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_totem_wardofdraining.jpg",
+  "id": "5175",
+  "slug": "earth-totem"
+}

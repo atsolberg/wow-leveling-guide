@@ -1,0 +1,10 @@
+{
+  "name": "Verimonde's Last Resort",
+  "quality": "Rare",
+  "icon": "inv_weapon_shortblade_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Verimonde's Last Resort</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->66</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->39 - 76 Damage</span></td>\n    <th>Speed <!--spd-->1.40</th>\n</tr></table><!--dps-->(41.07 damage per second)<br><span><!--stat5-->+8 Intellect</span><br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=14254\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 19.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">45</span> <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=22688/verimondes-last-resort",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_03.jpg",
+  "id": "22688",
+  "slug": "verimondes-last-resort"
+}

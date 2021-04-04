@@ -1,0 +1,10 @@
+{
+  "name": "Holy Protection Potion",
+  "quality": "Common",
+  "icon": "inv_potion_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Holy Protection Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<br><span class=\"q2\">Use: <a href=\"/spell=7245\" class=\"q2\">Absorbs 300 to 500 holy damage. &nbsp;Lasts 1 hour.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">62</span></div></td></tr></table>",
+  "url": "/item=6051/holy-protection-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_09.jpg",
+  "id": "6051",
+  "slug": "holy-protection-potion"
+}

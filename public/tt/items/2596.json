@@ -1,0 +1,10 @@
+{
+  "name": "Skin of Dwarven Stout",
+  "quality": "Common",
+  "icon": "inv_drink_milk_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Skin of Dwarven Stout</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=11008\" class=\"q2\">A typical alcoholic beverage.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">30</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Stomper Kreeg</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 15.34%</div></td></tr></table>",
+  "url": "/item=2596/skin-of-dwarven-stout",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_milk_02.jpg",
+  "id": "2596",
+  "slug": "skin-of-dwarven-stout"
+}

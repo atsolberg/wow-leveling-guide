@@ -1,0 +1,10 @@
+{
+  "name": "Elemental Attuned Blade",
+  "quality": "Epic",
+  "icon": "inv_sword_22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Elemental Attuned Blade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when equipped<br />Unique<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:7--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->59 - 117 Damage</span></td>\n    <th>Speed <!--spd-->2.10</th>\n</tr></table><!--dps-->(41.90 damage per second)<br><span><!--stat5-->+6 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=17367\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 32.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=21625\" class=\"q2\">Restores 3 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">7</span> <span class=\"moneysilver\">54</span> <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=20698/elemental-attuned-blade",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_22.jpg",
+  "id": "20698",
+  "slug": "elemental-attuned-blade"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Bulky Maul",
+  "quality": "Poor",
+  "icon": "inv_hammer_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Bulky Maul</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->76 - 115 Damage</span></td>\n    <th>Speed <!--spd-->3.60</th>\n</tr></table><!--dps-->(26.53 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">79</span> <span class=\"moneycopper\">93</span></div></td></tr></table>",
+  "url": "/item=13821/bulky-maul",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_16.jpg",
+  "id": "13821",
+  "slug": "bulky-maul"
+}

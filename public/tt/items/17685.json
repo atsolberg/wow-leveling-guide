@@ -1,0 +1,10 @@
+{
+  "name": "Smokywood Pastures Sampler",
+  "quality": "Common",
+  "icon": "inv_holiday_christmas_present_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Smokywood Pastures Sampler</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=17685/smokywood-pastures-sampler",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_holiday_christmas_present_02.jpg",
+  "id": "17685",
+  "slug": "smokywood-pastures-sampler"
+}

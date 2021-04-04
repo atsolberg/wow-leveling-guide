@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Hide of the Wild",
+  "quality": "Epic",
+  "icon": "inv_scroll_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Pattern: Hide of the Wild</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->62</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=165\" class=\"q1\">Leatherworking</a> (300)<br>Requires <a href=\"/spells=11.165.10660\" class=\"q1\">Tribal Leatherworking</a><br><span class=\"q2\">Use: <a href=\"/spell=22933\" class=\"q2\">Teaches you how to craft a Hide of the Wild.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span></div><br /><span class=\"q4\"><a href=\"/item=18510\">Hide of the Wild</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->48 Armor</span><br><span><!--stat5-->+10 Intellect</span><br><span><!--stat7-->+8 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=18032\" class=\"q2\">Increases healing done by spells and effects by up to 42.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">89</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=8170\">Rugged Leather</a>&nbsp;(30), <a href=\"/item=12803\">Living Essence</a>&nbsp;(12), <a href=\"/item=7080\">Essence of Water</a>&nbsp;(10), <a href=\"/item=18512\">Larval Acid</a>&nbsp;(8), <a href=\"/item=15407\">Cured Rugged Hide</a>&nbsp;(3), <a href=\"/item=14341\">Rune Thread</a>&nbsp;(8)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=18518/pattern-hide-of-the-wild",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_04.jpg",
+  "id": "18518",
+  "slug": "pattern-hide-of-the-wild"
+}

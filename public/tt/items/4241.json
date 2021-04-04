@@ -1,0 +1,10 @@
+{
+  "name": "Green Woolen Bag",
+  "quality": "Common",
+  "icon": "inv_misc_bag_10_green",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Green Woolen Bag</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />8 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=4241/green-woolen-bag",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_10_green.jpg",
+  "id": "4241",
+  "slug": "green-woolen-bag"
+}

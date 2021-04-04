@@ -1,0 +1,10 @@
+{
+  "name": "Token of Thievery",
+  "quality": "Common",
+  "icon": "inv_misc_rune_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Token of Thievery</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=7871/token-of-thievery",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_rune_02.jpg",
+  "id": "7871",
+  "slug": "token-of-thievery"
+}

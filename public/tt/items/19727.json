@@ -1,0 +1,10 @@
+{
+  "name": "Blood Scythe",
+  "quality": "Rare",
+  "icon": "inv_weapon_shortblade_29",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Blood Scythe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Allows an Herbalist to collect Bloodvine from Zul'Gurub Flora when carried.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=19727/blood-scythe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_29.jpg",
+  "id": "19727",
+  "slug": "blood-scythe"
+}

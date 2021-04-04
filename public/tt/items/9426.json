@@ -1,0 +1,10 @@
+{
+  "name": "Monolithic Bow",
+  "quality": "Rare",
+  "icon": "inv_weapon_bow_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Monolithic Bow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->41</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->41 - 77 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(21.85 damage per second)<br><span><!--stat4-->+6 Strength</span><br><span><!--stat3-->+3 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->36<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=9426/monolithic-bow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_01.jpg",
+  "id": "9426",
+  "slug": "monolithic-bow"
+}

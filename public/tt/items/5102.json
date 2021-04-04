@@ -1,0 +1,10 @@
+{
+  "name": "Owatanka's Tailspike",
+  "quality": "Common",
+  "icon": "inv_misc_bone_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Owatanka's Tailspike</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=884\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<div class=\"whtt-extra whtt-droppedby\">Dropped by: Owatanka</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 86.34%</div></td></tr></table>",
+  "url": "/item=5102/owatankas-tailspike",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_06.jpg",
+  "id": "5102",
+  "slug": "owatankas-tailspike"
+}

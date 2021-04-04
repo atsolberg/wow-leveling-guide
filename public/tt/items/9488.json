@@ -1,0 +1,10 @@
+{
+  "name": "Oscillating Power Hammer",
+  "quality": "Rare",
+  "icon": "inv_hammer_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Oscillating Power Hammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->28</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->24 - 46 Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(17.50 damage per second)<br><span><!--stat4-->+5 Strength</span><br><span><!--stat7-->+1 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->23<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">44</span> <span class=\"moneycopper\">19</span></div></td></tr></table>",
+  "url": "/item=9488/oscillating-power-hammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_08.jpg",
+  "id": "9488",
+  "slug": "oscillating-power-hammer"
+}

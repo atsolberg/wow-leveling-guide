@@ -1,0 +1,10 @@
+{
+  "name": "Raw Loch Frenzy",
+  "quality": "Common",
+  "icon": "inv_misc_fish_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Raw Loch Frenzy</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<br><span class=\"q2\">Use: <a href=\"/spell=433\" class=\"q2\">Restores 61.2 health over 18 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">2</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Loch Frenzy</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 47.23%</div></td></tr></table>",
+  "url": "/item=6317/raw-loch-frenzy",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_03.jpg",
+  "id": "6317",
+  "slug": "raw-loch-frenzy"
+}

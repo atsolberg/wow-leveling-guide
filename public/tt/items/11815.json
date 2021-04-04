@@ -1,0 +1,10 @@
+{
+  "name": "Hand of Justice",
+  "quality": "Rare",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Hand of Justice</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->53<br><span class=\"q2\">Equip: <a href=\"/spell=15600\" class=\"q2\">2% chance on melee hit to gain 1 extra attack.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=9331\" class=\"q2\">+20 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Emperor Dagran Thaurissan</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 14.77%</div></td></tr></table>",
+  "url": "/item=11815/hand-of-justice",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "11815",
+  "slug": "hand-of-justice"
+}

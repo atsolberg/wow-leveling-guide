@@ -1,0 +1,10 @@
+{
+  "name": "Covert Ops Plans: Alpha & Beta",
+  "quality": "Common",
+  "icon": "inv_letter_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Covert Ops Plans: Alpha &amp; Beta</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=5737/covert-ops-plans-alpha-beta",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_15.jpg",
+  "id": "5737",
+  "slug": "covert-ops-plans-alpha-beta"
+}

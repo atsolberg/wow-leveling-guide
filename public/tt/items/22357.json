@@ -1,0 +1,10 @@
+{
+  "name": "Desecrated Gauntlets",
+  "quality": "Epic",
+  "icon": "inv_misc_desecrated_plategloves",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Desecrated Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a>, <a href=\"/class=4\" class=\"c4\">Rogue</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<div class=\"whtt-extra whtt-droppedby\">Dropped by: Maexxna</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 57.44%</div></td></tr></table>",
+  "url": "/item=22357/desecrated-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_desecrated_plategloves.jpg",
+  "id": "22357",
+  "slug": "desecrated-gauntlets"
+}

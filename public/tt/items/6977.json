@@ -1,0 +1,10 @@
+{
+  "name": "Whirlwind Sword",
+  "quality": "Rare",
+  "icon": "inv_sword_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Whirlwind Sword</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->82 - 124 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(35.52 damage per second)<br><span><!--stat4-->+15 Strength</span><br><span><!--stat7-->+14 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a></div></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">73</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=6977/whirlwind-sword",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_15.jpg",
+  "id": "6977",
+  "slug": "whirlwind-sword"
+}

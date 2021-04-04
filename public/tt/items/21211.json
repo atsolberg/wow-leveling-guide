@@ -1,0 +1,10 @@
+{
+  "name": "Pouch of Reindeer Dust",
+  "quality": "Common",
+  "icon": "inv_misc_bag_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pouch of Reindeer Dust</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;This strange dust should allow Metzen to be freed when sprinkled on him.&quot;</span></td></tr></table>",
+  "url": "/item=21211/pouch-of-reindeer-dust",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_12.jpg",
+  "id": "21211",
+  "slug": "pouch-of-reindeer-dust"
+}

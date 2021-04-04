@@ -1,0 +1,10 @@
+{
+  "name": "Rugged Hide",
+  "quality": "Common",
+  "icon": "inv_misc_pelt_bear_ruin_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rugged Hide</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div></td></tr></table>",
+  "url": "/item=8171/rugged-hide",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_pelt_bear_ruin_02.jpg",
+  "id": "8171",
+  "slug": "rugged-hide"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Imbued Plate Helmet",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Imbued Plate Helmet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->456 Armor</span><br><span><!--stat3-->+17 Agility</span><br><span><!--stat7-->+17 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=10372/imbued-plate-helmet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_06.jpg",
+  "id": "10372",
+  "slug": "imbued-plate-helmet"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Silvery Spinnerets",
+  "quality": "Common",
+  "icon": "inv_weapon_shortblade_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Silvery Spinnerets</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lady Sathrah</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 94.63%</div></td></tr></table>",
+  "url": "/item=8344/silvery-spinnerets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_16.jpg",
+  "id": "8344",
+  "slug": "silvery-spinnerets"
+}

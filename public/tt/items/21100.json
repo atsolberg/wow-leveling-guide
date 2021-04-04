@@ -1,0 +1,10 @@
+{
+  "name": "Coin of Ancestry",
+  "quality": "Common",
+  "icon": "inv_misc_elvencoins",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Coin of Ancestry</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;A symbol of honor and respect for one's ancestry.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 100</div></td></tr></table>",
+  "url": "/item=21100/coin-of-ancestry",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_elvencoins.jpg",
+  "id": "21100",
+  "slug": "coin-of-ancestry"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Woodpaw Battle Plans",
+  "quality": "Common",
+  "icon": "inv_scroll_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Woodpaw Battle Plans</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=9266/woodpaw-battle-plans",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_02.jpg",
+  "id": "9266",
+  "slug": "woodpaw-battle-plans"
+}

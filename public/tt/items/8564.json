@@ -1,0 +1,10 @@
+{
+  "name": "Hippogryph Egg",
+  "quality": "Common",
+  "icon": "inv_egg_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hippogryph Egg</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;It's huge!&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span></div></td></tr></table>",
+  "url": "/item=8564/hippogryph-egg",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_egg_02.jpg",
+  "id": "8564",
+  "slug": "hippogryph-egg"
+}

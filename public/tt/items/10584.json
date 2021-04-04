@@ -1,0 +1,10 @@
+{
+  "name": "Stormgale Fists",
+  "quality": "Rare",
+  "icon": "inv_gauntlets_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Stormgale Fists</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->149 Armor</span><br><span><!--stat4-->+10 Strength</span><br><span><!--stat7-->+3 Stamina</span><br><span><!--stat6-->+7 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->31<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">29</span> <span class=\"moneycopper\">5</span></div></td></tr></table>",
+  "url": "/item=10584/stormgale-fists",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_11.jpg",
+  "id": "10584",
+  "slug": "stormgale-fists"
+}

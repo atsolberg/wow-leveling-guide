@@ -1,0 +1,10 @@
+{
+  "name": "Onyx Claymore",
+  "quality": "Rare",
+  "icon": "inv_sword_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Onyx Claymore</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->26</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->48 - 73 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(21.61 damage per second)<br><span><!--stat4-->+9 Strength</span><br><span><!--stat7-->+5 Stamina</span><br><span><!--stat6-->+6 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 95 / 95</td></tr></table><table><tr><td>Requires Level <!--rlvl-->21<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">46</span> <span class=\"moneycopper\">29</span></div></td></tr></table>",
+  "url": "/item=3417/onyx-claymore",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_13.jpg",
+  "id": "3417",
+  "slug": "onyx-claymore"
+}

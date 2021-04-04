@@ -1,0 +1,10 @@
+{
+  "name": "Double-stitched Robes",
+  "quality": "Common",
+  "icon": "inv_chest_cloth_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Double-stitched Robes</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->13</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->23 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->8<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">21</span></div></td></tr></table>",
+  "url": "/item=2613/double-stitched-robes",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_24.jpg",
+  "id": "2613",
+  "slug": "double-stitched-robes"
+}

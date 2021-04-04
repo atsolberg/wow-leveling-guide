@@ -1,0 +1,10 @@
+{
+  "name": "Reinforced Woolen Shoulders",
+  "quality": "Common",
+  "icon": "inv_shoulder_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Reinforced Woolen Shoulders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->27 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->19<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=4315/reinforced-woolen-shoulders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_09.jpg",
+  "id": "4315",
+  "slug": "reinforced-woolen-shoulders"
+}

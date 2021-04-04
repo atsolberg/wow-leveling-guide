@@ -1,0 +1,10 @@
+{
+  "name": "Pitchfork",
+  "quality": "Poor",
+  "icon": "inv_spear_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Pitchfork</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:6--><span class=\"q1\">Polearm</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->29 - 45 Damage</span></td>\n    <th>Speed <!--spd-->3.70</th>\n</tr></table><!--dps-->(10.00 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=1485/pitchfork",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_spear_04.jpg",
+  "id": "1485",
+  "slug": "pitchfork"
+}

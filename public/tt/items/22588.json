@@ -1,0 +1,10 @@
+{
+  "name": "QAEnchant Cloak +10 Shadow Resistance",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QAEnchant Cloak +10 Shadow Resistance</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=6476\" class=\"q2\">Permanently enchant a cloak to give 10 Shadow Resistance.</a></span></td></tr></table>",
+  "url": "/item=22588/qaenchant-cloak-10-shadow-resistance",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "22588",
+  "slug": "qaenchant-cloak-10-shadow-resistance"
+}

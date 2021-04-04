@@ -1,0 +1,10 @@
+{
+  "name": "Toasting Goblet",
+  "quality": "Common",
+  "icon": "inv_drink_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Toasting Goblet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Unique<br />Duration: 1 day (real time)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=26008\" class=\"q2\">Raise a toast to your friend!</a></span><br />3 Charges<div class=\"whtt-extra whtt-droppedby\">Dropped by: High Overlord Saurfang</div></td></tr></table>",
+  "url": "/item=21267/toasting-goblet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_02.jpg",
+  "id": "21267",
+  "slug": "toasting-goblet"
+}

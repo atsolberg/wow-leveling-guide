@@ -1,0 +1,10 @@
+{
+  "name": "Quartermaster Zigris' Footlocker",
+  "quality": "Uncommon",
+  "icon": "inv_box_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Quartermaster Zigris' Footlocker</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">58</span> <span class=\"moneycopper\">37</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Quartermaster Zigris</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 13.44%</div></td></tr></table>",
+  "url": "/item=13247/quartermaster-zigris-footlocker",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_01.jpg",
+  "id": "13247",
+  "slug": "quartermaster-zigris-footlocker"
+}

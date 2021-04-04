@@ -1,0 +1,10 @@
+{
+  "name": "Empty Firewater Flask",
+  "quality": "Common",
+  "icon": "inv_potion_85",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Empty Firewater Flask</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->52</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=5083\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->52</td></tr></table>",
+  "url": "/item=12771/empty-firewater-flask",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_85.jpg",
+  "id": "12771",
+  "slug": "empty-firewater-flask"
+}

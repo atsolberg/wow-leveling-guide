@@ -1,0 +1,10 @@
+{
+  "name": "Glacial Cloak",
+  "quality": "Epic",
+  "icon": "inv_misc_cape_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Glacial Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->80</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->61 Armor</span><br><span><!--stat7-->+18 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+24 Frost Resistance<!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">45</span></div></td></tr></table>",
+  "url": "/item=22658/glacial-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_16.jpg",
+  "id": "22658",
+  "slug": "glacial-cloak"
+}

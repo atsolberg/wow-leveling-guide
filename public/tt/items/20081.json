@@ -1,0 +1,10 @@
+{
+  "name": "Swiftness of Zanza",
+  "quality": "Uncommon",
+  "icon": "inv_potion_31",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Swiftness of Zanza</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Use: <a href=\"/spell=24383\" class=\"q2\">Increases the player's run speed by 20% for 2 hrs. &nbsp;You can only have the effect of one Zanza potion at a time.</a> (3 Sec Cooldown)</span><br><span class=\"q\">&quot;Blessed with the mojo of Zanza!&quot;</span></td></tr></table>",
+  "url": "/item=20081/swiftness-of-zanza",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_31.jpg",
+  "id": "20081",
+  "slug": "swiftness-of-zanza"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Hardened Cloak",
+  "quality": "Poor",
+  "icon": "inv_helmet_48",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Hardened Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->38</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->23 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->33<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span> <span class=\"moneycopper\">86</span></div></td></tr></table>",
+  "url": "/item=3803/hardened-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_48.jpg",
+  "id": "3803",
+  "slug": "hardened-cloak"
+}

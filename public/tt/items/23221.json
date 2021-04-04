@@ -1,0 +1,10 @@
+{
+  "name": "Misplaced Servo Arm",
+  "quality": "Epic",
+  "icon": "inv_mace_28",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Misplaced Servo Arm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->83</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->128 - 238 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(65.36 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=29150\" class=\"q2\">Chance to discharge electricity causing 100 to 150 Nature damage to your target.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">20</span> <span class=\"moneysilver\">31</span> <span class=\"moneycopper\">82</span></div></td></tr></table>",
+  "url": "/item=23221/misplaced-servo-arm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_28.jpg",
+  "id": "23221",
+  "slug": "misplaced-servo-arm"
+}

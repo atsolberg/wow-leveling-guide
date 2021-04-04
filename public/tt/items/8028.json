@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Runed Mithril Hammer",
+  "quality": "Rare",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Plans: Runed Mithril Hammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->49</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (245)<br><span class=\"q2\">Use: <a href=\"/spell=10010\" class=\"q2\">Teaches you how to make a Runed Mithril Hammer.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">25</span></div><br /><span class=\"q2\"><a href=\"/item=7946\">Runed Mithril Hammer</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->49</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->41 - 76 Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(29.25 damage per second)<br><span><!--stat4-->+7 Strength</span><br><span><!--stat7-->+4 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75<br>Requires Level <!--rlvl-->44<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">60</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=3860\">Mithril Bar</a>&nbsp;(18), <a href=\"/item=7075\">Core of Earth</a>&nbsp;(2), <a href=\"/item=7966\">Solid Grinding Stone</a>, <a href=\"/item=4304\">Thick Leather</a>&nbsp;(4)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=8028/plans-runed-mithril-hammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "8028",
+  "slug": "plans-runed-mithril-hammer"
+}

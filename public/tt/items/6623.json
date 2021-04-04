@@ -1,0 +1,10 @@
+{
+  "name": "Succubus Summoning Scroll",
+  "quality": "Common",
+  "icon": "inv_scroll_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Succubus Summoning Scroll</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=1403\" class=\"q2\">Learn Summon Succubus.</a></span></td></tr></table>",
+  "url": "/item=6623/succubus-summoning-scroll",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_01.jpg",
+  "id": "6623",
+  "slug": "succubus-summoning-scroll"
+}

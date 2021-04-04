@@ -1,0 +1,10 @@
+{
+  "name": "Drakefang Butcher",
+  "quality": "Rare",
+  "icon": "inv_sword_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Drakefang Butcher</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->53</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->99 - 149 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(45.93 damage per second)<br><span><!--stat4-->+15 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->48<br><span class=\"q2\">Chance on hit: <a href=\"/spell=14118\" class=\"q2\">Wounds the target causing them to bleed for 150 damage over 30 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">24</span> <span class=\"moneycopper\">46</span></div></td></tr></table>",
+  "url": "/item=12463/drakefang-butcher",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_19.jpg",
+  "id": "12463",
+  "slug": "drakefang-butcher"
+}

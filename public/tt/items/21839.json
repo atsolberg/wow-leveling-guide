@@ -1,0 +1,10 @@
+{
+  "name": "Scepter of the False Prophet",
+  "quality": "Epic",
+  "icon": "inv_mace22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Scepter of the False Prophet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->84</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->38 - 111 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(41.39 damage per second)<br><span><!--stat5-->+19 Intellect</span><br><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=26814\" class=\"q2\">Increases healing done by spells and effects by up to 187.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=21625\" class=\"q2\">Restores 3 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">22</span> <span class=\"moneysilver\">43</span> <span class=\"moneycopper\">99</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: C'Thun</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 7.41%</div></td></tr></table>",
+  "url": "/item=21839/scepter-of-the-false-prophet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace22.jpg",
+  "id": "21839",
+  "slug": "scepter-of-the-false-prophet"
+}

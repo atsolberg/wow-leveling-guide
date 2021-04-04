@@ -1,0 +1,10 @@
+{
+  "name": "Bloodspiller",
+  "quality": "Rare",
+  "icon": "inv_axe_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Bloodspiller</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->57 - 87 Damage</span></td>\n    <th>Speed <!--spd-->2.70</th>\n</tr></table><!--dps-->(26.67 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->27<br><span class=\"q2\">Chance on hit: <a href=\"/spell=18200\" class=\"q2\">Wounds the target causing them to bleed for 130 damage over 30 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">78</span> <span class=\"moneycopper\">74</span></div></td></tr></table>",
+  "url": "/item=7753/bloodspiller",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_10.jpg",
+  "id": "7753",
+  "slug": "bloodspiller"
+}

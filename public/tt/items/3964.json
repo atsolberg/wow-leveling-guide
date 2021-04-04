@@ -1,0 +1,10 @@
+{
+  "name": "Thick Cloak",
+  "quality": "Poor",
+  "icon": "inv_misc_cape_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Thick Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->46</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->27 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->41<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">21</span> <span class=\"moneycopper\">27</span></div></td></tr></table>",
+  "url": "/item=3964/thick-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_10.jpg",
+  "id": "3964",
+  "slug": "thick-cloak"
+}

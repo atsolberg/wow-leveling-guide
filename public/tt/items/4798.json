@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Runed Cloak",
+  "quality": "Uncommon",
+  "icon": "inv_misc_cape_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Heavy Runed Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->19 Armor</span><br><span><!--stat7-->+3 Stamina</span><br><span><!--stat6-->+3 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">66</span></div></td></tr></table>",
+  "url": "/item=4798/heavy-runed-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_02.jpg",
+  "id": "4798",
+  "slug": "heavy-runed-cloak"
+}

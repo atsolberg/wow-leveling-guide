@@ -1,0 +1,10 @@
+{
+  "name": "Empty Barrel",
+  "quality": "Poor",
+  "icon": "inv_cask_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Empty Barrel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span> <span class=\"moneycopper\">65</span></div></td></tr></table>",
+  "url": "/item=4558/empty-barrel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_cask_03.jpg",
+  "id": "4558",
+  "slug": "empty-barrel"
+}

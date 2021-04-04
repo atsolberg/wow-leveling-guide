@@ -1,0 +1,10 @@
+{
+  "name": "Faded Photograph",
+  "quality": "Common",
+  "icon": "inv_scroll_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Faded Photograph</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Read&gt;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Gryfe</div></td></tr></table>",
+  "url": "/item=11108/faded-photograph",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_08.jpg",
+  "id": "11108",
+  "slug": "faded-photograph"
+}

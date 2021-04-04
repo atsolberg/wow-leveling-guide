@@ -1,0 +1,10 @@
+{
+  "name": "Firework Launcher",
+  "quality": "Common",
+  "icon": "inv_musket_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Firework Launcher</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=26298\" class=\"q2\">Place on the ground to launch firework rockets. &nbsp;Lasts 30 minutes.</a></span></td></tr></table>",
+  "url": "/item=21569/firework-launcher",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_musket_04.jpg",
+  "id": "21569",
+  "slug": "firework-launcher"
+}

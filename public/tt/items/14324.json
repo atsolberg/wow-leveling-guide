@@ -1,0 +1,10 @@
+{
+  "name": "Resplendent Sarong",
+  "quality": "Uncommon",
+  "icon": "inv_pants_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Resplendent Sarong</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->68 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">67</span> <span class=\"moneycopper\">6</span></div></td></tr></table>",
+  "url": "/item=14324/resplendent-sarong",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_12.jpg",
+  "id": "14324",
+  "slug": "resplendent-sarong"
+}

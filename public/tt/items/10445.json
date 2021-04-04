@@ -1,0 +1,10 @@
+{
+  "name": "Drawing Kit",
+  "quality": "Common",
+  "icon": "inv_box_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Drawing Kit</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=12304\" class=\"q2\">Used to create rubbings of the runes in the Ruins of Eldarath.</a></span></td></tr></table>",
+  "url": "/item=10445/drawing-kit",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_01.jpg",
+  "id": "10445",
+  "slug": "drawing-kit"
+}

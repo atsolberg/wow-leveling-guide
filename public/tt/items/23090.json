@@ -1,0 +1,10 @@
+{
+  "name": "Bracers of Undead Slaying",
+  "quality": "Rare",
+  "icon": "inv_bracer_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Bracers of Undead Slaying</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->287 Armor</span><br><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=18098\" class=\"q2\">+45 Attack Power when fighting Undead.</a></span><!--itemEffects:1--><br /><br /><span class=\"q\"><a href=\"/item-set=533\" class=\"q\">Battlegear of Undead Slaying</a> (0/3)</span><div class=\"q0 indent\"><span><!--si23090--><a href=\"/item=23090\">Bracers of Undead Slaying</a></span><br /><span><!--si23087--><a href=\"/item=23087\">Breastplate of Undead Slaying</a></span><br /><span><!--si23078--><a href=\"/item=23078\">Gauntlets of Undead Slaying</a></span></div><br /><span class=\"q0\"><span>(3) Set : <a href=\"/spell=29068\">Increases your damage against undead by 2%.</a></span></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">15</span> <span class=\"moneycopper\">72</span></div></td></tr></table>",
+  "url": "/item=23090/bracers-of-undead-slaying",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_14.jpg",
+  "id": "23090",
+  "slug": "bracers-of-undead-slaying"
+}

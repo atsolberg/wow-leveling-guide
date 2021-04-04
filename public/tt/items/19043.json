@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Timbermaw Belt",
+  "quality": "Rare",
+  "icon": "inv_belt_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Heavy Timbermaw Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->193 Armor</span><br><span><!--stat7-->+9 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->53<br><span class=\"q2\">Equip: <a href=\"/spell=15809\" class=\"q2\">+42 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">32</span> <span class=\"moneycopper\">91</span></div></td></tr></table>",
+  "url": "/item=19043/heavy-timbermaw-belt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_16.jpg",
+  "id": "19043",
+  "slug": "heavy-timbermaw-belt"
+}

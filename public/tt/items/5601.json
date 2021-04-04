@@ -1,0 +1,10 @@
+{
+  "name": "Hatched Egg Sac",
+  "quality": "Poor",
+  "icon": "inv_egg_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Hatched Egg Sac</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">22</span></div></td></tr></table>",
+  "url": "/item=5601/hatched-egg-sac",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_egg_04.jpg",
+  "id": "5601",
+  "slug": "hatched-egg-sac"
+}

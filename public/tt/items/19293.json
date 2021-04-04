@@ -1,0 +1,10 @@
+{
+  "name": "Last Year's Mutton",
+  "quality": "Common",
+  "icon": "inv_misc_food_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Last Year's Mutton</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->44 - 82 Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(31.50 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">93</span> <span class=\"moneycopper\">76</span></div></td></tr></table>",
+  "url": "/item=19293/last-years-mutton",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_18.jpg",
+  "id": "19293",
+  "slug": "last-years-mutton"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Humbert's Pants",
+  "quality": "Uncommon",
+  "icon": "inv_pants_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Humbert's Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->37 Armor</span><br><span><!--stat7-->+7 Stamina</span><br><span><!--stat6-->+7 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->24<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">3</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Dun Garok Priest</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 3.42%</div></td></tr></table>",
+  "url": "/item=4723/humberts-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_02.jpg",
+  "id": "4723",
+  "slug": "humberts-pants"
+}

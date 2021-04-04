@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Recurve Bow",
+  "quality": "Common",
+  "icon": "inv_weapon_bow_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Heavy Recurve Bow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->15 - 29 Damage</span></td>\n    <th>Speed <!--spd-->2.40</th>\n</tr></table><!--dps-->(9.17 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->20<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">69</span></div></td></tr></table>",
+  "url": "/item=3027/heavy-recurve-bow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_01.jpg",
+  "id": "3027",
+  "slug": "heavy-recurve-bow"
+}

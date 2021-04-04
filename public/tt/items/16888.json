@@ -1,0 +1,10 @@
+{
+  "name": "Dull Drakefire Amulet",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dull Drakefire Amulet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=16888/dull-drakefire-amulet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_11.jpg",
+  "id": "16888",
+  "slug": "dull-drakefire-amulet"
+}

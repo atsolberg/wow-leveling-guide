@@ -1,0 +1,10 @@
+{
+  "name": "Goblin Power Shovel",
+  "quality": "Uncommon",
+  "icon": "inv_misc_shovel_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Goblin Power Shovel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->34</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->60 - 91 Damage</span></td>\n    <th>Speed <!--spd-->3.30</th>\n</tr></table><!--dps-->(22.88 damage per second)<br><span><!--stat4-->+6 Strength</span><br><span><!--stat3-->+10 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->29<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">83</span> <span class=\"moneycopper\">57</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Venture Co. Miner</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 0.85%</div></td></tr></table>",
+  "url": "/item=1991/goblin-power-shovel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_shovel_02.jpg",
+  "id": "1991",
+  "slug": "goblin-power-shovel"
+}

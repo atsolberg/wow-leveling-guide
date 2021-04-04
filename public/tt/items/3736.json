@@ -1,0 +1,11 @@
+{
+  "name": "Recipe: Tasty Lion Steak",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Recipe: Tasty Lion Steak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=185\" class=\"q1\">Cooking</a> (150)<br><span class=\"q2\">Use: <a href=\"/spell=3403\" class=\"q2\">Teaches you how to cook a Tasty Lion Steak.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div><br /><span class=\"q1\"><a href=\"/item=3728\">Tasty Lion Steak</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires Level <!--rlvl-->20<br><span class=\"q2\">Use: <a href=\"/spell=5007\" class=\"q2\">Restores 874.8 health over 27 sec. &nbsp;Must remain seated while eating. &nbsp;If you spend at least 10 seconds eating you will become well fed and gain 8 Stamina and Spirit for 15 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=3731\">Lion Meat</a>&nbsp;(2), <a href=\"/item=3713\">Soothing Spices</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=3736/recipe-tasty-lion-steak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "3736",
+  "slug": "recipe-tasty-lion-steak"
+}

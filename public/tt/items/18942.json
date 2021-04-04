@@ -1,0 +1,10 @@
+{
+  "name": "Fiery Flux",
+  "quality": "Common",
+  "icon": "inv_enchant_essenceastralsmall",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fiery Flux</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 100</div></td></tr></table>",
+  "url": "/item=18942/fiery-flux",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_enchant_essenceastralsmall.jpg",
+  "id": "18942",
+  "slug": "fiery-flux"
+}

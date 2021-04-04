@@ -1,0 +1,10 @@
+{
+  "name": "Spiked Wooden Plank",
+  "quality": "Common",
+  "icon": "inv_mace_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Spiked Wooden Plank</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->6 - 12 Damage</span></td>\n    <th>Speed <!--spd-->1.90</th>\n</tr></table><!--dps-->(4.74 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->6<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">79</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Maggot Eye</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 1.33%</div></td></tr></table>",
+  "url": "/item=3329/spiked-wooden-plank",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_10.jpg",
+  "id": "3329",
+  "slug": "spiked-wooden-plank"
+}

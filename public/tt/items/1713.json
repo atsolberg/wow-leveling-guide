@@ -1,0 +1,10 @@
+{
+  "name": "Ankh of Life",
+  "quality": "Rare",
+  "icon": "spell_holy_prayerofhealing02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Ankh of Life</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<br><span class=\"q2\">Use: <a href=\"/spell=14053\" class=\"q2\">Heal your target for 135 to 165.</a> (5 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">53</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=1713/ankh-of-life",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_holy_prayerofhealing02.jpg",
+  "id": "1713",
+  "slug": "ankh-of-life"
+}

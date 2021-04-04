@@ -1,0 +1,10 @@
+{
+  "name": "Blackveil Cape",
+  "quality": "Rare",
+  "icon": "inv_misc_cape_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Blackveil Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->53</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->38 Armor</span><br><span><!--stat4-->+6 Strength</span><br><span><!--stat3-->+14 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->48<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">96</span> <span class=\"moneycopper\">98</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: High Interrogator Gerstahn</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 16.47%</div></td></tr></table>",
+  "url": "/item=11626/blackveil-cape",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_18.jpg",
+  "id": "11626",
+  "slug": "blackveil-cape"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Maul",
+  "quality": "Common",
+  "icon": "inv_hammer_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Maul</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->26</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->37 - 56 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(16.03 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->21<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">21</span> <span class=\"moneycopper\">94</span></div></td></tr></table>",
+  "url": "/item=924/maul",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_07.jpg",
+  "id": "924",
+  "slug": "maul"
+}

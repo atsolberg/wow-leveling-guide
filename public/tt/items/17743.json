@@ -1,0 +1,10 @@
+{
+  "name": "Resurgence Rod",
+  "quality": "Rare",
+  "icon": "inv_staff_goldfeathered_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Resurgence Rod</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->53</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->139 - 209 Damage</span></td>\n    <th>Speed <!--spd-->3.80</th>\n</tr></table><!--dps-->(45.79 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=18378\" class=\"q2\">Restores 8 mana per 5 sec.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=20969\" class=\"q2\">Restores 5 health every 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">47</span></div></td></tr></table>",
+  "url": "/item=17743/resurgence-rod",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_goldfeathered_01.jpg",
+  "id": "17743",
+  "slug": "resurgence-rod"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Battleforge Shield",
+  "quality": "Uncommon",
+  "icon": "inv_shield_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Battleforge Shield</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->561 Armor</span><br>11 Block<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->24<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">78</span></div></td></tr></table>",
+  "url": "/item=6599/battleforge-shield",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_05.jpg",
+  "id": "6599",
+  "slug": "battleforge-shield"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Raw Bristle Whisker Catfish",
+  "quality": "Common",
+  "icon": "inv_misc_fish_30",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Raw Bristle Whisker Catfish</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->15<br><span class=\"q2\">Use: <a href=\"/spell=434\" class=\"q2\">Restores 243.6 health over 21 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">2</span></div></td></tr></table>",
+  "url": "/item=6308/raw-bristle-whisker-catfish",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_30.jpg",
+  "id": "6308",
+  "slug": "raw-bristle-whisker-catfish"
+}

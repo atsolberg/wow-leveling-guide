@@ -1,0 +1,10 @@
+{
+  "name": "Glowing Hunk of the Beast's Flesh",
+  "quality": "Common",
+  "icon": "inv_misc_food_42",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Glowing Hunk of the Beast's Flesh</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;It Glows!&quot;</span></td></tr></table>",
+  "url": "/item=12710/glowing-hunk-of-the-beasts-flesh",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_42.jpg",
+  "id": "12710",
+  "slug": "glowing-hunk-of-the-beasts-flesh"
+}

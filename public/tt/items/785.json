@@ -1,0 +1,10 @@
+{
+  "name": "Mageroyal",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Mageroyal</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">20</span></div></td></tr></table>",
+  "url": "/item=785/mageroyal",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_03.jpg",
+  "id": "785",
+  "slug": "mageroyal"
+}

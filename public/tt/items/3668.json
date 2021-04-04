@@ -1,0 +1,10 @@
+{
+  "name": "Assassin's Contract",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Assassin's Contract</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=522\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<div class=\"whtt-extra whtt-droppedby\">Dropped by: Shadowy Assassin</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 81.04%</div></td></tr></table>",
+  "url": "/item=3668/assassins-contract",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "3668",
+  "slug": "assassins-contract"
+}

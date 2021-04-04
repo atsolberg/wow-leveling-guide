@@ -1,0 +1,10 @@
+{
+  "name": "Refreshing Spring Water",
+  "quality": "Common",
+  "icon": "inv_drink_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Refreshing Spring Water</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=430\" class=\"q2\">Restores 151.2 mana over 18 sec. &nbsp;Must remain seated while drinking.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=159/refreshing-spring-water",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_07.jpg",
+  "id": "159",
+  "slug": "refreshing-spring-water"
+}

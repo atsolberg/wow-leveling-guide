@@ -1,0 +1,10 @@
+{
+  "name": "Patchwork Pants",
+  "quality": "Poor",
+  "icon": "inv_pants_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Patchwork Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->8</span><!--bo--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->12 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->3<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">20</span></div></td></tr></table>",
+  "url": "/item=1431/patchwork-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_11.jpg",
+  "id": "1431",
+  "slug": "patchwork-pants"
+}

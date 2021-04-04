@@ -1,0 +1,10 @@
+{
+  "name": "Hammer of the Twisting Nether",
+  "quality": "Epic",
+  "icon": "inv_mace_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Hammer of the Twisting Nether</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->89</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->37 - 121 Damage</span></td>\n    <th>Speed <!--spd-->1.90</th>\n</tr></table><!--dps-->(41.58 damage per second)<br><span><!--stat5-->+11 Intellect</span><br><span><!--stat7-->+8 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=28805\" class=\"q2\">Increases healing done by spells and effects by up to 238.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=18378\" class=\"q2\">Restores 8 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">28</span> <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">18</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Kel'Thuzad</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 29.33%</div></td></tr></table>",
+  "url": "/item=23056/hammer-of-the-twisting-nether",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_27.jpg",
+  "id": "23056",
+  "slug": "hammer-of-the-twisting-nether"
+}

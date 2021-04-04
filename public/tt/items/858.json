@@ -1,0 +1,10 @@
+{
+  "name": "Lesser Healing Potion",
+  "quality": "Common",
+  "icon": "inv_potion_50",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Lesser Healing Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->13</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->3<br><span class=\"q2\">Use: <a href=\"/spell=440\" class=\"q2\">Restores 140 to 180 health.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=858/lesser-healing-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_50.jpg",
+  "id": "858",
+  "slug": "lesser-healing-potion"
+}

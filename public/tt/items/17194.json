@@ -1,0 +1,10 @@
+{
+  "name": "Holiday Spices",
+  "quality": "Common",
+  "icon": "inv_misc_bag_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Holiday Spices</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=17194/holiday-spices",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_11.jpg",
+  "id": "17194",
+  "slug": "holiday-spices"
+}

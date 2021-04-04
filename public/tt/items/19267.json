@@ -1,0 +1,10 @@
+{
+  "name": "Elementals Deck",
+  "quality": "Epic",
+  "icon": "inv_misc_ticket_tarot_stack_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Elementals Deck</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br /><a href=\"/quest=7929\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Property of the Darkmoon Faire.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">10</span></div></td></tr></table>",
+  "url": "/item=19267/elementals-deck",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_ticket_tarot_stack_01.jpg",
+  "id": "19267",
+  "slug": "elementals-deck"
+}

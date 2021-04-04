@@ -1,0 +1,10 @@
+{
+  "name": "Silver Rod",
+  "quality": "Common",
+  "icon": "inv_staff_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Silver Rod</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Needed by Enchanters.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=6338/silver-rod",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_01.jpg",
+  "id": "6338",
+  "slug": "silver-rod"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Chambermaid Pillaclencher's Pillow",
+  "quality": "Common",
+  "icon": "inv_misc_armorkit_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Chambermaid Pillaclencher's Pillow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=7704\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;This is one big pillow.&quot;</span></td></tr></table>",
+  "url": "/item=18950/chambermaid-pillaclenchers-pillow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_armorkit_06.jpg",
+  "id": "18950",
+  "slug": "chambermaid-pillaclenchers-pillow"
+}

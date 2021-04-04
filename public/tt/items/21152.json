@@ -1,0 +1,10 @@
+{
+  "name": "The Nightmare's Corruption",
+  "quality": "Common",
+  "icon": "spell_shadow_gathershadows",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">The Nightmare's Corruption</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=21152/the-nightmares-corruption",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_shadow_gathershadows.jpg",
+  "id": "21152",
+  "slug": "the-nightmares-corruption"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Artisan First Aid - Heal Thyself",
+  "quality": "Common",
+  "icon": "inv_misc_book_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Artisan First Aid - Heal Thyself</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=129\" class=\"q1\">First Aid</a> (200)<br><span class=\"q2\">Use: <a href=\"/spell=19902\" class=\"q2\">Teaches you advanced first aid, allowing a maximum of 300 first aid skill.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=16085/artisan-first-aid-heal-thyself",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_10.jpg",
+  "id": "16085",
+  "slug": "artisan-first-aid-heal-thyself"
+}

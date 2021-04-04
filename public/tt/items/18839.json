@@ -1,0 +1,10 @@
+{
+  "name": "Combat Healing Potion",
+  "quality": "Common",
+  "icon": "inv_potion_39",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Combat Healing Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when picked up<br />Unique (5)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<br><span class=\"q2\">Use: <a href=\"/spell=4042\" class=\"q2\">Restores 700 to 900 health.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=18839/combat-healing-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_39.jpg",
+  "id": "18839",
+  "slug": "combat-healing-potion"
+}

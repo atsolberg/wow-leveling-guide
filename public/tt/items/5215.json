@@ -1,0 +1,10 @@
+{
+  "name": "Ember Wand",
+  "quality": "Uncommon",
+  "icon": "inv_wand_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Ember Wand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->41</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->35 - 66 Fire Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(33.67 damage per second)<br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->36<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">86</span> <span class=\"moneycopper\">56</span></div></td></tr></table>",
+  "url": "/item=5215/ember-wand",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_11.jpg",
+  "id": "5215",
+  "slug": "ember-wand"
+}

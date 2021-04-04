@@ -1,0 +1,10 @@
+{
+  "name": "Zorbin's Ultra-Shrinker",
+  "quality": "Common",
+  "icon": "inv_gizmo_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Zorbin's Ultra-Shrinker</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<br />Duration: 2 hrs<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=23359\" class=\"q2\">Zap a Feralas giant into a more manageable form.</a> (30 Sec Cooldown)</span></td></tr></table>",
+  "url": "/item=18904/zorbins-ultra-shrinker",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_09.jpg",
+  "id": "18904",
+  "slug": "zorbins-ultra-shrinker"
+}

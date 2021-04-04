@@ -1,0 +1,10 @@
+{
+  "name": "Salma's Oven Mitts",
+  "quality": "Common",
+  "icon": "inv_gauntlets_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Salma's Oven Mitts</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->12</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->13 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 16 / 16</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">47</span></div></td></tr></table>",
+  "url": "/item=1479/salmas-oven-mitts",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_06.jpg",
+  "id": "1479",
+  "slug": "salmas-oven-mitts"
+}

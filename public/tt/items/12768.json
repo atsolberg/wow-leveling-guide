@@ -1,0 +1,10 @@
+{
+  "name": "Secret Note #3",
+  "quality": "Common",
+  "icon": "inv_scroll_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Secret Note #3</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=12768/secret-note-3",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_07.jpg",
+  "id": "12768",
+  "slug": "secret-note-3"
+}

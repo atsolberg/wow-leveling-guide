@@ -1,0 +1,10 @@
+{
+  "name": "Rabbit's Foot",
+  "quality": "Poor",
+  "icon": "inv_gauntlets_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Rabbit's Foot</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">9</span></div></td></tr></table>",
+  "url": "/item=3300/rabbits-foot",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_02.jpg",
+  "id": "3300",
+  "slug": "rabbits-foot"
+}

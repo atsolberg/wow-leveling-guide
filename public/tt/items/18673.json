@@ -1,0 +1,10 @@
+{
+  "name": "Avalanchion's Stony Hide",
+  "quality": "Rare",
+  "icon": "inv_shield_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Avalanchion's Stony Hide</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->2026 Armor</span><br>37 Block<br><span><!--stat7-->+16 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<br><span class=\"q2\">Equip: <a href=\"/spell=23172\" class=\"q2\">Increases the block value of your shield by 10.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">89</span> <span class=\"moneycopper\">18</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Avalanchion</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 21.35%</div></td></tr></table>",
+  "url": "/item=18673/avalanchions-stony-hide",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_03.jpg",
+  "id": "18673",
+  "slug": "avalanchions-stony-hide"
+}

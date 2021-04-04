@@ -1,0 +1,10 @@
+{
+  "name": "Lesser Mana Potion",
+  "quality": "Common",
+  "icon": "inv_potion_71",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Lesser Mana Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->24</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->14<br><span class=\"q2\">Use: <a href=\"/spell=438\" class=\"q2\">Restores 280 to 360 mana.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">30</span></div></td></tr></table>",
+  "url": "/item=3385/lesser-mana-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_71.jpg",
+  "id": "3385",
+  "slug": "lesser-mana-potion"
+}

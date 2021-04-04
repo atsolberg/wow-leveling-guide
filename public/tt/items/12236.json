@@ -1,0 +1,10 @@
+{
+  "name": "Pure Un'Goro Sample",
+  "quality": "Common",
+  "icon": "inv_potion_77",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pure Un'Goro Sample</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=12236/pure-ungoro-sample",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_77.jpg",
+  "id": "12236",
+  "slug": "pure-ungoro-sample"
+}

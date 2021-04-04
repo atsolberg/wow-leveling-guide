@@ -1,0 +1,10 @@
+{
+  "name": "Warsong Outrider Update",
+  "quality": "Common",
+  "icon": "inv_letter_12",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Warsong Outrider Update</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=16765/warsong-outrider-update",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_12.jpg",
+  "id": "16765",
+  "slug": "warsong-outrider-update"
+}

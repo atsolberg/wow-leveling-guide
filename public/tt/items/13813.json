@@ -1,0 +1,10 @@
+{
+  "name": "Blessed Sunfruit Juice",
+  "quality": "Common",
+  "icon": "inv_drink_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Blessed Sunfruit Juice</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<br>Requires <a href=\"/faction=529\" class=\"q1\">Argent Dawn</a> - Revered<br><span class=\"q2\">Use: <a href=\"/spell=18140\" class=\"q2\">Restores 4410 mana over 30 sec. &nbsp;Must remain seated while drinking. Also increases your Spirit by 10 for 10 min.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span></div></td></tr></table>",
+  "url": "/item=13813/blessed-sunfruit-juice",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_16.jpg",
+  "id": "13813",
+  "slug": "blessed-sunfruit-juice"
+}

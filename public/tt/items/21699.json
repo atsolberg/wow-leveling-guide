@@ -1,0 +1,10 @@
+{
+  "name": "Barrage Shoulders",
+  "quality": "Epic",
+  "icon": "inv_shoulder_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Barrage Shoulders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->73</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->348 Armor</span><br><span><!--stat3-->+29 Agility</span><br><span><!--stat7-->+22 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">5</span> <span class=\"moneysilver\">78</span> <span class=\"moneycopper\">56</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: The Prophet Skeram</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 16.79%</div></td></tr></table>",
+  "url": "/item=21699/barrage-shoulders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_14.jpg",
+  "id": "21699",
+  "slug": "barrage-shoulders"
+}

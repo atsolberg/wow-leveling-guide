@@ -1,0 +1,10 @@
+{
+  "name": "Dereks Radish Bag",
+  "quality": "Common",
+  "icon": "inv_misc_food_56",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dereks Radish Bag</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />18 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><span class=\"q\">&quot;Derek keeps all his Radish Pals here&quot;</span></td></tr></table>",
+  "url": "/item=13330/dereks-radish-bag",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_56.jpg",
+  "id": "13330",
+  "slug": "dereks-radish-bag"
+}

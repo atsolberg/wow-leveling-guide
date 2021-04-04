@@ -1,0 +1,10 @@
+{
+  "name": "Ritual Candle",
+  "quality": "Common",
+  "icon": "inv_misc_candle_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ritual Candle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique (5)<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;A ritual candle from the depths of Jaedenar, new home of the Shadow Council.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div></td></tr></table>",
+  "url": "/item=12924/ritual-candle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_candle_03.jpg",
+  "id": "12924",
+  "slug": "ritual-candle"
+}

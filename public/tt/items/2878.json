@@ -1,0 +1,10 @@
+{
+  "name": "Bearded Boneaxe",
+  "quality": "Rare",
+  "icon": "inv_axe_14",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Bearded Boneaxe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->30</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->25 - 47 Damage</span></td>\n    <th>Speed <!--spd-->1.90</th>\n</tr></table><!--dps-->(18.95 damage per second)<br><span><!--stat4-->+4 Strength</span><br><span><!--stat3-->+4 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->25<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">51</span> <span class=\"moneycopper\">43</span></div></td></tr></table>",
+  "url": "/item=2878/bearded-boneaxe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_14.jpg",
+  "id": "2878",
+  "slug": "bearded-boneaxe"
+}

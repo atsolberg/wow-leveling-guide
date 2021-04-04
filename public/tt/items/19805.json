@@ -1,0 +1,10 @@
+{
+  "name": "Keefer's Angelfish",
+  "quality": "Uncommon",
+  "icon": "inv_misc_fish_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Keefer's Angelfish</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Someone in Booty Bay might be interested.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=19805/keefers-angelfish",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_08.jpg",
+  "id": "19805",
+  "slug": "keefers-angelfish"
+}

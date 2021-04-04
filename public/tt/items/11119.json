@@ -1,0 +1,10 @@
+{
+  "name": "Milly's Harvest",
+  "quality": "Common",
+  "icon": "inv_misc_food_58",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Milly's Harvest</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=11119/millys-harvest",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_58.jpg",
+  "id": "11119",
+  "slug": "millys-harvest"
+}

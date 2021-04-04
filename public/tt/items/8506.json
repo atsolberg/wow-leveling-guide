@@ -1,0 +1,10 @@
+{
+  "name": "Mithril Lotterybox",
+  "quality": "Uncommon",
+  "icon": "inv_box_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Mithril Lotterybox</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Will always have a level 40 or higher Uncommon or better item.&quot;</span><br><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=8506/mithril-lotterybox",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_box_04.jpg",
+  "id": "8506",
+  "slug": "mithril-lotterybox"
+}

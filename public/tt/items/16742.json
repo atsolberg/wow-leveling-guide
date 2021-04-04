@@ -1,0 +1,10 @@
+{
+  "name": "Warsong Saw Blades",
+  "quality": "Common",
+  "icon": "inv_axe_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Warsong Saw Blades</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=16742/warsong-saw-blades",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_16.jpg",
+  "id": "16742",
+  "slug": "warsong-saw-blades"
+}

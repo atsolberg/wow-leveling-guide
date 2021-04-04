@@ -1,0 +1,10 @@
+{
+  "name": "Atal'ai Breastplate",
+  "quality": "Rare",
+  "icon": "inv_chest_chain_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Atal'ai Breastplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->52</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->311 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->47<br><span class=\"q2\">Equip: <a href=\"/spell=9332\" class=\"q2\">+22 Attack Power.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">84</span> <span class=\"moneycopper\">32</span></div></td></tr></table>",
+  "url": "/item=10784/atalai-breastplate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_05.jpg",
+  "id": "10784",
+  "slug": "atalai-breastplate"
+}

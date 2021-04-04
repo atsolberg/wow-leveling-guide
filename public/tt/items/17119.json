@@ -1,0 +1,10 @@
+{
+  "name": "Deeprun Rat Kabob",
+  "quality": "Common",
+  "icon": "inv_misc_food_68",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Deeprun Rat Kabob</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<br><span class=\"q2\">Use: <a href=\"/spell=434\" class=\"q2\">Restores 243.6 health over 21 sec. &nbsp;Must remain seated while eating.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">6</span></div></td></tr></table>",
+  "url": "/item=17119/deeprun-rat-kabob",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_68.jpg",
+  "id": "17119",
+  "slug": "deeprun-rat-kabob"
+}

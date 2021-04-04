@@ -1,0 +1,10 @@
+{
+  "name": "Protector Waistband",
+  "quality": "Uncommon",
+  "icon": "inv_belt_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Protector Waistband</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->154 Armor</span><br><span><!--stat3-->+10 Agility</span><br><span><!--stat7-->+10 Stamina</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">69</span> <span class=\"moneycopper\">85</span></div></td></tr></table>",
+  "url": "/item=14793/protector-waistband",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_03.jpg",
+  "id": "14793",
+  "slug": "protector-waistband"
+}

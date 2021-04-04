@@ -1,0 +1,10 @@
+{
+  "name": "Gauntlets of Deftness",
+  "quality": "Rare",
+  "icon": "inv_gauntlets_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Gauntlets of Deftness</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->311 Armor</span><br><span><!--stat3-->+23 Agility</span><br><span><!--stat7-->+10 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">72</span> <span class=\"moneycopper\">31</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Baron Rivendare</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 15.02%</div></td></tr></table>",
+  "url": "/item=22410/gauntlets-of-deftness",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_11.jpg",
+  "id": "22410",
+  "slug": "gauntlets-of-deftness"
+}

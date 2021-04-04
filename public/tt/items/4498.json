@@ -1,0 +1,10 @@
+{
+  "name": "Brown Leather Satchel",
+  "quality": "Common",
+  "icon": "inv_misc_bag_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Brown Leather Satchel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />8 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=4498/brown-leather-satchel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_09.jpg",
+  "id": "4498",
+  "slug": "brown-leather-satchel"
+}

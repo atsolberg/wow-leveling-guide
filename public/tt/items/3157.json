@@ -1,0 +1,10 @@
+{
+  "name": "Darksoul Shackle",
+  "quality": "Common",
+  "icon": "inv_bracer_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Darksoul Shackle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Moonrage Darksoul</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 46.45%</div></td></tr></table>",
+  "url": "/item=3157/darksoul-shackle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_07.jpg",
+  "id": "3157",
+  "slug": "darksoul-shackle"
+}

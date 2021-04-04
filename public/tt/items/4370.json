@@ -1,0 +1,10 @@
+{
+  "name": "Large Copper Bomb",
+  "quality": "Common",
+  "icon": "inv_misc_bomb_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Large Copper Bomb</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->26</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (105)<br><span class=\"q2\">Use: <a href=\"/spell=4065\" class=\"q2\">Inflicts 43 to 57 Fire damage and stuns targets in a 5 yard radius for 1 sec. &nbsp;Any damage will break the effect.</a> (1 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+  "url": "/item=4370/large-copper-bomb",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bomb_01.jpg",
+  "id": "4370",
+  "slug": "large-copper-bomb"
+}

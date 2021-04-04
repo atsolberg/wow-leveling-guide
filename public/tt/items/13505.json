@@ -1,0 +1,10 @@
+{
+  "name": "Runeblade of Baron Rivendare",
+  "quality": "Epic",
+  "icon": "inv_sword_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Runeblade of Baron Rivendare</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->171 - 257 Damage</span></td>\n    <th>Speed <!--spd-->3.60</th>\n</tr></table><!--dps-->(59.44 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->58<br><span class=\"q2\">Equip: <a href=\"/spell=17625\" class=\"q2\">Increases movement speed and life regeneration rate.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">9</span> <span class=\"moneysilver\">13</span> <span class=\"moneycopper\">45</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Baron Rivendare</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 0.09%</div></td></tr></table>",
+  "url": "/item=13505/runeblade-of-baron-rivendare",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_17.jpg",
+  "id": "13505",
+  "slug": "runeblade-of-baron-rivendare"
+}

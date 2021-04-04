@@ -1,0 +1,10 @@
+{
+  "name": "Cracked Shortbow",
+  "quality": "Poor",
+  "icon": "inv_weapon_bow_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Cracked Shortbow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->8</span><!--bo--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->3 - 6 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(1.96 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->3<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">39</span></div></td></tr></table>",
+  "url": "/item=2773/cracked-shortbow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_05.jpg",
+  "id": "2773",
+  "slug": "cracked-shortbow"
+}

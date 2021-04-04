@@ -1,0 +1,10 @@
+{
+  "name": "Lei of Lilies",
+  "quality": "Epic",
+  "icon": "inv_misc_flower_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Lei of Lilies</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->51</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat7-->+10 Stamina</span><br><span><!--stat6-->+15 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->46<br><span class=\"q2\">Use: <a href=\"/spell=18831\" class=\"q2\">Conjures a Lily Root that restores health and mana when eaten.</a> (1 Hour Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">30</span></div></td></tr></table>",
+  "url": "/item=1315/lei-of-lilies",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_flower_01.jpg",
+  "id": "1315",
+  "slug": "lei-of-lilies"
+}

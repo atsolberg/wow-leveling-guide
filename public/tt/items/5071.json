@@ -1,0 +1,10 @@
+{
+  "name": "Shadow Wand",
+  "quality": "Uncommon",
+  "icon": "inv_weapon_shortblade_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Shadow Wand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->14</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->10 - 19 Shadow Damage</span></td>\n    <th>Speed <!--spd-->1.40</th>\n</tr></table><!--dps-->(10.36 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->9<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">43</span></div></td></tr></table>",
+  "url": "/item=5071/shadow-wand",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_09.jpg",
+  "id": "5071",
+  "slug": "shadow-wand"
+}

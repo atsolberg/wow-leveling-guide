@@ -1,0 +1,10 @@
+{
+  "name": "Unhatched Jubling Egg",
+  "quality": "Common",
+  "icon": "inv_egg_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Unhatched Jubling Egg</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=23851\" class=\"q2\">Hatch a Jubling from the Egg. &nbsp; It will take a while before the egg is ready to hatch.</a></span></td></tr></table>",
+  "url": "/item=19462/unhatched-jubling-egg",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_egg_03.jpg",
+  "id": "19462",
+  "slug": "unhatched-jubling-egg"
+}

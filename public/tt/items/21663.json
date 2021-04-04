@@ -1,0 +1,10 @@
+{
+  "name": "Robes of the Guardian Saint",
+  "quality": "Epic",
+  "icon": "inv_chest_cloth_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Robes of the Guardian Saint</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->77</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->117 Armor</span><br><span><!--stat5-->+22 Intellect</span><br><span><!--stat7-->+20 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=18043\" class=\"q2\">Increases healing done by spells and effects by up to 70.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=21628\" class=\"q2\">Restores 7 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">15</span> <span class=\"moneycopper\">34</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Fankriss the Unyielding</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 16.11%</div></td></tr></table>",
+  "url": "/item=21663/robes-of-the-guardian-saint",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_23.jpg",
+  "id": "21663",
+  "slug": "robes-of-the-guardian-saint"
+}

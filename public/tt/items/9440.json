@@ -1,0 +1,10 @@
+{
+  "name": "Acceptable Basilisk Sample",
+  "quality": "Common",
+  "icon": "inv_misc_monsterscales_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Acceptable Basilisk Sample</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Duration: 2 hrs<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=9440/acceptable-basilisk-sample",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterscales_03.jpg",
+  "id": "9440",
+  "slug": "acceptable-basilisk-sample"
+}

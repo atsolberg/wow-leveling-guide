@@ -1,0 +1,10 @@
+{
+  "name": "Nexus Crystal",
+  "quality": "Epic",
+  "icon": "inv_enchant_shardnexuslarge",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Nexus Crystal</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=20725/nexus-crystal",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_enchant_shardnexuslarge.jpg",
+  "id": "20725",
+  "slug": "nexus-crystal"
+}

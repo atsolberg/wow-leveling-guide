@@ -1,0 +1,10 @@
+{
+  "name": "Bloodkelp",
+  "quality": "Common",
+  "icon": "inv_misc_herb_11a",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bloodkelp</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Its red juice can leave an indelible stain on your clothing, so be careful.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 25</div></td></tr></table>",
+  "url": "/item=22094/bloodkelp",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_herb_11a.jpg",
+  "id": "22094",
+  "slug": "bloodkelp"
+}

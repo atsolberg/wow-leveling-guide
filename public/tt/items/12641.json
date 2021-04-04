@@ -1,0 +1,10 @@
+{
+  "name": "Invulnerable Mail",
+  "quality": "Epic",
+  "icon": "inv_chest_chain_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Invulnerable Mail</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->63</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->554 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 140 / 140</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=16620\" class=\"q2\">When struck in combat has a 5% chance to make you invulnerable to melee damage for 3 sec. This effect can only occur once every 30 sec.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=14249\" class=\"q2\">Increased Defense +13.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">38</span> <span class=\"moneycopper\">36</span></div></td></tr></table>",
+  "url": "/item=12641/invulnerable-mail",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_07.jpg",
+  "id": "12641",
+  "slug": "invulnerable-mail"
+}

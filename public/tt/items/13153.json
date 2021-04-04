@@ -1,0 +1,10 @@
+{
+  "name": "Tome of Mal'cin Vorail",
+  "quality": "Common",
+  "icon": "inv_misc_book_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tome of Mal'cin Vorail</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=13153/tome-of-malcin-vorail",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_01.jpg",
+  "id": "13153",
+  "slug": "tome-of-malcin-vorail"
+}

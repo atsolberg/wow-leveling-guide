@@ -1,0 +1,10 @@
+{
+  "name": "Kurzen's Head",
+  "quality": "Common",
+  "icon": "inv_misc_head_human_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Kurzen's Head</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: Colonel Kurzen</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 94.84%</div></td></tr></table>",
+  "url": "/item=3615/kurzens-head",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_human_01.jpg",
+  "id": "3615",
+  "slug": "kurzens-head"
+}

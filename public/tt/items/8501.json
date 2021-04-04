@@ -1,0 +1,11 @@
+{
+  "name": "Hawk Owl",
+  "quality": "Common",
+  "icon": "ability_eyeoftheowl",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hawk Owl</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><br />Binds when used<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=10706\" class=\"q2\">Right Click to summon and dismiss your owl.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "completion_category": "15-2",
+  "url": "/item=8501/hawk-owl",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_eyeoftheowl.jpg",
+  "id": "8501",
+  "slug": "hawk-owl"
+}

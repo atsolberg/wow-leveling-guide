@@ -1,0 +1,10 @@
+{
+  "name": "Glacial Stone",
+  "quality": "Uncommon",
+  "icon": "inv_mace_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Glacial Stone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->31</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->60 - 91 Damage</span></td>\n    <th>Speed <!--spd-->3.60</th>\n</tr></table><!--dps-->(20.97 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td><span class=\"q2\">Chance on hit: <a href=\"/spell=20869\" class=\"q2\">Blasts a target for 75 Frost damage.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">58</span> <span class=\"moneycopper\">71</span></div></td></tr></table>",
+  "url": "/item=5815/glacial-stone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_mace_09.jpg",
+  "id": "5815",
+  "slug": "glacial-stone"
+}

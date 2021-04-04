@@ -1,0 +1,10 @@
+{
+  "name": "Spider Web Robe",
+  "quality": "Common",
+  "icon": "inv_chest_cloth_34",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Spider Web Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->9</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->17 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->4<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">46</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Vicious Night Web Spider</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 4.03%</div></td></tr></table>",
+  "url": "/item=3328/spider-web-robe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_34.jpg",
+  "id": "3328",
+  "slug": "spider-web-robe"
+}

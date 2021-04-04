@@ -1,0 +1,10 @@
+{
+  "name": "Egg of Hakkar",
+  "quality": "Common",
+  "icon": "inv_egg_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Egg of Hakkar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=12346\" class=\"q2\">Use within the Sanctum of the Fallen God.</a> (5 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=10465/egg-of-hakkar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_egg_03.jpg",
+  "id": "10465",
+  "slug": "egg-of-hakkar"
+}

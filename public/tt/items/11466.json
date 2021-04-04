@@ -1,0 +1,10 @@
+{
+  "name": "Raschal's Report",
+  "quality": "Common",
+  "icon": "inv_scroll_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Raschal's Report</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=11466/raschals-report",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_07.jpg",
+  "id": "11466",
+  "slug": "raschals-report"
+}

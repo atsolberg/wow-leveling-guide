@@ -1,0 +1,10 @@
+{
+  "name": "Ebonhold Shoulderpads",
+  "quality": "Uncommon",
+  "icon": "inv_shoulder_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Ebonhold Shoulderpads</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->54</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->220 Armor</span><br><span><!--stat5-->+12 Intellect</span><br><span><!--stat6-->+11 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td>Requires Level <!--rlvl-->49<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">36</span> <span class=\"moneycopper\">97</span></div></td></tr></table>",
+  "url": "/item=8272/ebonhold-shoulderpads",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_27.jpg",
+  "id": "8272",
+  "slug": "ebonhold-shoulderpads"
+}

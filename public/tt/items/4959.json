@@ -1,0 +1,10 @@
+{
+  "name": "Throwing Tomahawk",
+  "quality": "Common",
+  "icon": "inv_throwingaxe_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Throwing Tomahawk</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->7</span><!--bo--><table width=\"100%\"><tr><td>Thrown</td><th><!--scstart2:16--><span class=\"q1\">Thrown</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->3 - 7 Frost Damage</span></td>\n    <th>Speed <!--spd-->2.00</th>\n</tr></table><!--dps-->(2.50 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 200</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=4959/throwing-tomahawk",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_throwingaxe_03.jpg",
+  "id": "4959",
+  "slug": "throwing-tomahawk"
+}

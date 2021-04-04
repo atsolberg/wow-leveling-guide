@@ -1,0 +1,10 @@
+{
+  "name": "Ryson's Beacon",
+  "quality": "Common",
+  "icon": "inv_staff_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Ryson's Beacon</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><br /><a href=\"/zone=2597\" class=\"q1\">Alterac Valley</a><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=21537\" class=\"q2\">Plants the beacon in the Dun Baldar Courtyard. Protect it from harm!</a> (30 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=17362/rysons-beacon",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_11.jpg",
+  "id": "17362",
+  "slug": "rysons-beacon"
+}

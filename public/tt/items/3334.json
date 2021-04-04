@@ -1,0 +1,10 @@
+{
+  "name": "Farmer's Shovel",
+  "quality": "Common",
+  "icon": "inv_misc_shovel_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Farmer's Shovel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->7</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->11 - 17 Damage</span></td>\n    <th>Speed <!--spd-->3.70</th>\n</tr></table><!--dps-->(3.78 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->2<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">68</span></div></td></tr></table>",
+  "url": "/item=3334/farmers-shovel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_shovel_01.jpg",
+  "id": "3334",
+  "slug": "farmers-shovel"
+}

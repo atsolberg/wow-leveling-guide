@@ -1,0 +1,10 @@
+{
+  "name": "Core Felcloth Bag",
+  "quality": "Epic",
+  "icon": "inv_misc_bag_corefelclothbag",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Core Felcloth Bag</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when equipped<br />28 Slot Soul Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=9\" class=\"c9\">Warlock</a></div></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">8</span></div></td></tr></table>",
+  "url": "/item=21342/core-felcloth-bag",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_corefelclothbag.jpg",
+  "id": "21342",
+  "slug": "core-felcloth-bag"
+}

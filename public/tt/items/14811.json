@@ -1,0 +1,10 @@
+{
+  "name": "Warstrike Chestguard",
+  "quality": "Uncommon",
+  "icon": "inv_chest_chain_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Warstrike Chestguard</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->64</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->342 Armor</span><br><span><!--stat4-->+3 Strength</span><br><span><!--stat7-->+10 Stamina</span><br><span><!--stat6-->+23 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->59<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">98</span> <span class=\"moneycopper\">98</span></div></td></tr></table>",
+  "url": "/item=14811/warstrike-chestguard",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_05.jpg",
+  "id": "14811",
+  "slug": "warstrike-chestguard"
+}

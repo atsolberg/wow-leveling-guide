@@ -1,0 +1,10 @@
+{
+  "name": "Lovely Blue Dress",
+  "quality": "Common",
+  "icon": "inv_chest_cloth_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Lovely Blue Dress</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Chest</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=22278/lovely-blue-dress",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_23.jpg",
+  "id": "22278",
+  "slug": "lovely-blue-dress"
+}

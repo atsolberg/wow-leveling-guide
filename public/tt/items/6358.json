@@ -1,0 +1,10 @@
+{
+  "name": "Oily Blackmouth",
+  "quality": "Common",
+  "icon": "inv_misc_monsterhead_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Oily Blackmouth</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">4</span></div></td></tr></table>",
+  "url": "/item=6358/oily-blackmouth",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterhead_04.jpg",
+  "id": "6358",
+  "slug": "oily-blackmouth"
+}

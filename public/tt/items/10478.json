@@ -1,0 +1,10 @@
+{
+  "name": "Roland's Mana Gem",
+  "quality": "Common",
+  "icon": "inv_misc_gem_sapphire_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Roland's Mana Gem</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=10478/rolands-mana-gem",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_sapphire_02.jpg",
+  "id": "10478",
+  "slug": "rolands-mana-gem"
+}

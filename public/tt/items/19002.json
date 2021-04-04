@@ -1,0 +1,10 @@
+{
+  "name": "Head of Nefarian",
+  "quality": "Epic",
+  "icon": "inv_misc_head_dragon_black",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Head of Nefarian</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=7783\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q\">&quot;The head of Nefarian: Brood of Deathwing.&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Nefarian</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 42.88%</div></td></tr></table>",
+  "url": "/item=19002/head-of-nefarian",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_dragon_black.jpg",
+  "id": "19002",
+  "slug": "head-of-nefarian"
+}

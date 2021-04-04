@@ -1,0 +1,11 @@
+{
+  "name": "Manual: The Path of Defense",
+  "quality": "Common",
+  "icon": "inv_misc_book_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Manual: The Path of Defense</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<br><span class=\"q2\">Use: <a href=\"/spell=8121\" class=\"q2\">Teaches Defensive Stance, Sunder Armor (Rank 1), and Taunt (Rank 1).</a></span></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=6619/manual-the-path-of-defense",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_book_02.jpg",
+  "id": "6619",
+  "slug": "manual-the-path-of-defense"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Toxic Revenger",
+  "quality": "Rare",
+  "icon": "inv_weapon_shortblade_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Toxic Revenger</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->27 - 51 Damage</span></td>\n    <th>Speed <!--spd-->1.90</th>\n</tr></table><!--dps-->(20.53 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->27<br><span class=\"q2\">Chance on hit: <a href=\"/spell=11790\" class=\"q2\">Deals 5 Nature damage every 5 sec to any enemy in an 8 yard radius around the caster for 15 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">65</span> <span class=\"moneycopper\">92</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Viscous Fallout</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 17.60%</div></td></tr></table>",
+  "url": "/item=9453/toxic-revenger",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_02.jpg",
+  "id": "9453",
+  "slug": "toxic-revenger"
+}

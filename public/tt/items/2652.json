@@ -1,0 +1,10 @@
+{
+  "name": "Flimsy Chain Cloak",
+  "quality": "Poor",
+  "icon": "inv_misc_cape_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Flimsy Chain Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->5</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->5 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">7</span></div></td></tr></table>",
+  "url": "/item=2652/flimsy-chain-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_02.jpg",
+  "id": "2652",
+  "slug": "flimsy-chain-cloak"
+}

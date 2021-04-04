@@ -1,0 +1,11 @@
+{
+  "name": "Prairie Dog Whistle",
+  "quality": "Common",
+  "icon": "ability_hunter_beastcall",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Prairie Dog Whistle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->30</span><!--bo--><br />Binds when used<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=10709\" class=\"q2\">Right Click to summon and dismiss your prairie dog.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "completion_category": "15-2",
+  "url": "/item=10394/prairie-dog-whistle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_hunter_beastcall.jpg",
+  "id": "10394",
+  "slug": "prairie-dog-whistle"
+}

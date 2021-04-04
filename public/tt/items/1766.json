@@ -1,0 +1,10 @@
+{
+  "name": "Canvas Cloak",
+  "quality": "Poor",
+  "icon": "inv_misc_cape_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Canvas Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->14 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->13<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">31</span></div></td></tr></table>",
+  "url": "/item=1766/canvas-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_15.jpg",
+  "id": "1766",
+  "slug": "canvas-cloak"
+}

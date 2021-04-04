@@ -1,0 +1,10 @@
+{
+  "name": "Elixir of Water Walking",
+  "quality": "Common",
+  "icon": "inv_potion_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Elixir of Water Walking</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->34</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->24<br><span class=\"q2\">Use: <a href=\"/spell=11319\" class=\"q2\">Lets you walk on water for 30 min.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=8827/elixir-of-water-walking",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_15.jpg",
+  "id": "8827",
+  "slug": "elixir-of-water-walking"
+}

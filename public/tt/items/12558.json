@@ -1,0 +1,10 @@
+{
+  "name": "Blue-feathered Necklace",
+  "quality": "Common",
+  "icon": "inv_jewelry_necklace_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Blue-feathered Necklace</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->52</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=4882\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->52</td></tr></table>",
+  "url": "/item=12558/blue-feathered-necklace",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_11.jpg",
+  "id": "12558",
+  "slug": "blue-feathered-necklace"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Formula: Enchant Bracer - Healing",
+  "quality": "Common",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Formula: Enchant Bracer - Healing</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->64</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=333\" class=\"q1\">Enchanting</a> (300)<br>Requires <a href=\"/faction=529\" class=\"q1\">Argent Dawn</a> - Revered<br><span class=\"q2\">Use: <a href=\"/spell=23808\" class=\"q2\">Teaches you how to permanently enchant a bracer to increase the effects of healing spells by 24.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=19447/formula-enchant-bracer-healing",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "19447",
+  "slug": "formula-enchant-bracer-healing"
+}

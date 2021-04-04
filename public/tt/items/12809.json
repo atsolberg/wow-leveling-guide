@@ -1,0 +1,10 @@
+{
+  "name": "Guardian Stone",
+  "quality": "Uncommon",
+  "icon": "inv_stone_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Guardian Stone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Stone Guardian</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 25.11%</div></td></tr></table>",
+  "url": "/item=12809/guardian-stone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_stone_02.jpg",
+  "id": "12809",
+  "slug": "guardian-stone"
+}

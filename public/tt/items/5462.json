@@ -1,0 +1,10 @@
+{
+  "name": "Dartol's Rod of Transformation",
+  "quality": "Common",
+  "icon": "inv_wand_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dartol's Rod of Transformation</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=6405\" class=\"q2\">Transforms you into a Furbolg for 3 min.</a> (1 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=5462/dartols-rod-of-transformation",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_01.jpg",
+  "id": "5462",
+  "slug": "dartols-rod-of-transformation"
+}

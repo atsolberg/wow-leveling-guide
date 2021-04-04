@@ -1,0 +1,10 @@
+{
+  "name": "Crude Map",
+  "quality": "Common",
+  "icon": "ability_spy",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Crude Map</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;A map indicating where the crooks expect the drop-off to be made.&quot;</span><br><span class=\"q2\">&lt;Right Click to Read&gt;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Merithra of the Dream</div></td></tr></table>",
+  "url": "/item=21037/crude-map",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_spy.jpg",
+  "id": "21037",
+  "slug": "crude-map"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Empty Vial",
+  "quality": "Common",
+  "icon": "inv_drink_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Empty Vial</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=3371/empty-vial",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_06.jpg",
+  "id": "3371",
+  "slug": "empty-vial"
+}

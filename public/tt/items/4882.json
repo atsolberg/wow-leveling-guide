@@ -1,0 +1,10 @@
+{
+  "name": "Benedict's Key",
+  "quality": "Common",
+  "icon": "inv_misc_key_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Benedict's Key</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=4882/benedicts-key",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_key_06.jpg",
+  "id": "4882",
+  "slug": "benedicts-key"
+}

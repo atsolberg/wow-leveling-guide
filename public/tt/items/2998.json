@@ -1,0 +1,10 @@
+{
+  "name": "A Simple Compass",
+  "quality": "Common",
+  "icon": "inv_misc_pocketwatch_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">A Simple Compass</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Baros Alexston's first compass.&quot;</span></td></tr></table>",
+  "url": "/item=2998/a-simple-compass",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_pocketwatch_02.jpg",
+  "id": "2998",
+  "slug": "a-simple-compass"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Green Wedding Hanbok",
+  "quality": "Common",
+  "icon": "inv_chest_cloth_22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Green Wedding Hanbok</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><table width=\"100%\"><tr><td>Chest</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">74</span> <span class=\"moneycopper\">42</span></div></td></tr></table>",
+  "url": "/item=13900/green-wedding-hanbok",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_22.jpg",
+  "id": "13900",
+  "slug": "green-wedding-hanbok"
+}

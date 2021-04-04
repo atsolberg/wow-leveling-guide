@@ -1,0 +1,10 @@
+{
+  "name": "Narain's Turban",
+  "quality": "Common",
+  "icon": "inv_helmet_63",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Narain's Turban</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=25688\" class=\"q2\">Transforms the appearance of the recipient to resemble Narain Soothfancy.</a></span><br><span class=\"q\">&quot;Use with Narain's Robe to disguise yourself as Narain!&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Merithra of the Dream</div></td></tr></table>",
+  "url": "/item=21039/narains-turban",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_63.jpg",
+  "id": "21039",
+  "slug": "narains-turban"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Stronghold Gauntlets",
+  "quality": "Epic",
+  "icon": "inv_gauntlets_30",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Stronghold Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->441 Armor</span><br><span><!--stat7-->+12 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=7219\" class=\"q2\">Immune to Disarm.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=13665\" class=\"q2\">Increases your chance to parry an attack by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">52</span> <span class=\"moneycopper\">71</span></div></td></tr></table>",
+  "url": "/item=12639/stronghold-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_30.jpg",
+  "id": "12639",
+  "slug": "stronghold-gauntlets"
+}

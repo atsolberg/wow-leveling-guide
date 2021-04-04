@@ -1,0 +1,10 @@
+{
+  "name": "Wirt's Third Leg",
+  "quality": "Rare",
+  "icon": "inv_misc_flute_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Wirt's Third Leg</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->49 - 91 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(30.43 damage per second)<br><span><!--stat3-->+9 Agility</span><br><span><!--stat7-->+4 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">95</span> <span class=\"moneycopper\">77</span></div></td></tr></table>",
+  "url": "/item=9359/wirts-third-leg",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_flute_01.jpg",
+  "id": "9359",
+  "slug": "wirts-third-leg"
+}

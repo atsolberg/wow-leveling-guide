@@ -1,0 +1,10 @@
+{
+  "name": "Supply Bag",
+  "quality": "Rare",
+  "icon": "inv_misc_bag_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Supply Bag</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<br />18 Slot Bag<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">87</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=22679/supply-bag",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_17.jpg",
+  "id": "22679",
+  "slug": "supply-bag"
+}

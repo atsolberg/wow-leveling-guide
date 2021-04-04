@@ -1,0 +1,10 @@
+{
+  "name": "Acolyte's Robe",
+  "quality": "Poor",
+  "icon": "inv_chest_cloth_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Acolyte's Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->3 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=6129/acolytes-robe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_16.jpg",
+  "id": "6129",
+  "slug": "acolytes-robe"
+}

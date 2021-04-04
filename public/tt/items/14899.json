@@ -1,0 +1,10 @@
+{
+  "name": "Saltstone Helm",
+  "quality": "Uncommon",
+  "icon": "inv_helmet_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Saltstone Helm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->41</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->244 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">37</span> <span class=\"moneycopper\">31</span></div></td></tr></table>",
+  "url": "/item=14899/saltstone-helm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_20.jpg",
+  "id": "14899",
+  "slug": "saltstone-helm"
+}

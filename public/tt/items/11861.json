@@ -1,0 +1,10 @@
+{
+  "name": "Girdle of Reprisal",
+  "quality": "Uncommon",
+  "icon": "inv_belt_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Girdle of Reprisal</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->46</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->143 Armor</span><br><span><!--stat4-->+12 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=7617\" class=\"q2\">When struck in combat has a 1% chance of inflicting 75 to 125 Shadow damage to the attacker.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">52</span> <span class=\"moneycopper\">7</span></div></td></tr></table>",
+  "url": "/item=11861/girdle-of-reprisal",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_27.jpg",
+  "id": "11861",
+  "slug": "girdle-of-reprisal"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Whitesoul Helm",
+  "quality": "Rare",
+  "icon": "inv_helmet_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Whitesoul Helm</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->629 Armor</span><br><span><!--stat5-->+15 Intellect</span><br><span><!--stat6-->+15 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Equip: <a href=\"/spell=18029\" class=\"q2\">Increases healing done by spells and effects by up to 35.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">48</span> <span class=\"moneycopper\">59</span></div></td></tr></table>",
+  "url": "/item=12633/whitesoul-helm",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_13.jpg",
+  "id": "12633",
+  "slug": "whitesoul-helm"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Janice's Parcel",
+  "quality": "Common",
+  "icon": "inv_misc_gift_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Janice's Parcel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=12724/janices-parcel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gift_05.jpg",
+  "id": "12724",
+  "slug": "janices-parcel"
+}

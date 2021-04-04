@@ -1,0 +1,10 @@
+{
+  "name": "Sanctified Orb",
+  "quality": "Rare",
+  "icon": "inv_misc_gem_pearl_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Sanctified Orb</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->52</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=24865\" class=\"q2\">Increases your critical strike chance with spells and melee attacks by 3%. &nbsp;Lasts 25 sec.</a> (3 Min Cooldown)</span><!--itemEffects:1--></td></tr></table>",
+  "url": "/item=20512/sanctified-orb",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_pearl_04.jpg",
+  "id": "20512",
+  "slug": "sanctified-orb"
+}

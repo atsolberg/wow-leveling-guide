@@ -1,0 +1,10 @@
+{
+  "name": "Cracked Egg Shells",
+  "quality": "Poor",
+  "icon": "inv_egg_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Cracked Egg Shells</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">4</span></div></td></tr></table>",
+  "url": "/item=4757/cracked-egg-shells",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_egg_04.jpg",
+  "id": "4757",
+  "slug": "cracked-egg-shells"
+}

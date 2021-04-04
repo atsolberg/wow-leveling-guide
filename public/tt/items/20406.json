@@ -1,0 +1,10 @@
+{
+  "name": "Twilight Cultist Mantle",
+  "quality": "Uncommon",
+  "icon": "inv_shoulder_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Twilight Cultist Mantle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->58 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<!--itemEffects:1--><br /><br /><span class=\"q\"><a href=\"/item-set=492\" class=\"q\">Twilight Trappings</a> (0/3)</span><div class=\"q0 indent\"><span><!--si20406--><a href=\"/item=20406\">Twilight Cultist Mantle</a></span><br /><span><!--si20408--><a href=\"/item=20408\">Twilight Cultist Cowl</a></span><br /><span><!--si20407--><a href=\"/item=20407\">Twilight Cultist Robe</a></span></div><br /><span class=\"q0\"><span>(3) Set : <a href=\"/spell=24746\">Bestows the wearer with the evil aura of a Twilight's Hammer cultist.</a></span></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">19</span> <span class=\"moneycopper\">29</span></div></td></tr></table>",
+  "url": "/item=20406/twilight-cultist-mantle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_05.jpg",
+  "id": "20406",
+  "slug": "twilight-cultist-mantle"
+}

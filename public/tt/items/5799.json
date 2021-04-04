@@ -1,0 +1,10 @@
+{
+  "name": "Kravel's Parts Order",
+  "quality": "Common",
+  "icon": "inv_misc_note_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Kravel's Parts Order</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=5799/kravels-parts-order",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_03.jpg",
+  "id": "5799",
+  "slug": "kravels-parts-order"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Gloves of Old",
+  "quality": "Rare",
+  "icon": "inv_gauntlets_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Gloves of Old</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->34</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->32 Armor</span><br><span><!--stat5-->+5 Intellect</span><br><span><!--stat6-->+12 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td>Requires Level <!--rlvl-->29<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span> <span class=\"moneycopper\">65</span></div></td></tr></table>",
+  "url": "/item=9395/gloves-of-old",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_24.jpg",
+  "id": "9395",
+  "slug": "gloves-of-old"
+}

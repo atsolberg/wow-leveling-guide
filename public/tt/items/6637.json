@@ -1,0 +1,10 @@
+{
+  "name": "Water Sapta",
+  "quality": "Common",
+  "icon": "inv_potion_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Water Sapta</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=8899\" class=\"q2\">Allows the shaman to see elemental spirits.</a></span></td></tr></table>",
+  "url": "/item=6637/water-sapta",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_13.jpg",
+  "id": "6637",
+  "slug": "water-sapta"
+}

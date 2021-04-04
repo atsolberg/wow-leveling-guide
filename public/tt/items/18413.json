@@ -1,0 +1,10 @@
+{
+  "name": "Cloak of Warding",
+  "quality": "Rare",
+  "icon": "inv_misc_cape_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Cloak of Warding</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->214 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=7518\" class=\"q2\">Increased Defense +5.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">70</span> <span class=\"moneycopper\">70</span></div></td></tr></table>",
+  "url": "/item=18413/cloak-of-warding",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_06.jpg",
+  "id": "18413",
+  "slug": "cloak-of-warding"
+}

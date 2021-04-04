@@ -1,0 +1,10 @@
+{
+  "name": "Cloak of Unending Life",
+  "quality": "Epic",
+  "icon": "inv_misc_cape_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Cloak of Unending Life</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->67</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->52 Armor</span><br><span><!--stat4-->+12 Strength</span><br><span><!--stat3-->+8 Agility</span><br><span><!--stat5-->+10 Intellect</span><br><span><!--stat7-->+10 Stamina</span><br><span><!--stat6-->+7 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=9416\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 11.</a></span><!--itemEffects:1--><br /><br /><span class=\"q\"><a href=\"/item-set=494\" class=\"q\">Symbols of Unending Life</a> (0/3)</span><div class=\"q0 indent\"><span><!--si21408--><a href=\"/item=21408\">Band of Unending Life</a></span><br /><span><!--si21409--><a href=\"/item=21409\">Cloak of Unending Life</a></span><br /><span><!--si21407--><a href=\"/item=21407\">Mace of Unending Life</a></span></div><br /><span class=\"q0\"><span>(3) Set : <a href=\"/spell=26107\">Your finishing moves now refund 30 energy on a Miss, Dodge, Block, or Parry.</a></span></span></td></tr></table>",
+  "url": "/item=21409/cloak-of-unending-life",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_15.jpg",
+  "id": "21409",
+  "slug": "cloak-of-unending-life"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Recipe: Elixir of Lesser Agility",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Recipe: Elixir of Lesser Agility</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->28</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=171\" class=\"q1\">Alchemy</a> (140)<br><span class=\"q2\">Use: <a href=\"/spell=3187\" class=\"q2\">Teaches you how to make an Elixir of Lesser Agility.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q1\"><a href=\"/item=3390\">Elixir of Lesser Agility</a></span><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->28</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><br>Requires Level <!--rlvl-->18<br><span class=\"q2\">Use: <a href=\"/spell=3160\" class=\"q2\">Increases Agility by 8 for 1 hour.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">35</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=3355\">Wild Steelbloom</a>, <a href=\"/item=2452\">Swiftthistle</a>, <a href=\"/item=3372\">Leaded Vial</a></div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=3396/recipe-elixir-of-lesser-agility",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "3396",
+  "slug": "recipe-elixir-of-lesser-agility"
+}

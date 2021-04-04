@@ -1,0 +1,10 @@
+{
+  "name": "Immature Venom Sac",
+  "quality": "Common",
+  "icon": "inv_misc_organ_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Immature Venom Sac</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Duration: 1 hour<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=16537\" class=\"q2\">Cures 1 poison effect.</a></span><br><span class=\"q\">&quot;Protects the brood against Mother's Milk. Efficacy decays over time.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 50</div></td></tr></table>",
+  "url": "/item=12586/immature-venom-sac",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_organ_02.jpg",
+  "id": "12586",
+  "slug": "immature-venom-sac"
+}

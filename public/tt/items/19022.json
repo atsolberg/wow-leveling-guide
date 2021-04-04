@@ -1,0 +1,10 @@
+{
+  "name": "Nat Pagle's Extreme Angler FC-5000",
+  "quality": "Uncommon",
+  "icon": "inv_fishingpole_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Nat Pagle's Extreme Angler FC-5000</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:20--><span class=\"q1\">Fishing Pole</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->93 - 140 Damage</span></td>\n    <th>Speed <!--spd-->3.00</th>\n</tr></table><!--dps-->(38.83 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires <a href=\"/skill=356\" class=\"q1\">Fishing</a> (100)<br><span class=\"q2\">Equip: <a href=\"/spell=8082\" class=\"q2\">Increased Fishing +25.</a></span><!--itemEffects:1--><br><span class=\"q\">&quot;Limited Edition&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">85</span> <span class=\"moneycopper\">80</span></div></td></tr></table>",
+  "url": "/item=19022/nat-pagles-extreme-angler-fc-5000",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_fishingpole_01.jpg",
+  "id": "19022",
+  "slug": "nat-pagles-extreme-angler-fc-5000"
+}

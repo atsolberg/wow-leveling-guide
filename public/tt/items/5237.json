@@ -1,0 +1,10 @@
+{
+  "name": "Mind-numbing Poison",
+  "quality": "Common",
+  "icon": "spell_nature_nullifydisease",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Mind-numbing Poison</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->24</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=4\" class=\"c4\">Rogue</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->24<br><span class=\"q2\">Use: <a href=\"/spell=5761\" class=\"q2\">Coats a weapon with poison that lasts for 30 minutes.<br />Each strike has a 20% chance of poisoning the enemy, increasing their casting time by 40% for 10 sec. &nbsp;50 charges.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">18</span></div></td></tr></table>",
+  "url": "/item=5237/mind-numbing-poison",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_nullifydisease.jpg",
+  "id": "5237",
+  "slug": "mind-numbing-poison"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Frame of Atiesh",
+  "quality": "Legendary",
+  "icon": "inv_staff_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q5\">Frame of Atiesh</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=9250\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q\">&quot;The head and base are missing.&quot;</span></td></tr></table>",
+  "url": "/item=22727/frame-of-atiesh",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_20.jpg",
+  "id": "22727",
+  "slug": "frame-of-atiesh"
+}

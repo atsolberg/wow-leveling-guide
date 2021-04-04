@@ -1,0 +1,10 @@
+{
+  "name": "Alliance Gift Collection",
+  "quality": "Common",
+  "icon": "inv_valentinesboxofchocolates01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Alliance Gift Collection</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Duration: 7 days<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Give this collection to Kwee Q. Peddlefeet.&quot;</span></td></tr></table>",
+  "url": "/item=22262/alliance-gift-collection",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_valentinesboxofchocolates01.jpg",
+  "id": "22262",
+  "slug": "alliance-gift-collection"
+}

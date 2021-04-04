@@ -1,0 +1,10 @@
+{
+  "name": "Embossed Leather Cloak",
+  "quality": "Common",
+  "icon": "inv_helmet_48",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Embossed Leather Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->13</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->12 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->8<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">12</span></div></td></tr></table>",
+  "url": "/item=2310/embossed-leather-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_48.jpg",
+  "id": "2310",
+  "slug": "embossed-leather-cloak"
+}

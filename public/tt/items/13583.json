@@ -1,0 +1,11 @@
+{
+  "name": "Panda Collar",
+  "quality": "Common",
+  "icon": "inv_belt_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Panda Collar</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=17707\" class=\"q2\">Right Click to summon and dismiss your panda cub.</a></span></td></tr></table>",
+  "completion_category": "15-2",
+  "url": "/item=13583/panda-collar",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_05.jpg",
+  "id": "13583",
+  "slug": "panda-collar"
+}

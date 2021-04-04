@@ -1,0 +1,10 @@
+{
+  "name": "Right-Handed Blades",
+  "quality": "Common",
+  "icon": "inv_gauntlets_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Right-Handed Blades</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:13--><span class=\"q1\">Fist Weapon</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->18 - 34 Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(17.33 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">43</span> <span class=\"moneycopper\">41</span></div></td></tr></table>",
+  "url": "/item=15904/right-handed-blades",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_07.jpg",
+  "id": "15904",
+  "slug": "right-handed-blades"
+}

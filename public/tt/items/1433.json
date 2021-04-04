@@ -1,0 +1,10 @@
+{
+  "name": "Patchwork Armor",
+  "quality": "Poor",
+  "icon": "inv_shirt_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Patchwork Armor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->7</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->13 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->2<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">14</span></div></td></tr></table>",
+  "url": "/item=1433/patchwork-armor",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_06.jpg",
+  "id": "1433",
+  "slug": "patchwork-armor"
+}

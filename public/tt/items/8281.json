@@ -1,0 +1,10 @@
+{
+  "name": "Valorous Pauldrons",
+  "quality": "Uncommon",
+  "icon": "inv_shoulder_28",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Valorous Pauldrons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->48</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->347 Armor</span><br><span><!--stat4-->+10 Strength</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->43<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">59</span> <span class=\"moneycopper\">82</span></div></td></tr></table>",
+  "url": "/item=8281/valorous-pauldrons",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_28.jpg",
+  "id": "8281",
+  "slug": "valorous-pauldrons"
+}

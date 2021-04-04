@@ -1,0 +1,10 @@
+{
+  "name": "Fiery Chain Girdle",
+  "quality": "Epic",
+  "icon": "inv_belt_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Fiery Chain Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->214 Armor</span><br><span><!--stat5-->+9 Intellect</span><br><span><!--stat7-->+10 Stamina</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><br>+24 Fire Resistance<!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">86</span> <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=16989/fiery-chain-girdle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_13.jpg",
+  "id": "16989",
+  "slug": "fiery-chain-girdle"
+}

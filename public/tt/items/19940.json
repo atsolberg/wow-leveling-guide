@@ -1,0 +1,10 @@
+{
+  "name": "Renataki's Tooth",
+  "quality": "Uncommon",
+  "icon": "inv_misc_monsterfang_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Renataki's Tooth</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;The Razor Sharp Tooth of Renataki.&quot;</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: Renataki</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 91.38%</div></td></tr></table>",
+  "url": "/item=19940/renatakis-tooth",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_monsterfang_01.jpg",
+  "id": "19940",
+  "slug": "renatakis-tooth"
+}

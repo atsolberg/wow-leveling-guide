@@ -1,0 +1,10 @@
+{
+  "name": "Soul Gem",
+  "quality": "Common",
+  "icon": "inv_misc_gem_amethyst_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Soul Gem</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=24828\" class=\"q2\">Creates 3 Soul Shards.</a></span></td></tr></table>",
+  "url": "/item=20475/soul-gem",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_amethyst_01.jpg",
+  "id": "20475",
+  "slug": "soul-gem"
+}

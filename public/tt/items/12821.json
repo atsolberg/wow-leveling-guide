@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Dawn's Edge",
+  "quality": "Rare",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Plans: Dawn's Edge</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->55</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (275)<br>Requires <a href=\"/spells=11.164.17041\" class=\"q1\">Master Axesmith</a><br><span class=\"q2\">Use: <a href=\"/spell=17021\" class=\"q2\">Teaches you how to make Dawn's Edge.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">40</span></div><br /><span class=\"q3\"><a href=\"/item=12774\">Dawn's Edge</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->53 - 100 Damage</span></td>\n    <th>Speed <!--spd-->2.10</th>\n</tr></table><!--dps-->(36.43 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90<br>Requires Level <!--rlvl-->50<br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">60</span> <span class=\"moneycopper\">44</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=12359\">Thorium Bar</a>&nbsp;(30), <a href=\"/item=12655\">Enchanted Thorium Bar</a>&nbsp;(4), <a href=\"/item=7910\">Star Ruby</a>&nbsp;(4), <a href=\"/item=12361\">Blue Sapphire</a>&nbsp;(4), <a href=\"/item=12644\">Dense Grinding Stone</a>&nbsp;(2), <a href=\"/item=8170\">Rugged Leather</a>&nbsp;(4)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=12821/plans-dawns-edge",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "12821",
+  "slug": "plans-dawns-edge"
+}

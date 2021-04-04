@@ -1,0 +1,10 @@
+{
+  "name": "Filled Brown Waterskin",
+  "quality": "Common",
+  "icon": "inv_drink_waterskin_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Filled Brown Waterskin</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=7769/filled-brown-waterskin",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_drink_waterskin_05.jpg",
+  "id": "7769",
+  "slug": "filled-brown-waterskin"
+}

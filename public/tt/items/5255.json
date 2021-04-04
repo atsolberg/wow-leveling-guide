@@ -1,0 +1,10 @@
+{
+  "name": "Quilboar Tomahawk",
+  "quality": "Uncommon",
+  "icon": "inv_throwingaxe_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Quilboar Tomahawk</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->15</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->13 - 26 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(7.80 damage per second)<br><span><!--stat3-->+1 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">85</span></div></td></tr></table>",
+  "url": "/item=5255/quilboar-tomahawk",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_throwingaxe_03.jpg",
+  "id": "5255",
+  "slug": "quilboar-tomahawk"
+}

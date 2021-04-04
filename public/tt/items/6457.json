@@ -1,0 +1,10 @@
+{
+  "name": "Rusted Engineering Parts",
+  "quality": "Poor",
+  "icon": "inv_misc_gear_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Rusted Engineering Parts</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">4</span></div></td></tr></table>",
+  "url": "/item=6457/rusted-engineering-parts",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gear_02.jpg",
+  "id": "6457",
+  "slug": "rusted-engineering-parts"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Highlander's Field Ration",
+  "quality": "Common",
+  "icon": "inv_misc_food_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Highlander's Field Ration</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->25<br>Requires <a href=\"/faction=509\" class=\"q1\">The League of Arathor</a> - Friendly<br><span class=\"q2\">Use: <a href=\"/spell=24409\" class=\"q2\">Restores 1074 health and 2202 mana over 30 sec. &nbsp;Must remain seated while eating. &nbsp;Usable only inside Arathi Basin.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=20226/highlanders-field-ration",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_09.jpg",
+  "id": "20226",
+  "slug": "highlanders-field-ration"
+}

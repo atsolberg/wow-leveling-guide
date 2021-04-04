@@ -1,0 +1,10 @@
+{
+  "name": "Chillsteel Girdle",
+  "quality": "Rare",
+  "icon": "inv_belt_33",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Chillsteel Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->190 Armor</span><br><span><!--stat5-->+20 Intellect</span><br><span><!--stat6-->+7 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Frost Resistance<!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">27</span> <span class=\"moneycopper\">67</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Warder Stilgiss</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 25.32%</div></td></tr></table>",
+  "url": "/item=11783/chillsteel-girdle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_33.jpg",
+  "id": "11783",
+  "slug": "chillsteel-girdle"
+}

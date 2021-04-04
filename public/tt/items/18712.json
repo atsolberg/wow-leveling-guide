@@ -1,0 +1,10 @@
+{
+  "name": "Arena Vambraces",
+  "quality": "Rare",
+  "icon": "inv_bracer_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Arena Vambraces</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->50</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->371 Armor</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->45<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">58</span> <span class=\"moneycopper\">21</span></div></td></tr></table>",
+  "url": "/item=18712/arena-vambraces",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_19.jpg",
+  "id": "18712",
+  "slug": "arena-vambraces"
+}

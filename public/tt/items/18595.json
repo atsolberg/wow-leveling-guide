@@ -1,0 +1,10 @@
+{
+  "name": "Blood Opal",
+  "quality": "Uncommon",
+  "icon": "inv_misc_gem_bloodstone_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Blood Opal</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">50</span></div></td></tr></table>",
+  "url": "/item=18595/blood-opal",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_bloodstone_02.jpg",
+  "id": "18595",
+  "slug": "blood-opal"
+}

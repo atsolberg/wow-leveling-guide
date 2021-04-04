@@ -1,0 +1,10 @@
+{
+  "name": "Wispy Cloak",
+  "quality": "Common",
+  "icon": "inv_misc_cape_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Wispy Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->6</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->6 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">11</span></div></td></tr></table>",
+  "url": "/item=3322/wispy-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_11.jpg",
+  "id": "3322",
+  "slug": "wispy-cloak"
+}

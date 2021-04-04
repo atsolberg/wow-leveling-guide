@@ -1,0 +1,10 @@
+{
+  "name": "Shredder Operating Manual - Page 2",
+  "quality": "Common",
+  "icon": "inv_misc_note_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Shredder Operating Manual - Page 2</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=20529\" class=\"q2\">Bind pages 1-4 into Chapter 1 of the Shredder Operating Manual.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">62</span></div></td></tr></table>",
+  "url": "/item=16646/shredder-operating-manual-page-2",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_06.jpg",
+  "id": "16646",
+  "slug": "shredder-operating-manual-page-2"
+}

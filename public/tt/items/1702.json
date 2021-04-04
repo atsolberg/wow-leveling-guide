@@ -1,0 +1,10 @@
+{
+  "name": "Intact Basilisk Spine",
+  "quality": "Poor",
+  "icon": "inv_misc_bone_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Intact Basilisk Spine</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">20</span></div></td></tr></table>",
+  "url": "/item=1702/intact-basilisk-spine",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_03.jpg",
+  "id": "1702",
+  "slug": "intact-basilisk-spine"
+}

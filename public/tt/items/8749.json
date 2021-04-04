@@ -1,0 +1,10 @@
+{
+  "name": "Crochet Hat",
+  "quality": "Poor",
+  "icon": "inv_helmet_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Crochet Hat</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->43</span><!--bo--><table width=\"100%\"><tr><td>Head</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->41 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->38<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">3</span></div></td></tr></table>",
+  "url": "/item=8749/crochet-hat",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_helmet_15.jpg",
+  "id": "8749",
+  "slug": "crochet-hat"
+}

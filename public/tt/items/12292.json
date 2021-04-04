@@ -1,0 +1,10 @@
+{
+  "name": "Strangely Marked Box",
+  "quality": "Common",
+  "icon": "inv_crate_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Strangely Marked Box</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=12292/strangely-marked-box",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_crate_02.jpg",
+  "id": "12292",
+  "slug": "strangely-marked-box"
+}

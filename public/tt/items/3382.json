@@ -1,0 +1,10 @@
+{
+  "name": "Weak Troll's Blood Potion",
+  "quality": "Common",
+  "icon": "inv_potion_77",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Weak Troll's Blood Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->8</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=3219\" class=\"q2\">Regenerate 2 health every 5 sec for 1 hour.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">10</span></div></td></tr></table>",
+  "url": "/item=3382/weak-trolls-blood-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_77.jpg",
+  "id": "3382",
+  "slug": "weak-trolls-blood-potion"
+}

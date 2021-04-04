@@ -1,0 +1,10 @@
+{
+  "name": "Small Barnacled Clam",
+  "quality": "Common",
+  "icon": "inv_misc_shell_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Small Barnacled Clam</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->10</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">15</span></div></td></tr></table>",
+  "url": "/item=5523/small-barnacled-clam",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_shell_01.jpg",
+  "id": "5523",
+  "slug": "small-barnacled-clam"
+}

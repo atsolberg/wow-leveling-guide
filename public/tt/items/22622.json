@@ -1,0 +1,10 @@
+{
+  "name": "Craftsman's Writ - Stonescale Eel",
+  "quality": "Common",
+  "icon": "inv_misc_note_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Craftsman's Writ - Stonescale Eel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br /><a href=\"/quest=9204\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q\">&quot;Bears the seal of the Argent Dawn.&quot;</span></td></tr></table>",
+  "url": "/item=22622/craftsmans-writ-stonescale-eel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_02.jpg",
+  "id": "22622",
+  "slug": "craftsmans-writ-stonescale-eel"
+}

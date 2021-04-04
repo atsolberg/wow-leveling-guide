@@ -1,0 +1,10 @@
+{
+  "name": "Large Hoof",
+  "quality": "Poor",
+  "icon": "ability_warstomp",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Large Hoof</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">18</span></div></td></tr></table>",
+  "url": "/item=5871/large-hoof",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_warstomp.jpg",
+  "id": "5871",
+  "slug": "large-hoof"
+}

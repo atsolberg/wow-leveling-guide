@@ -1,0 +1,10 @@
+{
+  "name": "A Letter to Yvette",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">A Letter to Yvette</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->4</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=361\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->4</td></tr></table>",
+  "url": "/item=2839/a-letter-to-yvette",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "2839",
+  "slug": "a-letter-to-yvette"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Spellbinder Cloak",
+  "quality": "Common",
+  "icon": "inv_misc_cape_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Spellbinder Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->13</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->12 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->8<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">92</span></div></td></tr></table>",
+  "url": "/item=4683/spellbinder-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_15.jpg",
+  "id": "4683",
+  "slug": "spellbinder-cloak"
+}

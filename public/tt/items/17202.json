@@ -1,0 +1,10 @@
+{
+  "name": "Snowball",
+  "quality": "Common",
+  "icon": "inv_ammo_snowball",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Snowball</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=21343\" class=\"q2\">Throw me!</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=17202/snowball",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_ammo_snowball.jpg",
+  "id": "17202",
+  "slug": "snowball"
+}

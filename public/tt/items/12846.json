@@ -1,0 +1,10 @@
+{
+  "name": "Argent Dawn Commission",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Argent Dawn Commission</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><span class=\"q\">&quot;Equipping this badge is an indication of service to the Argent Dawn.&quot;</span></td></tr></table>",
+  "url": "/item=12846/argent-dawn-commission",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_07.jpg",
+  "id": "12846",
+  "slug": "argent-dawn-commission"
+}

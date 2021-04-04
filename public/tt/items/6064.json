@@ -1,0 +1,10 @@
+{
+  "name": "Miniature Platinum Discs",
+  "quality": "Common",
+  "icon": "inv_misc_platnumdisks",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Miniature Platinum Discs</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=6064/miniature-platinum-discs",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_platnumdisks.jpg",
+  "id": "6064",
+  "slug": "miniature-platinum-discs"
+}

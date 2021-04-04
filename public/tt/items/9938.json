@@ -1,0 +1,10 @@
+{
+  "name": "Abjurer's Cloak",
+  "quality": "Uncommon",
+  "icon": "inv_misc_cape_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Abjurer's Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->48</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->31 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->43<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">60</span> <span class=\"moneycopper\">29</span></div></td></tr></table>",
+  "url": "/item=9938/abjurers-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_16.jpg",
+  "id": "9938",
+  "slug": "abjurers-cloak"
+}

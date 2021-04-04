@@ -1,0 +1,10 @@
+{
+  "name": "Minor Recombobulator",
+  "quality": "Uncommon",
+  "icon": "inv_gizmo_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Minor Recombobulator</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->28</span><!--bo--><table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires <a href=\"/skill=202\" class=\"q1\">Engineering</a> (140)<br><span class=\"q2\">Use: <a href=\"/spell=18805\" class=\"q2\">Dispels Polymorph effects on a friendly target. &nbsp;Also restores 150 to 250 health and mana.</a> (5 Min Cooldown)</span><br />10 Charges<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span></div></td></tr></table>",
+  "url": "/item=4381/minor-recombobulator",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gizmo_07.jpg",
+  "id": "4381",
+  "slug": "minor-recombobulator"
+}

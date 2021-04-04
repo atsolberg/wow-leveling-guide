@@ -1,0 +1,10 @@
+{
+  "name": "Combustible Wand",
+  "quality": "Common",
+  "icon": "inv_wand_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Combustible Wand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->34</span><!--bo--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->29 - 54 Fire Damage</span></td>\n    <th>Speed <!--spd-->1.60</th>\n</tr></table><!--dps-->(25.94 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->29<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">28</span> <span class=\"moneycopper\">78</span></div></td></tr></table>",
+  "url": "/item=5236/combustible-wand",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_06.jpg",
+  "id": "5236",
+  "slug": "combustible-wand"
+}

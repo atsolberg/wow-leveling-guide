@@ -1,0 +1,10 @@
+{
+  "name": "Libram of Grace",
+  "quality": "Epic",
+  "icon": "inv_relics_libramofgrace",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Libram of Grace</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->78</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Relic</td><th><!--scstart4:7--><span class=\"q1\">Libram</span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=27847\" class=\"q2\">Reduces the mana cost of your Cleanse spell by 25.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">98</span> <span class=\"moneycopper\">85</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Fankriss the Unyielding</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 8.97%</div></td></tr></table>",
+  "url": "/item=22402/libram-of-grace",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_relics_libramofgrace.jpg",
+  "id": "22402",
+  "slug": "libram-of-grace"
+}

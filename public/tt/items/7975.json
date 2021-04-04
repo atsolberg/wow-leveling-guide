@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Heavy Mithril Pants",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Plans: Heavy Mithril Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->42</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (210)<br><span class=\"q2\">Use: <a href=\"/spell=9934\" class=\"q2\">Teaches you how to make Heavy Mithril Pants.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span></div><br /><span class=\"q2\"><a href=\"/item=7921\">Heavy Mithril Pants</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->42</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->417 Armor</span><br><span><!--stat7-->+11 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85<br>Requires Level <!--rlvl-->40<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">53</span> <span class=\"moneycopper\">87</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=3860\">Mithril Bar</a>&nbsp;(10), <a href=\"/item=1705\">Lesser Moonstone</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=7975/plans-heavy-mithril-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_06.jpg",
+  "id": "7975",
+  "slug": "plans-heavy-mithril-pants"
+}

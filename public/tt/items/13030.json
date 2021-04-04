@@ -1,0 +1,10 @@
+{
+  "name": "Basilisk Bone",
+  "quality": "Rare",
+  "icon": "inv_misc_bone_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Basilisk Bone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->51</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats-->+6 Arcane Resistance<br>+6 Fire Resistance<br>+6 Nature Resistance<br>+6 Frost Resistance<br>+6 Shadow Resistance<!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->46<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">31</span> <span class=\"moneycopper\">13</span></div></td></tr></table>",
+  "url": "/item=13030/basilisk-bone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_10.jpg",
+  "id": "13030",
+  "slug": "basilisk-bone"
+}

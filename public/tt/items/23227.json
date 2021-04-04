@@ -1,0 +1,10 @@
+{
+  "name": "iCoke Gift Box Voucher",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">iCoke Gift Box Voucher</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Return to the iCoke redemption vendor to receive a gift box&quot;</span></td></tr></table>",
+  "url": "/item=23227/icoke-gift-box-voucher",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "23227",
+  "slug": "icoke-gift-box-voucher"
+}

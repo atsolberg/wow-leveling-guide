@@ -1,0 +1,11 @@
+{
+  "name": "Swift Zulian Tiger",
+  "quality": "Epic",
+  "icon": "ability_mount_jungletiger",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Swift Zulian Tiger</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<br />Mount<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=24252\" class=\"q2\">Summons and dismisses a rideable Tiger. &nbsp;This is a very fast mount.</a> (3 Sec Cooldown)</span><div class=\"whtt-extra whtt-droppedby\">Dropped by: High Priest Thekal</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 0.89%</div></td></tr></table>",
+  "completion_category": "15-5",
+  "url": "/item=19902/swift-zulian-tiger",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/ability_mount_jungletiger.jpg",
+  "id": "19902",
+  "slug": "swift-zulian-tiger"
+}

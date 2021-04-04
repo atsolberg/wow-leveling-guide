@@ -1,0 +1,10 @@
+{
+  "name": "Arcane Powder",
+  "quality": "Common",
+  "icon": "inv_misc_dust_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Arcane Powder</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->56</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=17020/arcane-powder",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_dust_01.jpg",
+  "id": "17020",
+  "slug": "arcane-powder"
+}

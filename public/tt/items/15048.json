@@ -1,0 +1,10 @@
+{
+  "name": "Blue Dragonscale Breastplate",
+  "quality": "Rare",
+  "icon": "inv_chest_chain_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Blue Dragonscale Breastplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->338 Armor</span><br><span><!--stat5-->+28 Intellect</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><br>+8 Arcane Resistance<!--e--><!--ps--><br>Durability 120 / 120</td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<!--itemEffects:1--><br /><br /><span class=\"q\"><a href=\"/item-set=491\" class=\"q\">Blue Dragon Mail</a> (0/3)</span><div class=\"q0 indent\"><span><!--si15048--><a href=\"/item=15048\">Blue Dragonscale Breastplate</a></span><br /><span><!--si20295--><a href=\"/item=20295\">Blue Dragonscale Leggings</a></span><br /><span><!--si15049--><a href=\"/item=15049\">Blue Dragonscale Shoulders</a></span></div><br /><span class=\"q0\"><span>(2) Set : <a href=\"/spell=18675\">+4 All Resistances.</a></span><br /><span>(3) Set : <a href=\"/spell=14127\">Increases damage and healing done by magical spells and effects by up to 28.</a></span></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">44</span> <span class=\"moneycopper\">9</span></div></td></tr></table>",
+  "url": "/item=15048/blue-dragonscale-breastplate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_chain_04.jpg",
+  "id": "15048",
+  "slug": "blue-dragonscale-breastplate"
+}

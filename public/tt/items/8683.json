@@ -1,0 +1,10 @@
+{
+  "name": "Clara's Fresh Apple",
+  "quality": "Common",
+  "icon": "inv_misc_food_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Clara's Fresh Apple</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=7737\" class=\"q2\">Restores 30 health over 15 sec. &nbsp;Must remain seated while eating.</a></span><br><span class=\"q\">&quot;A fresh piece of fruit that's good to eat... and is apparently good for disguises also!&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=8683/claras-fresh-apple",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_19.jpg",
+  "id": "8683",
+  "slug": "claras-fresh-apple"
+}

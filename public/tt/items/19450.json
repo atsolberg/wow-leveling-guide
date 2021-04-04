@@ -1,0 +1,11 @@
+{
+  "name": "A Jubling's Tiny Home",
+  "quality": "Common",
+  "icon": "inv_egg_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">A Jubling's Tiny Home</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->35</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=23811\" class=\"q2\">Right Click to summon and dismiss your Jubling.</a></span></td></tr></table>",
+  "completion_category": "15-2",
+  "url": "/item=19450/a-jublings-tiny-home",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_egg_04.jpg",
+  "id": "19450",
+  "slug": "a-jublings-tiny-home"
+}

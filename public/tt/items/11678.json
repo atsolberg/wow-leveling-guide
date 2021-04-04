@@ -1,0 +1,10 @@
+{
+  "name": "Carapace of Anub'shiah",
+  "quality": "Rare",
+  "icon": "inv_chest_plate08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Carapace of Anub'shiah</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->577 Armor</span><br><span><!--stat4-->+11 Strength</span><br><span><!--stat3-->+11 Agility</span><br><span><!--stat7-->+22 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 135 / 135</td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">55</span> <span class=\"moneycopper\">96</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Anub'shiah</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 20.33%</div></td></tr></table>",
+  "url": "/item=11678/carapace-of-anubshiah",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_plate08.jpg",
+  "id": "11678",
+  "slug": "carapace-of-anubshiah"
+}

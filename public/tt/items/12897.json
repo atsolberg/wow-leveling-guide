@@ -1,0 +1,10 @@
+{
+  "name": "Second Relic Fragment",
+  "quality": "Common",
+  "icon": "inv_staff_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Second Relic Fragment</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=12897/second-relic-fragment",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_15.jpg",
+  "id": "12897",
+  "slug": "second-relic-fragment"
+}

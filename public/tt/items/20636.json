@@ -1,0 +1,10 @@
+{
+  "name": "Hibernation Crystal",
+  "quality": "Epic",
+  "icon": "inv_misc_gem_stone_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Hibernation Crystal</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->71</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=24998\" class=\"q2\">Increases healing done by magical spells and effects by up to 350 for 15 sec.</a> (1 Min, 30 Sec Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">8</span> <span class=\"moneysilver\">91</span> <span class=\"moneycopper\">3</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ysondre</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 9.41%</div></td></tr></table>",
+  "url": "/item=20636/hibernation-crystal",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_stone_01.jpg",
+  "id": "20636",
+  "slug": "hibernation-crystal"
+}

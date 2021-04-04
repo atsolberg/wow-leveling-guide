@@ -1,0 +1,10 @@
+{
+  "name": "Evergreen Pouch",
+  "quality": "Common",
+  "icon": "inv_misc_bag_18",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Evergreen Pouch</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=13399\" class=\"q2\">Consume two Un'Goro Soil samples and a Packet of Tharlendris seeds to make an Evergreen Herb Casing.</a> (10 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=11020/evergreen-pouch",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_18.jpg",
+  "id": "11020",
+  "slug": "evergreen-pouch"
+}

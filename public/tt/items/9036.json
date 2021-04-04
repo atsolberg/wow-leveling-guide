@@ -1,0 +1,10 @@
+{
+  "name": "Magic Resistance Potion",
+  "quality": "Common",
+  "icon": "inv_potion_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Magic Resistance Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->42</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<br><span class=\"q2\">Use: <a href=\"/spell=11364\" class=\"q2\">Increases your resistance to all schools of magic by 50 for 3 min.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">20</span></div></td></tr></table>",
+  "url": "/item=9036/magic-resistance-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_16.jpg",
+  "id": "9036",
+  "slug": "magic-resistance-potion"
+}

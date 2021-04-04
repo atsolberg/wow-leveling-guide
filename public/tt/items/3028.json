@@ -1,0 +1,10 @@
+{
+  "name": "Longbow",
+  "quality": "Common",
+  "icon": "inv_weapon_bow_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Longbow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->34</span><!--bo--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->21 - 39 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(13.04 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->29<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">86</span></div></td></tr></table>",
+  "url": "/item=3028/longbow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_07.jpg",
+  "id": "3028",
+  "slug": "longbow"
+}

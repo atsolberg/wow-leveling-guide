@@ -1,0 +1,10 @@
+{
+  "name": "Haunting Blade",
+  "quality": "Uncommon",
+  "icon": "inv_sword_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Haunting Blade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->26</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->53 - 80 Damage</span></td>\n    <th>Speed <!--spd-->3.80</th>\n</tr></table><!--dps-->(17.50 damage per second)<br><span><!--stat6-->+9 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->21<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">36</span> <span class=\"moneycopper\">75</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Deathsworn Captain</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 57.17%</div></td></tr></table>",
+  "url": "/item=6641/haunting-blade",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_17.jpg",
+  "id": "6641",
+  "slug": "haunting-blade"
+}

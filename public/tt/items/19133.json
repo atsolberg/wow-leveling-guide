@@ -1,0 +1,10 @@
+{
+  "name": "Fel Infused Leggings",
+  "quality": "Epic",
+  "icon": "inv_pants_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Fel Infused Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->71</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->95 Armor</span><br><span><!--stat7-->+21 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=23594\" class=\"q2\">Increases damage done by Shadow spells and effects by up to 64.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">32</span> <span class=\"moneycopper\">77</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lord Kazzak</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 15.08%</div></td></tr></table>",
+  "url": "/item=19133/fel-infused-leggings",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_06.jpg",
+  "id": "19133",
+  "slug": "fel-infused-leggings"
+}

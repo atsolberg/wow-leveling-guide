@@ -1,0 +1,10 @@
+{
+  "name": "Brocade Pants",
+  "quality": "Poor",
+  "icon": "inv_pants_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Brocade Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->21</span><!--bo--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->27 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->16<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">57</span></div></td></tr></table>",
+  "url": "/item=1776/brocade-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_11.jpg",
+  "id": "1776",
+  "slug": "brocade-pants"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Swim Speed Potion",
+  "quality": "Common",
+  "icon": "inv_potion_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Swim Speed Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->10<br><span class=\"q2\">Use: <a href=\"/spell=7840\" class=\"q2\">Increases swim speed by 100% for 20 sec.</a> (2 Min Cooldown)</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">35</span></div></td></tr></table>",
+  "url": "/item=6372/swim-speed-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_13.jpg",
+  "id": "6372",
+  "slug": "swim-speed-potion"
+}

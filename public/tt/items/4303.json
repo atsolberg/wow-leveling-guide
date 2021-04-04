@@ -1,0 +1,10 @@
+{
+  "name": "Cranial Thumper",
+  "quality": "Uncommon",
+  "icon": "inv_hammer_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Cranial Thumper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->12</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->12 - 24 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(6.43 damage per second)<br><span><!--stat4-->+1 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->7<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">98</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Deeb</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 24.42%</div></td></tr></table>",
+  "url": "/item=4303/cranial-thumper",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_17.jpg",
+  "id": "4303",
+  "slug": "cranial-thumper"
+}

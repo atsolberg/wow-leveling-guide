@@ -1,0 +1,10 @@
+{
+  "name": "Guild Charter",
+  "quality": "Common",
+  "icon": "inv_letter_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Guild Charter</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=5863/guild-charter",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_letter_17.jpg",
+  "id": "5863",
+  "slug": "guild-charter"
+}

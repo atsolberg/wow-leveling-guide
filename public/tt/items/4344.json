@@ -1,0 +1,10 @@
+{
+  "name": "Brown Linen Shirt",
+  "quality": "Common",
+  "icon": "inv_shirt_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Brown Linen Shirt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->7</span><!--bo--><table width=\"100%\"><tr><td>Shirt</td><th><!--scstart4:-8--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">11</span></div></td></tr></table>",
+  "url": "/item=4344/brown-linen-shirt",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_02.jpg",
+  "id": "4344",
+  "slug": "brown-linen-shirt"
+}

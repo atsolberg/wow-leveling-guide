@@ -1,0 +1,10 @@
+{
+  "name": "Heathen's Brand",
+  "quality": "Rare",
+  "icon": "inv_jewelry_necklace_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Heathen's Brand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat4-->+8 Strength</span><br><span><!--stat5-->+6 Intellect</span><br><span><!--stat7-->+8 Stamina</span><br><span><!--stat6-->+7 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=2\" class=\"c2\">Paladin</a></div></td></tr></table><table><tr><td><!--itemEffects:0--></td></tr></table>",
+  "url": "/item=19585/heathens-brand",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_necklace_24.jpg",
+  "id": "19585",
+  "slug": "heathens-brand"
+}

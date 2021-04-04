@@ -1,0 +1,10 @@
+{
+  "name": "Ravenwood Bow",
+  "quality": "Uncommon",
+  "icon": "inv_weapon_bow_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Ravenwood Bow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->17 - 32 Damage</span></td>\n    <th>Speed <!--spd-->1.90</th>\n</tr></table><!--dps-->(12.89 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->27<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">42</span> <span class=\"moneycopper\">7</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Fenros</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 66.88%</div></td></tr></table>",
+  "url": "/item=4474/ravenwood-bow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_10.jpg",
+  "id": "4474",
+  "slug": "ravenwood-bow"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "An Antique Gun",
+  "quality": "Poor",
+  "icon": "inv_musket_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">An Antique Gun</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;The name 'Lasitor' is etched into the barrel.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">80</span> <span class=\"moneycopper\">86</span></div></td></tr></table>",
+  "url": "/item=24283/an-antique-gun",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_musket_01.jpg",
+  "id": "24283",
+  "slug": "an-antique-gun"
+}

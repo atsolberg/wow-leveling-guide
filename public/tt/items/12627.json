@@ -1,0 +1,10 @@
+{
+  "name": "Temporal Displacer",
+  "quality": "Common",
+  "icon": "inv_misc_horn_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Temporal Displacer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=16613\" class=\"q2\">Reveal temporal parasites near grain silos in Andorhal.</a> (1 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=12627/temporal-displacer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_horn_03.jpg",
+  "id": "12627",
+  "slug": "temporal-displacer"
+}

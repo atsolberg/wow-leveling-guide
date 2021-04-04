@@ -1,0 +1,10 @@
+{
+  "name": "Hatchet",
+  "quality": "Common",
+  "icon": "inv_axe_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hatchet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->16</span><!--bo--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->12 - 24 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(7.20 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->11<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">81</span></div></td></tr></table>",
+  "url": "/item=853/hatchet",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_11.jpg",
+  "id": "853",
+  "slug": "hatchet"
+}

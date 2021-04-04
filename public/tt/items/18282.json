@@ -1,0 +1,10 @@
+{
+  "name": "Core Marksman Rifle",
+  "quality": "Epic",
+  "icon": "inv_weapon_rifle_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Core Marksman Rifle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->64 - 120 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(36.80 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=21434\" class=\"q2\">+22 ranged Attack Power.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=15464\" class=\"q2\">Improves your chance to hit by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">6</span> <span class=\"moneysilver\">63</span> <span class=\"moneycopper\">47</span></div></td></tr></table>",
+  "url": "/item=18282/core-marksman-rifle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_rifle_05.jpg",
+  "id": "18282",
+  "slug": "core-marksman-rifle"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Ghostweave Vest",
+  "quality": "Uncommon",
+  "icon": "inv_shirt_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Ghostweave Vest</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->71 Armor</span><br><span><!--stat5-->+9 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<br><span class=\"q2\">Equip: <a href=\"/spell=18378\" class=\"q2\">Restores 8 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">28</span> <span class=\"moneycopper\">59</span></div></td></tr></table>",
+  "url": "/item=14141/ghostweave-vest",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shirt_08.jpg",
+  "id": "14141",
+  "slug": "ghostweave-vest"
+}

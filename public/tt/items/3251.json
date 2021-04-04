@@ -1,0 +1,10 @@
+{
+  "name": "Bethor's Potion",
+  "quality": "Common",
+  "icon": "inv_potion_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bethor's Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=7669\" class=\"q2\">Removes the Hex of Ravenclaw.</a> (30 Sec Cooldown)</span><br />10 Charges</td></tr></table>",
+  "url": "/item=3251/bethors-potion",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_11.jpg",
+  "id": "3251",
+  "slug": "bethors-potion"
+}

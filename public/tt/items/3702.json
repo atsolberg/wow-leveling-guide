@@ -1,0 +1,10 @@
+{
+  "name": "Bear Gall Bladder",
+  "quality": "Poor",
+  "icon": "inv_misc_organ_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Bear Gall Bladder</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 10</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">98</span></div></td></tr></table>",
+  "url": "/item=3702/bear-gall-bladder",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_organ_02.jpg",
+  "id": "3702",
+  "slug": "bear-gall-bladder"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Evergreen Herb Casing",
+  "quality": "Common",
+  "icon": "inv_misc_food_45",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Evergreen Herb Casing</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Using Un'Goro soil, Tharlendris seeds have been cultivated inside.&quot;</span><br><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=11024/evergreen-herb-casing",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_45.jpg",
+  "id": "11024",
+  "slug": "evergreen-herb-casing"
+}

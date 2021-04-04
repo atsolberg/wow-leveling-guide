@@ -1,0 +1,10 @@
+{
+  "name": "Cured Medium Hide",
+  "quality": "Common",
+  "icon": "inv_misc_pelt_bear_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Cured Medium Hide</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->20</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span></div></td></tr></table>",
+  "url": "/item=4233/cured-medium-hide",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_pelt_bear_02.jpg",
+  "id": "4233",
+  "slug": "cured-medium-hide"
+}

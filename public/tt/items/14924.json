@@ -1,0 +1,10 @@
+{
+  "name": "Lofty Breastplate",
+  "quality": "Uncommon",
+  "icon": "inv_chest_wolf",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Lofty Breastplate</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->57</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->543 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 115 / 115</td></tr></table><table><tr><td>Requires Level <!--rlvl-->52<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">40</span> <span class=\"moneycopper\">31</span></div></td></tr></table>",
+  "url": "/item=14924/lofty-breastplate",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_wolf.jpg",
+  "id": "14924",
+  "slug": "lofty-breastplate"
+}

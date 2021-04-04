@@ -1,0 +1,10 @@
+{
+  "name": "Blush Ember Ring",
+  "quality": "Rare",
+  "icon": "inv_jewelry_ring_25",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Blush Ember Ring</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><br />Binds when equipped<br />Unique<table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat4-->+4 Strength</span><br><span><!--stat3-->+5 Agility</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->32<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">33</span> <span class=\"moneycopper\">81</span></div></td></tr></table>",
+  "url": "/item=13093/blush-ember-ring",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_ring_25.jpg",
+  "id": "13093",
+  "slug": "blush-ember-ring"
+}

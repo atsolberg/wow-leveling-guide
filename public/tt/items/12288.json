@@ -1,0 +1,10 @@
+{
+  "name": "Encased Corrupt Ooze",
+  "quality": "Common",
+  "icon": "inv_cask_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Encased Corrupt Ooze</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=16031\" class=\"q2\">Releases a captured Felwood ooze so it can interact with a primal ooze in Un'Goro Crater.</a> (3 Min Cooldown)</span></td></tr></table>",
+  "url": "/item=12288/encased-corrupt-ooze",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_cask_03.jpg",
+  "id": "12288",
+  "slug": "encased-corrupt-ooze"
+}

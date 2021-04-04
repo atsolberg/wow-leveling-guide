@@ -1,0 +1,11 @@
+{
+  "name": "Pattern: Nightscape Cloak",
+  "quality": "Uncommon",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Pattern: Nightscape Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->46</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=165\" class=\"q1\">Leatherworking</a> (230)<br><span class=\"q2\">Use: <a href=\"/spell=10664\" class=\"q2\">Teaches you how to craft a Nightscape Cloak.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div><br /><span class=\"q2\"><a href=\"/item=8195\">Nightscape Cloak</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->46</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->30 Armor</span><br><span><!--stat3-->+10 Agility</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Requires Level <!--rlvl-->41<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">52</span> <span class=\"moneycopper\">63</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=4304\">Thick Leather</a>&nbsp;(12), <a href=\"/item=4291\">Silken Thread</a>&nbsp;(4)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=8388/pattern-nightscape-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "8388",
+  "slug": "pattern-nightscape-cloak"
+}

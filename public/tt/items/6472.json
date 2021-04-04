@@ -1,0 +1,10 @@
+{
+  "name": "Stinging Viper",
+  "quality": "Rare",
+  "icon": "inv_wand_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Stinging Viper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->30 - 57 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(15.54 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->19<br><span class=\"q2\">Chance on hit: <a href=\"/spell=18197\" class=\"q2\">Poisons target for 7 Nature damage every 3 sec for 15 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">18</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lord Pythas</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 29.50%</div></td></tr></table>",
+  "url": "/item=6472/stinging-viper",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_10.jpg",
+  "id": "6472",
+  "slug": "stinging-viper"
+}

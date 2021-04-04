@@ -1,0 +1,10 @@
+{
+  "name": "Phasing Boots",
+  "quality": "Rare",
+  "icon": "inv_boots_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Phasing Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->54 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><br><span><!--stat5-->+6 Intellect</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">15</span> <span class=\"moneycopper\">82</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Phase Lasher</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 1.35%</div></td></tr></table>",
+  "url": "/item=18295/phasing-boots",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_06.jpg",
+  "id": "18295",
+  "slug": "phasing-boots"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Arcane Quickener",
+  "quality": "Common",
+  "icon": "spell_nature_abolishmagic",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Arcane Quickener</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Duration: 30 min<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;This is used as a catalyst in transforming the toxins of the Scourge's cauldrons.&quot;</span></td></tr></table>",
+  "url": "/item=13320/arcane-quickener",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/spell_nature_abolishmagic.jpg",
+  "id": "13320",
+  "slug": "arcane-quickener"
+}

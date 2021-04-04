@@ -1,0 +1,10 @@
+{
+  "name": "Heavy Spear",
+  "quality": "Common",
+  "icon": "inv_spear_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Heavy Spear</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->35</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:6--><span class=\"q1\">Polearm</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->68 - 102 Damage</span></td>\n    <th>Speed <!--spd-->3.80</th>\n</tr></table><!--dps-->(22.37 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->30<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">54</span> <span class=\"moneycopper\">26</span></div></td></tr></table>",
+  "url": "/item=15811/heavy-spear",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_spear_06.jpg",
+  "id": "15811",
+  "slug": "heavy-spear"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Hive'Zora Rubbing",
+  "quality": "Common",
+  "icon": "inv_scroll_10",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Hive'Zora Rubbing</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=20454/hivezora-rubbing",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_10.jpg",
+  "id": "20454",
+  "slug": "hivezora-rubbing"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Heart Candy",
+  "quality": "Common",
+  "icon": "inv_valentinescandy",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Heart Candy</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Hot lips.&quot;</span></td></tr></table>",
+  "url": "/item=21823/heart-candy",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_valentinescandy.jpg",
+  "id": "21823",
+  "slug": "heart-candy"
+}

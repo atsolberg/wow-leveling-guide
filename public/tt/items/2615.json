@@ -1,0 +1,10 @@
+{
+  "name": "Chromatic Robe",
+  "quality": "Common",
+  "icon": "inv_chest_cloth_38",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Chromatic Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->40 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->24<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span> <span class=\"moneycopper\">18</span></div></td></tr></table>",
+  "url": "/item=2615/chromatic-robe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_38.jpg",
+  "id": "2615",
+  "slug": "chromatic-robe"
+}

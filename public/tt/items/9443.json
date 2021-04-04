@@ -1,0 +1,10 @@
+{
+  "name": "Used Monster Sample",
+  "quality": "Common",
+  "icon": "inv_misc_slime_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Used Monster Sample</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">1</span></div></td></tr></table>",
+  "url": "/item=9443/used-monster-sample",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_slime_01.jpg",
+  "id": "9443",
+  "slug": "used-monster-sample"
+}

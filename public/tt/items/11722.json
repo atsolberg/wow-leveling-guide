@@ -1,0 +1,10 @@
+{
+  "name": "Dregmetal Spaulders",
+  "quality": "Rare",
+  "icon": "inv_shoulder_30",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Dregmetal Spaulders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->55</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->246 Armor</span><br><span><!--stat4-->+6 Strength</span><br><span><!--stat5-->+15 Intellect</span><br><span><!--stat7-->+5 Stamina</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->50<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">66</span> <span class=\"moneycopper\">10</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Grizzle</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 21.21%</div></td></tr></table>",
+  "url": "/item=11722/dregmetal-spaulders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_30.jpg",
+  "id": "11722",
+  "slug": "dregmetal-spaulders"
+}

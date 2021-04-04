@@ -1,0 +1,10 @@
+{
+  "name": "Vanguard Pauldrons",
+  "quality": "Uncommon",
+  "icon": "inv_shoulder_27",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Vanguard Pauldrons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->56</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->400 Armor</span><br><span><!--stat3-->+8 Agility</span><br><span><!--stat7-->+8 Stamina</span><br><span><!--stat6-->+12 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td>Requires Level <!--rlvl-->51<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">23</span></div></td></tr></table>",
+  "url": "/item=14860/vanguard-pauldrons",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_27.jpg",
+  "id": "14860",
+  "slug": "vanguard-pauldrons"
+}

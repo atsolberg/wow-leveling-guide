@@ -1,0 +1,10 @@
+{
+  "name": "Patchwork Shoes",
+  "quality": "Poor",
+  "icon": "inv_boots_09",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Patchwork Shoes</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->10</span><!--bo--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->12 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">29</span></div></td></tr></table>",
+  "url": "/item=1427/patchwork-shoes",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_09.jpg",
+  "id": "1427",
+  "slug": "patchwork-shoes"
+}

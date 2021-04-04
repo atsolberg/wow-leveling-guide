@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Dark Iron Bracers",
+  "quality": "Rare",
+  "icon": "inv_scroll_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Plans: Dark Iron Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (295)<br>Requires <a href=\"/spells=11.164.9788\" class=\"q1\">Armorsmith</a><br><span class=\"q2\">Use: <a href=\"/spell=20880\" class=\"q2\">Teaches you how to make Dark Iron Bracers.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">75</span></div><br /><span class=\"q4\"><a href=\"/item=17014\">Dark Iron Bracers</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->394 Armor</span><br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+18 Fire Resistance<!--e--><!--ps--><br>Durability 55 / 55<br>Requires Level <!--rlvl-->54<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">37</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=11371\">Dark Iron Bar</a>&nbsp;(4), <a href=\"/item=17010\">Fiery Core</a>&nbsp;(2), <a href=\"/item=17011\">Lava Core</a>&nbsp;(2)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=17051/plans-dark-iron-bracers",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_05.jpg",
+  "id": "17051",
+  "slug": "plans-dark-iron-bracers"
+}

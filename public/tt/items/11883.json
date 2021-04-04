@@ -1,0 +1,10 @@
+{
+  "name": "A Dingy Fanny Pack",
+  "quality": "Common",
+  "icon": "inv_misc_bag_09_black",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">A Dingy Fanny Pack</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->56</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=11883/a-dingy-fanny-pack",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_09_black.jpg",
+  "id": "11883",
+  "slug": "a-dingy-fanny-pack"
+}

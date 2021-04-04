@@ -1,0 +1,10 @@
+{
+  "name": "Saltstone Surcoat",
+  "quality": "Uncommon",
+  "icon": "inv_chest_plate08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Saltstone Surcoat</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->41</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->300 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 115 / 115</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">49</span> <span class=\"moneycopper\">4</span></div></td></tr></table>",
+  "url": "/item=14895/saltstone-surcoat",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_plate08.jpg",
+  "id": "14895",
+  "slug": "saltstone-surcoat"
+}

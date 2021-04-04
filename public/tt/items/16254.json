@@ -1,0 +1,11 @@
+{
+  "name": "Formula: Enchant Weapon - Lifestealing",
+  "quality": "Rare",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Formula: Enchant Weapon - Lifestealing</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->62</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=333\" class=\"q1\">Enchanting</a> (300)<br><span class=\"q2\">Use: <a href=\"/spell=20089\" class=\"q2\">Teaches you how to permanently enchant a weapon to occasionally steal some of the health of the foe and give it to the wielder.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">75</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Spectral Researcher</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 1.30%</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=16254/formula-enchant-weapon-lifestealing",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "16254",
+  "slug": "formula-enchant-weapon-lifestealing"
+}

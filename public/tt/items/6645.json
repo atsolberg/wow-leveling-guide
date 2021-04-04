@@ -1,0 +1,10 @@
+{
+  "name": "Bloated Mud Snapper",
+  "quality": "Common",
+  "icon": "inv_misc_fish_31",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bloated Mud Snapper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<br><span class=\"q2\">&lt;Right Click to Open&gt;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+  "url": "/item=6645/bloated-mud-snapper",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_fish_31.jpg",
+  "id": "6645",
+  "slug": "bloated-mud-snapper"
+}

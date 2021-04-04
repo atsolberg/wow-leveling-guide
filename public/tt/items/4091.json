@@ -1,0 +1,10 @@
+{
+  "name": "Widowmaker",
+  "quality": "Rare",
+  "icon": "inv_weapon_shortblade_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Widowmaker</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->47</span><!--bo--><br />Binds when equipped<br />Unique<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->42 - 78 Damage</span></td>\n    <th>Speed <!--spd-->1.90</th>\n</tr></table><!--dps-->(31.58 damage per second)<br><span><!--stat4-->+7 Strength</span><br><span><!--stat3-->+8 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->42<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">24</span> <span class=\"moneycopper\">79</span></div></td></tr></table>",
+  "url": "/item=4091/widowmaker",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_03.jpg",
+  "id": "4091",
+  "slug": "widowmaker"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Abyssal Cloth Pants",
+  "quality": "Rare",
+  "icon": "inv_pants_cloth_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Abyssal Cloth Pants</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->62</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->77 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->57<br><span class=\"q2\">Equip: <a href=\"/spell=18384\" class=\"q2\">Improves your chance to get a critical strike with spells by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">27</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: The Duke of Zephyrs</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 23.78%</div></td></tr></table>",
+  "url": "/item=20674/abyssal-cloth-pants",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_pants_cloth_04.jpg",
+  "id": "20674",
+  "slug": "abyssal-cloth-pants"
+}

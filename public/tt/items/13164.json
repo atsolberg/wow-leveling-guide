@@ -1,0 +1,10 @@
+{
+  "name": "Heart of the Scale",
+  "quality": "Rare",
+  "icon": "inv_misc_gem_bloodstone_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Heart of the Scale</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->61</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->56<br><span class=\"q2\">Use: <a href=\"/spell=17275\" class=\"q2\">Increases Fire Resistance by 20 and deals 20 Fire damage to anyone who strikes you with a melee attack for 5 min.</a> (30 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">39</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Overlord Wyrmthalak</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 1.15%</div></td></tr></table>",
+  "url": "/item=13164/heart-of-the-scale",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_bloodstone_01.jpg",
+  "id": "13164",
+  "slug": "heart-of-the-scale"
+}

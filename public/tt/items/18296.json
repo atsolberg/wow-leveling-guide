@@ -1,0 +1,10 @@
+{
+  "name": "Marksman Bands",
+  "quality": "Rare",
+  "icon": "inv_bracer_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Marksman Bands</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->56</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->146 Armor</span><br><span><!--stat3-->+12 Agility</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td>Requires Level <!--rlvl-->51<br><span class=\"q2\">Equip: <a href=\"/spell=7570\" class=\"q2\">Increased Bows +2.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=22811\" class=\"q2\">Increased Crossbows +2.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=7582\" class=\"q2\">Increased Guns +2.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">23</span> <span class=\"moneycopper\">22</span></div></td></tr></table>",
+  "url": "/item=18296/marksman-bands",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_06.jpg",
+  "id": "18296",
+  "slug": "marksman-bands"
+}

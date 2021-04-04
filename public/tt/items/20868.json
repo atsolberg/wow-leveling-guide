@@ -1,0 +1,10 @@
+{
+  "name": "Lambent Idol",
+  "quality": "Rare",
+  "icon": "inv_qirajidol_lambent",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Lambent Idol</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->61</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a>, <a href=\"/class=3\" class=\"c3\">Hunter</a>, <a href=\"/class=5\" class=\"c5\">Priest</a></div></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div></td></tr></table>",
+  "url": "/item=20868/lambent-idol",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_qirajidol_lambent.jpg",
+  "id": "20868",
+  "slug": "lambent-idol"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "A Note to Magus Rimtori",
+  "quality": "Common",
+  "icon": "inv_misc_note_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">A Note to Magus Rimtori</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->45</td></tr></table>",
+  "url": "/item=10664/a-note-to-magus-rimtori",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_01.jpg",
+  "id": "10664",
+  "slug": "a-note-to-magus-rimtori"
+}

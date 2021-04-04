@@ -1,0 +1,11 @@
+{
+  "name": "Plans: Blackfury",
+  "quality": "Common",
+  "icon": "inv_scroll_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Plans: Blackfury</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->66</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires <a href=\"/skill=164\" class=\"q1\">Blacksmithing</a> (300)<br>Requires <a href=\"/spells=11.164.9787\" class=\"q1\">Weaponsmith</a><br><span class=\"q2\">Use: <a href=\"/spell=23641\" class=\"q2\">Teaches you how to make Blackfury.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">75</span></div><br /><span class=\"q4\"><a href=\"/item=19167\">Blackfury</a></span><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->66</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:6--><span class=\"q1\">Polearm</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->105 - 158 Damage</span></td>\n    <th>Speed <!--spd-->2.10</th>\n</tr></table><!--dps-->(62.62 damage per second)<br><span><!--stat4-->+35 Strength</span><br><span><!--stat7-->+15 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><br>+10 Fire Resistance<!--e--><!--ps--><br>Durability 120 / 120<br>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">11</span> <span class=\"moneysilver\">65</span> <span class=\"moneycopper\">31</span></div><div class=\"q1 whtt-extra whtt-reagents\"><br />Requires <a href=\"/item=17011\">Lava Core</a>&nbsp;(5), <a href=\"/item=17010\">Fiery Core</a>&nbsp;(2), <a href=\"/item=12360\">Arcanite Bar</a>&nbsp;(16), <a href=\"/item=11371\">Dark Iron Bar</a>&nbsp;(6)</div></td></tr></table>",
+  "completion_category": "9",
+  "url": "/item=19209/plans-blackfury",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_scroll_03.jpg",
+  "id": "19209",
+  "slug": "plans-blackfury"
+}

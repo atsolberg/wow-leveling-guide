@@ -1,0 +1,10 @@
+{
+  "name": "A Ragged Page",
+  "quality": "Common",
+  "icon": "inv_misc_note_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">A Ragged Page</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when picked up<br />Unique<br /><a href=\"/quest=9300\" class=\"q1\">This Item Begins a Quest</a><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->45</td></tr></table>",
+  "url": "/item=22974/a-ragged-page",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_05.jpg",
+  "id": "22974",
+  "slug": "a-ragged-page"
+}

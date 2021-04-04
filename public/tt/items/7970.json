@@ -1,0 +1,10 @@
+{
+  "name": "E.C.A.C.",
+  "quality": "Common",
+  "icon": "inv_misc_food_wheat_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">E.C.A.C.</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=9976\" class=\"q2\">Parrots love crackers!</a></span><br><span class=\"q\">&quot;Enormous Chemically Altered Cracker&quot;</span></td></tr></table>",
+  "url": "/item=7970/e-c-a-c",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_wheat_02.jpg",
+  "id": "7970",
+  "slug": "e-c-a-c"
+}

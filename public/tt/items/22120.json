@@ -1,0 +1,10 @@
+{
+  "name": "Pledge of Loyalty: Darnassus",
+  "quality": "Common",
+  "icon": "inv_misc_note_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Pledge of Loyalty: Darnassus</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Duration: 7 days<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=27710\" class=\"q2\">Combines 5 Pledges of Loyalty: Darnassus into a Darnassus Pledge Collection.</a></span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+  "url": "/item=22120/pledge-of-loyalty-darnassus",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_06.jpg",
+  "id": "22120",
+  "slug": "pledge-of-loyalty-darnassus"
+}

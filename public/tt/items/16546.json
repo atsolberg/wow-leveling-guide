@@ -1,0 +1,10 @@
+{
+  "name": "General's Plate Armguards",
+  "quality": "Epic",
+  "icon": "inv_bracer_19",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">General's Plate Armguards</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->65</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->323 Armor</span><br><span><!--stat4-->+17 Strength</span><br><span><!--stat3-->+7 Agility</span><br><span><!--stat7-->+17 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=1\" class=\"c1\">Warrior</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br>Requires <span class=\"icon-horde\">General</span> <span class=\"icon-alliance\">Marshal</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">85</span> <span class=\"moneycopper\">93</span></div></td></tr></table>",
+  "url": "/item=16546/generals-plate-armguards",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_19.jpg",
+  "id": "16546",
+  "slug": "generals-plate-armguards"
+}

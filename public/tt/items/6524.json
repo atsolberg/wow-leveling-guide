@@ -1,0 +1,10 @@
+{
+  "name": "Studded Leather Harness",
+  "quality": "Common",
+  "icon": "inv_chest_leather_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Studded Leather Harness</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><span><!--amr-->77 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">74</span></div></td></tr></table>",
+  "url": "/item=6524/studded-leather-harness",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_leather_01.jpg",
+  "id": "6524",
+  "slug": "studded-leather-harness"
+}

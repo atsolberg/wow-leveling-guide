@@ -1,0 +1,10 @@
+{
+  "name": "Plucked Feather",
+  "quality": "Poor",
+  "icon": "inv_feather_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Plucked Feather</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">5</span></div></td></tr></table>",
+  "url": "/item=7096/plucked-feather",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_feather_16.jpg",
+  "id": "7096",
+  "slug": "plucked-feather"
+}

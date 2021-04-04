@@ -1,0 +1,10 @@
+{
+  "name": "Soul Harvester",
+  "quality": "Rare",
+  "icon": "inv_sword_48",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Soul Harvester</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->52</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->118 - 178 Damage</span></td>\n    <th>Speed <!--spd-->3.30</th>\n</tr></table><!--dps-->(44.85 damage per second)<br><span><!--stat7-->+16 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td><span class=\"q2\">Equip: <a href=\"/spell=23727\" class=\"q2\">Improves your chance to hit with spells by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=14794\" class=\"q2\">Increases damage done by Shadow spells and effects by up to 24.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">71</span></div></td></tr></table>",
+  "url": "/item=20536/soul-harvester",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_48.jpg",
+  "id": "20536",
+  "slug": "soul-harvester"
+}

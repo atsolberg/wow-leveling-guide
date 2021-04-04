@@ -1,0 +1,10 @@
+{
+  "name": "Flamberge",
+  "quality": "Common",
+  "icon": "inv_sword_26",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Flamberge</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->59 - 89 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(23.13 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td>Requires Level <!--rlvl-->31<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">61</span> <span class=\"moneycopper\">79</span></div></td></tr></table>",
+  "url": "/item=2521/flamberge",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_26.jpg",
+  "id": "2521",
+  "slug": "flamberge"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Sturdy Female Undead Mask",
+  "quality": "Uncommon",
+  "icon": "inv_misc_head_undead_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Sturdy Female Undead Mask</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Head</td></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">49</span> <span class=\"moneycopper\">92</span></div></td></tr></table>",
+  "url": "/item=20590/sturdy-female-undead-mask",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_head_undead_02.jpg",
+  "id": "20590",
+  "slug": "sturdy-female-undead-mask"
+}

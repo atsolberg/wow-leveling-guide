@@ -1,0 +1,10 @@
+{
+  "name": "Deadwood Headdress Feather",
+  "quality": "Common",
+  "icon": "inv_feather_13",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Deadwood Headdress Feather</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;These may be gathered for the Timbermaw furbolgs to earn their trust.&quot;</span><div class=\"whtt-extra whtt-maxstack\">Max Stack: 250</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span></div></td></tr></table>",
+  "url": "/item=21377/deadwood-headdress-feather",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_feather_13.jpg",
+  "id": "21377",
+  "slug": "deadwood-headdress-feather"
+}

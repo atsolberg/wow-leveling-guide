@@ -1,0 +1,10 @@
+{
+  "name": "Blood of Innocents",
+  "quality": "Common",
+  "icon": "inv_potion_24",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Blood of Innocents</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;The blood is still fresh.&quot;</span></td></tr></table>",
+  "url": "/item=13523/blood-of-innocents",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_24.jpg",
+  "id": "13523",
+  "slug": "blood-of-innocents"
+}

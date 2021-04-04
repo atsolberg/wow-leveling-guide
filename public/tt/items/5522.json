@@ -1,0 +1,10 @@
+{
+  "name": "Spellstone",
+  "quality": "Common",
+  "icon": "inv_misc_gem_sapphire_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Spellstone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><br />Conjured Item<!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->31<br><span class=\"q2\">Use: <a href=\"/spell=128\" class=\"q2\">Removes all magic effects from the caster and will absorb 400 magic damage for 1 min.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=18384\" class=\"q2\">Improves your chance to get a critical strike with spells by 1%.</a></span><!--itemEffects:1--></td></tr></table>",
+  "url": "/item=5522/spellstone",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_sapphire_01.jpg",
+  "id": "5522",
+  "slug": "spellstone"
+}

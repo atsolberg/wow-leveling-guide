@@ -1,0 +1,10 @@
+{
+  "name": "Dried Seeds",
+  "quality": "Common",
+  "icon": "inv_misc_dust_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dried Seeds</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=5206\" class=\"q2\">Plant these seeds in the Stagnant Oasis fissure.</a></span></td></tr></table>",
+  "url": "/item=5068/dried-seeds",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_dust_02.jpg",
+  "id": "5068",
+  "slug": "dried-seeds"
+}

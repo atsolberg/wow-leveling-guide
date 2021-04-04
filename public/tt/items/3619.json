@@ -1,0 +1,10 @@
+{
+  "name": "Snellig's Snuffbox",
+  "quality": "Common",
+  "icon": "inv_misc_ornatebox",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Snellig's Snuffbox</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-droppedby\">Dropped by: First Mate Snellig</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 96.58%</div></td></tr></table>",
+  "url": "/item=3619/snelligs-snuffbox",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_ornatebox.jpg",
+  "id": "3619",
+  "slug": "snelligs-snuffbox"
+}

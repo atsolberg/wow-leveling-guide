@@ -1,0 +1,10 @@
+{
+  "name": "Overlinked Chain Cloak",
+  "quality": "Poor",
+  "icon": "inv_misc_cape_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Overlinked Chain Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->49</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->29 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->44<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">40</span> <span class=\"moneycopper\">90</span></div></td></tr></table>",
+  "url": "/item=4003/overlinked-chain-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_07.jpg",
+  "id": "4003",
+  "slug": "overlinked-chain-cloak"
+}

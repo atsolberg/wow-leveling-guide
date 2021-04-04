@@ -1,0 +1,10 @@
+{
+  "name": "Curve-bladed Ripper",
+  "quality": "Rare",
+  "icon": "inv_axe_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Curve-bladed Ripper</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->45</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->40 - 75 Damage</span></td>\n    <th>Speed <!--spd-->1.90</th>\n</tr></table><!--dps-->(30.26 damage per second)<br><span><!--stat4-->+8 Strength</span><br><span><!--stat7-->+5 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td>Requires Level <!--rlvl-->40<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">97</span> <span class=\"moneycopper\">78</span></div></td></tr></table>",
+  "url": "/item=2815/curve-bladed-ripper",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_23.jpg",
+  "id": "2815",
+  "slug": "curve-bladed-ripper"
+}

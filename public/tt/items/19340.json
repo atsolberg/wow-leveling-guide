@@ -1,0 +1,10 @@
+{
+  "name": "Rune of Metamorphosis",
+  "quality": "Epic",
+  "icon": "inv_misc_rune_06",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Rune of Metamorphosis</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->76</span><!--bo--><br />Binds when picked up<br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=11\" class=\"c11\">Druid</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Use: <a href=\"/spell=23724\" class=\"q2\">Decreases the mana cost of all Druid shapeshifting forms by 100% for 20 sec.</a> (5 Min Cooldown)</span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">7</span> <span class=\"moneysilver\">20</span> <span class=\"moneycopper\">39</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Vaelastrasz the Corrupt</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 18.50%</div></td></tr></table>",
+  "url": "/item=19340/rune-of-metamorphosis",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_rune_06.jpg",
+  "id": "19340",
+  "slug": "rune-of-metamorphosis"
+}

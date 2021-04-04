@@ -1,0 +1,10 @@
+{
+  "name": "Hardened Root Staff",
+  "quality": "Uncommon",
+  "icon": "inv_staff_16",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Hardened Root Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->44 - 67 Damage</span></td>\n    <th>Speed <!--spd-->3.30</th>\n</tr></table><!--dps-->(16.82 damage per second)<br><span><!--stat4-->+1 Strength</span><br><span><!--stat6-->+8 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">35</span></div></td></tr></table>",
+  "url": "/item=1317/hardened-root-staff",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_staff_16.jpg",
+  "id": "1317",
+  "slug": "hardened-root-staff"
+}

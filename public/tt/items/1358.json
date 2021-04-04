@@ -1,0 +1,10 @@
+{
+  "name": "A Clue to Sander's Treasure",
+  "quality": "Common",
+  "icon": "inv_misc_leatherscrap_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">A Clue to Sander's Treasure</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;This torn piece of parchment contains scribbled writing.&quot;</span><br><span class=\"q2\">&lt;Right Click to Read&gt;</span></td></tr></table>",
+  "url": "/item=1358/a-clue-to-sanders-treasure",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_leatherscrap_02.jpg",
+  "id": "1358",
+  "slug": "a-clue-to-sanders-treasure"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Lord Grayson's Satchel",
+  "quality": "Common",
+  "icon": "inv_misc_bag_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Lord Grayson's Satchel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q\">&quot;Your finished Divination Scryer and Blessed Arcanite Barding are inside the satchel.&quot;</span><br><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=18804/lord-graysons-satchel",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bag_08.jpg",
+  "id": "18804",
+  "slug": "lord-graysons-satchel"
+}

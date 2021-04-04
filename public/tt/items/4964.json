@@ -1,0 +1,10 @@
+{
+  "name": "Goblin Smasher",
+  "quality": "Uncommon",
+  "icon": "inv_hammer_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Goblin Smasher</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->12</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->20 - 31 Damage</span></td>\n    <th>Speed <!--spd-->3.10</th>\n</tr></table><!--dps-->(8.23 damage per second)<br><span><!--stat4-->+2 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50<div class=\"wowhead-tooltip-item-races\">Races: <a href=\"/race=6\" class=\"q1\">Tauren</a></div></td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">3</span></div></td></tr></table>",
+  "url": "/item=4964/goblin-smasher",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_15.jpg",
+  "id": "4964",
+  "slug": "goblin-smasher"
+}

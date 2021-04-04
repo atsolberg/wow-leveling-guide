@@ -1,0 +1,10 @@
+{
+  "name": "Impenetrable Sabatons",
+  "quality": "Uncommon",
+  "icon": "inv_boots_plate_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Impenetrable Sabatons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->59</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><span><!--amr-->218 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->54<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">78</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+  "url": "/item=15658/impenetrable-sabatons",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_boots_plate_08.jpg",
+  "id": "15658",
+  "slug": "impenetrable-sabatons"
+}

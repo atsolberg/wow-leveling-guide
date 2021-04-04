@@ -1,0 +1,10 @@
+{
+  "name": "Blessed Qiraji Pugio",
+  "quality": "Epic",
+  "icon": "inv_weapon_shortblade_35",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Blessed Qiraji Pugio</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->79</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->72 - 134 Damage</span></td>\n    <th>Speed <!--spd-->1.70</th>\n</tr></table><!--dps-->(60.59 damage per second)<br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=15464\" class=\"q2\">Improves your chance to hit by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=9330\" class=\"q2\">+18 Attack Power.</a></span><!--itemEffects:1--><br><span class=\"q\">&quot;The weapon is infused and reinforced with Elementium.&quot;</span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">16</span> <span class=\"moneysilver\">52</span> <span class=\"moneycopper\">47</span></div></td></tr></table>",
+  "url": "/item=21244/blessed-qiraji-pugio",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_shortblade_35.jpg",
+  "id": "21244",
+  "slug": "blessed-qiraji-pugio"
+}

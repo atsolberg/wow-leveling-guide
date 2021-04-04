@@ -1,0 +1,10 @@
+{
+  "name": "Soul Crystal Relic",
+  "quality": "Common",
+  "icon": "inv_misc_gem_crystal_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Soul Crystal Relic</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><br />Unique<table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/class=5\" class=\"c5\">Priest</a></div></td></tr></table><table><tr><td>Requires Level <!--rlvl-->35<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span></div></td></tr></table>",
+  "url": "/item=3788/soul-crystal-relic",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_crystal_01.jpg",
+  "id": "3788",
+  "slug": "soul-crystal-relic"
+}

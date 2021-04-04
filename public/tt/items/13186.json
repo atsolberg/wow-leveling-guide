@@ -1,0 +1,10 @@
+{
+  "name": "Empty Felstone Field Bottle",
+  "quality": "Common",
+  "icon": "inv_potion_90",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Empty Felstone Field Bottle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=13186/empty-felstone-field-bottle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_potion_90.jpg",
+  "id": "13186",
+  "slug": "empty-felstone-field-bottle"
+}

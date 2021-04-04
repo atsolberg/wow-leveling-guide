@@ -1,0 +1,10 @@
+{
+  "name": "Black Bark Wristbands",
+  "quality": "Epic",
+  "icon": "inv_bracer_07",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Black Bark Wristbands</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->71</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->48 Armor</span><br><span><!--stat5-->+4 Intellect</span><br><span><!--stat7-->+15 Stamina</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=15715\" class=\"q2\">Increases damage and healing done by magical spells and effects by up to 25.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">2</span> <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">38</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Lethon</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 14.89%</div></td></tr></table>",
+  "url": "/item=20626/black-bark-wristbands",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bracer_07.jpg",
+  "id": "20626",
+  "slug": "black-bark-wristbands"
+}

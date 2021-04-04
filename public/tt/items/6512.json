@@ -1,0 +1,10 @@
+{
+  "name": "Disciple's Robe",
+  "quality": "Uncommon",
+  "icon": "inv_chest_cloth_22",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Disciple's Robe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->13</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><span><!--amr-->25 Armor</span><br><!--re--><span class=\"q2\">&lt;Random enchantment&gt;</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td>Requires Level <!--rlvl-->8<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">91</span></div></td></tr></table>",
+  "url": "/item=6512/disciples-robe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_chest_cloth_22.jpg",
+  "id": "6512",
+  "slug": "disciples-robe"
+}

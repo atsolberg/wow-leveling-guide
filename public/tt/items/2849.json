@@ -1,0 +1,10 @@
+{
+  "name": "Bronze Axe",
+  "quality": "Common",
+  "icon": "inv_axe_17",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Bronze Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->15 - 29 Damage</span></td>\n    <th>Speed <!--spd-->2.10</th>\n</tr></table><!--dps-->(10.48 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td>Requires Level <!--rlvl-->18<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">69</span></div></td></tr></table>",
+  "url": "/item=2849/bronze-axe",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_axe_17.jpg",
+  "id": "2849",
+  "slug": "bronze-axe"
+}

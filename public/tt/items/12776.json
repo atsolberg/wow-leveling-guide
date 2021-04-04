@@ -1,0 +1,10 @@
+{
+  "name": "Enchanted Battlehammer",
+  "quality": "Rare",
+  "icon": "inv_hammer_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Enchanted Battlehammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->56</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->100 - 150 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(48.08 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td>Requires Level <!--rlvl-->51<br><span class=\"q2\">Equip: <a href=\"/spell=13665\" class=\"q2\">Increases your chance to parry an attack by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=15465\" class=\"q2\">Improves your chance to hit by 2%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">4</span> <span class=\"moneysilver\">81</span> <span class=\"moneycopper\">24</span></div></td></tr></table>",
+  "url": "/item=12776/enchanted-battlehammer",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_hammer_05.jpg",
+  "id": "12776",
+  "slug": "enchanted-battlehammer"
+}

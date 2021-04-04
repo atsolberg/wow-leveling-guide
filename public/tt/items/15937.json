@@ -1,0 +1,10 @@
+{
+  "name": "Hibernal Sphere",
+  "quality": "Uncommon",
+  "icon": "inv_misc_orb_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Hibernal Sphere</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->51</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><span><!--stat6-->+12 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->46<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">79</span> <span class=\"moneycopper\">22</span></div></td></tr></table>",
+  "url": "/item=15937/hibernal-sphere",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_orb_01.jpg",
+  "id": "15937",
+  "slug": "hibernal-sphere"
+}

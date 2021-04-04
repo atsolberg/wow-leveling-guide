@@ -1,0 +1,10 @@
+{
+  "name": "Onslaught Girdle",
+  "quality": "Epic",
+  "icon": "inv_belt_29",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q4\">Onslaught Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->78</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->494 Armor</span><br><span><!--stat4-->+31 Strength</span><br><span><!--stat7-->+11 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td>Requires Level <!--rlvl-->60<br><span class=\"q2\">Equip: <a href=\"/spell=7597\" class=\"q2\">Improves your chance to get a critical strike by 1%.</a></span><br><span class=\"q2\">Equip: <a href=\"/spell=15464\" class=\"q2\">Improves your chance to hit by 1%.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">3</span> <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">69</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Ragnaros</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 11.50%</div></td></tr></table>",
+  "url": "/item=19137/onslaught-girdle",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_belt_29.jpg",
+  "id": "19137",
+  "slug": "onslaught-girdle"
+}

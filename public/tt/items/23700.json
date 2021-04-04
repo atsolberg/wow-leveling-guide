@@ -1,0 +1,10 @@
+{
+  "name": "[PH] Glorious Standard of the Alliance [DEP]",
+  "quality": "Common",
+  "icon": "inv_bannerpvp_02",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">[PH] Glorious Standard of the Alliance [DEP]</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=23700/ph-glorious-standard-of-the-alliance-dep",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_bannerpvp_02.jpg",
+  "id": "23700",
+  "slug": "ph-glorious-standard-of-the-alliance-dep"
+}

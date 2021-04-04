@@ -1,0 +1,10 @@
+{
+  "name": "Squashed Rabbit Carcass",
+  "quality": "Poor",
+  "icon": "inv_misc_pelt_wolf_ruin_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q0\">Squashed Rabbit Carcass</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->5</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">7</span></div></td></tr></table>",
+  "url": "/item=4879/squashed-rabbit-carcass",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_pelt_wolf_ruin_01.jpg",
+  "id": "4879",
+  "slug": "squashed-rabbit-carcass"
+}

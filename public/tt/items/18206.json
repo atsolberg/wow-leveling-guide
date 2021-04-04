@@ -1,0 +1,10 @@
+{
+  "name": "Dwarf Spine",
+  "quality": "Common",
+  "icon": "inv_misc_bone_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dwarf Spine</b><!--nend--><!--ndstart--><!--ndend--><!--bo--><br />Binds when picked up<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><div class=\"whtt-extra whtt-maxstack\">Max Stack: 100</div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Vipore's Gryphon</div></td></tr></table>",
+  "url": "/item=18206/dwarf-spine",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_bone_03.jpg",
+  "id": "18206",
+  "slug": "dwarf-spine"
+}

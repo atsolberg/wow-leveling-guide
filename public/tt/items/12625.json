@@ -1,0 +1,10 @@
+{
+  "name": "Dawnbringer Shoulders",
+  "quality": "Rare",
+  "icon": "inv_shoulder_20",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Dawnbringer Shoulders</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->58</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->455 Armor</span><br><span><!--stat6-->+10 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->53<br><span class=\"q2\">Equip: <a href=\"/spell=17371\" class=\"q2\">Increases healing done by spells and effects by up to 44.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">80</span></div></td></tr></table>",
+  "url": "/item=12625/dawnbringer-shoulders",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shoulder_20.jpg",
+  "id": "12625",
+  "slug": "dawnbringer-shoulders"
+}

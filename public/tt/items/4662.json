@@ -1,0 +1,10 @@
+{
+  "name": "Journeyman's Cloak",
+  "quality": "Common",
+  "icon": "inv_misc_cape_15",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Journeyman's Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->8</span><!--bo--><table width=\"100%\"><tr><td>Back</td></table><span><!--amr-->7 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->3<!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">24</span></div></td></tr></table>",
+  "url": "/item=4662/journeymans-cloak",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_cape_15.jpg",
+  "id": "4662",
+  "slug": "journeymans-cloak"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Tribal Warrior's Shield",
+  "quality": "Common",
+  "icon": "inv_shield_11",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tribal Warrior's Shield</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->11</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><span><!--amr-->189 Armor</span><br>3 Block<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">16</span></div></td></tr></table>",
+  "url": "/item=4967/tribal-warriors-shield",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_shield_11.jpg",
+  "id": "4967",
+  "slug": "tribal-warriors-shield"
+}

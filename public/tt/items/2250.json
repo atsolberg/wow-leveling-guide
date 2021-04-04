@@ -1,0 +1,10 @@
+{
+  "name": "Dusky Crab Cakes",
+  "quality": "Common",
+  "icon": "inv_misc_food_08",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Dusky Crab Cakes</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=2250/dusky-crab-cakes",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_food_08.jpg",
+  "id": "2250",
+  "slug": "dusky-crab-cakes"
+}

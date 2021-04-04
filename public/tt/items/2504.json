@@ -1,0 +1,10 @@
+{
+  "name": "Worn Shortbow",
+  "quality": "Common",
+  "icon": "inv_weapon_bow_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Worn Shortbow</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->2</span><!--bo--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:2--><span class=\"q1\">Bow</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->2 - 5 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(1.52 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td><!--itemEffects:0--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">5</span></div></td></tr></table>",
+  "url": "/item=2504/worn-shortbow",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_weapon_bow_05.jpg",
+  "id": "2504",
+  "slug": "worn-shortbow"
+}

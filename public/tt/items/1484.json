@@ -1,0 +1,10 @@
+{
+  "name": "Witching Stave",
+  "quality": "Rare",
+  "icon": "inv_wand_04",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Witching Stave</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><br />Binds when equipped<table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><table width=\"100%\"><tr>\n    <td><span><!--dmg-->55 - 83 Damage</span></td>\n    <th>Speed <!--spd-->3.60</th>\n</tr></table><!--dps-->(19.17 damage per second)<br><span><!--stat5-->+8 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td>Requires Level <!--rlvl-->17<br><span class=\"q2\">Equip: <a href=\"/spell=9412\" class=\"q2\">Increases damage done by Shadow spells and effects by up to 11.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">29</span> <span class=\"moneycopper\">22</span></div></td></tr></table>",
+  "url": "/item=1484/witching-stave",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_wand_04.jpg",
+  "id": "1484",
+  "slug": "witching-stave"
+}

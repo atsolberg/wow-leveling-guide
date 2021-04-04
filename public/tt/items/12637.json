@@ -1,0 +1,10 @@
+{
+  "name": "Backusarian Gauntlets",
+  "quality": "Rare",
+  "icon": "inv_gauntlets_26",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Backusarian Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->60</span><!--bo--><br />Binds when picked up<table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:4--><span class=\"q1\">Plate</span><!--scend--></th></tr></table><span><!--amr-->392 Armor</span><br><span><!--stat4-->+9 Strength</span><br><span><!--stat5-->+9 Intellect</span><br><span><!--stat7-->+15 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td>Requires Level <!--rlvl-->55<br><span class=\"q2\">Equip: <a href=\"/spell=21618\" class=\"q2\">Restores 4 mana per 5 sec.</a></span><!--itemEffects:1--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">16</span></div><div class=\"whtt-extra whtt-droppedby\">Dropped by: Bannok Grimaxe</div><div class=\"whtt-extra whtt-dropchance\">Drop Chance: 32.08%</div></td></tr></table>",
+  "url": "/item=12637/backusarian-gauntlets",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_gauntlets_26.jpg",
+  "id": "12637",
+  "slug": "backusarian-gauntlets"
+}

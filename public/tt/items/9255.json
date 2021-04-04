@@ -1,0 +1,10 @@
+{
+  "name": "Lahassa Essence",
+  "quality": "Common",
+  "icon": "inv_misc_gem_amethyst_03",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Lahassa Essence</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Binds when picked up<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=9255/lahassa-essence",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_gem_amethyst_03.jpg",
+  "id": "9255",
+  "slug": "lahassa-essence"
+}

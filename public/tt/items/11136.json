@@ -1,0 +1,10 @@
+{
+  "name": "Linken's Tempered Sword",
+  "quality": "Common",
+  "icon": "inv_sword_23",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Linken's Tempered Sword</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Quest Item<br />Unique<!--ebstats--><!--egstats--><!--eistats--></td></tr></table>",
+  "url": "/item=11136/linkens-tempered-sword",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_sword_23.jpg",
+  "id": "11136",
+  "slug": "linkens-tempered-sword"
+}

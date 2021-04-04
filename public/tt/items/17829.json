@@ -1,0 +1,10 @@
+{
+  "name": "QAEnchant Bracer +9 Spirit",
+  "quality": "Common",
+  "icon": "inv_jewelry_talisman_01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">QAEnchant Bracer +9 Spirit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=22053\" class=\"q2\">Permanently enchants bracers to give 9 Spirit.</a></span></td></tr></table>",
+  "url": "/item=17829/qaenchant-bracer-9-spirit",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_jewelry_talisman_01.jpg",
+  "id": "17829",
+  "slug": "qaenchant-bracer-9-spirit"
+}

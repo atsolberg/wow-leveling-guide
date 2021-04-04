@@ -1,0 +1,10 @@
+{
+  "name": "Upper Map Fragment",
+  "quality": "Common",
+  "icon": "inv_misc_note_05",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Upper Map Fragment</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">Use: <a href=\"/spell=11438\" class=\"q2\">Join together the Lower, Middle and Upper Map Fragments.</a></span><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">62</span></div></td></tr></table>",
+  "url": "/item=9251/upper-map-fragment",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_misc_note_05.jpg",
+  "id": "9251",
+  "slug": "upper-map-fragment"
+}

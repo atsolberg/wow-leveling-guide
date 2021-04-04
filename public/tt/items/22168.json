@@ -1,0 +1,10 @@
+{
+  "name": "Gift of Friendship: Ironforge",
+  "quality": "Common",
+  "icon": "inv_valentinesboxofchocolates01",
+  "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Gift of Friendship: Ironforge</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br />Duration: 7 days<!--ebstats--><!--egstats--><!--eistats--></td></tr></table><table><tr><td><span class=\"q2\">&lt;Right Click to Open&gt;</span></td></tr></table>",
+  "url": "/item=22168/gift-of-friendship-ironforge",
+  "image": "https://wow.zamimg.com/images/wow/icons/medium/inv_valentinesboxofchocolates01.jpg",
+  "id": "22168",
+  "slug": "gift-of-friendship-ironforge"
+}
