@@ -17,76 +17,111 @@ function Level32() {
           in Strangelthorn Vale (37,3).
         </li>
         <li>
-          Then go to the Nesingwary&apos;s Camp (35,10). Turn in{' '}
-          <span className="quest">[31] Hemet Nesingwary Jr</span>. Get the quest{' '}
-          <span className="quest">[30] Welcome to the Jungle</span> from Barnil
-          Stonepot and turn in it at Hemet Nesingwary Jr. This should unlock
-          several other quests, get them all.
+          Then go to the Nesingwary's Camp (35,10). Turn in{' '}
+          <TtLink type="quest" id="5762">
+            [31] Hemet Nesingwary
+          </TtLink>
+          . Get the quest{' '}
+          <TtLink type="quest" id="583">
+            [30] Welcome to the Jungle
+          </TtLink>{' '}
+          from Barnil Stonepot and turn in it at Hemet Nesingwary Jr. This
+          should unlock several other quests, get them all.
         </li>
       </ul>
       <br />
       You should have these quests: <br />
       <ul>
         <li>
-          <span className="quest">[31] Supply and Demand from Drizzlik</span> in{' '}
-          <strong>Booty Bay</strong>.
-        </li>
-        <li>
-          <span className="quest">[31] Panther Mastery</span> From Nesingwary
-          camp.
-        </li>
-        <li>
-          <span className="quest">[31] Tiger Mastery</span> From Nesingwary
-          camp.
-        </li>
-        <li>
-          <span className="quest">[32] Investigate the Camp</span> From Krazek
+          <TtLink type="quest" id="575">
+            [31] Supply and Demand from Drizzlik
+          </TtLink>{' '}
           in <strong>Booty Bay</strong>.
         </li>
         <li>
-          <span className="quest">[33] The Second Rebellion</span> From Sergeant
-          Yohwa at the Rebel Camp.
+          <TtLink type="quest" id="192">
+            [31] Panther Mastery
+          </TtLink>{' '}
+          From Nesingwary camp.
         </li>
         <li>
-          <span className="quest">[34] Bad Medicine</span> Sergeant Yohwa at the
-          Rebel Camp.
+          <TtLink type="quest" id="185">
+            [31] Tiger Mastery
+          </TtLink>{' '}
+          From Nesingwary camp.
         </li>
         <li>
-          <span className="quest">[34] Raptor Mastery</span> From Nesingwary
-          camp.
+          <TtLink type="quest" id="201">
+            [32] Investigate the Camp
+          </TtLink>{' '}
+          From Krazek in <strong>Booty Bay</strong>.
         </li>
         <li>
-          <span className="quest">[35] Bloodscalp Ears</span> From Kebok in{' '}
-          <strong>Booty Bay</strong>.
+          <TtLink type="quest" id="203">
+            [33] The Second Rebellion
+          </TtLink>{' '}
+          From Sergeant Yohwa at the Rebel Camp.
         </li>
         <li>
-          <span className="quest">[35] Singing Blue Shards</span> From Crank{' '}
-          Fizzlebub in <strong>Booty Bay</strong>.
+          <TtLink type="quest" id="204">
+            [34] Bad Medicine
+          </TtLink>{' '}
+          Sergeant Yohwa at the Rebel Camp.
         </li>
         <li>
-          <span className="quest">[36] Hostile Takeover</span> From Kebok in{' '}
-          <strong>Booty Bay</strong>.
+          <TtLink type="quest" id="194">
+            [34] Raptor Mastery
+          </TtLink>{' '}
+          From Nesingwary camp.
         </li>
         <li>
-          <span className="quest">[37] Parts for Kravel</span> From Wharfmaster
-          Dizzywig.
+          <TtLink type="quest" id="189">
+            [35] Bloodscalp Ears
+          </TtLink>{' '}
+          From Kebok in <strong>Booty Bay</strong>.
         </li>
         <li>
-          <span className="quest">[37] Krazek&apos;s Cookery</span> From
-          Corporal Kaleb at the Rebel Camp.
+          <TtLink type="quest" id="605">
+            [35] Singing Blue Shards
+          </TtLink>{' '}
+          From Crank Fizzlebub in <strong>Booty Bay</strong>.
         </li>
         <li>
-          <span className="quest">[37] Goblin Sponsorship</span> From the Baron
-          Revilgaz on top of the <strong>Booty Bay</strong> Inn.
+          <TtLink type="quest" id="213">
+            [36] Hostile Takeover
+          </TtLink>{' '}
+          From Kebok in <strong>Booty Bay</strong>.
         </li>
         <li>
-          <span className="quest">[37] The Stone of the Tides</span> From Baron
-          Revilgaz in <strong>Booty Bay</strong>, prereq for this quest is given
-          by Krazek in <strong>Booty Bay</strong>.
+          <TtLink type="quest" id="1112">
+            [36] Parts for Kravel
+          </TtLink>{' '}
+          From Wharfmaster Dizzywig.
         </li>
         <li>
-          <span className="quest">[41] Scaring Shaky</span> From &quot;Sea
-          Wolf&quot; McKinley in <strong>Booty Bay</strong>.
+          <TtLink type="quest" id="210">
+            [37] Krazek's Cookery
+          </TtLink>{' '}
+          From Corporal Kaleb at the Rebel Camp.
+        </li>
+        <li>
+          <TtLink type="quest" id="1180">
+            [37] Goblin Sponsorship
+          </TtLink>{' '}
+          From the Baron Revilgaz on top of the <strong>Booty Bay</strong> Inn.
+        </li>
+        <li>
+          <TtLink type="quest" id="578">
+            [37] The Stone of the Tides
+          </TtLink>{' '}
+          From Baron Revilgaz in <strong>Booty Bay</strong>, prereq for this
+          quest is given by Krazek in <strong>Booty Bay</strong>.
+        </li>
+        <li>
+          <TtLink type="quest" id="606">
+            [41] Scaring Shaky
+          </TtLink>{' '}
+          From "Sea Wolf" McKinley in <strong>Booty Bay</strong>.
         </li>
       </ul>
       <p>
@@ -123,8 +158,8 @@ function Level32() {
         Step 4: Go further northeast to the Kurzen Camp (44,11) and kill 15
         Kurzen Jungle Fighters as well as Kurzen Medecine Men until you get 7{' '}
         <TtLink id="2633">Jungle Remedies</TtLink> (might take a while). Also
-        you&apos;ll need a <TtLink id="2634">Venom Fern Extract</TtLink> from
-        one of the piles of crates scattered around the Kurzen Compound.
+        you'll need a <TtLink id="2634">Venom Fern Extract</TtLink> from one of
+        the piles of crates scattered around the Kurzen Compound.
       </p>
       <p>
         Step 5: Once all 4 quests are done go turn them in (besides Supply and
@@ -133,16 +168,23 @@ function Level32() {
       </p>
       <ul>
         <li>
-          <span className="quest">[38] Special Forces</span>.
+          <TtLink type="quest" id="574">
+            [38] Special Forces
+          </TtLink>
+          .
         </li>
       </ul>
       <p>Step 6: And at the Nesingwary camp where you get the follow ups:</p>
       <ul>
         <li>
-          <span className="quest">[33] Tiger Mastery</span>
+          <TtLink type="quest" id="186">
+            [33] Tiger Mastery
+          </TtLink>
         </li>
         <li>
-          <span className="quest">[33] Panther Mastery</span>
+          <TtLink type="quest" id="191">
+            [33] Panther Mastery
+          </TtLink>
         </li>
       </ul>
       <p>
@@ -155,12 +197,12 @@ function Level32() {
       </p>
       <p>
         Step 9: Go south and down the plateau until you find the troll camp at
-        Bal&apos;lal Ruins (29,20)
+        Bal'lal Ruins (29,20)
         <br /> It should take a while to get 15{' '}
         <TtLink id="1519">Bloodscalp Ears</TtLink> but it is a nice grinding
-        spot anyway. So grind at this spot until you hit level 33. If you
-        don&apos;t have enough trolls there is another camp northeast at the
-        Tkashi Ruins (33,15).
+        spot anyway. So grind at this spot until you hit level 33. If you don't
+        have enough trolls there is another camp northeast at the Tkashi Ruins
+        (33,15).
       </p>
     </div>
   );

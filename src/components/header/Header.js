@@ -31,7 +31,7 @@ function Header() {
             </Nav.Link>
             <Nav.Link
               eventKey={2}
-              href="https://web.archive.org/web/20100414012649/http://www.wow-pro.com/node/600"
+              href="https://web.archive.org/web/20100509001851/http://www.wow-pro.com/leveling_guides/jame_alliance_leveling_guide_chapter_1_old_version"
             >
               source
             </Nav.Link>
