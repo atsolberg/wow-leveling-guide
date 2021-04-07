@@ -25,13 +25,13 @@ function Chapter1() {
         <em>
           <strong>level 30</strong>
         </em>
-        . It is your task to reach that level on your own and it shouldn&apos;t
-        be a problem, you can check the other leveling guides in our leveling
-        guide forum for the earlier levels. The main reason why I don&apos;t
-        want to start a guide at level 1 is because:
+        . It is your task to reach that level on your own and it shouldn't be a
+        problem, you can check the other leveling guides in our leveling guide
+        forum for the earlier levels. The main reason why I don't want to start
+        a guide at level 1 is because:
       </p>
       <ol>
-        <li> It&apos;s not so needed</li>
+        <li> It's not so needed</li>
         <li>
           Depending on your race/class choice you will start from different
           areas so covering them all would be a mess.
@@ -45,26 +45,26 @@ function Chapter1() {
         quests are really a time waste and we will be skipping those and
         replacing them by good grinding spots when it is necessary. Some people
         say that Grinding is always faster than questing, this is true in theory
-        when you don&apos;t know which quests to take and which to avoid, and
-        what is the best order to do them. With this guide, questing will be
-        very efficient and much better than pure grinding. Follow each
-        instruction carefully and you will see for yourself. The quests choices
-        and order to do them are optimal so that you run as few as possible
-        while doing the most possible and then turning several quests at the
-        same time. This guide will be very useful for both veteran and novice
-        players, and this is why sometimes I describe things in two fashion{' '}
-        <strong>&quot;In short&quot;</strong> (for the veterans) and{' '}
-        <strong>&quot;in details&quot;</strong> (for the novices). That way the
-        veteran players can skip those &quot;in details&quot; paragraph if the
-        &quot;in short&quot; one was enough information for them. So even the
-        guide itself is optimized for the minimum reading possible, to save
-        time! Let&apos;s get started immediately then!
+        when you don't know which quests to take and which to avoid, and what is
+        the best order to do them. With this guide, questing will be very
+        efficient and much better than pure grinding. Follow each instruction
+        carefully and you will see for yourself. The quests choices and order to
+        do them are optimal so that you run as few as possible while doing the
+        most possible and then turning several quests at the same time. This
+        guide will be very useful for both veteran and novice players, and this
+        is why sometimes I describe things in two fashion{' '}
+        <strong>"In short"</strong> (for the veterans) and{' '}
+        <strong>"in details"</strong> (for the novices). That way the veteran
+        players can skip those "in details" paragraph if the "in short" one was
+        enough information for them. So even the guide itself is optimized for
+        the minimum reading possible, to save time! Let's get started
+        immediately then!
       </p>
 
       <p>
         Everything described in this guide can be done solo (besides when I say
         otherwise). You can of course follow this guide while duoing, grouping,
-        it&apos;s not a problem, it works too.
+        it's not a problem, it works too.
       </p>
 
       <h5>Basic rules:</h5>
@@ -81,28 +81,28 @@ function Chapter1() {
         </li>
         <li>
           <strong>
-            Don&apos;t waste your time trying to find groups for questing
+            Don't waste your time trying to find groups for questing
           </strong>
           , you can solo everything that is described in this guide. Only group
-          with someone when it&apos;s not gonna be a waste of time (e.g: meeting
-          the person at the other end of the map to show him the way to where
-          your quest is)
+          with someone when it's not gonna be a waste of time (e.g: meeting the
+          person at the other end of the map to show him the way to where your
+          quest is)
         </li>
         <li>Try to always log out in an Inn when you take a break.</li>
         <li>
-          If I don&apos;t mention a quest, it means I consider it a waste of
-          time, so don&apos;t take it thinking I forgot a quest here and there,
-          I didn&apos;t.&nbsp;
+          If I don't mention a quest, it means I consider it a waste of time, so
+          don't take it thinking I forgot a quest here and there, I
+          didn't.&nbsp;
           <span role="img" aria-label="smile">
             🙂
           </span>
           <br />
-          Also don&apos;t abandon a quest unless I say you should.
+          Also don't abandon a quest unless I say you should.
         </li>
         <li>
           Sometimes I will be making lists of quest you should have before
-          starting with an area, that doesn&apos;t mean I will list the whole
-          quest log, JUST the quests that interest us for the moment.
+          starting with an area, that doesn't mean I will list the whole quest
+          log, JUST the quests that interest us for the moment.
         </li>
       </ol>
       <hr />
@@ -144,14 +144,17 @@ function Chapter1() {
 
       <h6>Level 41</h6>
       <p>
-        Complete <span className="quest">[42] This is Going to be Hard</span>{' '}
+        Complete{' '}
+        <TtLink type="quest" id="777">
+          [42] This is Going to be Hard
+        </TtLink>{' '}
         and get the follow up. Talk to Lotwil and complete the quest but BEFORE
         you accept the next step from Lotwil, be warned: A level 45 Elemental
         will spawn and you will have to defeat it. At level 41 this is hard but
         possible for every class. Just use every long cooldown ability you have
         as well as potions. Loot{' '}
-        <TtLink id="4847">Lotwil&apos;s Shackles of Elemental Binding</TtLink>{' '}
-        from the Fam&apos;retor Elemental and go turn in the quest to Lotwil.
+        <TtLink id="4847">Lotwil's Shackles of Elemental Binding</TtLink> from
+        the Fam'retor Elemental and go turn in the quest to Lotwil.
         Congratulations, you are done with Badlands and with the first Chapter
         of this leveling guide! Warp to <strong>Ironforge</strong> and sell /
         repair / auction etc.
