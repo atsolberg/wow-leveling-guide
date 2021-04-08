@@ -60,6 +60,9 @@ const styles = css`
     color: #ffcc00;
     font-weight: bold;
   }
+  .npc {
+    color: limegreen;
+  }
 
   .small {
     font-size: 15px;

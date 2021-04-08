@@ -58,8 +58,7 @@ function Level47() {
             Keep killing elementals and giants until you got 15{' '}
             <TtLink id="18956">Miniaturization Residue</TtLink> and 10{' '}
             <TtLink id="18958">Water Elemental Core</TtLink>. Once finished, go
-            turn in your quest at{' '}
-            <span className="person">Zorbin Fandazzle</span>.
+            turn in your quest at <span className="npc">Zorbin Fandazzle</span>.
           </p>
           <p>
             <strong>
