@@ -1,5 +1,6 @@
 import React from 'react';
 import TtLink from '../tt-link/TtLink';
+import Npc from '../npc/Npc';
 
 function Level46() {
   return (
@@ -30,7 +31,8 @@ function Level46() {
           </p>
           <p>
             In Hinterlands go northeast to <strong>Aerie Peak</strong>{' '}
-            <em>(14,47)</em>. Get the quests:
+            <em>(14,47)</em>.<br />
+            Get the quests:
             <ul>
               <li>
                 <span className="quest">[45] Troll Necklace Bounty</span>
@@ -71,12 +73,12 @@ function Level46() {
           </p>
           <p>
             <em>
-              <strong>End of Circuit:</strong>
+              <strong>End of Circuit</strong>
             </em>
           </p>
-          <div>
+          <p>
             <img src="/assets/wp/hintercircuit1.jpg" alt="" />
-          </div>
+          </p>
         </li>
         <li>
           <p>
@@ -107,19 +109,19 @@ function Level46() {
           </p>
           <p>
             Then go east to the troll ruins of <strong>Hiri'watha</strong>{' '}
-            <em>(32,57)</em>. Clear some space inside and check the &quot;Third
-            Witherbark Cage&quot; Kill trolls until you get 5{' '}
+            <em>(32,57)</em>. Clear some space inside and check the "Third
+            Witherbark Cage" Kill trolls until you get 5{' '}
             <TtLink id="9259">Troll Tribal Necklaces</TtLink>.
           </p>
         </li>
         <li>
           <p>
             Go northeast to <strong>Agol'Watha</strong> <em>(46,40)</em> and
-            kill <strong>10 Green Sludges</strong>.
+            kill 10 <Npc id="">Green Sludges</Npc>.
           </p>
           <p>
-            Go east to <em>Skulk Rock</em> <em>(56,44)</em> and kill{' '}
-            <strong>10 Jade Ooze</strong>. Beware of the wolf stalkers there
+            Go east to <em>Skulk Rock</em> <em>(56,44)</em> and kill 10{' '}
+            <Npc id="">Jade Ooze</Npc>. Beware of the wolf stalkers there
             though, they are stealthed, so be prepared for unexpected adds.
           </p>
         </li>
@@ -169,7 +171,7 @@ function Level46() {
           <p>
             Search your bags for the <TtLink id="9328">Super Snapper FX</TtLink>{' '}
             and make a hotkey out of it. Then ride along the shore and search
-            for a named turtle named <strong>Gammerita</strong>.
+            for a named turtle named <Npc id="">Gammerita</Npc>.
           </p>
           <p>
             She is easy to discern from the rest because she's the only
@@ -179,7 +181,6 @@ function Level46() {
             Village <em>(77,77)</em>.
           </p>
           <p>
-            {' '}
             You don't need to kill her, just get close enough and use the Super
             Snapper FX on her, she will not like it and will attack you, just
             run away. You should now normally have a{' '}
@@ -207,8 +208,9 @@ function Level46() {
             with these dwarves each time.
           </p>
           <p>
-            Go to the top floor of Aerie Peak to Gryphon Master Talonaxe and get
-            the follow up: <span className="quest">[48] The Altar of Zul</span>
+            Go to the top floor of Aerie Peak to{' '}
+            <Npc id="">Gryphon Master Talonaxe</Npc> and get the follow up:{' '}
+            <span className="quest">[48] The Altar of Zul</span>
           </p>
           <p>
             <em>
@@ -224,11 +226,11 @@ function Level46() {
           <p>
             Go to the <strong>Altar of Zul</strong> <em>(49,64)</em> and kill
             trolls / wolves there. Now the best would be that you shout in the
-            &quot;Looking for group&quot; channel the following:{' '}
+            "Looking for group" channel the following:{' '}
             <em>
-              &quot;Looking for more to do{' '}
+              "Looking for more to do{' '}
               <span className="quest">[48] The Altar of Zul</span> and get the{' '}
-              <TtLink id="9241">Sacred Mallet</TtLink>&quot;
+              <TtLink id="9241">Sacred Mallet</TtLink>"
             </em>
             During peak times there's almost always people interested in doing
             that.
@@ -251,10 +253,10 @@ function Level46() {
           </p>
           <p>
             On top of the temple of Zul you'll find 2 level 50 elites.{' '}
-            <strong>Qiaga and Morta'gya.</strong>
-            With me playing my mage I managed to kill them with a level 51
-            Hunter and a 50 Priest, I sheeped Morta and we killed Qiaga first.
-            It went quite smooth.
+            <Npc id="">Qiaga</Npc> and <Npc id="">Morta'gya</Npc>. With me
+            playing my mage I managed to kill them with a level 51 Hunter and a
+            50 Priest, I sheeped Morta and we killed Qiaga first. It went quite
+            smooth.
           </p>
           <p>
             Loot the <TtLink id="9241">Sacred Mallet</TtLink> from Qiaga. Then
@@ -287,14 +289,15 @@ function Level46() {
         <li>
           <p>
             Then go back to the top of <strong>Aerie Peak</strong> and speak
-            with Gryphon Master Talonaxe. Turn in the quest and get the follow
-            up:
+            with <Npc id="">Gryphon Master Talonaxe</Npc>. Turn in the quest and
+            get the follow up:
             <span className="quest">[47] Thadius Grimshade</span>
           </p>
           <p>
-            Don't forget to turn in the Troll Necklaces for extra exp at Fraggar
-            Thundermantle (in the inn). <em>Important:</em> Keep Aerie Peak as
-            your home location until further notice.
+            Don't forget to turn in the Troll Necklaces for extra exp at{' '}
+            <Npc id="">Fraggar Thundermantle</Npc> (in the inn).{' '}
+            <em>Important:</em> Keep Aerie Peak as your home location until
+            further notice.
           </p>
         </li>
         <li>
@@ -312,12 +315,13 @@ function Level46() {
           </p>
           <p>
             In Rut'theran Village turn in the quest{' '}
-            <span className="quest">[47] Favored of Elune?</span> at Erelas
-            Ambersky <em>(55,92)</em>. In the same house on the 1st floor turn
-            in <span className="quest">[48] The Super Snapper FX (Elite)</span>.
+            <span className="quest">[47] Favored of Elune?</span> at{' '}
+            <Npc id="">Erelas Ambersky</Npc> <em>(55,92)</em>. In the same house
+            on the 1st floor turn in{' '}
+            <span className="quest">[48] The Super Snapper FX (Elite)</span>.
             Get the follow up{' '}
             <span className="quest">[48] Return to Troyas</span>. You should
-            also be <strong>level 47</strong> now. Congratulations.
+            also be <strong>level 47</strong> now. Congratulations!
           </p>
         </li>
       </ol>

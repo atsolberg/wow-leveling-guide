@@ -1,5 +1,7 @@
 import React from 'react';
-import TtLink from '../tt-link/TtLink';
+import Item from '../item/Item';
+import Npc from '../npc/Npc';
+import Quest from '../quest/Quest';
 
 function Level47() {
   return (
@@ -13,36 +15,36 @@ function Level47() {
           </p>
           <p>
             Buy up to 4 stacks of food/drink then talk to Troyas Moonbreeze and
-            get the follow up{' '}
-            <span className="quest">[50] The Stave of Equinex</span>.
+            get the follow up <Quest id="2879">[50] The Stave of Equinex</Quest>
+            .
           </p>
           <p>
-            Get <span className="quest">[51] The Sunken Temple</span> from
-            Angelas Moonbreeze, standing next to Troyas.
+            Get <Quest id="3380">[51] The Sunken Temple</Quest> from Angelas
+            Moonbreeze, standing next to Troyas.
           </p>
           <p>
             <em>
-              <strong>Circuit:</strong>
+              <strong>Circuit</strong>
             </em>
           </p>
-          <div>
+          <p>
             <img src="/assets/wp/feralascircuit2.jpg" alt="" />
-          </div>
+          </p>
           <p>
             Cross the sea east to the peer in Feralas and get the two quests
             from the goblin named Zorbin Fandazzle (44,43)
             <ul>
               <li>
-                <span className="quest">[48] Zapped Giants</span>
+                <Quest id="7003">[48] Zapped Giants</Quest>
               </li>
               <li>
-                <span className="quest">[48] Fuel for the Zapping</span>
+                <Quest id="7726">[48] Fuel for the Zapping</Quest>
               </li>
             </ul>
           </p>
           <p>
             Look inside your bags for{' '}
-            <TtLink id="18904">Zorbin's Ultra-Shrinker</TtLink> and put it on a
+            <Item id="18904">Zorbin's Ultra-Shrinker</Item> and put it on a
             hotkey.
           </p>
         </li>
@@ -51,14 +53,14 @@ function Level47() {
             Then go <strong>south</strong> along the shore and start killing{' '}
             <strong>water elementals</strong>. Look for giants as well, they are
             elite but if you use the{' '}
-            <TtLink id="18904">Zorbin's Ultra-Shrinker</TtLink> on them they
-            become totally managable.
+            <Item id="18904">Zorbin's Ultra-Shrinker</Item> on them they become
+            totally managable.
           </p>
           <p>
             Keep killing elementals and giants until you got 15{' '}
-            <TtLink id="18956">Miniaturization Residue</TtLink> and 10{' '}
-            <TtLink id="18958">Water Elemental Core</TtLink>. Once finished, go
-            turn in your quest at <span className="npc">Zorbin Fandazzle</span>.
+            <Item id="18956">Miniaturization Residue</Item> and 10{' '}
+            <Item id="18958">Water Elemental Core</Item>. Once finished, go turn
+            in your quest at <Npc id="">Zorbin Fandazzle</Npc>.
           </p>
           <p>
             <strong>
@@ -90,17 +92,14 @@ function Level47() {
           <p>
             On the way there also kill every <strong>Ironfur Bear</strong> and{' '}
             <strong>Groddoc Thunderer</strong> you find. You need 3{' '}
-            <TtLink id="6258">Ironfur Livers</TtLink>,
-            <TtLink id="6259">Groddoc Liver</TtLink> for{' '}
-            <span className="quest">
-              <strong>[43] Rhapsody's Kalimdor Kocktail</strong>
-            </span>
-            .
+            <Item id="6258">Ironfur Livers</Item> and{' '}
+            <Item id="6259">Groddoc Liver</Item> for{' '}
+            <Quest id="1452">[43] Rhapsody's Kalimdor Kocktail</Quest>.
           </p>
           <p>
             Kill <strong>Rage Scar Yetis</strong> until you get 10{' '}
-            <TtLink id="18947">Rage Scar Yeti Hide</TtLink> and a{' '}
-            <TtLink id="18969">Pristine Yeti Hide</TtLink> <em>(rare drop)</em>.
+            <Item id="18947">Rage Scar Yeti Hide</Item> and a{' '}
+            <Item id="18969">Pristine Yeti Hide</Item> <em>(rare drop)</em>.
             When you get the Pristine hide, right click it and get the quest.
           </p>
           <p>
@@ -113,17 +112,17 @@ function Level47() {
             Get out of the yeti cave and <strong>go north</strong> until you can
             get back on the main road, then northwest until you find a stone
             giant named Rockbiter. Get the quest{' '}
-            <span className="quest">[49] The Giant Guardian</span> from him.
+            <Quest id="2844">[49] The Giant Guardian</Quest> from him.
           </p>
           <p>
             Then go directly north to the <strong>Ruins of Ravenwind</strong>.
             We're now gonna do the quest{' '}
-            <span className="quest">[50] The Stave of Equinex</span>.
+            <Quest id="2879">[50] The Stave of Equinex</Quest>.
           </p>
           <p>
             There are level 48-50 <strong>Harpies</strong> everywhere in those
             ruins, the lvl 50s will be a bit harder but manageable. Plus, they
-            drop <TtLink id="5117">Vibrant Plumes</TtLink> for Darkmoon Faire
+            drop <Item id="5117">Vibrant Plumes</Item> for Darkmoon Faire
             tickets. Be careful with runners, overall, be very careful in that
             area, take your time to pull one by one, don't be reckless or you
             will die{' '}
@@ -141,25 +140,25 @@ function Level47() {
             First <strong>go west</strong> to <em>(38,15)</em>, next to a thick
             square tower you'll find a dark gazebo, inside of it is the first
             flame, right click it. Loot the{' '}
-            <TtLink id="9258">Byltan Essence</TtLink>.
+            <Item id="9258">Byltan Essence</Item>.
           </p>
           <p>
             Go <strong>northeast</strong> to <em>(40,12)</em> to some big ruined
             arch, the 2nd flame is on the top of it in the middle. To get there
             you have to get behind the building and jump from stones to stones
             until you can reach the flame of Samha. Right click it and loot the{' '}
-            <TtLink id="9257">Samha Essence</TtLink>.
+            <Item id="9257">Samha Essence</Item>.
           </p>
           <p>
             Then go back and jump down the building, directly northeast of it
             and on slightly higher ground among ruins you will find the flame of
-            Imbel. <em>(39,9)</em> Loot the{' '}
-            <TtLink id="9256">Imbel Essence</TtLink>.
+            Imbel. <em>(39,9)</em> Loot the <Item id="9256">Imbel Essence</Item>
+            .
           </p>
           <p>
             Then go southwest (ignore Shay Leafrunner for now if you see her)
             until <em>(37,11)</em>. The Flame of Lahassa is under a dark brown
-            gazebo. Loot the <TtLink id="9255">Lahassa Essence</TtLink>.
+            gazebo. Loot the <Item id="9255">Lahassa Essence</Item>.
           </p>
         </li>
         <li>
@@ -167,43 +166,38 @@ function Level47() {
             Now that you have all 4 essences, go <strong>southeast</strong> to
             the Equinex Monolith <em>(38,13)</em>. Clear some space around it,
             then go to it, search your bags for{' '}
-            <TtLink id="9263">Troyas' Stave</TtLink>. Right click it to charge
-            the stave, then right click the monolith, complete the quest, get
-            the follow up{' '}
-            <span className="quest">
-              <strong>[50] The Morrow Stone</strong>
-            </span>
-            .
+            <Item id="9263">Troyas' Stave</Item>. Right click it to charge the
+            stave, then right click the monolith, complete the quest, get the
+            follow up <Quest id="2942">[50] The Morrow Stone</Quest>.
           </p>
         </li>
         <li>
           <p>
             Get out of the Monolith area and then clear yourself a path{' '}
-            <strong>northwest</strong> to Shay Leafrunner. Before you take the
-            quest, <em>here is the trick :</em>
+            <strong>northwest</strong> to <Npc id="">Shay Leafrunner</Npc>.
+            Before you take the quest, <em>here is the trick :</em>
           </p>
           <p>
             After taking the quest you must loot the bell from the chest next to
             Shay. Make a hotkey of that bell. Now here is the problem with Shay,
             she wanders off every now and then, she always says something like
-            &quot;oh what a beautiful flower&quot; and goes away. When she does
-            that you are supposed to ring the bell and she will run back to you.
-            The problem is that the bell has a rather long cooldown so she ends
-            up wandering off too often.
+            "oh what a beautiful flower" and goes away. When she does that you
+            are supposed to ring the bell and she will run back to you. The
+            problem is that the bell has a rather long cooldown so she ends up
+            wandering off too often.
           </p>
           <p>
             The trick is that{' '}
             <strong>
               as soon as you ring the bell, she will run to you, so you should
-              start running southeast / south towards Rockbiter
+              start running southeast / south towards <Npc id="">Rockbiter</Npc>
             </strong>{' '}
             <em>(42,21)</em> and she will keep running after you until she
             catches up.
           </p>
           <p>
-            When she catches up she will say something like &quot;I wandered off
-            again, sorry&quot;. But the cooldown on the bell will be reset
-            already.
+            When she catches up she will say something like "I wandered off
+            again, sorry". But the cooldown on the bell will be reset already.
           </p>
           <p>
             <strong>
@@ -253,40 +247,35 @@ function Level47() {
             When there, go down and northeast towards the grimtotem camp. Go
             talk to Kindal Moonweaver (those two elven chicks we already helped
             back then with the sprite darters). Get the quest{' '}
-            <span className="quest">
-              <strong>[47] An Orphan Looking for a Home</strong>
-            </span>
-            .
+            <Quest id="3841">[47] An Orphan Looking for a Home</Quest>.
           </p>
           <p>
             Then ride back to Feathermoon Stronghold. Turn in :
             <ul>
               <li>
-                <span className="quest">[48] Improved Quality and</span>
+                <Quest id="7733">[48] Improved Quality</Quest> and
               </li>
               <li>
-                <span className="quest">
-                  [48] Pristine Yeti Hide at Pratt McGrubben
-                </span>
+                <Quest id="7735">[48] Pristine Yeti Hide</Quest> at{' '}
+                <Npc id="">Pratt McGrubben</Npc>
               </li>
               <li>
-                <span className="quest">
-                  [50] The Morrow Stone at Troyas Moonbreeze
-                </span>
+                <Quest id="2942">[50] The Morrow Stone</Quest> at{' '}
+                <Npc id="">Troyas Moonbreeze</Npc>
               </li>
             </ul>
           </p>
           <p>
             <em>
-              <strong>End of Circuit:</strong>
+              <strong>End of Circuit</strong>
             </em>
           </p>
           <p>
             I went linkdead right in the middle of the Ruins of Ravenwind, so no
             XP rate screenshot. But from what I checked before going linkdead
-            and after. This session lasted about 2H45min. The exp rate was
-            around 30000 XP/ Hour for a total of ~80000 XP gained.
-            Sell/repair/refill up to 3 stacks food/drink.
+            and after. This session lasted about 2h45m. The exp rate was around
+            30000 XP/ Hour for a total of ~80000 XP gained. Sell/repair/refill
+            up to 3 stacks food/drink.
           </p>
         </li>
         <li>
@@ -295,21 +284,21 @@ function Level47() {
             <strong>Gadgetzan</strong>. In Gadgetzan get:
             <ul>
               <li>
-                <span className="quest">[46] Gadgetzan Water Survey</span> from
-                Senior Surveyor Fizzledowser (he's on a mound of earth behind
-                the houses on the west side of Gadgetzan)
+                <Quest id="992">[46] Gadgetzan Water Survey</Quest> from{' '}
+                <Npc id="">Senior Surveyor Fizzledowser</Npc> (he's on a mound
+                of earth behind the houses on the west side of Gadgetzan)
               </li>
               <li>
-                <span className="quest">[49] The Thirsty Goblin</span> from
-                Maren Noggenfogger
+                <Quest id="2605">[49] The Thirsty Goblin</Quest> from{' '}
+                <Npc id="">Maren Noggenfogger</Npc>
               </li>
               <li>
-                <span className="quest">[49] The Dunemaul Compound</span> from
-                Andi Lynn (behind the Inn)
+                <Quest id="5863">[49] The Dunemaul Compound</Quest> from{' '}
+                <Npc id="">Andi Lynn</Npc> (behind the Inn)
               </li>
               <li>
-                <span className="quest">[50] Thistleshrub Valley</span> from
-                Tran'Rek
+                <Quest id="3362">[50] Thistleshrub Valley</Quest> from{' '}
+                <Npc id="">Tran'Rek</Npc>
               </li>
             </ul>
           </p>
@@ -317,7 +306,11 @@ function Level47() {
         <strong>Circuit:</strong>
         <div>
           <img src="/assets/wp/tanariscircuit1.jpg" alt="" />
-          <img src="/assets/wp/tanariscircuit1info.jpg" alt="" />
+          <img
+            src="/assets/wp/tanariscircuit1info.jpg"
+            alt=""
+            className="vat"
+          />
         </div>
         <li>
           <p>
@@ -327,11 +320,8 @@ function Level47() {
           <p>
             Kill all the Fire Rocs you find there. You got another of those huge
             skeletal remains to the southwest. Cycle between those 2 spots until
-            you get the 3 <TtLink id="6257">Roc Gizzards</TtLink> you need for{' '}
-            <span className="quest">
-              <strong>[43] Rhapsody's Kalimdor Kocktail</strong>
-            </span>
-            .
+            you get the 3 <Item id="6257">Roc Gizzards</Item> you need for{' '}
+            <Quest id="1452">[43] Rhapsody's Kalimdor Kocktail</Quest>.
           </p>
         </li>
         <li>
@@ -342,53 +332,47 @@ function Level47() {
           <p>
             Stand by the western tip of the pool and get full health/mana.
             Search your bag for a black vial named{' '}
-            <TtLink id="8584">Untapped Dowsing Widget</TtLink> and right click
-            it. Two level 48 insects will pop and attack you, kill them or run
-            away from them. It doesn't matter.
+            <Item id="8584">Untapped Dowsing Widget</Item> and right click it.
+            Two level 48 insects will pop and attack you, kill them or run away
+            from them. It doesn't matter.
           </p>
         </li>
         <li>
           <p>
-            Go east back to <strong>Gadgetzan</strong>. Talk to Senior Survery
-            Fizzledowser and get the follow up{' '}
-            <span className="quest">[47] Noxious Lair Investigation</span>.
+            Go east back to <strong>Gadgetzan</strong>. Talk to{' '}
+            <Npc id="">Senior Survery Fizzledowser</Npc> and get the follow up{' '}
+            <Quest id="82">[47] Noxious Lair Investigation</Quest>.
           </p>
           <p>
-            Go south to the area named &quot;Broken Pillar&quot;{' '}
-            <em>(52,45)</em> and talk to Marvon Rivetseeker. Turn in{' '}
-            <span className="quest">[51] The Sunken Temple</span> and get the
-            follow up <span className="quest">[51] The Stone Circle</span>. Also
-            get <span className="quest">[48] Gahz'ridian</span>.
+            Go south to the area named "Broken Pillar" <em>(52,45)</em> and talk
+            to <Npc id="">Marvon Rivetseeker</Npc>. Turn in{' '}
+            <Quest id="3380">[51] The Sunken Temple</Quest> and get the follow
+            up <Quest id="3444">[51] The Stone Circle</Quest>. Also get{' '}
+            <Quest id="3161">[48] Gahz'ridian</Quest>.
           </p>
         </li>
         <li>
           <p>
             Go west / southwest to the <strong>Dunemaul Compound</strong> and
             clear a path to the cave there <em>(40,56)</em>. In that cave you'll
-            find <strong>Gor'marok the Ravager</strong>, kill him. (lvl 49 -
+            find <Npc id="">Gor'marok the Ravager</Npc>, kill him. (lvl 49 -
             soloable at lvl 47 without a problem)
           </p>
           <p>
             Go southeast to the <strong>Eastmoon Ruins</strong>
             <em>(48,64)</em> (yes, even if you didn't finish{' '}
-            <span className="quest">
-              <strong>[49] The Dunemaul Compound</strong>
-            </span>{' '}
-            yet.) Start killing <strong>ogres</strong> there and look on the
-            floor for <TtLink id="8443">Gahz'ridian Ornaments</TtLink>. They
-            look like white upside down plates. Kill ogres in that camp until
-            you got 30 <TtLink id="8443">Gahz'Ridian Ornament</TtLink> and hit
-            level 48.
+            <Quest id="5863">[49] The Dunemaul Compound</Quest> yet.) Start
+            killing <strong>ogres</strong> there and look on the floor for{' '}
+            <Item id="8443">Gahz'ridian Ornaments</Item>. They look like white
+            upside down plates. Kill ogres in that camp until you got 30{' '}
+            <Item id="8443">Gahz'Ridian Ornament</Item> and hit level 48.
           </p>
           <p>
             If it's too crowded, there is another camp similar to this one
-            further to the southwest named &quot;Southmoon Ruin&quot;{' '}
-            <em>(41,72)</em>. When you hit 48 and got 30 Gahz'Ridian ornament
-            you should also be done with{' '}
-            <span className="quest">
-              <strong>[49] The Dunemaul Compound</strong>
-            </span>
-            . If not, kill some more ogres{' '}
+            further to the southwest named "Southmoon Ruin" <em>(41,72)</em>.
+            When you hit 48 and got 30 Gahz'Ridian ornament you should also be
+            done with <Quest id="5863">[49] The Dunemaul Compound</Quest>. If
+            not, kill some more ogres{' '}
             <span role="img" aria-label="smile">
               🙂
             </span>
