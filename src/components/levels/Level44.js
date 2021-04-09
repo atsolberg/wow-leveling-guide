@@ -1,5 +1,7 @@
 import React from 'react';
-import TtLink from '../tt-link/TtLink';
+import Item from '../item/Item';
+import Quest from '../quest/Quest';
+import Object from '../object/Object';
 
 function Level44() {
   return (
@@ -11,15 +13,12 @@ function Level44() {
             Kill <strong>Lord Shazaru</strong>, there are 2 other nagas close to
             him but you can pull them one by one or just 2 at a time. Use your
             long cooldown abilities and potions if needed. Loot the{' '}
-            <TtLink id="9248">Mysterious Relic</TtLink> from him.
+            <Item id="9248">Mysterious Relic</Item> from him.
           </p>
           <p>
             Clear the way out and go back to Feathermoon Stronghold. Turn in the
             quest at Latronicus and get the follow up{' '}
-            <span className="quest">
-              <strong>[45] Delivering the Relic</strong>
-            </span>
-            .
+            <Quest id="2871">[45] Delivering the Relic</Quest>.
           </p>
           <p>
             Go talk to Vestia Moonspear in the same building and turn in the
@@ -27,15 +26,18 @@ function Level44() {
           </p>{' '}
           <p>
             <em>
-              <strong>End of Circuit 1:</strong>
+              <strong>End of Circuit 1</strong>
             </em>
           </p>
-          <div>
-            <img src="/assets/wp/xpratefera1.jpg" alt="" />
-          </div>
           <p>
-            Note: Unfortunately I had XP bonus for the most part of this
-            session, but if you do the math, it's still at least 32000 XP/ Hour.
+            <img src="/assets/wp/xpratefera1.jpg" alt="" />
+          </p>
+          <p>
+            <strong>
+              <em>Note:</em>
+            </strong>{' '}
+            Unfortunately I had XP bonus for the most part of this session, but
+            if you do the math, it's still at least 32000 XP/ Hour.
           </p>
         </li>
         <li>
@@ -45,10 +47,8 @@ function Level44() {
             <strong>Rogue Vale Screechers</strong> you find on the way and use{' '}
             <strong>Yeh'Kinya's Bramble</strong> on their corpses, then talk to
             their spirit to free them. Finish{' '}
-            <span className="quest">
-              <strong>[44] Screecher Spirits</strong>
-            </span>{' '}
-            while going southwards.
+            <Quest id="3520">[44] Screecher Spirits</Quest> while going
+            southwards.
           </p>
           <p>
             Cross a small river, then keep going south until you find a{' '}
@@ -67,34 +67,30 @@ function Level44() {
         <li>
           <p>
             Once you have the follow up{' '}
-            <span className="quest">
-              <strong>[44] Boat Wreckage</strong>
-            </span>
-            , go back to <strong>Feathermoon Fortress</strong> (use Hearthstone
-            if it's up).
+            <Quest id="4127">[44] Boat Wreckage</Quest>, go back to{' '}
+            <strong>Feathermoon Fortress</strong> (use Hearthstone if it's up).
           </p>
         </li>
         <li>
           <p>
             In Feathermoon Fortress talk to Ginro Hearthkindle and get the
-            follow up <span className="quest">[44] The Knife Revealed</span>.
+            follow up <Quest id="4129">[44] The Knife Revealed</Quest>.
           </p>
           <p>
             Go talk to Quintis at the top of the tower north of this building.
-            Get the follow up{' '}
-            <span className="quest">[44] Psychometric Reading</span>
+            Get the follow up <Quest id="4130">[44] Psychometric Reading</Quest>
           </p>
           <p>
             Go back to Ginro, get the follow up{' '}
-            <span className="quest">[44] The Woodpaw Gnolls</span>.
+            <Quest id="4131">[44] The Woodpaw Gnolls</Quest>.
           </p>{' '}
           <p>Sell, Repair, buy up to 4 stacks of food/drink.</p>
-          <div>
+          <p>
             <strong>Circuit 2:</strong>
-          </div>
-          <div>
+          </p>
+          <p>
             <img src="/assets/wp/feralascircuit1.jpg" alt="" />
-          </div>
+          </p>
         </li>
         <li>
           <p>
@@ -122,27 +118,25 @@ function Level44() {
           <p>
             When you are done with Shamans, go further to the south and as far
             up the hills as you can, you will find{' '}
-            <TtLink id="8564">Hippogryph Eggs</TtLink> on the floor at{' '}
+            <Item id="8564">Hippogryph Eggs</Item> on the floor at{' '}
             <em>(56,76)</em>. Get a Hippogryph Egg.
           </p>
           <p>
             Go northwest to the Yeti Cave <em>(55,56)</em>. Kill Yetis, ignore
             the Homing Robot OOX-22/FE for now. Keep killing yetis until you get
-            10 <TtLink id="8973">Thick Yeti Hides</TtLink>.
+            10 <Item id="8973">Thick Yeti Hides</Item>.
           </p>
           <p>
             When you got 10 Yeti Hides, go to the Homing Robot. <em>(53,55)</em>
             Now, at this point you should normally have gotten a{' '}
-            <TtLink id="8705">OOX-22/FE Distress Beacon</TtLink> with all the
-            stuff you've killed in Feralas already.
+            <Item id="8705">OOX-22/FE Distress Beacon</Item> with all the stuff
+            you've killed in Feralas already.
           </p>
           <p>
             If you don't, it's not a big deal, just go to the next step. For
             those you did get a Distress Beacon, right click it to get the quest{' '}
-            <span className="quest">
-              <strong>[45] Find OOX-22/FE!</strong>
-            </span>{' '}
-            if you haven't already. Turn in the quest.
+            <Quest id="2766">[45] Find OOX-22/FE!</Quest> if you haven't
+            already. Turn in the quest.
           </p>
           <p>
             Don't take the escort quest if you are solo, it's too hard for
@@ -184,20 +178,14 @@ function Level44() {
             Go to the southeastern tip of that lake and a bit more to the south
             try to locate a small gnoll camp next to a huge tree.{' '}
             <em>(73,56)</em>. Clear the camp and look for{' '}
-            <TtLink type="object" id="164953">
-              Large Leather Backpack
-            </TtLink>{' '}
-            hanging at the trunk of that huge tree. Click it and get the follow
-            up quest <span className="quest">[46] The Writhing Deep</span>.
+            <Object id="164953">Large Leather Backpack</Object> hanging at the
+            trunk of that huge tree. Click it and get the follow up quest{' '}
+            <Quest id="4135">[46] The Writhing Deep</Quest>.
           </p>{' '}
           <p>
             Also check your inventory for a bag named{' '}
-            <TtLink id="11463">Undelivered Parcel</TtLink>, click it and start
-            the quest{' '}
-            <span className="quest">
-              <strong>[44] Thalanaar Delivery</strong>
-            </span>
-            .
+            <Item id="11463">Undelivered Parcel</Item>, click it and start the
+            quest <Quest id="4281">[44] Thalanaar Delivery</Quest>.
           </p>
         </li>
         <li>
@@ -216,8 +204,8 @@ function Level44() {
           </p>
           <p>
             Clear the insects in the room. (if you are lucky,{' '}
-            <strong>&quot;Qirot&quot;</strong>, a rare spawn insect will be
-            there. Kill it for and extra green item).
+            <strong>"Qirot"</strong>, a rare spawn insect will be there. Kill it
+            for and extra green item).
           </p>
           <p>
             When the room is clear, click the Zukk'Ash Pod, complete the quest,
@@ -228,23 +216,17 @@ function Level44() {
             <strong>Turn in all quests</strong> and get the follow ups:
             <ul>
               <li>
-                <span className="quest">[46] A Hero's Welcome</span>
+                <Quest id="4266">[46] A Hero's Welcome</Quest>
               </li>
               <li>
-                <span className="quest">[48] Improved Quality</span>
+                <Quest id="7733">[48] Improved Quality</Quest>
               </li>
             </ul>
           </p>
           <p>
             Go to Shandris Feathermoon, turn in{' '}
-            <span className="quest">
-              <strong>[46] A Hero's Welcome</strong>
-            </span>{' '}
-            and get the follow up{' '}
-            <span className="quest">
-              <strong>[46] Rise of the Slithid</strong>
-            </span>
-            .
+            <Quest id="4266">[46] A Hero's Welcome</Quest> and get the follow up{' '}
+            <Quest id="4267">[46] Rise of the Silithid</Quest>.
           </p>
         </li>
         <li>
@@ -252,22 +234,20 @@ function Level44() {
             <strong>Fly to Rut'theran Village</strong> (Darnassus)
           </p>
           <p>
-            Turn in the quest{' '}
-            <span className="quest">[47] Handle with Care</span> at Erelas
-            Ambersky.
+            Turn in the quest <Quest id="3022">[47] Handle with Care</Quest> at
+            Erelas Ambersky.
           </p>
           <p>
-            Get the quest <span className="quest">[47] Favored of Elune?</span>.
+            Get the quest <Quest id="3661">[47] Favored of Elune?</Quest>.
           </p>
           <p>
             Go talk to Daryn Lightwind on the upper floor, turn in{' '}
-            <span className="quest">[47] In Search of Knowledge</span>.
+            <Quest id="2939">[47] In Search of Knowledge</Quest>.
           </p>
           <p>
             Go look for a green book on the floor, next to the little bookshelf
             to the north <em>(55,91)</em>. Get the quest and talk again to Daryn
-            and get the follow up{' '}
-            <span className="quest">[48] The Borrower</span>.
+            and get the follow up <Quest id="2941">[48] The Borrower</Quest>.
           </p>
         </li>
         <li>

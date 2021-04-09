@@ -31,3 +31,6 @@ grouping for dungeons after gather quests.
 - [] get wp images from ch 3
 - [x] move ch 2 and 3 lvls to files
 - [] add favicon
+
+## Dev notes:
+Emmet surround with ttlink quest: `TtLink[type="quest"][id=""]`

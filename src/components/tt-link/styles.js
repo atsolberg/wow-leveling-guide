@@ -11,6 +11,9 @@ const styles = css`
       color: #fc0;
       font-weight: bold;
     }
+    &.--npc {
+      color: limegreen;
+    }
 
     .tt-anchor {
       white-space: nowrap;

@@ -1,5 +1,8 @@
 import React from 'react';
-import TtLink from '../tt-link/TtLink';
+import Npc from '../npc/Npc';
+import Quest from '../quest/Quest';
+import Item from '../item/Item';
+import Object from '../object/Object';
 
 function Level43() {
   return (
@@ -12,9 +15,7 @@ function Level43() {
         <li>
           Do the Uldaman instance, try to finish the whole instance, and
           especially completing the quest{' '}
-          <span className="quest">
-            <strong>[47] The Platinum Discs</strong>
-          </span>
+          <Quest id="2439">[47] The Platinum Discs</Quest>
         </li>
         <li>
           You really don't like Uldaman, then go to the next part of my guide,
@@ -42,10 +43,7 @@ function Level43() {
           <p>
             Then take the boat to Theramore, it's the boat that stops at the
             southern peer. In Theramore on the docks turn in the quest{' '}
-            <span className="quest">
-              <strong>[43] Akiris by the Bundle</strong>
-            </span>{' '}
-            at Privateer Groy.
+            <Quest id="623">[43] Akiris by the Bundle</Quest> at Privateer Groy.
           </p>
           <p>
             Talk to the Gryphon Master. If you have First Aid, you can do the
@@ -60,21 +58,21 @@ function Level43() {
             <strong>Then fly to Gadgetzan</strong>
           </p>
           <p>
-            In Gadgetzan: Turn in <span className="quest">[45] Tran'Rek</span>,
-            don't get the follow up.{' '}
+            In Gadgetzan: Turn in <Quest id="2864">[45] Tran'Rek</Quest>, don't
+            get the follow up.{' '}
           </p>
           <p>
             Get quests:
             <ul>
               <li>
-                <span className="quest">[47] Handle with Care</span> from Curgle
+                <Quest id="3022">[47] Handle with Care</Quest> from Curgle
                 Cranklehop
               </li>
               <li>
-                <span className="quest">[44] Water Pouch Bounty</span>
+                <Quest id="1707">[44] Water Pouch Bounty</Quest>
               </li>
               <li>
-                <span className="quest">[43] Wastewander Justice</span>
+                <Quest id="1690">[43] Wastewander Justice</Quest>
               </li>
             </ul>
           </p>
@@ -85,19 +83,18 @@ function Level43() {
             <br />
             <em>
               While killing stuff in Tanaris if you find an item named{' '}
-              <TtLink id="8623">OOX-17/TN Distress Beacon</TtLink>. Right click
-              it and keep the quest. You'll find beacons in Feralas and
-              Hinterlands as well, proceed equally with those. Each of those
-              beacons start a quest where you will have to find a Homing Robot
-              and escort it. The beacons won't always drop for you, they are
-              kinda rare. The escort quests are hard to do solo especially for
-              certain classes. But if you are lucky to find all 3 beacons you
-              should really put the effort and finish all 3 rescue quests, it
-              will be described when to do them in the guide later on. Anyway,
-              if you don't get a distress beacon, or if you don't manage to
-              complete the rescue quests, it's not a big deal, this is{' '}
-              <strong>optional</strong>, it's a nifty exp bonus but it's not
-              that important
+              <Item id="8623">OOX-17/TN Distress Beacon</Item>. Right click it
+              and keep the quest. You'll find beacons in Feralas and Hinterlands
+              as well, proceed equally with those. Each of those beacons start a
+              quest where you will have to find a Homing Robot and escort it.
+              The beacons won't always drop for you, they are kinda rare. The
+              escort quests are hard to do solo especially for certain classes.
+              But if you are lucky to find all 3 beacons you should really put
+              the effort and finish all 3 rescue quests, it will be described
+              when to do them in the guide later on. Anyway, if you don't get a
+              distress beacon, or if you don't manage to complete the rescue
+              quests, it's not a big deal, this is <strong>optional</strong>,
+              it's a nifty exp bonus but it's not that important
             </em>
           </p>
           <p>Sell, Repair, re-supply food/drink (3 stacks).</p>
@@ -113,32 +110,25 @@ function Level43() {
             <br />
             <ul>
               <li>
-                <span className="quest">[45] Pirate Hats Ahoy!</span>
+                <Quest id="8365">[45] Pirate Hats Ahoy!</Quest>
               </li>
               <li>
-                <span className="quest">[45] WANTED: Andre Firebeard</span> and{' '}
-                <span className="quest">[46] WANTED: Caliph Scorpidsting</span>{' '}
-                from the wanted poster.
+                <Quest id="2875">[45] WANTED: Andre Firebeard</Quest> and{' '}
+                <Quest id="2781">[46] WANTED: Caliph Scorpidsting</Quest> from
+                the wanted poster.
               </li>
               <li>
-                <span className="quest">[44] Screecher Spirits</span>
+                <Quest id="3520">[44] Screecher Spirits</Quest>
               </li>
               <li>
-                <span className="quest">[45] Southsea Shakedown</span>
+                <Quest id="8366">[45] Southsea Shakedown</Quest>
               </li>
             </ul>
           </p>
         </li>
         <p>
-          Turn in{' '}
-          <span className="quest">
-            <strong>[45] Stoley's Debt</strong>
-          </span>{' '}
-          and get the follow up{' '}
-          <span className="quest">
-            <strong>[46] Stoley's Shipment</strong>
-          </span>
-          .
+          Turn in <Quest id="2872">[45] Stoley's Debt</Quest> and get the follow
+          up <Quest id="2873">[46] Stoley's Shipment</Quest>.
         </p>
         <li>
           <p>
@@ -151,10 +141,9 @@ function Level43() {
           </p>
           <p>
             Go back to Gadgetzan and turn in{' '}
-            <span className="quest">[44] Water Pouch Bounty</span> and{' '}
-            <span className="quest">[43] Wastewander Justice</span>, get the
-            follow up{' '}
-            <span className="quest">[44] More Wastewander Justice</span>.
+            <Quest id="1707">[44] Water Pouch Bounty</Quest> and{' '}
+            <Quest id="1690">[43] Wastewander Justice</Quest>, get the follow up{' '}
+            <Quest id="1691">[44] More Wastewander Justice</Quest>.
           </p>
         </li>
         <li>
@@ -163,21 +152,21 @@ function Level43() {
             Shimmering Flats at the Mirage Raceway <em>(80,75)</em>.
           </p>{' '}
           <p>
-            Turn in <span className="quest">[38] News for Fizzle</span> at
-            Fizzle Brassbolts.
+            Turn in <Quest id="1137">[38] News for Fizzle</Quest> at Fizzle
+            Brassbolts.
           </p>
           <p>
-            Get quest <span className="quest">[50] Gahz'Rilla (Dungeon)</span>{' '}
-            from Wizzle Brassbolts.
+            Get quest <Quest id="2770">[50] Gahz'Rilla (Dungeon)</Quest> from
+            Wizzle Brassbolts.
           </p>
           <p>
-            Turn in <span className="quest">[36] Parts for Kravel</span> at
-            Kravel Koalbeard, don't get the follow up.
+            Turn in <Quest id="1112">[36] Parts for Kravel</Quest> at Kravel
+            Koalbeard, don't get the follow up.
           </p>
           <p>
-            Turn in <span className="quest">[37] Goblin Sponsorship</span> at
-            Pozzik don't get the follow up but on the other hand get the quest{' '}
-            <span className="quest">[41] Keeping Pace from Pozzik</span>.
+            Turn in <Quest id="1183">[37] Goblin Sponsorship</Quest> at Pozzik
+            don't get the follow up but on the other hand get the quest{' '}
+            <Quest id="1190">[41] Keeping Pace</Quest> from Pozzik.
           </p>
           <p>
             Then go talk to Zamek who is just south of Pozzik, he should have a
@@ -187,14 +176,10 @@ function Level43() {
           </p>
           <p>
             While Rizzle is away go quickly loot{' '}
-            <TtLink type="object" id="20805">
-              Rizzle's Unguarded Plans
-            </TtLink>
-            . Complete the quest, get the follow up{' '}
-            <span className="quest">
-              <strong>[41] Rizzle's Schematics</strong>
-            </span>{' '}
-            and turn it in at Pozzik.
+            <Object id="20805">Rizzle's Unguarded Plans</Object>. Complete the
+            quest, get the follow up{' '}
+            <Quest id="1194">[41] Rizzle's Schematics</Quest> and turn it in at
+            Pozzik.
           </p>
         </li>
         <li>
@@ -208,7 +193,7 @@ function Level43() {
           </p>
           <p>
             Find the Grimtotem Camp at <em>(65,47)</em>, then locate{' '}
-            <strong>Kindal Moonweaver</strong> at <em>(65,45)</em>, she is on
+            <Npc id="">Kindal Moonweaver</Npc> at <em>(65,45)</em>, she is on
             the mountain overlooking the Grimtotem camp. There is a path going
             to her just a little west of the grimtotem camp.
           </p>
@@ -220,42 +205,34 @@ function Level43() {
           </p>
           <p>
             When you feel that you've cleared enough, go quickly to Kindal and
-            start the quest, jump down and run straight to the bamboo cage, open
-            the cage and escort the sprites out,{' '}
+            start the quest <Quest id="2969">Freedom for All Creatures</Quest>,
+            jump down and run straight to the bamboo cage, open the cage and
+            escort the sprites out,{' '}
             <strong>at least 6 of them must survive</strong>.
           </p>
           <p>
-            Once you get the{' '}
-            <span className="quest">
-              &quot;6 Sprites escaped (Complete)&quot;
-            </span>{' '}
-            message, help Kindal finish off whatever she is attacking. When
-            Kindal is not being attacked by anything, she will vanish, go find
-            her at her initial spot, turn in the quest.
+            Once you get the <strong>"6 Sprites escaped (Complete)"</strong>{' '}
+            message, help <strong>Kindal</strong> finish off whatever she is
+            attacking. When Kindal is not being attacked by anything, she will
+            vanish, go find her at her initial spot, turn in the quest.
           </p>
           <p>
-            If you and/or Kindal die after getting the &quot;quest
-            complete&quot; message, just run back fast to where you initially
-            found Kindal and turn in the quest before the end of the 5 min
-            countdown.
+            If you and/or Kindal die after getting the "quest complete" message,
+            just run back fast to where you initially found Kindal and turn in
+            the quest before the end of the 5 min countdown.
           </p>
         </li>
         <li>
           <p>
-            Now Jer'Kai Moonweaver (that elf right next to Kindal) will have a
-            quest for you,
-            <span className="quest">
-              <strong>[47] Doling Justice</strong>
-            </span>
-            . Take the quest, go back down to the Grimtotem Camp and kill as
-            much as the quest requires you to.
+            Now <Npc id="">Jer'Kai Moonweaver</Npc> (that elf right next to
+            Kindal) will have a quest for you,
+            <Quest id="2970">[47] Doling Justice</Quest>. Take the quest, go
+            back down to the Grimtotem Camp and kill as much as the quest
+            requires you to.
           </p>{' '}
           <p>
             When done, go back to her and get the follow up{' '}
-            <span className="quest">
-              <strong>[47] Doling Justice</strong>
-            </span>
-            .
+            <Quest id="2972">[47] Doling Justice</Quest>.
           </p>
         </li>
         <li>
@@ -269,19 +246,19 @@ function Level43() {
             In Feathermoon Stronghold get:
             <ul>
               <li>
-                <span className="quest">[46] The Mark of Quality</span>
+                <Quest id="2821">[46] The Mark of Quality</Quest>
               </li>
               <li>
-                <span className="quest">[43] The Ruins of Solarsal</span>
+                <Quest id="2866">[43] The Ruins of Solarsal</Quest>
               </li>
               <li>
-                <span className="quest">[43] The Missing Courier</span>
+                <Quest id="4124">[43] The Missing Courier</Quest>
               </li>
               <li>
-                <span className="quest">[44] The High Wilderness</span>
+                <Quest id="2982">[44] The High Wilderness</Quest>
               </li>
               <li>
-                <span className="quest">[47] In Search of Knowledge</span>
+                <Quest id="2939">[47] In Search of Knowledge</Quest>
               </li>
             </ul>
           </p>
@@ -290,10 +267,7 @@ function Level43() {
           <p>
             Then go talk to Ginro Hearthkindle, he is on the 2nd floor of a
             house at <em>(31,45)</em> get the follow up{' '}
-            <span className="quest">
-              <strong>[43] The Missing Courier</strong>
-            </span>{' '}
-            from him.
+            <Quest id="4125">[43] The Missing Courier</Quest> from him.
           </p>
           <p>
             Talk to the Hippogryph master, make Feathermoon Stronghold your home
@@ -304,33 +278,23 @@ function Level43() {
           <p>
             Go southwest to the <strong>Ruins of Solarsal</strong>, at{' '}
             <em>(26,52)</em> you'll find a Gazebo (a pavilion structure opened
-            on all sides) named &quot;Solar Gazebo&quot; , it's easy to discern
-            it as it is the only &quot;dark&quot; building. Click it and get the
-            follow up quest{' '}
-            <span className="quest">
-              <strong>[43] Return to Feathermoon Stronghold</strong>
-            </span>
-            .
+            on all sides) named "Solar Gazebo" , it's easy to discern it as it
+            is the only "dark" building. Click it and get the follow up quest{' '}
+            <Quest id="2867">[43] Return to Feathermoon Stronghold</Quest>.
           </p>
           <p>
             Go back to Feathermoon Stronghold and get the follow up from
             Shandris Feathermoon{' '}
-            <span className="quest">
-              <strong>[43] Against the Hatecrest</strong>
-            </span>
-            .
+            <Quest id="3130">[43] Against the Hatecrest</Quest>.
           </p>
           <p>
             Talk to Latronicus right next to her, get the follow up and go back
             to the Solarsal ruins, kill <strong>Nagas</strong> until you have 10{' '}
-            <TtLink id="9247">Hatecrest Naga Scales</TtLink>.
+            <Item id="9247">Hatecrest Naga Scales</Item>.
           </p>
           <p>
             Go back to Latronicus, turn in the quest and get the follow up{' '}
-            <span className="quest">
-              <strong>[45] Against Lord Shalzaru</strong>
-            </span>
-            .
+            <Quest id="2870">[45] Against Lord Shalzaru</Quest>.
           </p>
           <p>Sell, repair and re-supply food/drink (3stacks).</p>
           <p>
@@ -346,9 +310,9 @@ function Level43() {
             probably be the case for those who skipped Uldaman. Luckily, this
             cavern is a very nice grind spot, kill <strong>Nagas</strong> there
             until you reach{' '}
-            <em>
-              <strong>level 44</strong>
-            </em>
+            <strong>
+              <em>level 44</em>
+            </strong>
             .
           </p>
         </li>
