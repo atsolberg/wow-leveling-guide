@@ -1,5 +1,7 @@
 import React from 'react';
-import TtLink from '../tt-link/TtLink';
+import Item from '../item/Item';
+import Quest from '../quest/Quest';
+import Npc from '../npc/Npc';
 
 function Level49() {
   return (
@@ -24,34 +26,32 @@ function Level49() {
           <p>
             Fly to Stormwind, go to the Mage District, then go on top of the
             Wizard's Tower <em>(37,81)</em>. Get the quest{' '}
-            <span className="quest">[45] Vital Supplies</span> from High
-            Sorcerer Andromath .
+            <Quest id="1477">[45] Vital Supplies</Quest> from{' '}
+            <Npc id="">High Sorcerer Andromath</Npc>.
           </p>
         </li>
         <li>
           <p>Fly to Darkshire (Duskwood).</p>
           <p>
-            In Darkshire go talk to Watchmaster Sorigal (he's just down the path
-            from the gryphon master), get the follow up{' '}
-            <span className="quest">[45] Supplies for Nethergarde</span>.
+            In Darkshire go talk to <Npc id="">Watchmaster Sorigal</Npc> (he's
+            just down the path from the gryphon master), get the follow up{' '}
+            <Quest id="1395">[45] Supplies for Nethergarde</Quest>.
           </p>
           <p>Fly to Nethergarde Keep (Blasted Lands).</p>
           <p>
             In Nethergarde: Turn in{' '}
-            <span className="quest">
+            <Quest id="1395">
               <strong>[45] Supplies for Nethergarde</strong>
-            </span>{' '}
-            at Quartermaster Lungertz.
+            </Quest>{' '}
+            at <Npc id="">Quartermaster Lungertz</Npc>.
           </p>
           <p>
-            Turn in <span className="quest">[47] Nekrum's Medaillon</span> at
-            Thadius Grimshade, he's inside the big tower, on the highest floor.
-            Get the follow up <span className="quest">[47] The Divination</span>
-            . Turn it in, get the follow up{' '}
-            <span className="quest">
-              [47] Return to the Hinterlands (Elite)
-            </span>
-            .
+            Turn in <Quest id="2991">[47] Nekrum's Medaillon</Quest> at{' '}
+            <Npc id="">Thadius Grimshade</Npc>, he's inside the big tower, on
+            the highest floor. Get the follow up{' '}
+            <Quest id="2992">[47] The Divination</Quest>. Turn it in, get the
+            follow up{' '}
+            <Quest id="2993">[47] Return to the Hinterlands (Elite)</Quest>.
           </p>
         </li>
         <li>
@@ -61,19 +61,19 @@ function Level49() {
             their quests:
             <ul>
               <li>
-                <span className="quest">[50] A Boar's Vitality</span>
+                <Quest id="2583">[50] A Boar's Vitality</Quest>
               </li>
               <li>
-                <span className="quest">[50] Snickefang Jowls</span>
+                <Quest id="2581">[50] Snickefang Jowls</Quest>
               </li>
               <li>
-                <span className="quest">[50] The Basilisk's Bite</span>
+                <Quest id="2601">[50] The Basilisk's Bite</Quest>
               </li>
               <li>
-                <span className="quest">[50] The Decisive Striker</span>
+                <Quest id="2585">[50] The Decisive Striker</Quest>
               </li>
               <li>
-                <span className="quest">[50] Vulture's Vigor</span>
+                <Quest id="2603">[50] Vulture's Vigor</Quest>
               </li>
             </ul>
           </p>
@@ -88,7 +88,7 @@ function Level49() {
           </p>
           <p>
             <strong>Beware</strong> of the big drake flying around named{' '}
-            <strong>Teremus the Devourer</strong>. Besides this, just kill
+            <Npc id="">Teremus the Devourer</Npc>. Besides this, just kill
             everything{' '}
             <span role="img" aria-label="smile">
               🙂
@@ -110,36 +110,23 @@ function Level49() {
             <ul>
               <li>
                 <strong>Melees:</strong> As soon as possible try to finish the
-                quest{' '}
-                <span className="quest">
-                  <strong>[50] The Decisive Striker</strong>
-                </span>{' '}
-                and go turn it in, you'll get a +25 AGI buff for 1 Hour from{' '}
-                <TtLink id="8412">Ground Scorpok Assay</TtLink>. When that buff
+                quest <Quest id="2585">[50] The Decisive Striker</Quest> and go
+                turn it in, you'll get a +25 AGI buff for 1 Hour from{' '}
+                <Item id="8412">Ground Scorpok Assay</Item>. When that buff
                 wears out, go turn in either{' '}
-                <TtLink type="quest" id="2581">
-                  Snickerfang Jowls
-                </TtLink>{' '}
-                for <TtLink id="8410">R.O.I.D.S.</TtLink> or{' '}
-                <TtLink type="quest" id="2583">
-                  A Boar's Vitality
-                </TtLink>{' '}
-                for <TtLink id="8411">Lung Juice Cocktail</TtLink> depending on
-                your preferences.
+                <Quest id="2581">Snickerfang Jowls</Quest> for{' '}
+                <Item id="8410">R.O.I.D.S.</Item> or{' '}
+                <Quest id="2583">A Boar's Vitality</Quest> for{' '}
+                <Item id="8411">Lung Juice Cocktail</Item> depending on your
+                preferences.
               </li>
               <li>
                 <strong>Casters:</strong> As soon as possible try to finish the
-                quest{' '}
-                <TtLink type="quest" id="2583">
-                  A Boar's Vitality
-                </TtLink>{' '}
-                and turn it in for{' '}
-                <TtLink id="8411">Lung Juice Cocktail</TtLink>. Later on after
+                quest <Quest id="2583">A Boar's Vitality</Quest> and turn it in
+                for <Item id="8411">Lung Juice Cocktail</Item>. Later on after
                 your sta buff wears off, try to finish{' '}
-                <TtLink type="quest" id="2601">
-                  [50] The Basilisk's Bite
-                </TtLink>
-                for a <TtLink id="8423">Cerebral Cortex Compound</TtLink>.
+                <Quest id="2601">[50] The Basilisk's Bite</Quest> for a{' '}
+                <Item id="8423">Cerebral Cortex Compound</Item>.
               </li>
             </ul>
           </p>
@@ -155,15 +142,14 @@ function Level49() {
         <li>
           <p>
             While killing mobs in Blasted Lands you might loot an{' '}
-            <TtLink id="10593">Imperfect Draenethyst Fragment</TtLink> on one of
-            them. Go to Kum'Isha the Collector <em>(51,35)</em>. Get the quest{' '}
-            <span className="quest">
-              [55] Everything Counts in Large Amounts
-            </span>{' '}
-            and turn it in. No need to get the follow up quest unless you get
+            <Item id="10593">Imperfect Draenethyst Fragment</Item> on one of
+            them. Go to <Npc id="">Kum'Isha the Collector</Npc> <em>(51,35)</em>
+            . Get the quest{' '}
+            <Quest id="3501">[55] Everything Counts in Large Amounts</Quest> and
+            turn it in. No need to get the follow up quest unless you get
             another Imperfect Draenethyst Fragment. If you are extremely lucky
-            you'll find a <TtLink id="8244">Flawless Draenetyst Sphere</TtLink>{' '}
-            In that case get the other quest from Kum'Isha and turn it in.
+            you'll find a <Item id="8244">Flawless Draenetyst Sphere</Item> In
+            that case get the other quest from Kum'Isha and turn it in.
           </p>
         </li>
         <li>
@@ -180,12 +166,10 @@ function Level49() {
             are still bound there).
           </p>
           <p>
-            Go to Aerie Peak in Hinterlands, talk to Gryphon Master Talonaxe.
-            (he's at the very top of Aerie Peak) Get the follow up{' '}
-            <TtLink type="quest" id="2994">
-              [53] Saving Sharpbeak (Elite)
-            </TtLink>
-            .
+            Go to Aerie Peak in Hinterlands, talk to{' '}
+            <Npc id="">Gryphon Master Talonaxe</Npc>. (he's at the very top of
+            Aerie Peak) Get the follow up{' '}
+            <Quest id="2994">[53] Saving Sharpbeak (Elite)</Quest>.
           </p>
           <p>
             Now you got <strong>3 reasons</strong> to go to the top of{' '}
@@ -193,15 +177,10 @@ function Level49() {
             them, but most importantly:
             <ul>
               <li>
-                <TtLink type="quest" id="4787">
-                  [50] The Ancient Egg (Elite)
-                </TtLink>{' '}
-                and
+                <Quest id="4787">[50] The Ancient Egg (Elite)</Quest> and
               </li>
               <li>
-                <TtLink type="quest" id="2994">
-                  [53] Saving Sharpbeak (Elite)
-                </TtLink>
+                <Quest id="2994">[53] Saving Sharpbeak (Elite)</Quest>
               </li>
             </ul>
           </p>
@@ -215,17 +194,18 @@ function Level49() {
           </p>
           <p>
             Fight your way to the top of Jintha'Alor, then go to{' '}
-            <strong>Vile Priestess Hexx</strong> <em>(59,78)</em>. She has one
+            <Npc id="">Vile Priestess Hexx</Npc> <em>(59,78)</em>. She has one
             guard, you can wait till the Priestess wanders in the cave and get
             her guard solo.
           </p>
           <p>
             Then get the Priestess solo, kill her and loot the{' '}
-            <TtLink id="9472">Hexx's key</TtLink> from her.
+            <Item id="9472">Hexx's key</Item> from her.
           </p>
           <p>
-            Also don't forget to forge the <strong>Mallet of Zul'Farrak</strong>
-            , just click your Sacred Mallet while being next to the Altar.
+            Also don't forget to forge the{' '}
+            <Item id="9240">Mallet of Zul'Farrak</Item>, just click your Sacred
+            Mallet while being next to the Altar.
           </p>
           <p>
             Go inside the cave behind where you fought the Vile Priestess.
@@ -235,9 +215,10 @@ function Level49() {
             <img src="/assets/wp/jintha1.jpg" alt="" />
           </p>
           <p>
-            You'll find Hitah'ya the Keeper and 2 guards patrolling around the{' '}
-            <TtLink id="12402">Ancient Egg</TtLink>. Kill Hitah'ya the Keeper
-            first, should be a pushover for a group of 4 or 5.
+            You'll find <Npc id="">Hitah'ya the Keeper</Npc> and 2 guards
+            patrolling around the <Item id="12402">Ancient Egg</Item>. Kill
+            Hitah'ya the Keeper first, should be a pushover for a group of 4 or
+            5.
           </p>
           <p>
             Get the Ancient Egg. Once you have the Ancient Egg, clear the way
@@ -246,30 +227,22 @@ function Level49() {
           </p>
           <p>
             Kill the two trolls guarding it's entrance. Then go through the cave
-            and on the other side of it you'll find <strong>Sharpbeak</strong>{' '}
+            and on the other side of it you'll find <Npc id="">Sharpbeak</Npc>{' '}
             in it's cage. Free Sharpbeak and watch him fly away with his
             parents.
           </p>{' '}
           <p>
             You are done, hearthstone back to Aerie Peak and turn in the quest{' '}
-            <TtLink type="quest" id="2994">
-              [53] Saving Sharpbeak (Elite)
-            </TtLink>
-            .
+            <Quest id="2994">[53] Saving Sharpbeak (Elite)</Quest>.
           </p>
           <p>
             Also turn in any stacks of 5 Troll Tribal Necklaces you might have
             gotten during your Jintha' Alor trip.
           </p>
           <p>
-            Go turn{' '}
-            <TtLink type="quest" id="4787">
-              [50] The Ancient Egg (Elite)
-            </TtLink>{' '}
-            in Tanaris at Steamwheedle port, and get the follow up quest{' '}
-            <TtLink type="quest" id="3528">
-              [53] The God Hakkar (Dungeon)
-            </TtLink>
+            Go turn <Quest id="4787">[50] The Ancient Egg (Elite)</Quest> in
+            Tanaris at Steamwheedle port, and get the follow up quest{' '}
+            <Quest id="3528">[53] The God Hakkar (Dungeon)</Quest>
           </p>
         </li>
         <li>
