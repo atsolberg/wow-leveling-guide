@@ -10,9 +10,9 @@ grouping for dungeons after gather quests.
 ## TODO
 - [x] cleanup lvl 50
 - [x] cleanup lvl 51
-- [] cleanup lvl 52
-- [] cleanup lvl 53
-- [] cleanup lvl 54
+- [x] cleanup lvl 52
+- [x] cleanup lvl 53
+- [x] cleanup lvl 54
 - [] cleanup lvl 55
 - [] cleanup lvl 56
 - [] cleanup lvl 57
@@ -21,16 +21,12 @@ grouping for dungeons after gather quests.
 - [x] move tooltip position to mouse
 - [x] add border to tooltip icon
 - [] scrape object? list/tooltips
-- [] scrape quest list/tooltips
 - [] scrape npc list/tooltips/screenshots
-- [] add quest tt link behavior
-- [] add npc tt link behavior
-- [] add tt links to ch 2
-- [] add tt links to ch 3
-- [] get wp images from ch 2
-- [] get wp images from ch 3
+- [x] scrape quest list/tooltips
+- [x] add quest tt link behavior
+- [x] add npc tt link behavior
 - [x] move ch 2 and 3 lvls to files
 - [] add favicon
 
 ## Dev notes:
-Emmet surround with ttlink quest: `TtLink[type="quest"][id=""]`
+Emmet surround with ttlink quest: `Quest[id=""]`
