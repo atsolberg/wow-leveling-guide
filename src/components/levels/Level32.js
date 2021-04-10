@@ -5,7 +5,7 @@ import WowIcon from '../icons/wow-icon/WowIcon';
 
 function Level32() {
   return (
-    <div>
+    <div id="l32">
       <h6>Level 32</h6>
       <p>At level 32 the zone we will be aiming for is Stranglethorn Vale. </p>
       Quest Gathering:

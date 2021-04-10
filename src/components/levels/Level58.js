@@ -3,7 +3,7 @@ import React from 'react';
 function Level58() {
   return (
     <div>
-      <h6>Level 58</h6>
+      <h6 id="l58">Level 58</h6>
       <ol>
         <li>
           Go visit your class trainer, sell/repair, visit the AH, resupply up to

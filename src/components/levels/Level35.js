@@ -4,7 +4,7 @@ import TtLink from '../tt-link/TtLink';
 function Level35() {
   return (
     <div>
-      <h6>Level 35</h6>
+      <h6 id="l35">Level 35</h6>
       <p>Let's start with some Murloc slaughtering!</p>
       <p>
         Step 1: The murlocs are right next to the town on the western shore.

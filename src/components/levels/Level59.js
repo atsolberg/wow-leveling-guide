@@ -3,7 +3,7 @@ import React from 'react';
 function Level59() {
   return (
     <div>
-      <h6>Level 59</h6>
+      <h6 id="l59">Level 59</h6>
       <ol>
         <li>
           Go west to the Plaguewoods. In the plaguewoods look around for{' '}

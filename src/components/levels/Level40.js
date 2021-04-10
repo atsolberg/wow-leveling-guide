@@ -4,7 +4,7 @@ import TtLink from '../tt-link/TtLink';
 function Level40() {
   return (
     <div>
-      <h6>Level 40</h6>
+      <h6 id="l40">Level 40</h6>
       <ol>
         <li>
           At level 40 warp to <strong>Ironforge</strong>, train skills, repair,

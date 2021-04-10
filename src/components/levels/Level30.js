@@ -4,7 +4,7 @@ import TtLink from '../tt-link/TtLink';
 function Level30() {
   return (
     <div>
-      <h6>Level 30</h6>
+      <h6 id="l30">Level 30</h6>
       <ul>
         <li>
           {' '}

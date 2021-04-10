@@ -4,7 +4,7 @@ import TtLink from '../tt-link/TtLink';
 function Level36() {
   return (
     <div>
-      <h6>Level 36</h6>
+      <h6 id="l36">Level 36</h6>
       <p>
         Step 1: Take a gryphon ride to <strong>Ironforge</strong>, go to the
         hall of explorers northeast of the Gryphon master and get the quest from

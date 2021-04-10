@@ -4,7 +4,7 @@ import TtLink from '../tt-link/TtLink';
 function Level39() {
   return (
     <div>
-      <h6>Level 39</h6>
+      <h6 id="l39">Level 39</h6>
       <ol>
         <li>
           Go east and a bit to the north to Hammertoe's Digsite.

@@ -4,7 +4,7 @@ import TtLink from '../tt-link/TtLink';
 function Level34() {
   return (
     <div>
-      <h6>Level 34:</h6>
+      <h6 id="l34">Level 34:</h6>
       <p>
         Since you are lvl 34 now, go train if you wish to do so. Closest place
         to train is Stormwind by gryffon. (Unless you are a rogue, there's a

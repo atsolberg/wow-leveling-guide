@@ -3,7 +3,7 @@ import TtLink from '../tt-link/TtLink';
 
 function Level38() {
   return (
-    <div>
+    <div id="l38">
       <h6>Level 38:</h6>
       <p>Badlands:</p>
       <ol>

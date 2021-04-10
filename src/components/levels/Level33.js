@@ -4,7 +4,7 @@ import TtLink from '../tt-link/TtLink';
 function Level33() {
   return (
     <div>
-      <h6>Level 33:</h6>
+      <h6 id="l33">Level 33:</h6>
       <p>
         Step 10: From the troll camps, go west until you hit the shore, and move
         along the shore towards the north until you find Crystal Spine

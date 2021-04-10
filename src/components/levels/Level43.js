@@ -6,7 +6,7 @@ import Object from '../object/Object';
 
 function Level43() {
   return (
-    <div>
+    <div id="l43">
       <h6>Level 43</h6>
       <p>
         <em>Now you have two options:</em>

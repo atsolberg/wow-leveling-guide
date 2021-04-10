@@ -3,7 +3,7 @@ import React from 'react';
 function Level57() {
   return (
     <div>
-      <h6>Level 57</h6>
+      <h6 id="l57">Level 57</h6>
       <ol>
         <li>
           Fly to Tanaris. in Gadgetzan, find a goblin named Sprinkle (she's

@@ -5,7 +5,7 @@ import Npc from '../npc/Npc';
 
 function Level50() {
   return (
-    <div>
+    <div id="l50">
       <h6>Level 50</h6>
       <ol>
         <li>

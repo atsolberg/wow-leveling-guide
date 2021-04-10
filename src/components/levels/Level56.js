@@ -3,7 +3,7 @@ import React from 'react';
 function Level56() {
   return (
     <div>
-      <h6>Level 56</h6>
+      <h6 id="l56">Level 56</h6>
       <ol>
         <li>
           Fly to Auberdine and then to Astranaar. Ride to Felwood.

@@ -4,7 +4,7 @@ import TtLink from '../tt-link/TtLink';
 function Level37() {
   return (
     <div>
-      <h6>Level 37</h6>
+      <h6 id="l37">Level 37</h6>
       <ol>
         <li>
           Go southwest toward the big arch (63,79). Kill 30 Undead Ravagers

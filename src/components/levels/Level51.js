@@ -7,7 +7,7 @@ import Object from '../object/Object';
 function Level51() {
   return (
     <div>
-      <h6>Level 51</h6>
+      <h6 id="l51">Level 51</h6>
       <ol>
         <li>
           Sell and repair, then go south to the big dwarven forge/wheel{' '}

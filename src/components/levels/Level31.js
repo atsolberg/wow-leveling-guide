@@ -4,7 +4,7 @@ import TtLink from '../tt-link/TtLink';
 function Level31() {
   return (
     <div>
-      <h6>Level 31</h6>
+      <h6 id="l31">Level 31</h6>
       <p>
         Go east until you reach the Mirage Raceway in the Shimmering
         Flats(80,77). Get the following quests there:

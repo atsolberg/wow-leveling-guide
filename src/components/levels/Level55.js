@@ -3,7 +3,7 @@ import React from 'react';
 function Level55() {
   return (
     <div>
-      <h6>Level 55</h6>
+      <h6 id="l55">Level 55</h6>
       <ol>
         <li>
           Sell and repair, resupply food/drink up to 4 stacks.

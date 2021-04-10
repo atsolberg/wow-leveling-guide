@@ -6,7 +6,7 @@ import Quest from '../quest/Quest';
 function Level47() {
   return (
     <div>
-      <h6>Level 47</h6>
+      <h6 id="l47">Level 47</h6>
       <ol>
         <li>
           <p>
