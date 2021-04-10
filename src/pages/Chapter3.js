@@ -10,7 +10,8 @@ import Level55 from '../components/levels/Level55';
 import Level56 from '../components/levels/Level56';
 import Level57 from '../components/levels/Level57';
 import Level58 from '../components/levels/Level58';
-import TtLink from '../components/tt-link/TtLink';
+import Quest from '../components/quest/Quest';
+import Item from '../components/item/Item';
 
 function Chapter3() {
   return (
@@ -27,33 +28,23 @@ function Chapter3() {
       </p>
       <ul>
         <li>
-          <TtLink type="quest" id="">
-            [49] Rise of the Silithid
-          </TtLink>
+          <Quest id="162">[49] Rise of the Silithid</Quest>
         </li>
         <li>
-          <TtLink type="quest" id="">
-            [50] Into the Temple of Atal'Hakkar (Dungeon)
-          </TtLink>
+          <Quest id="1475">[50] Into the Temple of Atal'Hakkar (Dungeon)</Quest>
         </li>
         <li>
-          <TtLink type="quest" id="">
-            [51] The Stone Circle
-          </TtLink>
+          <Quest id="3444">[51] The Stone Circle</Quest>
         </li>
         <li>
-          <TtLink type="quest" id="">
-            [53] The God Hakkar (Dungeon)
-          </TtLink>
+          <Quest id="3528">[53] The God Hakkar (Dungeon)</Quest>
         </li>
       </ul>
       However, if at any moment in the guide you lack quest log space (because
       of a class quest you don't want to abandon for exemple), then abandon{' '}
-      <TtLink type="quest" id="">
-        [50] Into the Temple of Atal'Hakkar
-      </TtLink>
-      , you can easily get it back later on in Stormwind right before you go to
-      the <strong>Sunken Temple</strong>.
+      <Quest id="1475">[50] Into the Temple of Atal'Hakkar</Quest>, you can
+      easily get it back later on in Stormwind right before you go to the{' '}
+      <strong>Sunken Temple</strong>.
       <p>
         Also, this guide doesn't take into account tradeskills, class specific
         quests or PvP.{' '}
@@ -72,8 +63,7 @@ function Chapter3() {
       <ul>
         <li>
           <strong>Before level 54</strong> 1 x{' '}
-          <TtLink id="10561">Mithril Casing</TtLink> (about 70-90silver at the
-          AH)
+          <Item id="10561">Mithril Casing</Item> (about 70-90silver at the AH)
         </li>
         <li>
           <strong>Before level 58</strong> (but can equip it at level 52): 1 x{' '}
@@ -85,22 +75,20 @@ function Chapter3() {
           >
             Dungeon Set 1
           </a>{' '}
-          <TtLink id="16681">bracers</TtLink>.
+          <Item id="16681">bracers</Item>.
         </li>
         <li>
           <strong>The sooner the better</strong> 3 x{' '}
-          <TtLink id="4500">Traveller backpacks</TtLink> (those 16 Slot
-          backpacks). They go for 5g-8g at the auction house. Hunters and
-          warlock should just buy two, since one of their bag slots is reserved
-          for quiver or soul bag. <br />
+          <Item id="4500">Traveller backpacks</Item> (those 16 Slot backpacks).
+          They go for 5g-8g at the auction house. Hunters and warlock should
+          just buy two, since one of their bag slots is reserved for quiver or
+          soul bag. <br />
           Having a lot of bag space is really important. The higher you get in
           levels, the more we will go for long xp circuits far from any vendor.
           At level 60 when you will go farm money or anything, it will also be
           very handy to have a lot of bag space. Why only 3 traveller backpacks
           and not 4? Because at level 60 you will do a long quest line named{' '}
-          <TtLink type="quest" id="">
-            [60] You Are Rakh'likh, Demon (Elite)
-          </TtLink>
+          <Quest id="3628">[60] You Are Rakh'likh, Demon (Elite)</Quest>
           , and one of the rewards is a 16-slot bag, so no need to waste money
           on a 4th traveller pack.
           <br />
