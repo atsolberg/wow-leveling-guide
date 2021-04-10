@@ -8,25 +8,26 @@ ones because it hits important quests and includes
 grouping for dungeons after gather quests.
 
 ## TODO
+- [] fix tt positioning, just move it above, get rid of x-axis checking
+- [] scrape object? list/tooltips/screenshots
+- [] scrape npc list/tooltips/screenshots
+- [] add favicon
 - [x] cleanup lvl 50
 - [x] cleanup lvl 51
 - [x] cleanup lvl 52
 - [x] cleanup lvl 53
 - [x] cleanup lvl 54
-- [] cleanup lvl 55
-- [] cleanup lvl 56
+- [x] cleanup lvl 55
+- [x] cleanup lvl 56
 - [] cleanup lvl 57
 - [] cleanup lvl 58
 - [] cleanup lvl 59
 - [x] move tooltip position to mouse
 - [x] add border to tooltip icon
-- [] scrape object? list/tooltips
-- [] scrape npc list/tooltips/screenshots
 - [x] scrape quest list/tooltips
 - [x] add quest tt link behavior
 - [x] add npc tt link behavior
 - [x] move ch 2 and 3 lvls to files
-- [] add favicon
 
 ## Dev notes:
 Emmet surround with ttlink quest: `Quest[id=""]`
